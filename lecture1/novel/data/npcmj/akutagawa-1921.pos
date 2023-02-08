@@ -1,0 +1,11158 @@
+(NPR アグニの神)
+
+(ID 1_aozora_Akutagawa-1921;JP)
+
+(NPR 芥川龍之介)
+
+(ID 2_aozora_Akutagawa-1921;JP)
+
+(LS 一)
+
+(ID 3_aozora_Akutagawa-1921;JP)
+
+(NP-SBJ *pro*)
+
+(NPR 支那)
+
+(P-ROLE の)
+
+(NPR 上海)
+
+(P-ROLE の)
+
+(D 或)
+
+(N 町)
+
+(AX です)
+
+(PU 。)
+
+(ID 4_aozora_Akutagawa-1921;JP)
+
+(NP-SBJ *T*)
+
+(N 昼)
+
+(P-ROLE で)
+
+(P-OPTR も)
+
+(ADJI 薄暗い)
+
+(D 或)
+
+(N 家)
+
+(P-ROLE の)
+
+(NUM 二)
+
+(CL 階)
+
+(P-ROLE に)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(N 人相)
+
+(P-ROLE の)
+
+(ADJI 悪い)
+
+(NP-SBJ *T*)
+
+(N 印度人)
+
+(AX の)
+
+(N 婆さん)
+
+(P-ROLE が)
+
+(NUM 一人)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(N 商人)
+
+(AX らしい)
+
+(NP-SBJ *T*)
+
+(NUM 一人)
+
+(AX の)
+
+(N 亜米利加人)
+
+(P-ROLE と)
+
+(WPRO 何)
+
+(P-OPTR か)
+
+(ADV 頻に)
+
+(VB 話し合っ)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 5_aozora_Akutagawa-1921;JP)
+
+(-LRB- 「)
+
+(NP-SBJ *speaker*)
+
+(ADV 実は)
+
+(N 今度)
+
+(P-OPTR も)
+
+(N お婆さん)
+
+(P-ROLE に)
+
+(PU 、)
+
+(N 占い)
+
+(P-ROLE を)
+
+(VB 頼み)
+
+(P-ROLE に)
+
+(VB 来)
+
+(AXD た)
+
+(FN の)
+
+(AX だ)
+
+(P-FINAL が)
+
+(P-FINAL ね)
+
+(PU 、)
+
+(PU ――)
+
+(-RRB- 」)
+
+(ID 6_aozora_Akutagawa-1921;JP)
+
+(N 亜米利加人)
+
+(P-OPTR は)
+
+(ADV そう)
+
+(VB 言い)
+
+(P-CONN ながら)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJI 新しい)
+
+(N 巻煙草)
+
+(P-ROLE へ)
+
+(N 火)
+
+(P-ROLE を)
+
+(VB つけ)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 7_aozora_Akutagawa-1921;JP)
+
+(-LRB- 「)
+
+(N 占い)
+
+(AX です)
+
+(P-FINAL か)
+
+(PU ？)
+
+(ID 8_aozora_Akutagawa-1921;JP)
+
+(NP-SBJ *speaker*)
+
+(N 占い)
+
+(P-OPTR は)
+
+(NP-OB1 *pro*)
+
+(ADV 当分)
+
+(VB 見)
+
+(NEG ない)
+
+(N こと)
+
+(P-ROLE に)
+
+(VB し)
+
+(AX まし)
+
+(AXD た)
+
+(P-FINAL よ)
+
+(-RRB- 」)
+
+(ID 9_aozora_Akutagawa-1921;JP)
+
+(N 婆さん)
+
+(P-OPTR は)
+
+(NP-OB1 *pro*)
+
+(VB 嘲る)
+
+(N よう)
+
+(P-ROLE に)
+
+(PU 、)
+
+(ADV じろり)
+
+(P-ROLE と)
+
+(N 相手)
+
+(P-ROLE の)
+
+(N 顔)
+
+(P-ROLE を)
+
+(VB 見)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 10_aozora_Akutagawa-1921;JP)
+
+(-LRB- 「)
+
+(N この頃)
+
+(P-OPTR は)
+
+(NP-SBJ *T*)
+
+(NP-SBJ *speaker*)
+
+(NP-OB1 *pro*)
+
+(ADV 折角)
+
+(VB 見)
+
+(P-CONN て)
+
+(VB2 上げ)
+
+(P-CONN て)
+
+(P-OPTR も)
+
+(PU 、)
+
+(VB 御礼)
+
+(P-OPTR さえ)
+
+(ADJN 碌)
+
+(AX に)
+
+(VB0 し)
+
+(NEG ない)
+
+(N 人)
+
+(P-ROLE が)
+
+(PU 、)
+
+(ADJI 多く)
+
+(VB なっ)
+
+(P-CONN て)
+
+(VB2 来)
+
+(AX まし)
+
+(AXD た)
+
+(P-FINAL から)
+
+(P-FINAL ね)
+
+(-RRB- 」)
+
+(ID 11_aozora_Akutagawa-1921;JP)
+
+(-LRB- 「)
+
+(NP-SBJ *speaker*)
+
+(INTJ そりゃ)
+
+(ADV 勿論)
+
+(N 御礼)
+
+(P-ROLE を)
+
+(VB する)
+
+(P-FINAL よ)
+
+(-RRB- 」)
+
+(ID 12_aozora_Akutagawa-1921;JP)
+
+(N 亜米利加人)
+
+(P-OPTR は)
+
+(N 惜しげ)
+
+(P-OPTR も)
+
+(ADJI なく)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(NUM 三百)
+
+(CL 弗)
+
+(AX の)
+
+(N 小切手)
+
+(P-ROLE を)
+
+(NUM 一)
+
+(CL 枚)
+
+(PU 、)
+
+(N 婆さん)
+
+(P-ROLE の)
+
+(N 前)
+
+(P-ROLE へ)
+
+(VB 投げ)
+
+(P-CONN て)
+
+(VB2 やり)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 13_aozora_Akutagawa-1921;JP)
+
+(-LRB- 「)
+
+(NP-SBJ *speaker*)
+
+(ADV 差当り)
+
+(PRO これ)
+
+(P-OPTR だけ)
+
+(VB 取っ)
+
+(P-CONN て)
+
+(VB2 置く)
+
+(P-FINAL さ)
+
+(PU 。)
+
+(ID 14_aozora_Akutagawa-1921;JP)
+
+(NP-SBJ *speaker*)
+
+(ADV もし)
+
+(N お婆さん)
+
+(P-ROLE の)
+
+(N 占い)
+
+(P-ROLE が)
+
+(VB 当れ)
+
+(P-CONN ば)
+
+(PU 、)
+
+(D その)
+
+(N 時)
+
+(P-OPTR は)
+
+(N 別)
+
+(P-ROLE に)
+
+(N 御礼)
+
+(P-ROLE を)
+
+(VB する)
+
+(P-FINAL から)
+
+(PU 、)
+
+(PU ――)
+
+(-RRB- 」)
+
+(ID 15_aozora_Akutagawa-1921;JP)
+
+(N 婆さん)
+
+(P-OPTR は)
+
+(NP-SBJ *T*)
+
+(NUM 三百)
+
+(CL 弗)
+
+(AX の)
+
+(N 小切手)
+
+(P-ROLE を)
+
+(VB 見る)
+
+(P-CONN と)
+
+(PU 、)
+
+(ADJN 急)
+
+(AX に)
+
+(N 愛想)
+
+(P-ROLE が)
+
+(ADJI よく)
+
+(VB なり)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 16_aozora_Akutagawa-1921;JP)
+
+(-LRB- 「)
+
+(NP-SBJ *hearer*)
+
+(NP-SBJ *speaker*)
+
+(NP-OB1 *pro*)
+
+(ADJN こんな)
+
+(AX に)
+
+(Q 沢山)
+
+(VB 頂い)
+
+(P-CONN て)
+
+(P-OPTR は)
+
+(PU 、)
+
+(ADV 反って)
+
+(ADJN 御気の毒)
+
+(AX です)
+
+(P-FINAL ね)
+
+(PU 。)
+
+(ID 17_aozora_Akutagawa-1921;JP)
+
+(PU ――)
+
+(CONJ そうして)
+
+(ADV 一体)
+
+(ADV 又)
+
+(PRO あなた)
+
+(P-OPTR は)
+
+(PU 、)
+
+(NP-SBJ *hearer*)
+
+(WPRO 何)
+
+(P-ROLE を)
+
+(VB 占っ)
+
+(P-CONN て)
+
+(VB2 くれろ)
+
+(P-COMP と)
+
+(VB おっしゃる)
+
+(FN ん)
+
+(AX です)
+
+(PU ？)
+
+(-RRB- 」)
+
+(ID 18_aozora_Akutagawa-1921;JP)
+
+(-LRB- 「)
+
+(NP-OB1 *T*)
+
+(PRO 私)
+
+(P-ROLE が)
+
+(VB 見)
+
+(P-CONN て)
+
+(VB2 貰い)
+
+(AX たい)
+
+(N の)
+
+(P-OPTR は)
+
+(PU 、)
+
+(PU ――)
+
+(-RRB- 」)
+
+(ID 19_aozora_Akutagawa-1921;JP)
+
+(N 亜米利加人)
+
+(P-OPTR は)
+
+(N 煙草)
+
+(P-ROLE を)
+
+(VB 啣え)
+
+(AXD た)
+
+(P-CONN なり)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJN 狡猾)
+
+(FN そう)
+
+(AX な)
+
+(N 微笑)
+
+(P-ROLE を)
+
+(VB 浮べ)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 20_aozora_Akutagawa-1921;JP)
+
+(-LRB- 「)
+
+(NP-SBJ *pro*)
+
+(ADV 一体)
+
+(NPR 日米戦争)
+
+(P-OPTR は)
+
+(WPRO いつ)
+
+(VB ある)
+
+(P-FINAL か)
+
+(P-COMP という)
+
+(N こと)
+
+(AX な)
+
+(FN ん)
+
+(AX だ)
+
+(PU 。)
+
+(ID 21_aozora_Akutagawa-1921;JP)
+
+(PRO それ)
+
+(P-OPTR さえ)
+
+(ADV ちゃんと)
+
+(VB わかっ)
+
+(P-CONN て)
+
+(VB2 いれ)
+
+(P-CONN ば)
+
+(PU 、)
+
+(PRO 我々)
+
+(N 商人)
+
+(P-OPTR は)
+
+(ADV 忽ち)
+
+(P-ROLE の)
+
+(N 内)
+
+(P-ROLE に)
+
+(PU 、)
+
+(N 大金儲け)
+
+(P-ROLE が)
+
+(VB 出来る)
+
+(P-FINAL から)
+
+(P-FINAL ね)
+
+(-RRB- 」)
+
+(ID 22_aozora_Akutagawa-1921;JP)
+
+(-LRB- 「)
+
+(NP-SBJ *hearer*)
+
+(CONJ じゃ)
+
+(N 明日)
+
+(VB いらっしゃい)
+
+(PU 。)
+
+(ID 23_aozora_Akutagawa-1921;JP)
+
+(NP-SBJ *speaker*)
+
+(NP-OB1 *pro*)
+
+(PRO それ)
+
+(P-ROLE まで)
+
+(P-ROLE に)
+
+(VB 占っ)
+
+(P-CONN て)
+
+(VB2 置い)
+
+(P-CONN て)
+
+(VB2 上げ)
+
+(AX ます)
+
+(P-FINAL から)
+
+(-RRB- 」)
+
+(ID 24_aozora_Akutagawa-1921;JP)
+
+(-LRB- 「)
+
+(ADV そう)
+
+(P-FINAL か)
+
+(PU 。)
+
+(ID 25_aozora_Akutagawa-1921;JP)
+
+(CONJ じゃ)
+
+(N 間違い)
+
+(P-ROLE の)
+
+(ADJI ない)
+
+(N よう)
+
+(P-ROLE に)
+
+(PU 、)
+
+(PU ――)
+
+(-RRB- 」)
+
+(ID 26_aozora_Akutagawa-1921;JP)
+
+(NP-SBJ *T*)
+
+(N 印度人)
+
+(AX の)
+
+(N 婆さん)
+
+(P-OPTR は)
+
+(PU 、)
+
+(ADJN 得意)
+
+(FN そう)
+
+(AX に)
+
+(N 胸)
+
+(P-ROLE を)
+
+(VB 反ら)
+
+(VB2 せ)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 27_aozora_Akutagawa-1921;JP)
+
+(-LRB- 「)
+
+(PRO 私)
+
+(P-ROLE の)
+
+(N 占い)
+
+(P-OPTR は)
+
+(NUM 五十)
+
+(CL 年来)
+
+(PU 、)
+
+(NUM 一)
+
+(CL 度)
+
+(P-OPTR も)
+
+(VB 外れ)
+
+(AXD た)
+
+(N こと)
+
+(P-OPTR は)
+
+(ADJI ない)
+
+(FN の)
+
+(AX です)
+
+(P-FINAL よ)
+
+(PU 。)
+
+(ID 28_aozora_Akutagawa-1921;JP)
+
+(ADV 何しろ)
+
+(PRO 私)
+
+(P-ROLE の)
+
+(P-OPTR は)
+
+(NP-SBJ *T*)
+
+(NPR アグニ)
+
+(AX の)
+
+(N 神)
+
+(P-ROLE が)
+
+(PU 、)
+
+(PRO 御自身)
+
+(N 御告げ)
+
+(P-ROLE を)
+
+(VB なさる)
+
+(FN の)
+
+(AX です)
+
+(P-FINAL から)
+
+(P-FINAL ね)
+
+(-RRB- 」)
+
+(ID 29_aozora_Akutagawa-1921;JP)
+
+(NP-OB1 *pro*)
+
+(N 亜米利加人)
+
+(P-ROLE が)
+
+(VB 帰っ)
+
+(P-CONN て)
+
+(VB2 しまう)
+
+(P-CONN と)
+
+(PU 、)
+
+(N 婆さん)
+
+(P-OPTR は)
+
+(N 次の間)
+
+(P-ROLE の)
+
+(N 戸口)
+
+(P-ROLE へ)
+
+(VB 行っ)
+
+(P-CONN て)
+
+(PU 、)
+
+(-LRB- 「)
+
+(NPR 恵蓮)
+
+(PU 。)
+
+(NPR 恵蓮)
+
+(-RRB- 」)
+
+(P-COMP と)
+
+(VB 呼び立て)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 30_aozora_Akutagawa-1921;JP)
+
+(NP-SBJ *T*)
+
+(D その)
+
+(N 声)
+
+(P-ROLE に)
+
+(VB 応じ)
+
+(P-CONN て)
+
+(VB 出)
+
+(P-CONN て)
+
+(VB2 来)
+
+(AXD た)
+
+(N の)
+
+(P-OPTR は)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJI 美しい)
+
+(NP-SBJ *T*)
+
+(N 支那人)
+
+(AX の)
+
+(N 女の子)
+
+(AX です)
+
+(PU 。)
+
+(ID 31_aozora_Akutagawa-1921;JP)
+
+(CONJ が)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(WPRO 何)
+
+(P-OPTR か)
+
+(N 苦労)
+
+(P-OPTR でも)
+
+(VB ある)
+
+(FN の)
+
+(P-FINAL か)
+
+(PU 、)
+
+(D この)
+
+(N 女の子)
+
+(P-ROLE の)
+
+(NP-SBJ *T*)
+
+(N 下ぶくれ)
+
+(AX の)
+
+(N 頬)
+
+(P-OPTR は)
+
+(PU 、)
+
+(ADV まるで)
+
+(NP-SBJ *T*)
+
+(N 蝋)
+
+(P-ROLE の)
+
+(N よう)
+
+(AX な)
+
+(N 色)
+
+(P-ROLE を)
+
+(VB し)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 32_aozora_Akutagawa-1921;JP)
+
+(-LRB- 「)
+
+(NP-SBJ *hearer*)
+
+(WPRO 何)
+
+(P-ROLE を)
+
+(ADV 愚図々々)
+
+(VB し)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(FN ん)
+
+(AX だ)
+
+(P-FINAL え)
+
+(PU ？)
+
+(ID 33_aozora_Akutagawa-1921;JP)
+
+(ADJN ほんとう)
+
+(AX に)
+
+(NP-SBJ *T*)
+
+(PRO お前)
+
+(P-OPTR 位)
+
+(PU 、)
+
+(ADJI ずうずうしい)
+
+(N 女)
+
+(P-OPTR は)
+
+(VB ありゃ)
+
+(VB2 し)
+
+(NEG ない)
+
+(P-FINAL よ)
+
+(PU 。)
+
+(ID 34_aozora_Akutagawa-1921;JP)
+
+(NP-SBJ *hearer*)
+
+(ADV きっと)
+
+(ADV 又)
+
+(N 台所)
+
+(P-ROLE で)
+
+(N 居睡り)
+
+(P-CONN か)
+
+(WPRO 何)
+
+(P-OPTR か)
+
+(VB し)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AXD た)
+
+(FN ん)
+
+(AX だろ)
+
+(INFR う)
+
+(PU ？)
+
+(-RRB- 」)
+
+(ID 35_aozora_Akutagawa-1921;JP)
+
+(NPR 恵蓮)
+
+(P-OPTR は)
+
+(WNUM いくら)
+
+(VB 叱ら)
+
+(PASS れ)
+
+(P-CONN て)
+
+(P-OPTR も)
+
+(PU 、)
+
+(ADV じっと)
+
+(VB 俯向い)
+
+(AXD た)
+
+(N まま)
+
+(VB 黙っ)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 36_aozora_Akutagawa-1921;JP)
+
+(-LRB- 「)
+
+(NP-SBJ *hearer*)
+
+(NP-OB1 *pro*)
+
+(ADV よく)
+
+(VB お聞き)
+
+(P-FINAL よ)
+
+(PU 。)
+
+(ID 37_aozora_Akutagawa-1921;JP)
+
+(NP-SBJ *speaker*)
+
+(N 今夜)
+
+(P-OPTR は)
+
+(N 久しぶり)
+
+(P-ROLE に)
+
+(NP-SBJ *T*)
+
+(NPR アグニ)
+
+(AX の)
+
+(N 神)
+
+(P-ROLE へ)
+
+(PU 、)
+
+(N 御伺い)
+
+(P-ROLE を)
+
+(VB 立てる)
+
+(FN ん)
+
+(AX だ)
+
+(P-FINAL から)
+
+(P-FINAL ね)
+
+(PU 、)
+
+(ID 38_aozora_Akutagawa-1921;JP)
+
+(NP-SBJ *hearer*)
+
+(D その)
+
+(N つもり)
+
+(AX で)
+
+(VB2 いる)
+
+(FN ん)
+
+(AX だ)
+
+(P-FINAL よ)
+
+(-RRB- 」)
+
+(ID 39_aozora_Akutagawa-1921;JP)
+
+(N 女の子)
+
+(P-OPTR は)
+
+(NP-SBJ *T*)
+
+(ADJN まっ黒)
+
+(AX な)
+
+(N 婆さん)
+
+(P-ROLE の)
+
+(N 顔)
+
+(P-ROLE へ)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJI 悲し)
+
+(FN そう)
+
+(AX な)
+
+(N 眼)
+
+(P-ROLE を)
+
+(VB 挙げ)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 40_aozora_Akutagawa-1921;JP)
+
+(-LRB- 「)
+
+(NP-SBJ *pro*)
+
+(N 今夜)
+
+(AX です)
+
+(P-FINAL か)
+
+(PU ？)
+
+(-RRB- 」)
+
+(ID 41_aozora_Akutagawa-1921;JP)
+
+(-LRB- 「)
+
+(NP-SBJ *pro*)
+
+(N 今夜)
+
+(P-ROLE の)
+
+(NUM 十二)
+
+(CL 時)
+
+(AX *)
+
+(PU 。)
+
+(ID 42_aozora_Akutagawa-1921;JP)
+
+(NP-SBJ *hearer*)
+
+(ADJI 好い)
+
+(P-FINAL か)
+
+(P-FINAL え)
+
+(PU ？)
+
+(ID 43_aozora_Akutagawa-1921;JP)
+
+(NP-SBJ *hearer*)
+
+(VB 忘れ)
+
+(P-CONN ちゃ)
+
+(VB いけ)
+
+(NEG ない)
+
+(P-FINAL よ)
+
+(-RRB- 」)
+
+(ID 44_aozora_Akutagawa-1921;JP)
+
+(NP-SBJ *T*)
+
+(N 印度人)
+
+(AX の)
+
+(N 婆さん)
+
+(P-OPTR は)
+
+(PU 、)
+
+(NP-OB1 *pro*)
+
+(VB 脅す)
+
+(N よう)
+
+(P-ROLE に)
+
+(N 指)
+
+(P-ROLE を)
+
+(VB 挙げ)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 45_aozora_Akutagawa-1921;JP)
+
+(-LRB- 「)
+
+(ADV 又)
+
+(PRO お前)
+
+(P-ROLE が)
+
+(D この)
+
+(N 間)
+
+(P-ROLE の)
+
+(N よう)
+
+(P-ROLE に)
+
+(PU 、)
+
+(PRO 私)
+
+(P-ROLE に)
+
+(N 世話)
+
+(P-OPTR ばかり)
+
+(VB 焼か)
+
+(VB2 せる)
+
+(P-CONN と)
+
+(PU 、)
+
+(N 今度)
+
+(P-OPTR こそ)
+
+(PRO お前)
+
+(P-ROLE の)
+
+(N 命)
+
+(P-OPTR は)
+
+(ADJI ない)
+
+(P-FINAL よ)
+
+(PU 。)
+
+(ID 46_aozora_Akutagawa-1921;JP)
+
+(PRO お前)
+
+(P-OPTR なんぞ)
+
+(P-OPTR は)
+
+(NP-SBJ *speaker*)
+
+(NP-SBJ *speaker*)
+
+(NP-OB1 *hearer*)
+
+(VB 殺そ)
+
+(INFR う)
+
+(P-COMP と)
+
+(VB 思え)
+
+(P-CONN ば)
+
+(PU 、)
+
+(N 雛っ仔)
+
+(P-ROLE の)
+
+(N 頸)
+
+(P-ROLE を)
+
+(VB 絞める)
+
+(P-ROLE より)
+
+(PU ――)
+
+(-RRB- 」)
+
+(ID 47_aozora_Akutagawa-1921;JP)
+
+(NP-SBJ *T*)
+
+(NP-OB1 *pro*)
+
+(ADV こう)
+
+(VB 言い)
+
+(VB2 かけ)
+
+(AXD た)
+
+(N 婆さん)
+
+(P-OPTR は)
+
+(PU 、)
+
+(ADJN 急)
+
+(AX に)
+
+(N 顔)
+
+(P-ROLE を)
+
+(VB しかめ)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 48_aozora_Akutagawa-1921;JP)
+
+(NP-SBJ *pro*)
+
+(NP-OB1 *pro*)
+
+(ADV ふと)
+
+(N 相手)
+
+(P-ROLE に)
+
+(VB 気がつい)
+
+(P-CONN て)
+
+(VB 見る)
+
+(P-CONN と)
+
+(PU 、)
+
+(NPR 恵蓮)
+
+(P-OPTR は)
+
+(WPRO いつ)
+
+(P-OPTR か)
+
+(N 窓際)
+
+(P-ROLE に)
+
+(VB 行っ)
+
+(P-CONN て)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADV 丁度)
+
+(VB 明い)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AXD た)
+
+(N 硝子窓)
+
+(P-ROLE から)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJI 寂しい)
+
+(N 往来)
+
+(P-ROLE を)
+
+(VB 眺め)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(FN の)
+
+(AX です)
+
+(PU 。)
+
+(ID 49_aozora_Akutagawa-1921;JP)
+
+(-LRB- 「)
+
+(NP-SBJ *hearer*)
+
+(WPRO 何)
+
+(P-ROLE を)
+
+(VB 見)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(FN ん)
+
+(AX だ)
+
+(P-FINAL え)
+
+(PU ？)
+
+(-RRB- 」)
+
+(ID 50_aozora_Akutagawa-1921;JP)
+
+(NPR 恵蓮)
+
+(P-OPTR は)
+
+(ADV 愈)
+
+(N 色)
+
+(P-ROLE を)
+
+(VB 失っ)
+
+(P-CONN て)
+
+(PU 、)
+
+(ADV もう)
+
+(NUM 一)
+
+(CL 度)
+
+(N 婆さん)
+
+(P-ROLE の)
+
+(N 顔)
+
+(P-ROLE を)
+
+(VB 見上げ)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 51_aozora_Akutagawa-1921;JP)
+
+(-LRB- 「)
+
+(INTJ よし)
+
+(PU 、)
+
+(INTJ よし)
+
+(PU 、)
+
+(ADV そう)
+
+(PRO 私)
+
+(P-ROLE を)
+
+(ADJN 莫迦)
+
+(AX に)
+
+(VB する)
+
+(FN ん)
+
+(P-CONN なら)
+
+(PU 、)
+
+(ADV まだ)
+
+(PRO お前)
+
+(P-OPTR は)
+
+(N 痛い目)
+
+(P-ROLE に)
+
+(VB 会い)
+
+(VB2 足り)
+
+(NEG ない)
+
+(FN ん)
+
+(AX だろ)
+
+(INFR う)
+
+(-RRB- 」)
+
+(ID 52_aozora_Akutagawa-1921;JP)
+
+(N 婆さん)
+
+(P-OPTR は)
+
+(N 眼)
+
+(P-ROLE を)
+
+(VB 怒ら)
+
+(VB2 せ)
+
+(P-CONN ながら)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(PRO そこ)
+
+(P-ROLE に)
+
+(VB あっ)
+
+(AXD た)
+
+(N 箒)
+
+(P-ROLE を)
+
+(VB ふり上げ)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 53_aozora_Akutagawa-1921;JP)
+
+(ADV 丁度)
+
+(D その)
+
+(N 途端)
+
+(AX です)
+
+(PU 。)
+
+(ID 54_aozora_Akutagawa-1921;JP)
+
+(WPRO 誰)
+
+(P-OPTR か)
+
+(N 外)
+
+(P-ROLE へ)
+
+(VB 来)
+
+(AXD た)
+
+(P-COMP と)
+
+(VB 見え)
+
+(P-CONN て)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(N 戸)
+
+(P-ROLE を)
+
+(VB 叩く)
+
+(N 音)
+
+(P-ROLE が)
+
+(PU 、)
+
+(ADV 突然)
+
+(ADJI 荒々しく)
+
+(VB 聞え)
+
+(VB2 始め)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 55_aozora_Akutagawa-1921;JP)
+
+(LS 二)
+
+(ID 56_aozora_Akutagawa-1921;JP)
+
+(D その)
+
+(N 日)
+
+(P-ROLE の)
+
+(NP-SBJ *T*)
+
+(ADV かれこれ)
+
+(ADJN 同じ)
+
+(AX *)
+
+(N 時刻)
+
+(P-ROLE に)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(D この)
+
+(N 家)
+
+(P-ROLE の)
+
+(N 外)
+
+(P-ROLE を)
+
+(VB 通りかかっ)
+
+(AXD た)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(N 年)
+
+(P-ROLE の)
+
+(ADJI 若い)
+
+(NP-SBJ *T*)
+
+(NUM 一人)
+
+(AX の)
+
+(N 日本人)
+
+(P-ROLE が)
+
+(VB あり)
+
+(AX ます)
+
+(PU 。)
+
+(ID 57_aozora_Akutagawa-1921;JP)
+
+(NP-SBJ *pro*)
+
+(NP-OB1 *pro*)
+
+(PRO それ)
+
+(P-ROLE が)
+
+(WADV どう)
+
+(VB 思っ)
+
+(AXD た)
+
+(FN の)
+
+(P-FINAL か)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(NUM 二)
+
+(CL 階)
+
+(P-ROLE の)
+
+(N 窓)
+
+(P-ROLE から)
+
+(N 顔)
+
+(P-ROLE を)
+
+(VB 出し)
+
+(AXD た)
+
+(NP-SBJ *T*)
+
+(N 支那人)
+
+(AX の)
+
+(N 女の子)
+
+(P-ROLE を)
+
+(ADV 一目)
+
+(VB 見る)
+
+(P-CONN と)
+
+(PU 、)
+
+(ADV しばらく)
+
+(P-OPTR は)
+
+(N 呆気)
+
+(P-ROLE に)
+
+(VB とら)
+
+(PASS れ)
+
+(AXD た)
+
+(N よう)
+
+(P-ROLE に)
+
+(PU 、)
+
+(ADV ぼんやり)
+
+(VB 立ちすくん)
+
+(P-CONN で)
+
+(VB2 しまい)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 58_aozora_Akutagawa-1921;JP)
+
+(NP-SBJ *T*)
+
+(PRO そこ)
+
+(P-ROLE へ)
+
+(ADV 又)
+
+(VB 通りかかっ)
+
+(AXD た)
+
+(N の)
+
+(P-OPTR は)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(N 年)
+
+(P-ROLE を)
+
+(VB とっ)
+
+(AX た)
+
+(NP-SBJ *T*)
+
+(N 支那人)
+
+(AX の)
+
+(N 人力車夫)
+
+(AX です)
+
+(PU 。)
+
+(ID 59_aozora_Akutagawa-1921;JP)
+
+(-LRB- 「)
+
+(INTJ おい)
+
+(PU 。)
+
+(ID 60_aozora_Akutagawa-1921;JP)
+
+(INTJ おい)
+
+(PU 。)
+
+(ID 61_aozora_Akutagawa-1921;JP)
+
+(D あの)
+
+(NUM 二)
+
+(CL 階)
+
+(P-ROLE に)
+
+(WPRO 誰)
+
+(P-ROLE が)
+
+(VB 住ん)
+
+(P-CONN で)
+
+(VB2 いる)
+
+(P-FINAL か)
+
+(PU 、)
+
+(PRO お前)
+
+(P-OPTR は)
+
+(VB 知っ)
+
+(P-CONN て)
+
+(VB2 い)
+
+(NEG ない)
+
+(P-FINAL か)
+
+(P-FINAL ね)
+
+(PU ？)
+
+(-RRB- 」)
+
+(ID 62_aozora_Akutagawa-1921;JP)
+
+(NP-OB1 *pro*)
+
+(N 日本人)
+
+(P-OPTR は)
+
+(D その)
+
+(N 人力車夫)
+
+(P-ROLE へ)
+
+(PU 、)
+
+(ADV いきなり)
+
+(ADV こう)
+
+(VB 問いかけ)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 63_aozora_Akutagawa-1921;JP)
+
+(N 支那人)
+
+(P-OPTR は)
+
+(N 楫棒)
+
+(P-ROLE を)
+
+(VB 握っ)
+
+(AXD た)
+
+(N まま)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJI 高い)
+
+(NUM 二)
+
+(CL 階)
+
+(P-ROLE を)
+
+(VB 見上げ)
+
+(AX まし)
+
+(AXD た)
+
+(P-CONN が)
+
+(PU 、)
+
+(-LRB- 「)
+
+(PRO あすこ)
+
+(AX です)
+
+(P-FINAL か)
+
+(PU ？)
+
+(PRO あすこ)
+
+(P-ROLE に)
+
+(P-OPTR は)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(WPRO 何)
+
+(P-OPTR とか)
+
+(VB いう)
+
+(NP-SBJ *T*)
+
+(N 印度人)
+
+(AX の)
+
+(N 婆さん)
+
+(P-ROLE が)
+
+(VB 住ん)
+
+(P-CONN で)
+
+(VB2 い)
+
+(AX ます)
+
+(-RRB- 」)
+
+(P-COMP と)
+
+(PU 、)
+
+(ADJI 気味悪)
+
+(FN そう)
+
+(AX に)
+
+(N 返事)
+
+(P-ROLE を)
+
+(VB する)
+
+(P-CONN と)
+
+(PU 、)
+
+(ADV 匆々)
+
+(VB 行き)
+
+(FN そう)
+
+(AX に)
+
+(VB する)
+
+(FN の)
+
+(AX です)
+
+(PU 。)
+
+(ID 64_aozora_Akutagawa-1921;JP)
+
+(-LRB- 「)
+
+(NP-SBJ *hearer*)
+
+(INTJ まあ)
+
+(PU 、)
+
+(VB 待っ)
+
+(P-CONN て)
+
+(VB2 くれ)
+
+(PU 。)
+
+(ID 65_aozora_Akutagawa-1921;JP)
+
+(CONJ そうして)
+
+(D その)
+
+(N 婆さん)
+
+(P-OPTR は)
+
+(PU 、)
+
+(WPRO 何)
+
+(P-ROLE を)
+
+(N 商売)
+
+(AX に)
+
+(VB し)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(FN ん)
+
+(AX だ)
+
+(PU ？)
+
+(-RRB- 」)
+
+(ID 66_aozora_Akutagawa-1921;JP)
+
+(-LRB- 「)
+
+(NP-SBJ *pro*)
+
+(N 占い者)
+
+(AX です)
+
+(PU 。)
+
+(ID 67_aozora_Akutagawa-1921;JP)
+
+(NP-SBJ *pro*)
+
+(CONJ が)
+
+(PU 、)
+
+(D この)
+
+(N 近所)
+
+(P-ROLE の)
+
+(N 噂)
+
+(P-ROLE じゃ)
+
+(PU 、)
+
+(ADV 何でも)
+
+(N 魔法)
+
+(P-OPTR さえ)
+
+(VB 使う)
+
+(FN そう)
+
+(AX です)
+
+(PU 。)
+
+(ID 68_aozora_Akutagawa-1921;JP)
+
+(INTJ まあ)
+
+(PU 、)
+
+(N 命)
+
+(P-ROLE が)
+
+(ADJN 大事)
+
+(AX だっ)
+
+(P-CONN たら)
+
+(PU 、)
+
+(NP-SBJ *hearer*)
+
+(D あの)
+
+(N 婆さん)
+
+(P-ROLE の)
+
+(N 所)
+
+(P-ROLE なぞ)
+
+(P-ROLE へ)
+
+(P-OPTR は)
+
+(VB 行か)
+
+(NEG ない)
+
+(N 方)
+
+(P-ROLE が)
+
+(ADJI 好い)
+
+(FN よう)
+
+(AX です)
+
+(P-FINAL よ)
+
+(-RRB- 」)
+
+(ID 69_aozora_Akutagawa-1921;JP)
+
+(NP-SBJ *T*)
+
+(N 支那人)
+
+(AX の)
+
+(N 車夫)
+
+(P-ROLE が)
+
+(VB 行っ)
+
+(P-CONN て)
+
+(VB2 しまっ)
+
+(P-CONN て)
+
+(P-CONN から)
+
+(PU 、)
+
+(N 日本人)
+
+(P-OPTR は)
+
+(N 腕)
+
+(P-ROLE を)
+
+(VB 組ん)
+
+(P-CONN で)
+
+(PU 、)
+
+(WPRO 何)
+
+(P-OPTR か)
+
+(VB 考え)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(FN よう)
+
+(AX でし)
+
+(AXD た)
+
+(P-CONN が)
+
+(PU 、)
+
+(ADV やがて)
+
+(N 決心)
+
+(P-OPTR でも)
+
+(VB つい)
+
+(AXD た)
+
+(FN の)
+
+(P-FINAL か)
+
+(PU 、)
+
+(ADV さっさと)
+
+(D その)
+
+(N 家)
+
+(P-ROLE の)
+
+(N 中)
+
+(P-ROLE へ)
+
+(VB はいっ)
+
+(P-CONN て)
+
+(VB2 行き)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 70_aozora_Akutagawa-1921;JP)
+
+(CONJ すると)
+
+(NP-SBJ *T*)
+
+(ADV 突然)
+
+(VB 聞え)
+
+(P-CONN て)
+
+(VB2 来)
+
+(AXD た)
+
+(N の)
+
+(P-OPTR は)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(NP-OB1 *pro*)
+
+(N 婆さん)
+
+(P-ROLE の)
+
+(VB 罵る)
+
+(N 声)
+
+(P-ROLE に)
+
+(VB 交っ)
+
+(AXD た)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(N 支那人)
+
+(AX の)
+
+(N 女の子)
+
+(P-ROLE の)
+
+(N 泣き声)
+
+(AX です)
+
+(PU 。)
+
+(ID 71_aozora_Akutagawa-1921;JP)
+
+(N 日本人)
+
+(P-OPTR は)
+
+(D その)
+
+(N 声)
+
+(P-ROLE を)
+
+(VB 聞く)
+
+(P-CONN が早いか)
+
+(PU 、)
+
+(NUM 一)
+
+(CL 股)
+
+(P-ROLE に)
+
+(NUM 二三)
+
+(CL 段)
+
+(P-OPTR ずつ)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJI 薄暗い)
+
+(N 梯子)
+
+(P-ROLE を)
+
+(VB 駈け上り)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 72_aozora_Akutagawa-1921;JP)
+
+(NP-SBJ *pro*)
+
+(CONJ そうして)
+
+(N 婆さん)
+
+(P-ROLE の)
+
+(N 部屋)
+
+(P-ROLE の)
+
+(N 戸)
+
+(P-ROLE を)
+
+(ADV 力一ぱい)
+
+(VB 叩き)
+
+(VB2 出し)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 73_aozora_Akutagawa-1921;JP)
+
+(N 戸)
+
+(P-OPTR は)
+
+(ADV 直ぐ)
+
+(P-ROLE に)
+
+(VB 開き)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 74_aozora_Akutagawa-1921;JP)
+
+(CONJ が)
+
+(PU 、)
+
+(N 日本人)
+
+(P-ROLE が)
+
+(N 中)
+
+(P-ROLE へ)
+
+(VB はいっ)
+
+(P-CONN て)
+
+(VB2 見る)
+
+(P-CONN と)
+
+(PU 、)
+
+(PRO そこ)
+
+(P-ROLE に)
+
+(P-OPTR は)
+
+(NP-SBJ *T*)
+
+(N 印度人)
+
+(AX の)
+
+(N 婆さん)
+
+(P-ROLE が)
+
+(ADV たった)
+
+(NUM 一人)
+
+(VB 立っ)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(P-OPTR ばかり)
+
+(PU 、)
+
+(ADV もう)
+
+(NP-SBJ *T*)
+
+(N 支那人)
+
+(AX の)
+
+(N 女の子)
+
+(P-OPTR は)
+
+(PU 、)
+
+(N 次の間)
+
+(P-ROLE へ)
+
+(P-OPTR でも)
+
+(VB 隠れ)
+
+(AXD た)
+
+(FN の)
+
+(P-FINAL か)
+
+(PU 、)
+
+(N 影)
+
+(P-CONN も)
+
+(N 形)
+
+(P-OPTR も)
+
+(VB 見当り)
+
+(AX ませ)
+
+(NEG ん)
+
+(PU 。)
+
+(ID 75_aozora_Akutagawa-1921;JP)
+
+(-LRB- 「)
+
+(WPRO 何)
+
+(P-OPTR か)
+
+(N 御用)
+
+(AX です)
+
+(P-FINAL か)
+
+(PU ？)
+
+(-RRB- 」)
+
+(ID 76_aozora_Akutagawa-1921;JP)
+
+(N 婆さん)
+
+(P-OPTR は)
+
+(ADV さも)
+
+(ADJI 疑わし)
+
+(FN そう)
+
+(AX に)
+
+(PU 、)
+
+(ADV じろじろ)
+
+(N 相手)
+
+(P-ROLE の)
+
+(N 顔)
+
+(P-ROLE を)
+
+(VB 見)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 77_aozora_Akutagawa-1921;JP)
+
+(-LRB- 「)
+
+(PRO お前さん)
+
+(P-OPTR は)
+
+(N 占い者)
+
+(AX だろ)
+
+(INFR う)
+
+(PU ？)
+
+(-RRB- 」)
+
+(ID 78_aozora_Akutagawa-1921;JP)
+
+(N 日本人)
+
+(P-OPTR は)
+
+(N 腕)
+
+(P-ROLE を)
+
+(VB 組ん)
+
+(AXD だ)
+
+(N まま)
+
+(PU 、)
+
+(N 婆さん)
+
+(P-ROLE の)
+
+(N 顔)
+
+(P-ROLE を)
+
+(VB 睨み返し)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 79_aozora_Akutagawa-1921;JP)
+
+(-LRB- 「)
+
+(ADV そう)
+
+(AX です)
+
+(-RRB- 」)
+
+(ID 80_aozora_Akutagawa-1921;JP)
+
+(-LRB- 「)
+
+(NP-SBJ *hearer*)
+
+(CONJ じゃ)
+
+(PRO 私)
+
+(P-ROLE の)
+
+(N 用)
+
+(P-OPTR なぞ)
+
+(P-OPTR は)
+
+(PU 、)
+
+(NP-SBJ *hearer*)
+
+(NP-OB1 *pro*)
+
+(VB 聞か)
+
+(NEG なくて)
+
+(P-OPTR も)
+
+(VB わかっ)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(AX じゃ)
+
+(NEG ない)
+
+(P-FINAL か)
+
+(PU ？)
+
+(ID 81_aozora_Akutagawa-1921;JP)
+
+(PRO 私)
+
+(P-OPTR も)
+
+(NP-OB1 *hearer*)
+
+(NUM 一)
+
+(CL つ)
+
+(PRO お前さん)
+
+(P-ROLE の)
+
+(N 占い)
+
+(P-ROLE を)
+
+(VB 見)
+
+(P-CONN て)
+
+(VB 貰い)
+
+(P-ROLE に)
+
+(VB やっ)
+
+(P-CONN て)
+
+(VB2 来)
+
+(AXD た)
+
+(FN ん)
+
+(AX だ)
+
+(-RRB- 」)
+
+(ID 82_aozora_Akutagawa-1921;JP)
+
+(-LRB- 「)
+
+(NP-SBJ *speaker*)
+
+(WPRO 何)
+
+(P-ROLE を)
+
+(VB 見)
+
+(P-CONN て)
+
+(VB2 上げる)
+
+(FN ん)
+
+(AX です)
+
+(P-FINAL え)
+
+(PU ？)
+
+(-RRB- 」)
+
+(ID 83_aozora_Akutagawa-1921;JP)
+
+(N 婆さん)
+
+(P-OPTR は)
+
+(ADV 益)
+
+(ADJI 疑わし)
+
+(FN そう)
+
+(AX に)
+
+(PU 、)
+
+(N 日本人)
+
+(P-ROLE の)
+
+(N 容子)
+
+(P-ROLE を)
+
+(VB 窺っ)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 84_aozora_Akutagawa-1921;JP)
+
+(-LRB- 「)
+
+(PRO 私)
+
+(P-ROLE の)
+
+(N 主人)
+
+(P-ROLE の)
+
+(N 御嬢さん)
+
+(P-ROLE が)
+
+(PU 、)
+
+(N 去年)
+
+(P-ROLE の)
+
+(N 春)
+
+(N 行方知れず)
+
+(AX に)
+
+(VB なっ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 85_aozora_Akutagawa-1921;JP)
+
+(NP-SBJ *speaker*)
+
+(NP-OB1 *hearer*)
+
+(PRO それ)
+
+(P-ROLE を)
+
+(NUM 一)
+
+(CL つ)
+
+(VB 見)
+
+(P-CONN て)
+
+(VB 貰い)
+
+(AX たい)
+
+(FN ん)
+
+(AX だ)
+
+(P-FINAL が)
+
+(PU 、)
+
+(PU ――)
+
+(-RRB- 」)
+
+(ID 86_aozora_Akutagawa-1921;JP)
+
+(N 日本人)
+
+(P-OPTR は)
+
+(Q 一句一句)
+
+(PU 、)
+
+(N 力)
+
+(P-ROLE を)
+
+(VB 入れ)
+
+(P-CONN て)
+
+(VB 言う)
+
+(FN の)
+
+(AX です)
+
+(PU 。)
+
+(ID 87_aozora_Akutagawa-1921;JP)
+
+(-LRB- 「)
+
+(PRO 私)
+
+(P-ROLE の)
+
+(N 主人)
+
+(P-OPTR は)
+
+(NPR 香港)
+
+(P-ROLE の)
+
+(N 日本領事)
+
+(AX だ)
+
+(PU 。)
+
+(ID 88_aozora_Akutagawa-1921;JP)
+
+(N 御嬢さん)
+
+(P-ROLE の)
+
+(N 名)
+
+(P-OPTR は)
+
+(NPR 妙子さん)
+
+(AX と)
+
+(VB おっしゃる)
+
+(PU 。)
+
+(ID 89_aozora_Akutagawa-1921;JP)
+
+(PRO 私)
+
+(P-OPTR は)
+
+(NPR 遠藤)
+
+(P-ROLE という)
+
+(N 書生)
+
+(AX だ)
+
+(P-FINAL が)
+
+(PU ――)
+
+(ID 90_aozora_Akutagawa-1921;JP)
+
+(NP-SBJ *pro*)
+
+(WADV どう)
+
+(AX だ)
+
+(P-FINAL ね)
+
+(PU ？)
+
+(ID 91_aozora_Akutagawa-1921;JP)
+
+(D その)
+
+(N 御嬢さん)
+
+(P-OPTR は)
+
+(WPRO どこ)
+
+(P-ROLE に)
+
+(VB いらっしゃる)
+
+(-RRB- 」)
+
+(ID 92_aozora_Akutagawa-1921;JP)
+
+(NPR 遠藤)
+
+(P-OPTR は)
+
+(NP-OB1 *pro*)
+
+(ADV こう)
+
+(VB 言い)
+
+(P-CONN ながら)
+
+(PU 、)
+
+(N 上衣)
+
+(P-ROLE の)
+
+(N 隠し)
+
+(P-ROLE に)
+
+(N 手)
+
+(P-ROLE を)
+
+(VB 入れる)
+
+(P-CONN と)
+
+(PU 、)
+
+(NUM 一)
+
+(CL 挺)
+
+(P-ROLE の)
+
+(N ピストル)
+
+(P-ROLE を)
+
+(VB 引き出し)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 93_aozora_Akutagawa-1921;JP)
+
+(-LRB- 「)
+
+(NP-SBJ *pro*)
+
+(D この)
+
+(N 近所)
+
+(P-ROLE に)
+
+(VB いらっしゃり)
+
+(P-OPTR は)
+
+(VB2 し)
+
+(NEG ない)
+
+(P-FINAL か)
+
+(PU ？)
+
+(ID 94_aozora_Akutagawa-1921;JP)
+
+(NP-SBJ *pro*)
+
+(NP-SBJ *exp*)
+
+(NP-OB1 *pro*)
+
+(NPR 香港)
+
+(P-ROLE の)
+
+(N 警察署)
+
+(P-ROLE の)
+
+(VB 調べ)
+
+(AXD た)
+
+(N 所)
+
+(P-ROLE じゃ)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(N 御嬢さん)
+
+(P-ROLE を)
+
+(VB 攫っ)
+
+(AXD た)
+
+(N の)
+
+(P-OPTR は)
+
+(PU 、)
+
+(N 印度人)
+
+(AX らしい)
+
+(P-COMP という)
+
+(N こと)
+
+(AX だっ)
+
+(AXD た)
+
+(P-CONN が)
+
+(PU 、)
+
+(PU ――)
+
+(NP-SBJ *hearer*)
+
+(N 隠し立て)
+
+(P-ROLE を)
+
+(VB する)
+
+(P-CONN と)
+
+(N 為)
+
+(P-ROLE に)
+
+(VB なら)
+
+(NEG ん)
+
+(P-FINAL ぞ)
+
+(-RRB- 」)
+
+(ID 95_aozora_Akutagawa-1921;JP)
+
+(NP-SBJ *pro*)
+
+(CONJ しかし)
+
+(NP-SBJ *T*)
+
+(N 印度人)
+
+(AX の)
+
+(N 婆さん)
+
+(P-OPTR は)
+
+(PU 、)
+
+(ADV 少し)
+
+(P-OPTR も)
+
+(NP-OB1 *pro*)
+
+(VB 怖がる)
+
+(N 気色)
+
+(P-ROLE が)
+
+(VB 見え)
+
+(AX ませ)
+
+(NEG ん)
+
+(PU 。)
+
+(ID 96_aozora_Akutagawa-1921;JP)
+
+(NP-SBJ *pro*)
+
+(NP-SBJ *pro*)
+
+(VB 見え)
+
+(NEG ない)
+
+(P-OPTR どころか)
+
+(N 唇)
+
+(P-ROLE に)
+
+(P-OPTR は)
+
+(PU 、)
+
+(ADV 反って)
+
+(NP-SBJ *T*)
+
+(NP-SBJ *pro*)
+
+(N 人)
+
+(P-ROLE を)
+
+(ADJN 莫迦)
+
+(AX に)
+
+(VB し)
+
+(AX た)
+
+(N よう)
+
+(AX な)
+
+(N 微笑)
+
+(P-OPTR さえ)
+
+(VB 浮べ)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(FN の)
+
+(AX です)
+
+(PU 。)
+
+(ID 97_aozora_Akutagawa-1921;JP)
+
+(-LRB- 「)
+
+(PRO お前さん)
+
+(P-OPTR は)
+
+(WPRO 何)
+
+(P-ROLE を)
+
+(VB 言う)
+
+(FN ん)
+
+(AX だ)
+
+(P-FINAL え)
+
+(PU ？)
+
+(ID 98_aozora_Akutagawa-1921;JP)
+
+(PRO 私)
+
+(P-OPTR は)
+
+(D そんな)
+
+(N 御嬢さん)
+
+(P-OPTR なんぞ)
+
+(P-OPTR は)
+
+(PU 、)
+
+(N 顔)
+
+(P-ROLE を)
+
+(VB 見)
+
+(AXD た)
+
+(N こと)
+
+(P-OPTR も)
+
+(VB ありゃ)
+
+(VB2 し)
+
+(NEG ない)
+
+(P-FINAL よ)
+
+(-RRB- 」)
+
+(ID 99_aozora_Akutagawa-1921;JP)
+
+(-LRB- 「)
+
+(NP-SBJ *hearer*)
+
+(N 嘘)
+
+(P-ROLE を)
+
+(VB つけ)
+
+(PU 。)
+
+(ID 100_aozora_Akutagawa-1921;JP)
+
+(NP-SBJ *T*)
+
+(N 今)
+
+(D その)
+
+(N 窓)
+
+(P-ROLE から)
+
+(N 外)
+
+(P-ROLE を)
+
+(VB 見)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AXD た)
+
+(N の)
+
+(P-OPTR は)
+
+(PU 、)
+
+(ADJN 確)
+
+(AX に)
+
+(NP-SBJ *T*)
+
+(N 御嬢さん)
+
+(AX の)
+
+(NPR 妙子さん)
+
+(AX だ)
+
+(-RRB- 」)
+
+(ID 101_aozora_Akutagawa-1921;JP)
+
+(NPR 遠藤)
+
+(P-OPTR は)
+
+(N 片手)
+
+(P-ROLE に)
+
+(N ピストル)
+
+(P-ROLE を)
+
+(VB 握っ)
+
+(AXD た)
+
+(N まま)
+
+(PU 、)
+
+(N 片手)
+
+(P-ROLE に)
+
+(N 次の間)
+
+(P-ROLE の)
+
+(N 戸口)
+
+(P-ROLE を)
+
+(VB 指さし)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 102_aozora_Akutagawa-1921;JP)
+
+(-LRB- 「)
+
+(NP-SBJ *hearer*)
+
+(CONJ それでも)
+
+(ADV まだ)
+
+(N 剛情)
+
+(P-ROLE を)
+
+(VB 張る)
+
+(FN ん)
+
+(P-CONN なら)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(PRO あすこ)
+
+(P-ROLE に)
+
+(VB いる)
+
+(N 支那人)
+
+(P-ROLE を)
+
+(VB つれ)
+
+(P-CONN て)
+
+(VB2 来い)
+
+(-RRB- 」)
+
+(ID 103_aozora_Akutagawa-1921;JP)
+
+(-LRB- 「)
+
+(PRO あれ)
+
+(P-OPTR は)
+
+(PRO 私)
+
+(P-ROLE の)
+
+(N 貰い子)
+
+(AX だ)
+
+(P-FINAL よ)
+
+(-RRB- 」)
+
+(ID 104_aozora_Akutagawa-1921;JP)
+
+(N 婆さん)
+
+(P-OPTR は)
+
+(ADV やはり)
+
+(NP-OB1 *pro*)
+
+(VB 嘲る)
+
+(N よう)
+
+(P-ROLE に)
+
+(PU 、)
+
+(ADV にやにや)
+
+(NUM 独り)
+
+(VB 笑っ)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(FN の)
+
+(AX です)
+
+(PU 。)
+
+(ID 105_aozora_Akutagawa-1921;JP)
+
+(-LRB- 「)
+
+(NP-SBJ *pro*)
+
+(N 貰い子)
+
+(AX *)
+
+(P-FINAL か)
+
+(NP-SBJ *pro*)
+
+(N 貰い子)
+
+(AX で)
+
+(NEG ない)
+
+(P-FINAL か)
+
+(PU 、)
+
+(NP-OB1 *T*)
+
+(NP-SBJ *pro*)
+
+(NP-OB1 *pro*)
+
+(ADV 一目)
+
+(VB 見りゃ)
+
+(VB わかる)
+
+(N こと)
+
+(AX だ)
+
+(PU 。)
+
+(ID 106_aozora_Akutagawa-1921;JP)
+
+(NP-OB1 *pro*)
+
+(NP-OB1 *pro*)
+
+(PRO 貴様)
+
+(P-ROLE が)
+
+(VB つれ)
+
+(P-CONN て)
+
+(VB2 来)
+
+(NEG なけれ)
+
+(P-CONN ば)
+
+(PU 、)
+
+(PRO おれ)
+
+(P-ROLE が)
+
+(PRO あすこ)
+
+(P-ROLE へ)
+
+(VB 行っ)
+
+(P-CONN て)
+
+(VB 見る)
+
+(-RRB- 」)
+
+(ID 107_aozora_Akutagawa-1921;JP)
+
+(NPR 遠藤)
+
+(P-ROLE が)
+
+(N 次の間)
+
+(P-ROLE へ)
+
+(VB 踏みこも)
+
+(INFR う)
+
+(P-COMP と)
+
+(VB2 する)
+
+(P-CONN と)
+
+(PU 、)
+
+(N 咄嗟)
+
+(P-ROLE に)
+
+(NP-SBJ *T*)
+
+(N 印度人)
+
+(AX の)
+
+(N 婆さん)
+
+(P-OPTR は)
+
+(PU 、)
+
+(D その)
+
+(N 戸口)
+
+(P-ROLE に)
+
+(VB 立ち塞がり)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 108_aozora_Akutagawa-1921;JP)
+
+(-LRB- 「)
+
+(PRO ここ)
+
+(P-OPTR は)
+
+(PRO 私)
+
+(P-ROLE の)
+
+(N 家)
+
+(AX だ)
+
+(P-FINAL よ)
+
+(PU 。)
+
+(ID 109_aozora_Akutagawa-1921;JP)
+
+(NP-SBJ *speaker*)
+
+(NP-SBJ *T*)
+
+(ADJN 見ず知らず)
+
+(AX の)
+
+(PRO お前さん)
+
+(P-ROLE なんぞ)
+
+(P-ROLE に)
+
+(PU 、)
+
+(N 奥)
+
+(P-ROLE へ)
+
+(VB はいら)
+
+(PASS れ)
+
+(P-CONN て)
+
+(VB たまる)
+
+(P-FINAL もの)
+
+(P-FINAL か)
+
+(-RRB- 」)
+
+(ID 110_aozora_Akutagawa-1921;JP)
+
+(-LRB- 「)
+
+(NP-SBJ *hearer*)
+
+(VB 退け)
+
+(PU 。)
+
+(ID 111_aozora_Akutagawa-1921;JP)
+
+(NP-SBJ *speaker*)
+
+(NP-OB1 *hearer*)
+
+(VB 退か)
+
+(NEG ない)
+
+(P-CONN と)
+
+(VB 射殺す)
+
+(P-FINAL ぞ)
+
+(-RRB- 」)
+
+(ID 112_aozora_Akutagawa-1921;JP)
+
+(NPR 遠藤)
+
+(P-OPTR は)
+
+(N ピストル)
+
+(P-ROLE を)
+
+(VB 挙げ)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 113_aozora_Akutagawa-1921;JP)
+
+(NP-SBJ *pro*)
+
+(NP-OB1 *pro*)
+
+(INTJ いや)
+
+(PU 、)
+
+(VB 挙げ)
+
+(INFR よう)
+
+(P-COMP と)
+
+(VB2 し)
+
+(AXD た)
+
+(FN の)
+
+(AX です)
+
+(PU 。)
+
+(ID 114_aozora_Akutagawa-1921;JP)
+
+(CONJ が)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(D その)
+
+(N 拍子)
+
+(P-ROLE に)
+
+(N 婆さん)
+
+(P-ROLE が)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(N 鴉)
+
+(P-ROLE の)
+
+(VB 啼く)
+
+(N よう)
+
+(AX な)
+
+(N 声)
+
+(P-ROLE を)
+
+(VB 立て)
+
+(AXD た)
+
+(P-FINAL か)
+
+(P-COMP と)
+
+(VB 思う)
+
+(P-CONN と)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(ADV まるで)
+
+(N 電気)
+
+(P-ROLE に)
+
+(VB 打た)
+
+(PASS れ)
+
+(AXD た)
+
+(N よう)
+
+(P-ROLE に)
+
+(PU 、)
+
+(N ピストル)
+
+(P-OPTR は)
+
+(N 手)
+
+(P-ROLE から)
+
+(VB 落ち)
+
+(P-CONN て)
+
+(VB2 しまい)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 115_aozora_Akutagawa-1921;JP)
+
+(PRO これ)
+
+(P-ROLE に)
+
+(P-OPTR は)
+
+(NP-SBJ *T*)
+
+(VB 勇み立っ)
+
+(AXD た)
+
+(NPR 遠藤)
+
+(P-OPTR も)
+
+(PU 、)
+
+(ADV さすが)
+
+(P-ROLE に)
+
+(N 胆)
+
+(P-ROLE を)
+
+(VB ひしが)
+
+(PASS2 れ)
+
+(AXD た)
+
+(FN の)
+
+(AX でしょ)
+
+(INFR う)
+
+(PU 、)
+
+(ID 116_aozora_Akutagawa-1921;JP)
+
+(NP-SBJ *pro*)
+
+(ADV ちょいと)
+
+(P-ROLE の)
+
+(N 間)
+
+(P-OPTR は)
+
+(ADJN 不思議)
+
+(FN そう)
+
+(AX に)
+
+(PU 、)
+
+(N あたり)
+
+(P-ROLE を)
+
+(VB 見廻し)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AX まし)
+
+(AXD た)
+
+(P-CONN が)
+
+(PU 、)
+
+(ADV 忽ち)
+
+(ADV 又)
+
+(N 勇気)
+
+(P-ROLE を)
+
+(VB とり直す)
+
+(P-CONN と)
+
+(PU 、)
+
+(NP-OB1 *pro*)
+
+(-LRB- 「)
+
+(N 魔法使め)
+
+(-RRB- 」)
+
+(P-COMP と)
+
+(VB 罵り)
+
+(P-CONN ながら)
+
+(PU 、)
+
+(N 虎)
+
+(P-ROLE の)
+
+(N よう)
+
+(P-ROLE に)
+
+(N 婆さん)
+
+(P-ROLE へ)
+
+(VB 飛びかかり)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 117_aozora_Akutagawa-1921;JP)
+
+(CONJ が)
+
+(PU 、)
+
+(N 婆さん)
+
+(P-OPTR も)
+
+(PNL さる)
+
+(N もの)
+
+(AX です)
+
+(PU 。)
+
+(ID 118_aozora_Akutagawa-1921;JP)
+
+(NP-SBJ *pro*)
+
+(ADV ひらり)
+
+(P-ROLE と)
+
+(N 身)
+
+(P-ROLE を)
+
+(VB 躱す)
+
+(P-CONN が早いか)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(PRO そこ)
+
+(P-ROLE に)
+
+(VB あっ)
+
+(AXD た)
+
+(N 箒)
+
+(P-ROLE を)
+
+(VB とっ)
+
+(P-CONN て)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(NP-OB1 *pro*)
+
+(ADV 又)
+
+(VB 掴みかかろ)
+
+(INFR う)
+
+(P-COMP と)
+
+(VB2 する)
+
+(NPR 遠藤)
+
+(P-ROLE の)
+
+(N 顔)
+
+(P-ROLE へ)
+
+(PU 、)
+
+(N 床)
+
+(P-ROLE の)
+
+(N 上)
+
+(P-ROLE の)
+
+(N 五味)
+
+(P-ROLE を)
+
+(VB 掃きかけ)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 119_aozora_Akutagawa-1921;JP)
+
+(CONJ すると)
+
+(PU 、)
+
+(D その)
+
+(N 五味)
+
+(P-ROLE が)
+
+(Q 皆)
+
+(N 火花)
+
+(AX に)
+
+(VB なっ)
+
+(P-CONN て)
+
+(PU 、)
+
+(NP-SBJ *exp*)
+
+(N 眼)
+
+(P-ROLE と)
+
+(VB いわ)
+
+(NEG ず)
+
+(PU 、)
+
+(NP-SBJ *exp*)
+
+(N 口)
+
+(P-ROLE と)
+
+(VB いわ)
+
+(NEG ず)
+
+(PU 、)
+
+(ADV ばらばら)
+
+(P-ROLE と)
+
+(NPR 遠藤)
+
+(P-ROLE の)
+
+(N 顔)
+
+(P-ROLE へ)
+
+(VB 焼きつく)
+
+(FN の)
+
+(AX です)
+
+(PU 。)
+
+(ID 120_aozora_Akutagawa-1921;JP)
+
+(NPR 遠藤)
+
+(P-OPTR は)
+
+(ADV とうとう)
+
+(VB たまり)
+
+(VB2 兼ね)
+
+(P-CONN て)
+
+(PU 、)
+
+(N 火花)
+
+(P-ROLE の)
+
+(N 旋風)
+
+(P-ROLE に)
+
+(VB 追わ)
+
+(PASS れ)
+
+(P-CONN ながら)
+
+(PU 、)
+
+(VB 転げる)
+
+(N よう)
+
+(P-ROLE に)
+
+(N 外)
+
+(P-ROLE へ)
+
+(VB 逃げ出し)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 121_aozora_Akutagawa-1921;JP)
+
+(LS 三)
+
+(ID 122_aozora_Akutagawa-1921;JP)
+
+(NP-SBJ *T*)
+
+(D その)
+
+(N 夜)
+
+(P-ROLE の)
+
+(NUM 十二)
+
+(CL 時)
+
+(P-ROLE に)
+
+(ADJI 近い)
+
+(N 時分)
+
+(PU 、)
+
+(NPR 遠藤)
+
+(P-OPTR は)
+
+(NUM 独り)
+
+(N 婆さん)
+
+(P-ROLE の)
+
+(N 家)
+
+(P-ROLE の)
+
+(N 前)
+
+(P-ROLE に)
+
+(VB たたずみ)
+
+(P-CONN ながら)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(NUM 二)
+
+(CL 階)
+
+(P-ROLE の)
+
+(N 硝子窓)
+
+(P-ROLE に)
+
+(VB 映る)
+
+(N 火影)
+
+(P-ROLE を)
+
+(ADJI 口惜し)
+
+(FN そう)
+
+(AX に)
+
+(VB 見つめ)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 123_aozora_Akutagawa-1921;JP)
+
+(-LRB- 「)
+
+(NP-SBJ *speaker*)
+
+(ADV 折角)
+
+(N 御嬢さん)
+
+(P-ROLE の)
+
+(N 在りか)
+
+(P-ROLE を)
+
+(VB つきとめ)
+
+(P-CONN ながら)
+
+(PU 、)
+
+(NP-OB1 *pro*)
+
+(VB とり戻す)
+
+(N こと)
+
+(P-ROLE が)
+
+(VB 出来)
+
+(NEG ない)
+
+(N の)
+
+(P-OPTR は)
+
+(ADJN 残念)
+
+(AX だ)
+
+(P-FINAL な)
+
+(PU 。)
+
+(ID 124_aozora_Akutagawa-1921;JP)
+
+(NP-SBJ *speaker*)
+
+(NP-OB1 *pro*)
+
+(ADV 一そ)
+
+(N 警察)
+
+(P-ROLE へ)
+
+(VB 訴え)
+
+(INFR よう)
+
+(P-FINAL か)
+
+(PU ？)
+
+(ID 125_aozora_Akutagawa-1921;JP)
+
+(INTJ いや)
+
+(PU 、)
+
+(INTJ いや)
+
+(PU 、)
+
+(NPR 支那)
+
+(P-ROLE の)
+
+(N 警察)
+
+(P-ROLE が)
+
+(ADJI 手ぬるい)
+
+(N こと)
+
+(P-OPTR は)
+
+(PU 、)
+
+(NPR 香港)
+
+(P-ROLE で)
+
+(ADV もう)
+
+(ADV 懲り懲り)
+
+(VB し)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(PU 。)
+
+(ID 126_aozora_Akutagawa-1921;JP)
+
+(NP-SBJ *speaker*)
+
+(ADV 万一)
+
+(N 今度)
+
+(P-OPTR も)
+
+(VB 逃げ)
+
+(PASS られ)
+
+(P-CONN たら)
+
+(PU 、)
+
+(NP-SBJ *speaker*)
+
+(NP-OB1 *pro*)
+
+(ADV 又)
+
+(VB 探す)
+
+(N の)
+
+(P-ROLE が)
+
+(ADJN 一苦労)
+
+(AX だ)
+
+(PU 。)
+
+(ID 127_aozora_Akutagawa-1921;JP)
+
+(CONJ といって)
+
+(D あの)
+
+(N 魔法使)
+
+(P-ROLE に)
+
+(P-OPTR は)
+
+(PU 、)
+
+(N ピストル)
+
+(P-OPTR さえ)
+
+(N 役)
+
+(P-ROLE に)
+
+(VB 立た)
+
+(NEG ない)
+
+(P-FINAL し)
+
+(PU 、)
+
+(PU ――)
+
+(-RRB- 」)
+
+(ID 128_aozora_Akutagawa-1921;JP)
+
+(NPR 遠藤)
+
+(P-ROLE が)
+
+(D そんな)
+
+(N こと)
+
+(P-ROLE を)
+
+(VB 考え)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(P-CONN と)
+
+(PU 、)
+
+(ADV 突然)
+
+(NP-SBJ *T*)
+
+(NP-SBJ *T*)
+
+(ADJI 高い)
+
+(NUM 二)
+
+(CL 階)
+
+(P-ROLE の)
+
+(N 窓)
+
+(P-ROLE から)
+
+(PU 、)
+
+(ADV ひらひら)
+
+(VB 落ち)
+
+(P-CONN て)
+
+(VB2 来)
+
+(AXD た)
+
+(N 紙切れ)
+
+(P-ROLE が)
+
+(VB あり)
+
+(AX ます)
+
+(PU 。)
+
+(ID 129_aozora_Akutagawa-1921;JP)
+
+(-LRB- 「)
+
+(INTJ おや)
+
+(PU 、)
+
+(N 紙切れ)
+
+(P-ROLE が)
+
+(VB 落ち)
+
+(P-CONN て)
+
+(VB2 来)
+
+(AXD た)
+
+(P-FINAL が)
+
+(PU 、)
+
+(ID 130_aozora_Akutagawa-1921;JP)
+
+(NP-SBJ *pro*)
+
+(PU ――)
+
+(ADV もしや)
+
+(N 御嬢さん)
+
+(P-ROLE の)
+
+(N 手紙)
+
+(AX じゃ)
+
+(NEG ない)
+
+(P-FINAL か)
+
+(PU ？)
+
+(-RRB- 」)
+
+(ID 131_aozora_Akutagawa-1921;JP)
+
+(NP-SBJ *T*)
+
+(NP-OB1 *pro*)
+
+(ADV こう)
+
+(VB 呟い)
+
+(AXD た)
+
+(NPR 遠藤)
+
+(P-OPTR は)
+
+(PU 、)
+
+(D その)
+
+(N 紙切れ)
+
+(P-ROLE を)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(NP-OB1 *pro*)
+
+(VB 拾い上げ)
+
+(P-CONN ながら)
+
+(NP-OB1 *T*)
+
+(NP-SBJ *pro*)
+
+(ADV そっと)
+
+(VB 隠し)
+
+(AXD た)
+
+(N 懐中電燈)
+
+(P-ROLE を)
+
+(VB 出し)
+
+(P-CONN て)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJN まん円)
+
+(AX な)
+
+(N 光)
+
+(P-ROLE に)
+
+(VB 照らし)
+
+(P-CONN て)
+
+(VB 見)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 132_aozora_Akutagawa-1921;JP)
+
+(CONJ すると)
+
+(ADV 果して)
+
+(N 紙切れ)
+
+(P-ROLE の)
+
+(N 上)
+
+(P-ROLE に)
+
+(P-OPTR は)
+
+(PU 、)
+
+(NP-OB1 *T*)
+
+(NPR 妙子)
+
+(P-ROLE が)
+
+(VB 書い)
+
+(AXD た)
+
+(FN の)
+
+(P-ROLE に)
+
+(N 違い)
+
+(ADJI ない)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(VB 消え)
+
+(FN そう)
+
+(AX な)
+
+(N 鉛筆)
+
+(P-ROLE の)
+
+(N 跡)
+
+(P-ROLE が)
+
+(VB あり)
+
+(AX ます)
+
+(PU 。)
+
+(ID 133_aozora_Akutagawa-1921;JP)
+
+(-LRB- 「)
+
+(NPR 遠藤サン)
+
+(PU 。)
+
+(ID 134_aozora_Akutagawa-1921;JP)
+
+(D コノ)
+
+(N 家)
+
+(P-ROLE ノ)
+
+(N オ婆サン)
+
+(P-OPTR ハ)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJI 恐シイ)
+
+(N 魔法使)
+
+(AX デス)
+
+(PU 。)
+
+(ID 135_aozora_Akutagawa-1921;JP)
+
+(ADV 時々)
+
+(N 真夜中)
+
+(P-ROLE ニ)
+
+(PRO 私)
+
+(P-ROLE ノ)
+
+(N 体)
+
+(P-ROLE ヘ)
+
+(PU 、)
+
+(-LRB- 『)
+
+(NPR アグニ)
+
+(-RRB- 』)
+
+(P-ROLE トイウ)
+
+(NPR 印度)
+
+(P-ROLE ノ)
+
+(N 神)
+
+(P-ROLE ヲ)
+
+(VB 乗リ移ラ)
+
+(VB セ)
+
+(AX マス)
+
+(PU 。)
+
+(ID 136_aozora_Akutagawa-1921;JP)
+
+(PRO 私)
+
+(P-OPTR ハ)
+
+(D ソノ)
+
+(N 神)
+
+(P-ROLE ガ)
+
+(VB 乗リ移ッ)
+
+(P-CONN テ)
+
+(VB2 イル)
+
+(N 間中)
+
+(PU 、)
+
+(VB 死ン)
+
+(AX ダ)
+
+(N ヨウ)
+
+(AX ニ)
+
+(VB ナッ)
+
+(P-CONN テ)
+
+(VB2 イル)
+
+(FN ノ)
+
+(AX デス)
+
+(PU 。)
+
+(ID 137_aozora_Akutagawa-1921;JP)
+
+(CONJ デスカラ)
+
+(NP-SBJ *speaker*)
+
+(WD ドンナ)
+
+(N 事)
+
+(P-ROLE ガ)
+
+(VB 起ル)
+
+(P-FINAL カ)
+
+(VB 知リ)
+
+(AX マセ)
+
+(NEG ン)
+
+(P-CONN ガ)
+
+(PU 、)
+
+(ADV 何デモ)
+
+(N オ婆サン)
+
+(P-ROLE ノ)
+
+(N 話)
+
+(P-ROLE デ)
+
+(P-ROLE ハ)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(-LRB- 『)
+
+(NPR アグニ)
+
+(-RRB- 』)
+
+(AX ノ)
+
+(N 神)
+
+(P-ROLE ガ)
+
+(PRO 私)
+
+(P-ROLE ノ)
+
+(N 口)
+
+(P-ROLE ヲ)
+
+(VB 借リ)
+
+(P-CONN テ)
+
+(PU 、)
+
+(ADJN イロイロ)
+
+(N 予言)
+
+(P-ROLE ヲ)
+
+(VB スル)
+
+(FN ノ)
+
+(AX ダ)
+
+(FN ソウ)
+
+(AX デス)
+
+(PU 。)
+
+(ID 138_aozora_Akutagawa-1921;JP)
+
+(N 今夜)
+
+(P-ROLE モ)
+
+(NUM 十二)
+
+(CL 時)
+
+(P-ROLE ニ)
+
+(P-ROLE ハ)
+
+(N オ婆サン)
+
+(P-ROLE ガ)
+
+(ADV 又)
+
+(NP-SBJ *T*)
+
+(-LRB- 『)
+
+(NPR アグニ)
+
+(-RRB- 』)
+
+(AX ノ)
+
+(N 神)
+
+(P-ROLE ヲ)
+
+(VB 乗リ移ラ)
+
+(VB セ)
+
+(AX マス)
+
+(PU 。)
+
+(ID 139_aozora_Akutagawa-1921;JP)
+
+(NP-SBJ *speaker*)
+
+(NP-SBJ *exp*)
+
+(N イツモ)
+
+(AX ダ)
+
+(P-CONN ト)
+
+(PRO 私)
+
+(P-OPTR ハ)
+
+(ADV 知ラズ知ラズ)
+
+(PU 、)
+
+(N 気)
+
+(P-ROLE ガ)
+
+(ADJI 遠ク)
+
+(VB2 ナッ)
+
+(P-CONN テ)
+
+(VB2 シマウ)
+
+(FN ノ)
+
+(AX デス)
+
+(P-CONN ガ)
+
+(PU 、)
+
+(N 今夜)
+
+(P-ROLE ハ)
+
+(ADV ソウ)
+
+(VB ナラ)
+
+(NEG ナイ)
+
+(N 内)
+
+(P-ROLE ニ)
+
+(PU 、)
+
+(ADV ワザト)
+
+(N 魔法)
+
+(P-ROLE ニ)
+
+(VB カカッ)
+
+(AXD タ)
+
+(N 真似)
+
+(P-ROLE ヲ)
+
+(VB シ)
+
+(AX マス)
+
+(PU 。)
+
+(ID 140_aozora_Akutagawa-1921;JP)
+
+(NP-SBJ *speaker*)
+
+(CONJ ソウシテ)
+
+(NP-SBJ *pro*)
+
+(PRO 私)
+
+(P-ROLE ヲ)
+
+(N オ父様)
+
+(P-ROLE ノ)
+
+(N 所)
+
+(P-ROLE ヘ)
+
+(VB 返サ)
+
+(NEG ナイ)
+
+(P-CONN ト)
+
+(NP-SBJ *T*)
+
+(-LRB- 『)
+
+(NPR アグニ)
+
+(-RRB- 』)
+
+(AX ノ)
+
+(N 神)
+
+(P-ROLE ガ)
+
+(N オ婆サン)
+
+(P-ROLE ノ)
+
+(N 命)
+
+(P-ROLE ヲ)
+
+(VB トル)
+
+(P-COMP ト)
+
+(VB 言ッ)
+
+(P-CONN テ)
+
+(VB2 ヤリ)
+
+(AX マス)
+
+(PU 。)
+
+(ID 141_aozora_Akutagawa-1921;JP)
+
+(N オ婆サン)
+
+(P-OPTR ハ)
+
+(ADV 何ヨリ)
+
+(P-ROLE モ)
+
+(NP-SBJ *T*)
+
+(-LRB- 『)
+
+(NPR アグニ)
+
+(-RRB- 』)
+
+(AX ノ)
+
+(N 神)
+
+(P-ROLE ガ)
+
+(ADJI 怖イ)
+
+(FN ノ)
+
+(AX デス)
+
+(P-CONN カラ)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(PRO ソレ)
+
+(P-ROLE ヲ)
+
+(VB 聞ケ)
+
+(P-CONN バ)
+
+(ADV キット)
+
+(PRO 私)
+
+(P-ROLE ヲ)
+
+(VB 返ス)
+
+(AX ダロウ)
+
+(P-COMP ト)
+
+(VB 思イ)
+
+(AX マス)
+
+(PU 。)
+
+(ID 142_aozora_Akutagawa-1921;JP)
+
+(NP-SBJ *hearer*)
+
+(ADV ドウカ)
+
+(N 明日)
+
+(P-ROLE ノ)
+
+(N 朝)
+
+(ADV モウ)
+
+(NUM 一)
+
+(CL 度)
+
+(PU 、)
+
+(N オ婆サン)
+
+(P-ROLE ノ)
+
+(N 所)
+
+(P-ROLE ヘ)
+
+(VB 来)
+
+(P-CONN テ)
+
+(VB2 下サイ)
+
+(PU 。)
+
+(ID 143_aozora_Akutagawa-1921;JP)
+
+(D コノ)
+
+(N 計略)
+
+(P-ROLE ノ)
+
+(N 外)
+
+(P-ROLE ニ)
+
+(P-ROLE ハ)
+
+(NP-SBJ *speaker*)
+
+(N オ婆サン)
+
+(P-ROLE ノ)
+
+(N 手)
+
+(P-ROLE カラ)
+
+(PU 、)
+
+(VB 逃ゲ出ス)
+
+(N ミチ)
+
+(P-OPTR ハ)
+
+(VB アリ)
+
+(AX マセ)
+
+(NEG ン)
+
+(PU 。)
+
+(ID 144_aozora_Akutagawa-1921;JP)
+
+(INTJ サヨウナラ)
+
+(-RRB- 」)
+
+(ID 145_aozora_Akutagawa-1921;JP)
+
+(NPR 遠藤)
+
+(P-OPTR は)
+
+(N 手紙)
+
+(P-ROLE を)
+
+(VB 読み)
+
+(VB2 終る)
+
+(P-CONN と)
+
+(PU 、)
+
+(N 懐中時計)
+
+(P-ROLE を)
+
+(VB 出し)
+
+(P-CONN て)
+
+(VB 見)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 146_aozora_Akutagawa-1921;JP)
+
+(N 時計)
+
+(P-OPTR は)
+
+(NUM 十二)
+
+(CL 時)
+
+(NUM 五)
+
+(CL 分)
+
+(N 前)
+
+(AX です)
+
+(PU 。)
+
+(ID 147_aozora_Akutagawa-1921;JP)
+
+(-LRB- 「)
+
+(ADV もう)
+
+(ADV そろそろ)
+
+(N 時刻)
+
+(AX に)
+
+(VB なる)
+
+(P-FINAL な)
+
+(PU 、)
+
+(ID 148_aozora_Akutagawa-1921;JP)
+
+(N 相手)
+
+(P-OPTR は)
+
+(D あんな)
+
+(N 魔法使)
+
+(AX だ)
+
+(P-CONN し)
+
+(PU 、)
+
+(N 御嬢さん)
+
+(P-OPTR は)
+
+(ADV まだ)
+
+(N 子供)
+
+(AX だ)
+
+(P-CONN から)
+
+(PU 、)
+
+(ADV 余程)
+
+(N 運)
+
+(P-ROLE が)
+
+(ADJI 好く)
+
+(NEG ない)
+
+(P-CONN と)
+
+(PU 、)
+
+(PU ――)
+
+(-RRB- 」)
+
+(ID 149_aozora_Akutagawa-1921;JP)
+
+(NPR 遠藤)
+
+(P-ROLE の)
+
+(N 言葉)
+
+(P-ROLE が)
+
+(VB 終ら)
+
+(NEG ない)
+
+(N 内)
+
+(P-ROLE に)
+
+(PU 、)
+
+(ADV もう)
+
+(N 魔法)
+
+(P-ROLE が)
+
+(VB 始まる)
+
+(FN の)
+
+(AX でしょ)
+
+(INFR う)
+
+(PU 。)
+
+(ID 150_aozora_Akutagawa-1921;JP)
+
+(NP-SBJ *T*)
+
+(N 今)
+
+(P-ROLE まで)
+
+(ADJI 明るかっ)
+
+(AXD た)
+
+(NUM 二)
+
+(CL 階)
+
+(P-ROLE の)
+
+(N 窓)
+
+(P-OPTR は)
+
+(PU 、)
+
+(ADJN 急)
+
+(AX に)
+
+(ADJN まっ暗)
+
+(AX に)
+
+(VB なっ)
+
+(P-CONN て)
+
+(VB2 しまい)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 151_aozora_Akutagawa-1921;JP)
+
+(CONJ と同時に)
+
+(NP-SBJ *T*)
+
+(ADJN 不思議)
+
+(AX な)
+
+(N 香)
+
+(P-ROLE の)
+
+(N 匂)
+
+(P-ROLE が)
+
+(PU 、)
+
+(N 町)
+
+(P-ROLE の)
+
+(N 敷石)
+
+(P-ROLE に)
+
+(P-OPTR も)
+
+(VB 滲みる)
+
+(P-OPTR 程)
+
+(PU 、)
+
+(WPRO どこ)
+
+(P-ROLE から)
+
+(P-OPTR か)
+
+(ADJN 静)
+
+(AX に)
+
+(VB 漂っ)
+
+(P-CONN て)
+
+(VB2 来)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 152_aozora_Akutagawa-1921;JP)
+
+(LS 四)
+
+(ID 153_aozora_Akutagawa-1921;JP)
+
+(D その)
+
+(N 時)
+
+(D あの)
+
+(NP-SBJ *T*)
+
+(N 印度人)
+
+(AX の)
+
+(N 婆さん)
+
+(P-OPTR は)
+
+(PU 、)
+
+(N ランプ)
+
+(P-ROLE を)
+
+(VB 消し)
+
+(AXD た)
+
+(NUM 二)
+
+(CL 階)
+
+(P-ROLE の)
+
+(N 部屋)
+
+(P-ROLE の)
+
+(N 机)
+
+(P-ROLE に)
+
+(PU 、)
+
+(N 魔法)
+
+(P-ROLE の)
+
+(N 書物)
+
+(P-ROLE を)
+
+(VB 拡げ)
+
+(P-CONN ながら)
+
+(PU 、)
+
+(ADV 頻に)
+
+(N 呪文)
+
+(P-ROLE を)
+
+(VB 唱え)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 154_aozora_Akutagawa-1921;JP)
+
+(N 書物)
+
+(P-OPTR は)
+
+(N 香炉)
+
+(P-ROLE の)
+
+(N 火)
+
+(P-ROLE の)
+
+(N 光)
+
+(P-ROLE に)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(ADJI 暗い)
+
+(N 中)
+
+(P-ROLE で)
+
+(P-OPTR も)
+
+(N 文字)
+
+(P-OPTR だけ)
+
+(P-OPTR は)
+
+(PU 、)
+
+(ADV ぼんやり)
+
+(VB 浮き上ら)
+
+(VB2 せ)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(FN の)
+
+(AX です)
+
+(PU 。)
+
+(ID 155_aozora_Akutagawa-1921;JP)
+
+(N 婆さん)
+
+(P-ROLE の)
+
+(N 前)
+
+(P-ROLE に)
+
+(P-OPTR は)
+
+(NP-SBJ *T*)
+
+(ADJN 心配)
+
+(FN そう)
+
+(AX な)
+
+(NPR 恵蓮)
+
+(P-ROLE が)
+
+(PU 、)
+
+(PU ――)
+
+(INTJ いや)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(NP-LGS *pro*)
+
+(N 支那服)
+
+(P-ROLE を)
+
+(VB 着せ)
+
+(PASS2 られ)
+
+(AXD た)
+
+(NPR 妙子)
+
+(P-ROLE が)
+
+(PU 、)
+
+(ADV じっと)
+
+(N 椅子)
+
+(P-ROLE に)
+
+(VB 坐っ)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 156_aozora_Akutagawa-1921;JP)
+
+(NP-OB1 *T*)
+
+(NP-SBJ *pro*)
+
+(ADV さっき)
+
+(N 窓)
+
+(P-ROLE から)
+
+(VB 落し)
+
+(AXD た)
+
+(N 手紙)
+
+(P-OPTR は)
+
+(PU 、)
+
+(ADJN 無事)
+
+(AX に)
+
+(NPR 遠藤さん)
+
+(P-ROLE の)
+
+(N 手)
+
+(P-ROLE へ)
+
+(VB はいっ)
+
+(AXD た)
+
+(AX で)
+
+(VB2 あろう)
+
+(P-FINAL か)
+
+(PU ？)
+
+(ID 157_aozora_Akutagawa-1921;JP)
+
+(NP-SBJ *pro*)
+
+(NP-SBJ *speaker*)
+
+(D あの)
+
+(N 時)
+
+(NP-SBJ *T*)
+
+(N 往来)
+
+(P-ROLE に)
+
+(VB い)
+
+(AXD た)
+
+(N 人影)
+
+(P-OPTR は)
+
+(PU 、)
+
+(ADJN 確)
+
+(AX に)
+
+(NPR 遠藤さん)
+
+(AX だ)
+
+(P-COMP と)
+
+(VB 思っ)
+
+(AXD た)
+
+(P-CONN が)
+
+(PU 、)
+
+(ADV もし)
+
+(P-ROLE や)
+
+(N 人違い)
+
+(AX で)
+
+(P-OPTR は)
+
+(NEG なかっ)
+
+(AXD た)
+
+(AX で)
+
+(VB2 あろ)
+
+(INFR う)
+
+(P-FINAL か)
+
+(PU ？)
+
+(ID 158_aozora_Akutagawa-1921;JP)
+
+(PU ――)
+
+(NP-OB1 *pro*)
+
+(ADV そう)
+
+(VB 思う)
+
+(P-CONN と)
+
+(NPR 妙子)
+
+(P-OPTR は)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(NP-SBJ *pro*)
+
+(ADJI いても立ってもいられない)
+
+(N よう)
+
+(AX な)
+
+(N 気)
+
+(P-ROLE が)
+
+(VB し)
+
+(P-CONN て)
+
+(VB2 来)
+
+(AX ます)
+
+(PU 。)
+
+(ID 159_aozora_Akutagawa-1921;JP)
+
+(CONJ しかし)
+
+(NP-SBJ *pro*)
+
+(N 今)
+
+(ADV うっかり)
+
+(D そんな)
+
+(N 気ぶり)
+
+(P-ROLE が)
+
+(PU 、)
+
+(N 婆さん)
+
+(P-ROLE の)
+
+(N 眼)
+
+(P-ROLE に)
+
+(P-OPTR でも)
+
+(VB 止まっ)
+
+(AXD た)
+
+(P-CONN が)
+
+(N 最後)
+
+(AX *)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(D この)
+
+(NP-SBJ *T*)
+
+(ADJI 恐しい)
+
+(N 魔法使い)
+
+(P-ROLE の)
+
+(N 家)
+
+(P-ROLE から)
+
+(PU 、)
+
+(VB 逃げ出そ)
+
+(INFR う)
+
+(P-COMP という)
+
+(N 計略)
+
+(P-OPTR は)
+
+(PU 、)
+
+(ADV すぐ)
+
+(P-ROLE に)
+
+(VB 見破ら)
+
+(PASS れ)
+
+(P-CONN て)
+
+(VB2 しまう)
+
+(AX でしょう)
+
+(PU 。)
+
+(ID 160_aozora_Akutagawa-1921;JP)
+
+(CONJ ですから)
+
+(NPR 妙子)
+
+(P-OPTR は)
+
+(ADJN 一生懸命)
+
+(AX に)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(VB 震える)
+
+(Q 両手)
+
+(P-ROLE を)
+
+(VB 組み合せ)
+
+(P-CONN ながら)
+
+(PU 、)
+
+(NP-OB1 *pro*)
+
+(ADV かねて)
+
+(VB たくん)
+
+(P-CONN で)
+
+(VB2 置い)
+
+(AXD た)
+
+(N 通り)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(NP-OB1 *pro*)
+
+(NP-SBJ *T*)
+
+(NPR アグニ)
+
+(AX の)
+
+(N 神)
+
+(P-ROLE が)
+
+(VB 乗り移っ)
+
+(AXD た)
+
+(N よう)
+
+(P-ROLE に)
+
+(PU 、)
+
+(VB 見せかける)
+
+(N 時)
+
+(P-ROLE の)
+
+(VB 近づく)
+
+(N の)
+
+(P-ROLE を)
+
+(NP-SBJ *pro*)
+
+(N 今)
+
+(AX *)
+
+(P-FINAL か)
+
+(NP-SBJ *pro*)
+
+(N 今)
+
+(AX *)
+
+(P-FINAL か)
+
+(P-COMP と)
+
+(VB 待っ)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 161_aozora_Akutagawa-1921;JP)
+
+(N 婆さん)
+
+(P-OPTR は)
+
+(N 呪文)
+
+(P-ROLE を)
+
+(VB 唱え)
+
+(P-CONN て)
+
+(VB2 しまう)
+
+(P-CONN と)
+
+(PU 、)
+
+(N 今度)
+
+(P-OPTR は)
+
+(NPR 妙子)
+
+(P-ROLE を)
+
+(VB めぐり)
+
+(P-CONN ながら)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJN いろいろ)
+
+(AX な)
+
+(N 手ぶり)
+
+(P-ROLE を)
+
+(VB し)
+
+(VB2 始め)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 162_aozora_Akutagawa-1921;JP)
+
+(NP-SBJ *pro*)
+
+(D 或)
+
+(N 時)
+
+(P-OPTR は)
+
+(N 前)
+
+(P-ROLE へ)
+
+(VB 立っ)
+
+(AXD た)
+
+(N まま)
+
+(PU 、)
+
+(Q 両手)
+
+(P-ROLE を)
+
+(N 左右)
+
+(P-ROLE に)
+
+(VB 挙げ)
+
+(P-CONN て)
+
+(VB 見せ)
+
+(P-CONN たり)
+
+(PU 、)
+
+(CONJ 又)
+
+(D 或)
+
+(N 時)
+
+(P-OPTR は)
+
+(N 後)
+
+(P-ROLE へ)
+
+(VB 来)
+
+(P-CONN て)
+
+(PU 、)
+
+(ADV まるで)
+
+(N 眼かくし)
+
+(P-OPTR でも)
+
+(VB する)
+
+(N よう)
+
+(P-ROLE に)
+
+(PU 、)
+
+(ADV そっと)
+
+(NPR 妙子)
+
+(P-ROLE の)
+
+(N 額)
+
+(P-ROLE の)
+
+(N 上)
+
+(P-ROLE へ)
+
+(N 手)
+
+(P-ROLE を)
+
+(VB かざし)
+
+(P-CONN たり)
+
+(VB2 する)
+
+(FN の)
+
+(AX です)
+
+(PU 。)
+
+(ID 163_aozora_Akutagawa-1921;JP)
+
+(NP-SBJ *speaker*)
+
+(ADV もし)
+
+(D この)
+
+(N 時)
+
+(N 部屋)
+
+(P-ROLE の)
+
+(N 外)
+
+(P-ROLE から)
+
+(PU 、)
+
+(WPRO 誰)
+
+(P-OPTR か)
+
+(N 婆さん)
+
+(P-ROLE の)
+
+(N 容子)
+
+(P-ROLE を)
+
+(VB 見)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AXD た)
+
+(P-COMP と)
+
+(VB すれ)
+
+(P-CONN ば)
+
+(PU 、)
+
+(PRO それ)
+
+(P-OPTR は)
+
+(ADV きっと)
+
+(NP-SBJ *T*)
+
+(ADJN 大きな)
+
+(AX *)
+
+(N 蝙蝠)
+
+(P-CONN か)
+
+(WPRO 何)
+
+(P-OPTR か)
+
+(P-ROLE が)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJI 蒼白い)
+
+(N 香炉)
+
+(P-ROLE の)
+
+(N 火)
+
+(P-ROLE の)
+
+(N 光)
+
+(P-ROLE の)
+
+(N 中)
+
+(P-ROLE に)
+
+(PU 、)
+
+(VB 飛びまわっ)
+
+(P-CONN て)
+
+(P-CONN でも)
+
+(VB2 いる)
+
+(N よう)
+
+(P-ROLE に)
+
+(VB 見え)
+
+(AXD た)
+
+(AX でしょう)
+
+(PU 。)
+
+(ID 164_aozora_Akutagawa-1921;JP)
+
+(D その)
+
+(N 内)
+
+(P-ROLE に)
+
+(NPR 妙子)
+
+(P-OPTR は)
+
+(WPRO いつ)
+
+(P-OPTR も)
+
+(P-ROLE の)
+
+(N よう)
+
+(P-ROLE に)
+
+(PU 、)
+
+(ADV だんだん)
+
+(N 睡気)
+
+(P-ROLE が)
+
+(VB きざし)
+
+(P-CONN て)
+
+(VB2 来)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 165_aozora_Akutagawa-1921;JP)
+
+(CONJ が)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(PRO ここ)
+
+(P-ROLE で)
+
+(VB 睡っ)
+
+(P-CONN て)
+
+(VB2 しまっ)
+
+(P-CONN て)
+
+(P-OPTR は)
+
+(PU 、)
+
+(NP-OB1 *pro*)
+
+(ADV 折角)
+
+(P-ROLE の)
+
+(N 計略)
+
+(P-ROLE に)
+
+(VB かける)
+
+(N こと)
+
+(P-OPTR も)
+
+(PU 、)
+
+(VB 出来)
+
+(NEG なく)
+
+(VB2 なっ)
+
+(P-CONN て)
+
+(VB2 しまう)
+
+(N 道理)
+
+(AX です)
+
+(PU 。)
+
+(ID 166_aozora_Akutagawa-1921;JP)
+
+(NP-SBJ *pro*)
+
+(CONJ そうして)
+
+(PRO これ)
+
+(P-ROLE が)
+
+(VB 出来)
+
+(NEG なけれ)
+
+(P-ROLE ば)
+
+(PU 、)
+
+(ADV 勿論)
+
+(NUM 二)
+
+(CL 度)
+
+(P-ROLE と)
+
+(N お父さん)
+
+(P-ROLE の)
+
+(N 所)
+
+(P-ROLE へ)
+
+(P-OPTR も)
+
+(PU 、)
+
+(VB 帰れ)
+
+(NEG なく)
+
+(VB2 なる)
+
+(FN の)
+
+(P-ROLE に)
+
+(N 違い)
+
+(VB あり)
+
+(AX ませ)
+
+(NEG ん)
+
+(PU 。)
+
+(ID 167_aozora_Akutagawa-1921;JP)
+
+(-LRB- 「)
+
+(NP-SBJ *hearer*)
+
+(NP-OB1 *speaker*)
+
+(NPR 日本)
+
+(P-ROLE の)
+
+(N 神々様)
+
+(PU 、)
+
+(ADV どうか)
+
+(PRO 私)
+
+(P-ROLE が)
+
+(VB 睡ら)
+
+(NEG ない)
+
+(N よう)
+
+(P-ROLE に)
+
+(PU 、)
+
+(VB 御守り)
+
+(VB2 なすっ)
+
+(P-CONN て)
+
+(VB2 下さい)
+
+(AX まし)
+
+(PU 。)
+
+(ID 168_aozora_Akutagawa-1921;JP)
+
+(D その)
+
+(N 代り)
+
+(PRO 私)
+
+(P-OPTR は)
+
+(ADV もう)
+
+(NUM 一)
+
+(CL 度)
+
+(PU 、)
+
+(ADV たとい)
+
+(N 一目)
+
+(P-ROLE で)
+
+(P-OPTR も)
+
+(N お父さん)
+
+(P-ROLE の)
+
+(N 御顔)
+
+(P-ROLE を)
+
+(VB 見る)
+
+(N こと)
+
+(P-ROLE が)
+
+(VB 出来)
+
+(AXD た)
+
+(P-CONN なら)
+
+(PU 、)
+
+(ADV すぐ)
+
+(P-ROLE に)
+
+(VB 死ん)
+
+(P-CONN で)
+
+(P-OPTR も)
+
+(ADJI よろしゅう)
+
+(VB2 ござい)
+
+(AX ます)
+
+(PU 。)
+
+(ID 169_aozora_Akutagawa-1921;JP)
+
+(NP-SBJ *hearer*)
+
+(NPR 日本)
+
+(P-ROLE の)
+
+(N 神々様)
+
+(PU 、)
+
+(ADV どうか)
+
+(NP-SBJ *speaker*)
+
+(N お婆さん)
+
+(P-ROLE を)
+
+(VB 欺せる)
+
+(N よう)
+
+(P-ROLE に)
+
+(PU 、)
+
+(N 御力)
+
+(P-ROLE を)
+
+(VB 御貸し)
+
+(VB2 下さい)
+
+(AX まし)
+
+(-RRB- 」)
+
+(ID 170_aozora_Akutagawa-1921;JP)
+
+(NPR 妙子)
+
+(P-OPTR は)
+
+(WNUM 何)
+
+(CL 度)
+
+(P-OPTR も)
+
+(N 心)
+
+(P-ROLE の)
+
+(N 中)
+
+(P-ROLE に)
+
+(PU 、)
+
+(ADJN 熱心)
+
+(AX に)
+
+(N 祈り)
+
+(P-ROLE を)
+
+(VB 続け)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 171_aozora_Akutagawa-1921;JP)
+
+(NP-SBJ *pro*)
+
+(CONJ しかし)
+
+(N 睡気)
+
+(P-OPTR は)
+
+(ADV おいおい)
+
+(P-ROLE と)
+
+(PU 、)
+
+(ADJI 強く)
+
+(VB なっ)
+
+(P-CONN て)
+
+(VB2 来る)
+
+(P-CONN ばかり)
+
+(AX です)
+
+(PU 。)
+
+(ID 172_aozora_Akutagawa-1921;JP)
+
+(CONJ と同時に)
+
+(NPR 妙子)
+
+(P-ROLE の)
+
+(N 耳)
+
+(P-ROLE に)
+
+(P-OPTR は)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(NP-SBJ *exp*)
+
+(ADV 丁度)
+
+(N 銅鑼)
+
+(P-OPTR でも)
+
+(VB 鳴らす)
+
+(N よう)
+
+(AX な)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(N 得体)
+
+(P-ROLE の)
+
+(VB 知れ)
+
+(NEG ない)
+
+(N 音楽)
+
+(P-ROLE の)
+
+(N 声)
+
+(P-ROLE が)
+
+(PU 、)
+
+(ADJN かすか)
+
+(AX に)
+
+(VB 伝わり)
+
+(VB2 始め)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 173_aozora_Akutagawa-1921;JP)
+
+(PRO これ)
+
+(P-OPTR は)
+
+(NP-SBJ *T*)
+
+(WPRO いつ)
+
+(P-OPTR でも)
+
+(NP-SBJ *T*)
+
+(NPR アグニ)
+
+(AX の)
+
+(N 神)
+
+(P-ROLE が)
+
+(PU 、)
+
+(N 空)
+
+(P-ROLE から)
+
+(VB 降り)
+
+(P-CONN て)
+
+(VB2 来る)
+
+(N 時)
+
+(P-ROLE に)
+
+(PU 、)
+
+(ADV きっと)
+
+(VB 聞える)
+
+(N 声)
+
+(AX な)
+
+(FN の)
+
+(AX です)
+
+(PU 。)
+
+(ID 174_aozora_Akutagawa-1921;JP)
+
+(NP-SBJ *pro*)
+
+(ADV もう)
+
+(ADV こう)
+
+(VB なっ)
+
+(P-CONN て)
+
+(P-OPTR は)
+
+(NP-OB1 *pro*)
+
+(WNUM いくら)
+
+(VB 我慢)
+
+(VB0 し)
+
+(P-CONN て)
+
+(P-OPTR も)
+
+(PU 、)
+
+(VB 睡ら)
+
+(NEG ずに)
+
+(VB2 いる)
+
+(N こと)
+
+(P-OPTR は)
+
+(VB 出来)
+
+(AX ませ)
+
+(NEG ん)
+
+(PU 。)
+
+(ID 175_aozora_Akutagawa-1921;JP)
+
+(ADV 現に)
+
+(N 目)
+
+(P-ROLE の)
+
+(N 前)
+
+(P-ROLE の)
+
+(N 香炉)
+
+(P-ROLE の)
+
+(N 火)
+
+(P-CONN や)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(N 印度人)
+
+(AX の)
+
+(N 婆さん)
+
+(P-ROLE の)
+
+(N 姿)
+
+(P-OPTR でさえ)
+
+(PU 、)
+
+(N 気味)
+
+(P-ROLE の)
+
+(ADJI 悪い)
+
+(N 夢)
+
+(P-ROLE が)
+
+(VB 薄れる)
+
+(N よう)
+
+(P-ROLE に)
+
+(PU 、)
+
+(ADV 見る見る)
+
+(VB 消え失せ)
+
+(P-CONN て)
+
+(VB2 しまう)
+
+(FN の)
+
+(AX です)
+
+(PU 。)
+
+(ID 176_aozora_Akutagawa-1921;JP)
+
+(-LRB- 「)
+
+(NP-SBJ *hearer*)
+
+(NP-SBJ *T*)
+
+(NPR アグニ)
+
+(AX の)
+
+(N 神)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(NPR アグニ)
+
+(AX の)
+
+(N 神)
+
+(PU 、)
+
+(ADV どうか)
+
+(NP-OB1 *T*)
+
+(PRO 私)
+
+(P-ROLE の)
+
+(VB 申す)
+
+(N こと)
+
+(P-ROLE を)
+
+(VB 御聞き入れ)
+
+(VB2 下さい)
+
+(AX まし)
+
+(-RRB- 」)
+
+(ID 177_aozora_Akutagawa-1921;JP)
+
+(ADV やがて)
+
+(D あの)
+
+(N 魔法使い)
+
+(P-ROLE が)
+
+(PU 、)
+
+(N 床)
+
+(P-ROLE の)
+
+(N 上)
+
+(P-ROLE に)
+
+(VB ひれ伏し)
+
+(AXD た)
+
+(N まま)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(VB 嗄れ)
+
+(AX た)
+
+(N 声)
+
+(P-ROLE を)
+
+(VB 挙げ)
+
+(AXD た)
+
+(N 時)
+
+(P-ROLE に)
+
+(P-OPTR は)
+
+(PU 、)
+
+(NPR 妙子)
+
+(P-OPTR は)
+
+(N 椅子)
+
+(P-ROLE に)
+
+(VB 坐り)
+
+(P-CONN ながら)
+
+(PU 、)
+
+(ADV 殆ど)
+
+(N 生死)
+
+(P-OPTR も)
+
+(VB 知ら)
+
+(NEG ない)
+
+(N よう)
+
+(P-ROLE に)
+
+(PU 、)
+
+(WPRO いつ)
+
+(P-OPTR か)
+
+(ADV もう)
+
+(ADV ぐっすり)
+
+(VB 寝入っ)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 178_aozora_Akutagawa-1921;JP)
+
+(LS 五)
+
+(ID 179_aozora_Akutagawa-1921;JP)
+
+(NPR 妙子)
+
+(P-OPTR は)
+
+(ADV 勿論)
+
+(N 婆さん)
+
+(P-OPTR も)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(D この)
+
+(N 魔法)
+
+(P-ROLE を)
+
+(VB 使う)
+
+(N 所)
+
+(P-OPTR は)
+
+(PU 、)
+
+(WPRO 誰)
+
+(P-ROLE の)
+
+(N 眼)
+
+(P-ROLE に)
+
+(P-OPTR も)
+
+(VB 触れ)
+
+(NEG ない)
+
+(P-COMP と)
+
+(PU 、)
+
+(VB 思っ)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AXD た)
+
+(FN の)
+
+(P-ROLE に)
+
+(N 違い)
+
+(VB あり)
+
+(AX ませ)
+
+(NEG ん)
+
+(PU 。)
+
+(ID 180_aozora_Akutagawa-1921;JP)
+
+(CONJ しかし)
+
+(N 実際)
+
+(P-OPTR は)
+
+(N 部屋)
+
+(P-ROLE の)
+
+(N 外)
+
+(P-ROLE に)
+
+(PU 、)
+
+(ADV もう)
+
+(NUM 一人)
+
+(NP-SBJ *T*)
+
+(NP-OB1 *pro*)
+
+(N 戸)
+
+(P-ROLE の)
+
+(N 鍵穴)
+
+(P-ROLE から)
+
+(PU 、)
+
+(VB 覗い)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(N 男)
+
+(P-ROLE が)
+
+(VB あっ)
+
+(AXD た)
+
+(FN の)
+
+(AX です)
+
+(PU 。)
+
+(ID 181_aozora_Akutagawa-1921;JP)
+
+(PRO それ)
+
+(P-OPTR は)
+
+(ADV 一体)
+
+(WPRO 誰)
+
+(AX でしょ)
+
+(INFR う)
+
+(P-FINAL か)
+
+(PU ？)
+
+(ID 182_aozora_Akutagawa-1921;JP)
+
+(NP-SBJ *pro*)
+
+(PU ――)
+
+(NP-SBJ *exp*)
+
+(VB 言う)
+
+(P-OPTR まで)
+
+(P-OPTR も)
+
+(ADJI なく)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(N 書生)
+
+(AX の)
+
+(NPR 遠藤)
+
+(AX です)
+
+(PU 。)
+
+(ID 183_aozora_Akutagawa-1921;JP)
+
+(NPR 遠藤)
+
+(P-OPTR は)
+
+(NPR 妙子)
+
+(P-ROLE の)
+
+(N 手紙)
+
+(P-ROLE を)
+
+(VB 見)
+
+(P-CONN て)
+
+(P-CONN から)
+
+(PU 、)
+
+(N 一時)
+
+(P-OPTR は)
+
+(N 往来)
+
+(P-ROLE に)
+
+(VB 立っ)
+
+(AXD た)
+
+(P-CONN なり)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(N 夜明け)
+
+(P-ROLE を)
+
+(VB 待と)
+
+(INFR う)
+
+(P-FINAL か)
+
+(P-COMP と)
+
+(P-OPTR も)
+
+(VB 思い)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 184_aozora_Akutagawa-1921;JP)
+
+(NP-SBJ *pro*)
+
+(CONJ が)
+
+(PU 、)
+
+(N お嬢さん)
+
+(P-ROLE の)
+
+(N 身の上)
+
+(P-ROLE を)
+
+(VB 思う)
+
+(P-CONN と)
+
+(PU 、)
+
+(WADV どう)
+
+(VB し)
+
+(P-CONN て)
+
+(P-OPTR も)
+
+(ADV じっと)
+
+(VB し)
+
+(P-CONN て)
+
+(P-OPTR は)
+
+(VB2 い)
+
+(VB2 られ)
+
+(AX ませ)
+
+(NEG ん)
+
+(PU 。)
+
+(ID 185_aozora_Akutagawa-1921;JP)
+
+(NP-SBJ *pro*)
+
+(CONJ そこで)
+
+(ADV とうとう)
+
+(N 盗人)
+
+(P-ROLE の)
+
+(N よう)
+
+(P-ROLE に)
+
+(PU 、)
+
+(ADV そっと)
+
+(N 家)
+
+(P-ROLE の)
+
+(N 中)
+
+(P-ROLE へ)
+
+(VB 忍びこむ)
+
+(P-CONN と)
+
+(PU 、)
+
+(ADV 早速)
+
+(D この)
+
+(NUM 二)
+
+(CL 階)
+
+(P-ROLE の)
+
+(N 戸口)
+
+(P-ROLE へ)
+
+(VB 来)
+
+(P-CONN て)
+
+(PU 、)
+
+(N さっき)
+
+(P-ROLE から)
+
+(N 透き見)
+
+(P-ROLE を)
+
+(VB し)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AXD た)
+
+(FN の)
+
+(AX です)
+
+(PU 。)
+
+(ID 186_aozora_Akutagawa-1921;JP)
+
+(CONJ しかし)
+
+(NP-SBJ *pro*)
+
+(N 透き見)
+
+(P-ROLE を)
+
+(VB する)
+
+(P-CONN と言っても)
+
+(PU 、)
+
+(ADV 何しろ)
+
+(N 鍵穴)
+
+(P-ROLE を)
+
+(VB 覗く)
+
+(FN の)
+
+(AX です)
+
+(P-CONN から)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(NP-SBJ *T*)
+
+(ADJI 蒼白い)
+
+(N 香炉)
+
+(P-ROLE の)
+
+(N 火)
+
+(P-ROLE の)
+
+(N 光)
+
+(P-ROLE を)
+
+(VB 浴び)
+
+(AX た)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(N 死人)
+
+(P-ROLE の)
+
+(N よう)
+
+(AX な)
+
+(NPR 妙子)
+
+(P-ROLE の)
+
+(N 顔)
+
+(P-ROLE が)
+
+(PU 、)
+
+(ADV やっと)
+
+(N 正面)
+
+(P-ROLE に)
+
+(VB 見える)
+
+(P-CONN だけ)
+
+(AX です)
+
+(PU 。)
+
+(ID 187_aozora_Akutagawa-1921;JP)
+
+(D その)
+
+(N 外)
+
+(P-OPTR は)
+
+(N 机)
+
+(P-CONN も)
+
+(PU 、)
+
+(N 魔法)
+
+(P-ROLE の)
+
+(N 書物)
+
+(P-CONN も)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(N 床)
+
+(P-ROLE に)
+
+(VB ひれ伏し)
+
+(AX た)
+
+(N 婆さん)
+
+(P-ROLE の)
+
+(N 姿)
+
+(P-OPTR も)
+
+(PU 、)
+
+(ADV まるで)
+
+(NPR 遠藤)
+
+(P-ROLE の)
+
+(N 眼)
+
+(P-ROLE に)
+
+(P-OPTR は)
+
+(VB はいり)
+
+(AX ませ)
+
+(NEG ん)
+
+(PU 。)
+
+(ID 188_aozora_Akutagawa-1921;JP)
+
+(CONJ しかし)
+
+(NP-SBJ *T*)
+
+(VB 嗄れ)
+
+(AX た)
+
+(N 婆さん)
+
+(P-ROLE の)
+
+(N 声)
+
+(P-OPTR は)
+
+(PU 、)
+
+(NP-SBJ *exp*)
+
+(NP-OB1 *pro*)
+
+(N 手)
+
+(P-ROLE に)
+
+(VB とる)
+
+(N よう)
+
+(P-ROLE に)
+
+(ADV はっきり)
+
+(VB 聞え)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 189_aozora_Akutagawa-1921;JP)
+
+(-LRB- 「)
+
+(NP-SBJ *hearer*)
+
+(NP-SBJ *T*)
+
+(NPR アグニ)
+
+(AX の)
+
+(N 神)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(NPR アグニ)
+
+(AX の)
+
+(N 神)
+
+(PU 、)
+
+(ADV どうか)
+
+(NP-OB1 *T*)
+
+(PRO 私)
+
+(P-ROLE の)
+
+(VB 申す)
+
+(N こと)
+
+(P-ROLE を)
+
+(VB 御聞き入れ)
+
+(VB2 下さい)
+
+(AX まし)
+
+(-RRB- 」)
+
+(ID 190_aozora_Akutagawa-1921;JP)
+
+(NP-SBJ *pro*)
+
+(NP-OB1 *pro*)
+
+(N 婆さん)
+
+(P-ROLE が)
+
+(ADV こう)
+
+(VB 言っ)
+
+(AXD た)
+
+(P-COMP と)
+
+(VB 思う)
+
+(P-CONN と)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(N 息)
+
+(P-OPTR も)
+
+(VB し)
+
+(NEG ない)
+
+(N よう)
+
+(P-ROLE に)
+
+(VB 坐っ)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AXD た)
+
+(NPR 妙子)
+
+(P-OPTR は)
+
+(PU 、)
+
+(ADV やはり)
+
+(N 眼)
+
+(P-ROLE を)
+
+(VB つぶっ)
+
+(AX た)
+
+(N まま)
+
+(PU 、)
+
+(ADV 突然)
+
+(N 口)
+
+(P-ROLE を)
+
+(VB 利き)
+
+(VB2 始め)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 191_aozora_Akutagawa-1921;JP)
+
+(CONJ しかも)
+
+(D その)
+
+(N 声)
+
+(P-ROLE が)
+
+(NP-SBJ *T*)
+
+(NP-SBJ *pro*)
+
+(WADV どう)
+
+(VB し)
+
+(P-CONN て)
+
+(P-OPTR も)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(NPR 妙子)
+
+(P-ROLE の)
+
+(N よう)
+
+(AX な)
+
+(N 少女)
+
+(AX と)
+
+(P-OPTR は)
+
+(VB 思わ)
+
+(PASS れ)
+
+(NEG ない)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJI 荒々しい)
+
+(N 男)
+
+(P-ROLE の)
+
+(N 声)
+
+(AX な)
+
+(FN の)
+
+(AX です)
+
+(PU 。)
+
+(ID 192_aozora_Akutagawa-1921;JP)
+
+(-LRB- 「)
+
+(INTJ いや)
+
+(PU 、)
+
+(PRO おれ)
+
+(P-OPTR は)
+
+(PRO お前)
+
+(P-ROLE の)
+
+(N 願い)
+
+(P-OPTR なぞ)
+
+(P-OPTR は)
+
+(VB 聞か)
+
+(NEG ない)
+
+(PU 。)
+
+(ID 193_aozora_Akutagawa-1921;JP)
+
+(PRO お前)
+
+(P-OPTR は)
+
+(PRO おれ)
+
+(P-ROLE の)
+
+(N 言いつけ)
+
+(P-ROLE に)
+
+(VB 背い)
+
+(P-CONN て)
+
+(PU 、)
+
+(WPRO いつ)
+
+(P-OPTR も)
+
+(N 悪事)
+
+(P-OPTR ばかり)
+
+(VB 働い)
+
+(P-CONN て)
+
+(VB2 来)
+
+(AXD た)
+
+(PU 。)
+
+(ID 194_aozora_Akutagawa-1921;JP)
+
+(PRO おれ)
+
+(P-OPTR は)
+
+(ADV もう)
+
+(N 今夜限り)
+
+(PU 、)
+
+(NP-SBJ *speaker*)
+
+(PRO お前)
+
+(P-ROLE を)
+
+(VB 見捨て)
+
+(INFR よう)
+
+(P-COMP と)
+
+(VB 思っ)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(PU 。)
+
+(ID 195_aozora_Akutagawa-1921;JP)
+
+(NP-SBJ *speaker*)
+
+(INTJ いや)
+
+(PU 、)
+
+(NP-SBJ *speaker*)
+
+(D その)
+
+(N 上)
+
+(P-ROLE に)
+
+(N 悪事)
+
+(P-ROLE の)
+
+(N 罰)
+
+(P-ROLE を)
+
+(VB 下し)
+
+(P-CONN て)
+
+(VB2 やろ)
+
+(INFR う)
+
+(P-COMP と)
+
+(VB 思っ)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(-RRB- 」)
+
+(ID 196_aozora_Akutagawa-1921;JP)
+
+(N 婆さん)
+
+(P-OPTR は)
+
+(N 呆気)
+
+(P-ROLE に)
+
+(VB とら)
+
+(PASS れ)
+
+(AXD た)
+
+(FN の)
+
+(AX でしょ)
+
+(INFR う)
+
+(PU 。)
+
+(ID 197_aozora_Akutagawa-1921;JP)
+
+(NP-SBJ *pro*)
+
+(ADV 暫く)
+
+(P-OPTR は)
+
+(WPRO 何)
+
+(P-ROLE と)
+
+(P-OPTR も)
+
+(VB 答え)
+
+(NEG ずに)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(NP-SBJ *pro*)
+
+(VB 喘ぐ)
+
+(N よう)
+
+(AX な)
+
+(N 声)
+
+(P-OPTR ばかり)
+
+(VB 立て)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 198_aozora_Akutagawa-1921;JP)
+
+(NP-OB1 *pro*)
+
+(CONJ が)
+
+(PU 、)
+
+(NPR 妙子)
+
+(P-OPTR は)
+
+(N 婆さん)
+
+(P-ROLE に)
+
+(VB 頓着)
+
+(VB0 せ)
+
+(NEG ず)
+
+(PU 、)
+
+(ADJN おごそか)
+
+(AX に)
+
+(VB 話し)
+
+(VB2 続ける)
+
+(FN の)
+
+(AX です)
+
+(PU 。)
+
+(ID 199_aozora_Akutagawa-1921;JP)
+
+(-LRB- 「)
+
+(PRO お前)
+
+(P-OPTR は)
+
+(NP-SBJ *T*)
+
+(ADJN 憐れ)
+
+(AX な)
+
+(N 父親)
+
+(P-ROLE の)
+
+(N 手)
+
+(P-ROLE から)
+
+(PU 、)
+
+(D この)
+
+(N 女の子)
+
+(P-ROLE を)
+
+(VB 盗ん)
+
+(P-CONN で)
+
+(VB2 来)
+
+(AXD た)
+
+(PU 。)
+
+(ID 200_aozora_Akutagawa-1921;JP)
+
+(NP-SBJ *hearer*)
+
+(ADV もし)
+
+(N 命)
+
+(P-ROLE が)
+
+(ADJI 惜しかっ)
+
+(P-CONN たら)
+
+(PU 、)
+
+(N 明日)
+
+(P-ROLE と)
+
+(P-OPTR も)
+
+(VB 言わ)
+
+(NEG ず)
+
+(N 今夜)
+
+(P-ROLE の)
+
+(N 内)
+
+(P-ROLE に)
+
+(PU 、)
+
+(ADV 早速)
+
+(D この)
+
+(N 女の子)
+
+(P-ROLE を)
+
+(VB 返す)
+
+(P-ROLE が)
+
+(ADJI 好い)
+
+(-RRB- 」)
+
+(ID 201_aozora_Akutagawa-1921;JP)
+
+(NPR 遠藤)
+
+(P-OPTR は)
+
+(N 鍵穴)
+
+(P-ROLE に)
+
+(N 眼)
+
+(P-ROLE を)
+
+(VB 当て)
+
+(AXD た)
+
+(N まま)
+
+(PU 、)
+
+(N 婆さん)
+
+(P-ROLE の)
+
+(N 答)
+
+(P-ROLE を)
+
+(VB 待っ)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 202_aozora_Akutagawa-1921;JP)
+
+(CONJ すると)
+
+(N 婆さん)
+
+(P-OPTR は)
+
+(NP-SBJ *pro*)
+
+(N 驚き)
+
+(P-OPTR でも)
+
+(VB する)
+
+(P-FINAL か)
+
+(P-COMP と)
+
+(ADV 思いの外)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJI 憎々しい)
+
+(N 笑い声)
+
+(P-ROLE を)
+
+(VB 洩らし)
+
+(P-CONN ながら)
+
+(PU 、)
+
+(ADJN 急)
+
+(AX に)
+
+(NPR 妙子)
+
+(P-ROLE の)
+
+(N 前)
+
+(P-ROLE へ)
+
+(VB 突っ立ち)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 203_aozora_Akutagawa-1921;JP)
+
+(-LRB- 「)
+
+(NP-SBJ *hearer*)
+
+(N 人)
+
+(P-ROLE を)
+
+(N 莫迦)
+
+(AX に)
+
+(VB する)
+
+(N の)
+
+(P-OPTR も)
+
+(PU 、)
+
+(ADJN 好い加減)
+
+(AX に)
+
+(VB2 おし)
+
+(PU 。)
+
+(ID 204_aozora_Akutagawa-1921;JP)
+
+(PRO お前)
+
+(P-OPTR は)
+
+(PRO 私)
+
+(P-ROLE を)
+
+(WPRO 何)
+
+(AX だ)
+
+(P-COMP と)
+
+(VB 思っ)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(FN の)
+
+(AX だ)
+
+(P-FINAL え)
+
+(PU 。)
+
+(ID 205_aozora_Akutagawa-1921;JP)
+
+(PRO 私)
+
+(P-OPTR は)
+
+(ADV まだ)
+
+(PRO お前)
+
+(P-ROLE に)
+
+(VB 欺さ)
+
+(PASS れる)
+
+(P-OPTR 程)
+
+(PU 、)
+
+(N 耄碌)
+
+(P-OPTR は)
+
+(VB し)
+
+(P-CONN て)
+
+(VB2 い)
+
+(NEG ない)
+
+(N 心算)
+
+(AX だ)
+
+(P-FINAL よ)
+
+(PU 。)
+
+(ID 206_aozora_Akutagawa-1921;JP)
+
+(NP-SBJ *speaker*)
+
+(ADV 早速)
+
+(PRO お前)
+
+(P-ROLE を)
+
+(N 父親)
+
+(P-ROLE へ)
+
+(VB 返せ)
+
+(ID 207_aozora_Akutagawa-1921;JP)
+
+(NP-SBJ *speaker*)
+
+(PU ――)
+
+(NP-SBJ *pro*)
+
+(NP-SBJ *T*)
+
+(N 警察)
+
+(AX の)
+
+(N 御役人)
+
+(AX じゃ)
+
+(VB2 ある)
+
+(NEG まい)
+
+(P-CONN し)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(NPR アグニ)
+
+(AX の)
+
+(N 神)
+
+(P-ROLE が)
+
+(D そんな)
+
+(N こと)
+
+(P-ROLE を)
+
+(VB 御言いつけ)
+
+(AX に)
+
+(VB2 なっ)
+
+(P-CONN て)
+
+(VB たまる)
+
+(P-FINAL もの)
+
+(P-FINAL か)
+
+(-RRB- 」)
+
+(ID 208_aozora_Akutagawa-1921;JP)
+
+(N 婆さん)
+
+(P-OPTR は)
+
+(NP-SBJ *pro*)
+
+(NP-OB1 *pro*)
+
+(WPRO どこ)
+
+(P-ROLE から)
+
+(VB とり出し)
+
+(AXD た)
+
+(P-FINAL か)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(N 眼)
+
+(P-ROLE を)
+
+(VB つぶっ)
+
+(AX た)
+
+(NPR 妙子)
+
+(P-ROLE の)
+
+(N 顔)
+
+(P-ROLE の)
+
+(N 先)
+
+(P-ROLE へ)
+
+(PU 、)
+
+(NUM 一)
+
+(CL 挺)
+
+(P-ROLE の)
+
+(N ナイフ)
+
+(P-ROLE を)
+
+(VB 突きつけ)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 209_aozora_Akutagawa-1921;JP)
+
+(-LRB- 「)
+
+(NP-SBJ *hearer*)
+
+(NP-OB1 *pro*)
+
+(INTJ さあ)
+
+(PU 、)
+
+(ADJN 正直)
+
+(AX に)
+
+(VB 白状)
+
+(VB0 おし)
+
+(PU 。)
+
+(ID 210_aozora_Akutagawa-1921;JP)
+
+(PRO お前)
+
+(P-OPTR は)
+
+(ADJI 勿体なく)
+
+(P-OPTR も)
+
+(NP-SBJ *T*)
+
+(NPR アグニ)
+
+(AX の)
+
+(N 神)
+
+(P-ROLE の)
+
+(PU 、)
+
+(N 声色)
+
+(P-ROLE を)
+
+(VB 使っ)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(FN の)
+
+(AX だろ)
+
+(INFR う)
+
+(-RRB- 」)
+
+(ID 211_aozora_Akutagawa-1921;JP)
+
+(NP-SBJ *pro*)
+
+(N さっき)
+
+(P-ROLE から)
+
+(N 容子)
+
+(P-ROLE を)
+
+(VB 窺っ)
+
+(P-CONN て)
+
+(VB2 い)
+
+(P-CONN て)
+
+(P-OPTR も)
+
+(PU 、)
+
+(NPR 妙子)
+
+(P-ROLE が)
+
+(ADV 実際)
+
+(VB 睡っ)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(N こと)
+
+(P-OPTR は)
+
+(PU 、)
+
+(ADV 勿論)
+
+(NPR 遠藤)
+
+(P-ROLE に)
+
+(P-OPTR は)
+
+(VB わかり)
+
+(AX ませ)
+
+(NEG ん)
+
+(PU 。)
+
+(ID 212_aozora_Akutagawa-1921;JP)
+
+(CONJ ですから)
+
+(NPR 遠藤)
+
+(P-OPTR は)
+
+(PRO これ)
+
+(P-ROLE を)
+
+(VB 見る)
+
+(P-CONN と)
+
+(PU 、)
+
+(ADV さては)
+
+(N 計略)
+
+(P-ROLE が)
+
+(VB 露顕)
+
+(VB0 し)
+
+(AXD た)
+
+(P-FINAL か)
+
+(P-COMP と)
+
+(VB 思わ)
+
+(NEG ず)
+
+(N 胸)
+
+(P-ROLE を)
+
+(VB 躍ら)
+
+(VB2 せ)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 213_aozora_Akutagawa-1921;JP)
+
+(CONJ が)
+
+(PU 、)
+
+(NPR 妙子)
+
+(P-OPTR は)
+
+(ADV 相変らず)
+
+(N 目蓋)
+
+(NUM 一)
+
+(CL つ)
+
+(VB 動かさ)
+
+(NEG ず)
+
+(PU 、)
+
+(NP-OB1 *pro*)
+
+(VB 嘲笑う)
+
+(N よう)
+
+(P-ROLE に)
+
+(VB 答える)
+
+(FN の)
+
+(AX です)
+
+(PU 。)
+
+(ID 214_aozora_Akutagawa-1921;JP)
+
+(-LRB- 「)
+
+(PRO お前)
+
+(P-OPTR も)
+
+(N 死に時)
+
+(P-ROLE が)
+
+(VB 近づい)
+
+(AXD た)
+
+(P-FINAL な)
+
+(PU 。)
+
+(ID 215_aozora_Akutagawa-1921;JP)
+
+(PRO おれ)
+
+(P-ROLE の)
+
+(N 声)
+
+(P-ROLE が)
+
+(PRO お前)
+
+(P-ROLE に)
+
+(P-OPTR は)
+
+(N 人間)
+
+(P-ROLE の)
+
+(N 声)
+
+(P-ROLE に)
+
+(VB 聞える)
+
+(FN の)
+
+(P-FINAL か)
+
+(PU 。)
+
+(ID 216_aozora_Akutagawa-1921;JP)
+
+(PRO おれ)
+
+(P-ROLE の)
+
+(N 声)
+
+(P-OPTR は)
+
+(ADJI 低く)
+
+(P-OPTR とも)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(N 天上)
+
+(P-ROLE に)
+
+(VB 燃える)
+
+(N 炎)
+
+(P-ROLE の)
+
+(N 声)
+
+(AX だ)
+
+(PU 。)
+
+(ID 217_aozora_Akutagawa-1921;JP)
+
+(PRO それ)
+
+(P-ROLE が)
+
+(PRO お前)
+
+(P-ROLE に)
+
+(P-OPTR は)
+
+(VB わから)
+
+(NEG ない)
+
+(FN の)
+
+(P-FINAL か)
+
+(PU 。)
+
+(ID 218_aozora_Akutagawa-1921;JP)
+
+(NP-SBJ *hearer*)
+
+(NP-OB1 *pro*)
+
+(VB わから)
+
+(NEG なけれ)
+
+(P-CONN ば)
+
+(PU 、)
+
+(ADJN 勝手)
+
+(AX に)
+
+(VB する)
+
+(P-ROLE が)
+
+(ADJI 好い)
+
+(PU 。)
+
+(ID 219_aozora_Akutagawa-1921;JP)
+
+(NP-OB1 *pro*)
+
+(PRO おれ)
+
+(P-OPTR は)
+
+(ADV 唯)
+
+(PRO お前)
+
+(P-ROLE に)
+
+(VB 尋ねる)
+
+(FN の)
+
+(AX だ)
+
+(PU 。)
+
+(ID 220_aozora_Akutagawa-1921;JP)
+
+(NP-SBJ *hearer*)
+
+(ADV すぐ)
+
+(P-ROLE に)
+
+(D この)
+
+(N 女の子)
+
+(P-ROLE を)
+
+(VB 送り返す)
+
+(P-FINAL か)
+
+(PU 、)
+
+(ID 221_aozora_Akutagawa-1921;JP)
+
+(NP-SBJ *hearer*)
+
+(CONJ それとも)
+
+(PRO おれ)
+
+(P-ROLE の)
+
+(N 言いつけ)
+
+(P-ROLE に)
+
+(VB 背く)
+
+(P-FINAL か)
+
+(PU ――)
+
+(-RRB- 」)
+
+(ID 222_aozora_Akutagawa-1921;JP)
+
+(N 婆さん)
+
+(P-OPTR は)
+
+(ADV ちょいと)
+
+(VB ためらっ)
+
+(AXD た)
+
+(FN よう)
+
+(AX です)
+
+(PU 。)
+
+(ID 223_aozora_Akutagawa-1921;JP)
+
+(NP-SBJ *pro*)
+
+(CONJ が)
+
+(PU 、)
+
+(ADV 忽ち)
+
+(N 勇気)
+
+(P-ROLE を)
+
+(VB とり直す)
+
+(P-CONN と)
+
+(PU 、)
+
+(N 片手)
+
+(P-ROLE に)
+
+(N ナイフ)
+
+(P-ROLE を)
+
+(VB 握り)
+
+(P-CONN ながら)
+
+(PU 、)
+
+(N 片手)
+
+(P-ROLE に)
+
+(NPR 妙子)
+
+(P-ROLE の)
+
+(N 襟髪)
+
+(P-ROLE を)
+
+(VB 掴ん)
+
+(P-CONN で)
+
+(PU 、)
+
+(NP-OB1 *pro*)
+
+(ADV ずるずる)
+
+(N 手もと)
+
+(P-ROLE へ)
+
+(VB 引き寄せ)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 224_aozora_Akutagawa-1921;JP)
+
+(-LRB- 「)
+
+(D この)
+
+(N 阿魔め)
+
+(PU 。)
+
+(ID 225_aozora_Akutagawa-1921;JP)
+
+(NP-SBJ *hearer*)
+
+(ADV まだ)
+
+(N 剛情)
+
+(P-ROLE を)
+
+(VB 張る)
+
+(N 気)
+
+(AX だ)
+
+(P-FINAL な)
+
+(PU 。)
+
+(ID 226_aozora_Akutagawa-1921;JP)
+
+(NP-SBJ *speaker*)
+
+(INTJ よし)
+
+(PU 、)
+
+(INTJ よし)
+
+(PU 、)
+
+(CONJ それなら)
+
+(N 約束)
+
+(N 通り)
+
+(PU 、)
+
+(ADV 一思いに)
+
+(N 命)
+
+(P-ROLE を)
+
+(VB とっ)
+
+(P-CONN て)
+
+(VB2 やる)
+
+(P-FINAL ぞ)
+
+(-RRB- 」)
+
+(ID 227_aozora_Akutagawa-1921;JP)
+
+(N 婆さん)
+
+(P-OPTR は)
+
+(N ナイフ)
+
+(P-ROLE を)
+
+(VB 振り上げ)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 228_aozora_Akutagawa-1921;JP)
+
+(NP-SBJ *pro*)
+
+(ADV もう)
+
+(NUM 一)
+
+(CL 分間)
+
+(VB 遅れ)
+
+(P-CONN て)
+
+(P-OPTR も)
+
+(PU 、)
+
+(NPR 妙子)
+
+(P-ROLE の)
+
+(N 命)
+
+(P-OPTR は)
+
+(ADJI なく)
+
+(VB2 なり)
+
+(AX ます)
+
+(PU 。)
+
+(ID 229_aozora_Akutagawa-1921;JP)
+
+(NPR 遠藤)
+
+(P-OPTR は)
+
+(N 咄嗟)
+
+(P-ROLE に)
+
+(N 身)
+
+(P-ROLE を)
+
+(VB 起す)
+
+(P-CONN と)
+
+(PU 、)
+
+(N 錠)
+
+(P-ROLE の)
+
+(VB かかっ)
+
+(AX た)
+
+(N 入口)
+
+(P-ROLE の)
+
+(N 戸)
+
+(P-ROLE を)
+
+(ADJN 無理無体)
+
+(AX に)
+
+(VB 明け)
+
+(INFR よう)
+
+(P-COMP と)
+
+(VB2 し)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 230_aozora_Akutagawa-1921;JP)
+
+(CONJ が)
+
+(PU 、)
+
+(N 戸)
+
+(P-OPTR は)
+
+(ADJN 容易)
+
+(AX に)
+
+(VB 破れ)
+
+(AX ませ)
+
+(NEG ん)
+
+(PU 。)
+
+(ID 231_aozora_Akutagawa-1921;JP)
+
+(NP-SBJ *pro*)
+
+(NP-OB1 *pro*)
+
+(WNUM いくら)
+
+(VB 押し)
+
+(P-CONN て)
+
+(P-OPTR も)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(NP-OB1 *pro*)
+
+(VB 叩い)
+
+(P-CONN て)
+
+(P-OPTR も)
+
+(PU 、)
+
+(N 手)
+
+(P-ROLE の)
+
+(N 皮)
+
+(P-ROLE が)
+
+(VB 摺り剥ける)
+
+(P-CONN ばかり)
+
+(AX です)
+
+(PU 。)
+
+(ID 232_aozora_Akutagawa-1921;JP)
+
+(LS 六)
+
+(ID 233_aozora_Akutagawa-1921;JP)
+
+(D その)
+
+(N 内)
+
+(P-ROLE に)
+
+(N 部屋)
+
+(P-ROLE の)
+
+(N 中)
+
+(P-ROLE から)
+
+(P-OPTR は)
+
+(PU 、)
+
+(WPRO 誰)
+
+(P-OPTR か)
+
+(P-ROLE の)
+
+(ADV わっ)
+
+(P-ROLE と)
+
+(VB 叫ぶ)
+
+(N 声)
+
+(P-ROLE が)
+
+(PU 、)
+
+(ADV 突然)
+
+(N 暗やみ)
+
+(P-ROLE に)
+
+(VB 響き)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 234_aozora_Akutagawa-1921;JP)
+
+(CONJ それから)
+
+(N 人)
+
+(P-ROLE が)
+
+(N 床)
+
+(P-ROLE の)
+
+(N 上)
+
+(P-ROLE へ)
+
+(PU 、)
+
+(VB 倒れる)
+
+(N 音)
+
+(P-OPTR も)
+
+(VB 聞え)
+
+(AXD た)
+
+(FN よう)
+
+(AX です)
+
+(PU 。)
+
+(ID 235_aozora_Akutagawa-1921;JP)
+
+(NPR 遠藤)
+
+(P-OPTR は)
+
+(ADV 殆ど)
+
+(N 気違い)
+
+(P-ROLE の)
+
+(N よう)
+
+(P-ROLE に)
+
+(PU 、)
+
+(NPR 妙子)
+
+(P-ROLE の)
+
+(N 名前)
+
+(P-ROLE を)
+
+(VB 呼びかけ)
+
+(P-CONN ながら)
+
+(PU 、)
+
+(Q 全身)
+
+(P-ROLE の)
+
+(N 力)
+
+(P-ROLE を)
+
+(N 肩)
+
+(P-ROLE に)
+
+(VB 集め)
+
+(P-CONN て)
+
+(PU 、)
+
+(WNUM 何)
+
+(CL 度)
+
+(P-OPTR も)
+
+(N 入口)
+
+(P-ROLE の)
+
+(N 戸)
+
+(P-ROLE へ)
+
+(VB ぶつかり)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 236_aozora_Akutagawa-1921;JP)
+
+(N 板)
+
+(P-ROLE の)
+
+(VB 裂ける)
+
+(N 音)
+
+(PU 、)
+
+(ID 237_aozora_Akutagawa-1921;JP)
+
+(N 錠)
+
+(P-ROLE の)
+
+(VB はね飛ぶ)
+
+(N 音)
+
+(PU 、)
+
+(ID 238_aozora_Akutagawa-1921;JP)
+
+(PU ――)
+
+(N 戸)
+
+(P-OPTR は)
+
+(ADV とうとう)
+
+(VB 破れ)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 239_aozora_Akutagawa-1921;JP)
+
+(CONJ しかし)
+
+(NP-SBJ *T*)
+
+(ADJN 肝腎)
+
+(AX の)
+
+(N 部屋)
+
+(P-ROLE の)
+
+(N 中)
+
+(P-OPTR は)
+
+(PU 、)
+
+(ADV まだ)
+
+(N 香炉)
+
+(P-ROLE に)
+
+(NP-SBJ *T*)
+
+(ADJI 蒼白い)
+
+(N 火)
+
+(P-ROLE が)
+
+(ADV めらめら)
+
+(VB 燃え)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(P-OPTR ばかり)
+
+(PU 、)
+
+(N 人気)
+
+(P-ROLE の)
+
+(ADJI ない)
+
+(N よう)
+
+(P-ROLE に)
+
+(ADV しんと)
+
+(VB し)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AX ます)
+
+(PU 。)
+
+(ID 240_aozora_Akutagawa-1921;JP)
+
+(NPR 遠藤)
+
+(P-OPTR は)
+
+(D その)
+
+(N 光)
+
+(P-ROLE を)
+
+(N 便り)
+
+(AX に)
+
+(PU 、)
+
+(ADV 怯ず怯ず)
+
+(N あたり)
+
+(P-ROLE を)
+
+(VB 見廻し)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 241_aozora_Akutagawa-1921;JP)
+
+(CONJ すると)
+
+(NP-SBJ *T*)
+
+(ADV すぐ)
+
+(P-ROLE に)
+
+(N 眼)
+
+(P-ROLE に)
+
+(VB はいっ)
+
+(AXD た)
+
+(N の)
+
+(P-OPTR は)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADV やはり)
+
+(ADV じっと)
+
+(N 椅子)
+
+(P-ROLE に)
+
+(VB かけ)
+
+(AX た)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(N 死人)
+
+(P-ROLE の)
+
+(N よう)
+
+(AX な)
+
+(NPR 妙子)
+
+(AX です)
+
+(PU 。)
+
+(ID 242_aozora_Akutagawa-1921;JP)
+
+(PRO それ)
+
+(P-ROLE が)
+
+(WADV 何故)
+
+(P-OPTR か)
+
+(NPR 遠藤)
+
+(P-ROLE に)
+
+(P-OPTR は)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(N 頭)
+
+(P-ROLE に)
+
+(N 毫光)
+
+(P-OPTR でも)
+
+(VB かかっ)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(N よう)
+
+(P-ROLE に)
+
+(PU 、)
+
+(ADJN 厳か)
+
+(AX な)
+
+(N 感じ)
+
+(P-ROLE を)
+
+(VB 起さ)
+
+(VB2 せ)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 243_aozora_Akutagawa-1921;JP)
+
+(-LRB- 「)
+
+(N 御嬢さん)
+
+(PU 、)
+
+(NPR 御嬢さん)
+
+(-RRB- 」)
+
+(ID 244_aozora_Akutagawa-1921;JP)
+
+(NPR 遠藤)
+
+(P-OPTR は)
+
+(N 椅子)
+
+(P-ROLE へ)
+
+(VB 行く)
+
+(P-CONN と)
+
+(PU 、)
+
+(NPR 妙子)
+
+(P-ROLE の)
+
+(N 耳もと)
+
+(P-ROLE へ)
+
+(N 口)
+
+(P-ROLE を)
+
+(VB つけ)
+
+(P-CONN て)
+
+(PU 、)
+
+(ADJN 一生懸命)
+
+(AX に)
+
+(VB 叫び立て)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 245_aozora_Akutagawa-1921;JP)
+
+(CONJ が)
+
+(PU 、)
+
+(NPR 妙子)
+
+(P-OPTR は)
+
+(N 眼)
+
+(P-ROLE を)
+
+(VB つぶっ)
+
+(AXD た)
+
+(P-CONN なり)
+
+(PU 、)
+
+(WPRO 何)
+
+(P-ROLE と)
+
+(P-OPTR も)
+
+(N 口)
+
+(P-ROLE を)
+
+(VB 開き)
+
+(AX ませ)
+
+(NEG ん)
+
+(PU 。)
+
+(ID 246_aozora_Akutagawa-1921;JP)
+
+(-LRB- 「)
+
+(N 御嬢さん)
+
+(PU 。)
+
+(ID 247_aozora_Akutagawa-1921;JP)
+
+(NP-SBJ *hearer*)
+
+(ADV しっかり)
+
+(VB おし)
+
+(VB2 なさい)
+
+(PU 。)
+
+(ID 248_aozora_Akutagawa-1921;JP)
+
+(NP-SBJ *speaker*)
+
+(NPR 遠藤)
+
+(AX です)
+
+(-RRB- 」)
+
+(ID 249_aozora_Akutagawa-1921;JP)
+
+(NPR 妙子)
+
+(P-OPTR は)
+
+(ADV やっと)
+
+(N 夢)
+
+(P-ROLE が)
+
+(VB さめ)
+
+(AXD た)
+
+(N よう)
+
+(P-ROLE に)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJN かすか)
+
+(AX な)
+
+(N 眼)
+
+(P-ROLE を)
+
+(VB 開き)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 250_aozora_Akutagawa-1921;JP)
+
+(-LRB- 「)
+
+(NP-SBJ *hearer*)
+
+(NPR 遠藤さん)
+
+(AX *)
+
+(PU ？)
+
+(-RRB- 」)
+
+(ID 251_aozora_Akutagawa-1921;JP)
+
+(-LRB- 「)
+
+(ADV そう)
+
+(AX です)
+
+(PU 。)
+
+(ID 252_aozora_Akutagawa-1921;JP)
+
+(NP-SBJ *speaker*)
+
+(NPR 遠藤)
+
+(AX です)
+
+(PU 。)
+
+(ID 253_aozora_Akutagawa-1921;JP)
+
+(NP-SBJ *hearer*)
+
+(ADV もう)
+
+(ADJN 大丈夫)
+
+(AX です)
+
+(P-CONN から)
+
+(PU 、)
+
+(VB 御安心)
+
+(VB0 なさい)
+
+(PU 。)
+
+(ID 254_aozora_Akutagawa-1921;JP)
+
+(NP-SBJ *speaker+hearer*)
+
+(INTJ さあ)
+
+(PU 、)
+
+(ADJI 早く)
+
+(VB 逃げ)
+
+(AX ましょ)
+
+(INFR う)
+
+(-RRB- 」)
+
+(ID 255_aozora_Akutagawa-1921;JP)
+
+(NPR 妙子)
+
+(P-OPTR は)
+
+(ADV まだ)
+
+(N 夢現)
+
+(P-ROLE の)
+
+(N よう)
+
+(P-ROLE に)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJI 弱々しい)
+
+(N 声)
+
+(P-ROLE を)
+
+(VB 出し)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 256_aozora_Akutagawa-1921;JP)
+
+(-LRB- 「)
+
+(N 計略)
+
+(P-OPTR は)
+
+(ADJN 駄目)
+
+(AX だっ)
+
+(AXD た)
+
+(P-FINAL わ)
+
+(PU 。)
+
+(ID 257_aozora_Akutagawa-1921;JP)
+
+(ADV つい)
+
+(PRO 私)
+
+(P-ROLE が)
+
+(VB 眠っ)
+
+(P-CONN て)
+
+(VB2 しまっ)
+
+(AXD た)
+
+(FN もの)
+
+(AX だ)
+
+(P-FINAL から)
+
+(PU 、)
+
+(ID 258_aozora_Akutagawa-1921;JP)
+
+(PU ――)
+
+(NP-SBJ *hearer*)
+
+(VB 堪忍)
+
+(VB0 し)
+
+(P-CONN て)
+
+(VB2 頂戴)
+
+(P-FINAL よ)
+
+(-RRB- 」)
+
+(ID 259_aozora_Akutagawa-1921;JP)
+
+(-LRB- 「)
+
+(N 計略)
+
+(P-ROLE が)
+
+(VB 露顕)
+
+(VB0 し)
+
+(AXD た)
+
+(N の)
+
+(P-OPTR は)
+
+(PU 、)
+
+(PRO あなた)
+
+(P-ROLE の)
+
+(N せい)
+
+(AX じゃ)
+
+(VB2 あり)
+
+(AX ませ)
+
+(NEG ん)
+
+(P-FINAL よ)
+
+(PU 。)
+
+(ID 260_aozora_Akutagawa-1921;JP)
+
+(PRO あなた)
+
+(P-OPTR は)
+
+(NP-OB1 *pro*)
+
+(PRO 私)
+
+(P-ROLE と)
+
+(VB 約束)
+
+(VB0 し)
+
+(AXD た)
+
+(N 通り)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(NPR アグニ)
+
+(AX の)
+
+(N 神)
+
+(P-ROLE の)
+
+(VB 憑っ)
+
+(AXD た)
+
+(N 真似)
+
+(P-ROLE を)
+
+(VB やり)
+
+(VB2 了せ)
+
+(AXD た)
+
+(AX じゃ)
+
+(VB2 あり)
+
+(AX ませ)
+
+(NEG ん)
+
+(P-FINAL か)
+
+(PU ？)
+
+(ID 261_aozora_Akutagawa-1921;JP)
+
+(PU ――)
+
+(D そんな)
+
+(N こと)
+
+(P-OPTR は)
+
+(NP-SBJ *T*)
+
+(ADJI どうでも好い)
+
+(N こと)
+
+(AX です)
+
+(PU 。)
+
+(ID 262_aozora_Akutagawa-1921;JP)
+
+(NP-SBJ *hearer*)
+
+(INTJ さあ)
+
+(PU 、)
+
+(ADJI 早く)
+
+(VB 御逃げ)
+
+(VB2 なさい)
+
+(-RRB- 」)
+
+(ID 263_aozora_Akutagawa-1921;JP)
+
+(NPR 遠藤)
+
+(P-OPTR は)
+
+(ADJI もどかし)
+
+(FN そう)
+
+(AX に)
+
+(PU 、)
+
+(N 椅子)
+
+(P-ROLE から)
+
+(NPR 妙子)
+
+(P-ROLE を)
+
+(VB 抱き起し)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 264_aozora_Akutagawa-1921;JP)
+
+(-LRB- 「)
+
+(INTJ あら)
+
+(PU 、)
+
+(N 嘘)
+
+(PU 。)
+
+(ID 265_aozora_Akutagawa-1921;JP)
+
+(PRO 私)
+
+(P-OPTR は)
+
+(VB 眠っ)
+
+(P-CONN て)
+
+(VB2 しまっ)
+
+(AXD た)
+
+(FN の)
+
+(AX です)
+
+(P-FINAL もの)
+
+(PU 。)
+
+(ID 266_aozora_Akutagawa-1921;JP)
+
+(NP-SBJ *speaker*)
+
+(NP-SBJ *speaker*)
+
+(WD どんな)
+
+(N こと)
+
+(P-ROLE を)
+
+(VB 言っ)
+
+(AXD た)
+
+(P-FINAL か)
+
+(PU 、)
+
+(VB 知り)
+
+(P-OPTR は)
+
+(VB2 し)
+
+(NEG ない)
+
+(P-FINAL わ)
+
+(-RRB- 」)
+
+(ID 267_aozora_Akutagawa-1921;JP)
+
+(NPR 妙子)
+
+(P-OPTR は)
+
+(NPR 遠藤)
+
+(P-ROLE の)
+
+(N 胸)
+
+(P-ROLE に)
+
+(VB 凭れ)
+
+(P-CONN ながら)
+
+(PU 、)
+
+(NP-OB1 *pro*)
+
+(VB 呟く)
+
+(N よう)
+
+(P-ROLE に)
+
+(ADV こう)
+
+(VB 言い)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 268_aozora_Akutagawa-1921;JP)
+
+(-LRB- 「)
+
+(N 計略)
+
+(P-OPTR は)
+
+(ADJN 駄目)
+
+(AX だっ)
+
+(AXD た)
+
+(P-FINAL わ)
+
+(PU 。)
+
+(ID 269_aozora_Akutagawa-1921;JP)
+
+(ADV とても)
+
+(PRO 私)
+
+(P-OPTR は)
+
+(VB 逃げ)
+
+(VB2 られ)
+
+(NEG なくっ)
+
+(P-CONN て)
+
+(P-FINAL よ)
+
+(-RRB- 」)
+
+(ID 270_aozora_Akutagawa-1921;JP)
+
+(-LRB- 「)
+
+(D そんな)
+
+(N こと)
+
+(P-ROLE が)
+
+(VB ある)
+
+(FN もの)
+
+(AX です)
+
+(P-FINAL か)
+
+(PU 。)
+
+(ID 271_aozora_Akutagawa-1921;JP)
+
+(NP-SBJ *hearer*)
+
+(PRO 私)
+
+(P-ROLE と)
+
+(N 一しょ)
+
+(P-ROLE に)
+
+(VB いらっしゃい)
+
+(PU 。)
+
+(ID 272_aozora_Akutagawa-1921;JP)
+
+(NP-SBJ *pro*)
+
+(NP-SBJ *hearer*)
+
+(NP-OB1 *pro*)
+
+(N 今度)
+
+(VB しくじっ)
+
+(P-CONN たら)
+
+(ADJN 大変)
+
+(AX です)
+
+(-RRB- 」)
+
+(ID 273_aozora_Akutagawa-1921;JP)
+
+(-LRB- 「)
+
+(CONJ だって)
+
+(N お婆さん)
+
+(P-ROLE が)
+
+(VB いる)
+
+(AX でしょう)
+
+(PU ？)
+
+(-RRB- 」)
+
+(ID 274_aozora_Akutagawa-1921;JP)
+
+(-LRB- 「)
+
+(N お婆さん)
+
+(PU ？)
+
+(-RRB- 」)
+
+(ID 275_aozora_Akutagawa-1921;JP)
+
+(NPR 遠藤)
+
+(P-OPTR は)
+
+(ADV もう)
+
+(NUM 一)
+
+(CL 度)
+
+(PU 、)
+
+(N 部屋)
+
+(P-ROLE の)
+
+(N 中)
+
+(P-ROLE を)
+
+(VB 見廻し)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 276_aozora_Akutagawa-1921;JP)
+
+(N 机)
+
+(P-ROLE の)
+
+(N 上)
+
+(P-ROLE に)
+
+(P-OPTR は)
+
+(N さっき)
+
+(P-ROLE の)
+
+(N 通り)
+
+(PU 、)
+
+(N 魔法)
+
+(P-ROLE の)
+
+(N 書物)
+
+(P-ROLE が)
+
+(VB 開い)
+
+(P-CONN て)
+
+(VB2 ある)
+
+(PU 、)
+
+(ID 277_aozora_Akutagawa-1921;JP)
+
+(PU ――)
+
+(NP-SBJ *T*)
+
+(D その)
+
+(N 下)
+
+(P-ROLE へ)
+
+(N 仰向き)
+
+(P-ROLE に)
+
+(VB 倒れ)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(N の)
+
+(P-OPTR は)
+
+(PU 、)
+
+(D あの)
+
+(NP-SBJ *T*)
+
+(N 印度人)
+
+(AX の)
+
+(N 婆さん)
+
+(AX です)
+
+(PU 。)
+
+(ID 278_aozora_Akutagawa-1921;JP)
+
+(N 婆さん)
+
+(P-OPTR は)
+
+(ADJN 意外)
+
+(AX に)
+
+(P-OPTR も)
+
+(PRO 自分)
+
+(P-ROLE の)
+
+(N 胸)
+
+(P-ROLE へ)
+
+(PU 、)
+
+(PRO 自分)
+
+(P-ROLE の)
+
+(N ナイフ)
+
+(P-ROLE を)
+
+(VB 突き立て)
+
+(AXD た)
+
+(N まま)
+
+(PU 、)
+
+(N 血だまり)
+
+(P-ROLE の)
+
+(N 中)
+
+(P-ROLE に)
+
+(VB 死ん)
+
+(P-CONN で)
+
+(VB2 い)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 279_aozora_Akutagawa-1921;JP)
+
+(-LRB- 「)
+
+(N お婆さん)
+
+(P-OPTR は)
+
+(WADV どうして)
+
+(PU ？)
+
+(-RRB- 」)
+
+(ID 280_aozora_Akutagawa-1921;JP)
+
+(-LRB- 「)
+
+(NP-SBJ *pro*)
+
+(VB 死ん)
+
+(P-CONN で)
+
+(VB2 い)
+
+(AX ます)
+
+(-RRB- 」)
+
+(ID 281_aozora_Akutagawa-1921;JP)
+
+(NPR 妙子)
+
+(P-OPTR は)
+
+(NPR 遠藤)
+
+(P-ROLE を)
+
+(VB 見上げ)
+
+(P-CONN ながら)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJI 美しい)
+
+(N 眉)
+
+(P-ROLE を)
+
+(VB ひそめ)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 282_aozora_Akutagawa-1921;JP)
+
+(-LRB- 「)
+
+(NP-OB1 *pro*)
+
+(PRO 私)
+
+(PU 、)
+
+(ADV ちっとも)
+
+(VB 知ら)
+
+(NEG なかっ)
+
+(AXD た)
+
+(P-FINAL わ)
+
+(PU 。)
+
+(ID 283_aozora_Akutagawa-1921;JP)
+
+(N お婆さん)
+
+(P-OPTR は)
+
+(NPR 遠藤さん)
+
+(P-ROLE が)
+
+(PU ――)
+
+(PRO あなた)
+
+(P-ROLE が)
+
+(VB 殺し)
+
+(P-CONN て)
+
+(VB2 しまっ)
+
+(AXD た)
+
+(FN の)
+
+(PU ？)
+
+(-RRB- 」)
+
+(ID 284_aozora_Akutagawa-1921;JP)
+
+(NPR 遠藤)
+
+(P-OPTR は)
+
+(N 婆さん)
+
+(P-ROLE の)
+
+(N 屍骸)
+
+(P-ROLE から)
+
+(PU 、)
+
+(NPR 妙子)
+
+(P-ROLE の)
+
+(N 顔)
+
+(P-ROLE へ)
+
+(N 眼)
+
+(P-ROLE を)
+
+(VB やり)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 285_aozora_Akutagawa-1921;JP)
+
+(N 今夜)
+
+(P-ROLE の)
+
+(N 計略)
+
+(P-ROLE が)
+
+(VB 失敗)
+
+(VB0 し)
+
+(AXD た)
+
+(N こと)
+
+(P-ROLE が)
+
+(PU 、)
+
+(PU ――)
+
+(CONJ しかし)
+
+(NP-SBJ *pro*)
+
+(D その)
+
+(N 為)
+
+(P-ROLE に)
+
+(N 婆さん)
+
+(P-OPTR も)
+
+(VB 死ね)
+
+(P-CONN ば)
+
+(PU 、)
+
+(NPR 妙子)
+
+(P-OPTR も)
+
+(ADJN 無事)
+
+(AX に)
+
+(VB 取り返せ)
+
+(AXD た)
+
+(N こと)
+
+(P-ROLE が)
+
+(PU 、)
+
+(PU ――)
+
+(N 運命)
+
+(P-ROLE の)
+
+(N 力)
+
+(P-ROLE の)
+
+(ADJN 不思議)
+
+(AX な)
+
+(N こと)
+
+(P-ROLE が)
+
+(NP-OB1 *が*)
+
+(PU 、)
+
+(ADV やっと)
+
+(NPR 遠藤)
+
+(P-ROLE に)
+
+(P-OPTR も)
+
+(VB わかっ)
+
+(AXD た)
+
+(N の)
+
+(P-OPTR は)
+
+(PU 、)
+
+(D この)
+
+(N 瞬間)
+
+(AX だっ)
+
+(AXD た)
+
+(FN の)
+
+(AX です)
+
+(PU 。)
+
+(ID 286_aozora_Akutagawa-1921;JP)
+
+(-LRB- 「)
+
+(NP-OB1 *pro*)
+
+(PRO 私)
+
+(P-ROLE が)
+
+(VB 殺し)
+
+(AXD た)
+
+(FN の)
+
+(AX じゃ)
+
+(VB2 あり)
+
+(AX ませ)
+
+(NEG ん)
+
+(PU 。)
+
+(ID 287_aozora_Akutagawa-1921;JP)
+
+(NP-SBJ *T*)
+
+(D あの)
+
+(N 婆さん)
+
+(P-ROLE を)
+
+(VB 殺し)
+
+(AXD た)
+
+(N の)
+
+(P-OPTR は)
+
+(NP-SBJ *T*)
+
+(N 今夜)
+
+(PRO ここ)
+
+(P-ROLE へ)
+
+(VB 来)
+
+(AXD た)
+
+(NP-SBJ *T*)
+
+(NPR アグニ)
+
+(AX の)
+
+(N 神)
+
+(AX です)
+
+(-RRB- 」)
+
+(ID 288_aozora_Akutagawa-1921;JP)
+
+(NP-OB1 *pro*)
+
+(NPR 遠藤)
+
+(P-OPTR は)
+
+(NPR 妙子)
+
+(P-ROLE を)
+
+(VB 抱え)
+
+(AXD た)
+
+(N まま)
+
+(PU 、)
+
+(ADJN おごそか)
+
+(AX に)
+
+(ADV こう)
+
+(VB 囁き)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 289_aozora_Akutagawa-1921;JP)
+

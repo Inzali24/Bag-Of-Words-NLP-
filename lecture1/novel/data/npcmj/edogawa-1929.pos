@@ -1,0 +1,24841 @@
+(COMMENT
+  {file
+  checked
+  by
+  Orikasa
+  2017/03/02})
+
+(COMMENT
+  {file
+  checked
+  by
+  Orikasa
+  2017/03/02})
+
+(COMMENT
+  {file
+  checked
+  by
+  Orikasa
+  2017/03/02})
+
+(COMMENT
+  {file
+  checked
+  by
+  Orikasa
+  2017/03/02})
+
+(COMMENT
+  {file
+  checked
+  by
+  Orikasa
+  2017/03/02})
+
+(NP-SBJ *T*)
+
+(N 押絵)
+
+(P-ROLE と)
+
+(VB 旅)
+
+(VB0 する)
+
+(N 男)
+
+(ID 1_aozora_Edogawa-1929;JP)
+
+(NPR 江戸川乱歩)
+
+(ID 2_aozora_Edogawa-1929;JP)
+
+(D この)
+
+(N 話)
+
+(P-ROLE が)
+
+(PRO 私)
+
+(P-ROLE の)
+
+(N 夢)
+
+(P-CONN か)
+
+(PRO 私)
+
+(P-ROLE の)
+
+(N 一時的狂気)
+
+(P-ROLE の)
+
+(N 幻)
+
+(AX で)
+
+(NEG なかっ)
+
+(AXD た)
+
+(P-CONN ならば)
+
+(PU 、)
+
+(D あの)
+
+(NP-SBJ *T*)
+
+(N 押絵)
+
+(P-ROLE と)
+
+(N 旅)
+
+(P-ROLE を)
+
+(VB し)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AXD た)
+
+(N 男)
+
+(P-OPTR こそ)
+
+(N 狂人)
+
+(AX で)
+
+(VB2 あっ)
+
+(AXD た)
+
+(P-ROLE に)
+
+(N 相違)
+
+(ADJI ない)
+
+(PU 。)
+
+(ID 3_aozora_Edogawa-1929;JP)
+
+(CONJ だが)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(NP-CZZ *arb*)
+
+(N 夢)
+
+(P-ROLE が)
+
+(ADV 時として)
+
+(PU 、)
+
+(WPRO どこ)
+
+(P-OPTR か)
+
+(NP-SBJ *T*)
+
+(D この)
+
+(N 世界)
+
+(P-ROLE と)
+
+(VB 喰違っ)
+
+(AX た)
+
+(NP-SBJ *T*)
+
+(ADJN 別)
+
+(AX の)
+
+(N 世界)
+
+(P-ROLE を)
+
+(PU 、)
+
+(ADV チラリと)
+
+(VB 覗か)
+
+(VB2 せ)
+
+(P-CONN て)
+
+(VB2 くれる)
+
+(N 様)
+
+(AX に)
+
+(PU 、)
+
+(CONJ 又)
+
+(NP-SBJ *pro*)
+
+(N 狂人)
+
+(P-ROLE が)
+
+(PU 、)
+
+(NP-OB1 *T*)
+
+(PRO 我々)
+
+(P-ROLE の)
+
+(ADV 全く)
+
+(VB 感じ)
+
+(VB2 得)
+
+(NEG ぬ)
+
+(N 物事)
+
+(P-ROLE を)
+
+(VB 見)
+
+(P-CONN たり)
+
+(VB 聞い)
+
+(P-CONN たり)
+
+(VB2 する)
+
+(P-ROLE と)
+
+(ADJN 同じ)
+
+(AX に)
+
+(PU 、)
+
+(PRO これ)
+
+(P-OPTR は)
+
+(PRO 私)
+
+(P-ROLE が)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJN 不可思議)
+
+(AX な)
+
+(N 大気)
+
+(P-ROLE の)
+
+(N レンズ仕掛け)
+
+(P-ROLE を通して)
+
+(PU 、)
+
+(NUM 一)
+
+(CL 刹那)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(N この世)
+
+(P-ROLE の)
+
+(N 視野)
+
+(P-ROLE の)
+
+(N 外)
+
+(P-ROLE に)
+
+(VB ある)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJN 別)
+
+(AX の)
+
+(N 世界)
+
+(P-ROLE の)
+
+(N 一隅)
+
+(P-ROLE を)
+
+(PU 、)
+
+(ADV ふと)
+
+(VB 隙見)
+
+(VB0 し)
+
+(AXD た)
+
+(FN の)
+
+(AX で)
+
+(VB2 あっ)
+
+(AXD た)
+
+(P-OPTR かも)
+
+(VB 知れ)
+
+(NEG ない)
+
+(PU 。)
+
+(ID 4_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *pro*)
+
+(NP-SBJ *arb*)
+
+(NP-OB1 *T*)
+
+(WPRO いつ)
+
+(AX *)
+
+(P-COMP と)
+
+(P-OPTR も)
+
+(VB 知れ)
+
+(NEG ぬ)
+
+(PU 、)
+
+(D ある)
+
+(NP-SBJ *T*)
+
+(ADJI 暖かい)
+
+(NP-SBJ *T*)
+
+(VB 薄曇っ)
+
+(AX た)
+
+(N 日)
+
+(P-ROLE の)
+
+(N こと)
+
+(AX で)
+
+(VB2 ある)
+
+(PU 。)
+
+(ID 5_aozora_Edogawa-1929;JP)
+
+(D その)
+
+(N 時)
+
+(PU 、)
+
+(PRO 私)
+
+(P-OPTR は)
+
+(ADV 態々)
+
+(NPR 魚津)
+
+(P-ROLE へ)
+
+(N 蜃気楼)
+
+(P-ROLE を)
+
+(VB 見)
+
+(P-ROLE に)
+
+(VB 出掛け)
+
+(AXD た)
+
+(N 帰り途)
+
+(AX で)
+
+(VB2 あっ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 6_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *speaker*)
+
+(PRO 私)
+
+(P-ROLE が)
+
+(D この)
+
+(N 話)
+
+(P-ROLE を)
+
+(VB する)
+
+(P-CONN と)
+
+(PU 、)
+
+(ADV 時々)
+
+(PU 、)
+
+(PRO お前)
+
+(P-OPTR は)
+
+(NPR 魚津)
+
+(P-OPTR なんか)
+
+(P-ROLE へ)
+
+(VB 行っ)
+
+(AXD た)
+
+(N こと)
+
+(P-OPTR は)
+
+(ADJI ない)
+
+(AX じゃ)
+
+(NEG ない)
+
+(P-FINAL か)
+
+(P-COMP と)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJI 親しい)
+
+(N 友達)
+
+(P-ROLE に)
+
+(VB 突っ込ま)
+
+(PASS れる)
+
+(N こと)
+
+(P-ROLE が)
+
+(VB ある)
+
+(PU 。)
+
+(ID 7_aozora_Edogawa-1929;JP)
+
+(ADV そう)
+
+(VB 云わ)
+
+(PASS れ)
+
+(P-CONN て)
+
+(VB2 見る)
+
+(P-CONN と)
+
+(PU 、)
+
+(PRO 私)
+
+(P-OPTR は)
+
+(NP-SBJ;{WATASHI} *pro*)
+
+(WNUM 何)
+
+(CL 時)
+
+(P-ROLE の)
+
+(WNUM 何)
+
+(CL 日)
+
+(P-ROLE に)
+
+(NPR 魚津)
+
+(P-ROLE へ)
+
+(VB 行っ)
+
+(AXD た)
+
+(FN の)
+
+(AX だ)
+
+(P-COMP と)
+
+(PU 、)
+
+(ADV ハッキリ)
+
+(N 証拠)
+
+(P-ROLE を)
+
+(VB 示す)
+
+(N こと)
+
+(P-ROLE が)
+
+(VB 出来)
+
+(NEG ぬ)
+
+(PU 。)
+
+(ID 8_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *pro*)
+
+(CONJ それでは)
+
+(ADV やっぱり)
+
+(N 夢)
+
+(AX で)
+
+(VB2 あっ)
+
+(AXD た)
+
+(FN の)
+
+(P-FINAL か)
+
+(PU 。)
+
+(ID 9_aozora_Edogawa-1929;JP)
+
+(CONJ だが)
+
+(PRO 私)
+
+(P-OPTR は)
+
+(ADV 嘗て)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(NP-SBJ *T*)
+
+(D あの)
+
+(N よう)
+
+(AX に)
+
+(ADJN 濃厚)
+
+(AX な)
+
+(N 色彩)
+
+(P-ROLE を)
+
+(VB 持っ)
+
+(AX た)
+
+(N 夢)
+
+(P-ROLE を)
+
+(VB 見)
+
+(AXD た)
+
+(N こと)
+
+(P-ROLE が)
+
+(ADJI ない)
+
+(PU 。)
+
+(ID 10_aozora_Edogawa-1929;JP)
+
+(N 夢)
+
+(P-ROLE の)
+
+(N 中)
+
+(P-ROLE の)
+
+(N 景色)
+
+(P-OPTR は)
+
+(PU 、)
+
+(N 映画)
+
+(P-ROLE と)
+
+(ADJN 同じ)
+
+(AX に)
+
+(PU 、)
+
+(ADV 全く)
+
+(N 色彩)
+
+(P-ROLE を)
+
+(VB 伴わ)
+
+(NEG ぬ)
+
+(N もの)
+
+(AX で)
+
+(VB2 ある)
+
+(P-CONN のに)
+
+(PU 、)
+
+(D あの)
+
+(N 折)
+
+(P-ROLE の)
+
+(N 汽車)
+
+(P-ROLE の)
+
+(N 中)
+
+(P-ROLE の)
+
+(N 景色)
+
+(P-OPTR 丈け)
+
+(P-OPTR は)
+
+(PU 、)
+
+(CONJ それも)
+
+(D あの)
+
+(NP-SBJ *T*)
+
+(ADJI 毒々しい)
+
+(N 押絵)
+
+(P-ROLE の)
+
+(N 画面)
+
+(P-ROLE が)
+
+(N 中心)
+
+(AX に)
+
+(VB なっ)
+
+(P-CONN て)
+
+(PU 、)
+
+(N 紫)
+
+(P-CONN と)
+
+(N 臙脂)
+
+(P-ROLE の)
+
+(VB 勝)
+
+(AX た)
+
+(N 色彩)
+
+(P-ROLE で)
+
+(PU 、)
+
+(ADV まるで)
+
+(N 蛇)
+
+(P-ROLE の)
+
+(N 眼)
+
+(P-ROLE の)
+
+(N 瞳孔)
+
+(P-ROLE の)
+
+(N 様)
+
+(AX に)
+
+(PU 、)
+
+(ADJI 生々しく)
+
+(PRO 私)
+
+(P-ROLE の)
+
+(N 記憶)
+
+(P-ROLE に)
+
+(VB 焼つい)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(PU 。)
+
+(ID 11_aozora_Edogawa-1929;JP)
+
+(N 着色映画)
+
+(P-ROLE の)
+
+(N 夢)
+
+(P-ROLE という)
+
+(N もの)
+
+(P-ROLE が)
+
+(VB ある)
+
+(FN の)
+
+(AX で)
+
+(VB2 あろ)
+
+(INFR う)
+
+(P-FINAL か)
+
+(PU 。)
+
+(ID 12_aozora_Edogawa-1929;JP)
+
+(PRO 私)
+
+(P-OPTR は)
+
+(D その)
+
+(N 時)
+
+(PU 、)
+
+(VB 生れ)
+
+(P-CONN て)
+
+(ADV 初めて)
+
+(N 蜃気楼)
+
+(P-ROLE という)
+
+(N もの)
+
+(P-ROLE を)
+
+(VB 見)
+
+(AXD た)
+
+(PU 。)
+
+(ID 13_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *T*)
+
+(N 蛤)
+
+(P-ROLE の)
+
+(N 息)
+
+(P-ROLE の)
+
+(N 中)
+
+(P-ROLE に)
+
+(NP-SBJ *T*)
+
+(ADJI 美しい)
+
+(N 龍宮城)
+
+(P-ROLE の)
+
+(VB 浮ん)
+
+(P-CONN で)
+
+(VB2 いる)
+
+(PU 、)
+
+(D あの)
+
+(NP-SBJ *T*)
+
+(ADJN 古風)
+
+(AX な)
+
+(N 絵)
+
+(P-ROLE を)
+
+(VB 想像)
+
+(VB0 し)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AXD た)
+
+(PRO 私)
+
+(P-OPTR は)
+
+(PU 、)
+
+(N 本物)
+
+(P-ROLE の)
+
+(N 蜃気楼)
+
+(P-ROLE を)
+
+(VB 見)
+
+(P-CONN て)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(N 膏汗)
+
+(P-ROLE の)
+
+(VB にじむ)
+
+(N 様)
+
+(AX な)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(N 恐怖)
+
+(P-ROLE に)
+
+(ADJI 近い)
+
+(N 驚き)
+
+(P-ROLE に)
+
+(VB 撃た)
+
+(PASS れ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 14_aozora_Edogawa-1929;JP)
+
+(NPR 魚津)
+
+(P-ROLE の)
+
+(N 浜)
+
+(P-ROLE の)
+
+(N 松並木)
+
+(P-ROLE に)
+
+(NP-SBJ *T*)
+
+(N 豆粒)
+
+(P-ROLE の)
+
+(N 様)
+
+(AX な)
+
+(N 人間)
+
+(P-ROLE が)
+
+(PP *ICH*-1)
+
+(ADV ウジャウジャ)
+
+(P-ROLE と)
+
+(VB 集まっ)
+
+(P-CONN て)
+
+(PU 、)
+
+(N 息)
+
+(P-ROLE を)
+
+(VB 殺し)
+
+(P-CONN て)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJN 眼界一杯)
+
+(AX の)
+
+(N 大空)
+
+(P-CONN と)
+
+(N 海面)
+
+(P-CONN と)
+
+(P-ROLE を)
+
+(VB 眺め)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AXD た)
+
+(PU 。)
+
+(ID 15_aozora_Edogawa-1929;JP)
+
+(PRO 私)
+
+(P-OPTR は)
+
+(NP-SBJ *T*)
+
+(ADV あんな)
+
+(ADJN 静か)
+
+(AX な)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(N 唖)
+
+(P-ROLE の)
+
+(N 様)
+
+(AX に)
+
+(VB だまっ)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(N 海)
+
+(P-ROLE を)
+
+(VB 見)
+
+(AXD た)
+
+(N こと)
+
+(P-ROLE が)
+
+(ADJI ない)
+
+(PU 。)
+
+(ID 16_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *T*)
+
+(NPR 日本海)
+
+(P-OPTR は)
+
+(N 荒海)
+
+(AX *)
+
+(P-COMP と)
+
+(VB 思い込ん)
+
+(P-CONN で)
+
+(VB2 い)
+
+(AXD た)
+
+(PRO 私)
+
+(P-ROLE に)
+
+(P-OPTR は)
+
+(PU 、)
+
+(PRO それ)
+
+(P-OPTR も)
+
+(ADJI ひどく)
+
+(ADJN 意外)
+
+(AX で)
+
+(VB2 あっ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 17_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *speaker*)
+
+(D その)
+
+(N 海)
+
+(P-OPTR は)
+
+(PU 、)
+
+(ADJN 灰色)
+
+(AX で)
+
+(PU 、)
+
+(ADV 全く)
+
+(N 小波)
+
+(NUM 一)
+
+(CL つ)
+
+(ADJI なく)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(N 無限)
+
+(P-ROLE の)
+
+(N 彼方)
+
+(P-ROLE に)
+
+(P-ROLE まで)
+
+(VB 打続く)
+
+(N 沼)
+
+(AX *)
+
+(P-FINAL か)
+
+(P-COMP と)
+
+(VB 思わ)
+
+(VB2 れ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 18_aozora_Edogawa-1929;JP)
+
+(CONJ そして)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(NPR 太平洋)
+
+(P-ROLE の)
+
+(N 海)
+
+(P-ROLE の)
+
+(N 様)
+
+(AX に)
+
+(PU 、)
+
+(N 水平線)
+
+(P-OPTR は)
+
+(ADJI なくて)
+
+(PU 、)
+
+(N 海)
+
+(P-CONN と)
+
+(N 空)
+
+(P-CONN と)
+
+(P-OPTR は)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJN 同じ)
+
+(AX *)
+
+(N 灰色)
+
+(P-ROLE に)
+
+(VB 溶け合い)
+
+(PU 、)
+
+(NP-SBJ *speaker*)
+
+(N 厚さ)
+
+(P-ROLE の)
+
+(VB 知れ)
+
+(NEG ぬ)
+
+(N 靄)
+
+(P-ROLE に)
+
+(VB 覆い)
+
+(VB2 つくさ)
+
+(PASS れ)
+
+(AX た)
+
+(N 感じ)
+
+(AX で)
+
+(VB2 あっ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 19_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *speaker*)
+
+(NP-SBJ *T*)
+
+(N 空)
+
+(AX だ)
+
+(P-COMP と)
+
+(P-OPTR ばかり)
+
+(VB 思っ)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AXD た)
+
+(PU 、)
+
+(N 上部)
+
+(P-ROLE の)
+
+(N 靄)
+
+(P-ROLE の)
+
+(N 中)
+
+(P-ROLE を)
+
+(PU 、)
+
+(ADJN 案外)
+
+(AX に)
+
+(P-OPTR も)
+
+(PRO そこ)
+
+(P-ROLE が)
+
+(N 海面)
+
+(AX で)
+
+(VB2 あっ)
+
+(P-CONN て)
+
+(PU 、)
+
+(ADV フワフワ)
+
+(P-ROLE と)
+
+(NP-SBJ *T*)
+
+(N 幽霊)
+
+(P-ROLE の)
+
+(N 様)
+
+(AX な)
+
+(PU 、)
+
+(PNL 大きな)
+
+(N 白帆)
+
+(P-ROLE が)
+
+(VB 滑っ)
+
+(P-CONN て)
+
+(VB2 行っ)
+
+(P-CONN たり)
+
+(VB2 し)
+
+(AXD た)
+
+(PU 。)
+
+(ID 20_aozora_Edogawa-1929;JP)
+
+(N 蜃気楼)
+
+(P-OPTR とは)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(NP-SBJ *T*)
+
+(N 乳色)
+
+(AX の)
+
+(N フィルム)
+
+(P-ROLE の)
+
+(N 表面)
+
+(P-ROLE に)
+
+(N 墨汁)
+
+(P-ROLE を)
+
+(VB たらし)
+
+(P-CONN て)
+
+(PU 、)
+
+(PRO それ)
+
+(P-ROLE が)
+
+(ADJN 自然)
+
+(AX に)
+
+(ADV ジワジワ)
+
+(P-ROLE と)
+
+(VB にじん)
+
+(P-CONN で)
+
+(VB2 行く)
+
+(N の)
+
+(P-ROLE を)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(N 途方)
+
+(P-OPTR も)
+
+(ADJI なく)
+
+(ADJN 巨大)
+
+(AX な)
+
+(N 映画)
+
+(AX に)
+
+(VB し)
+
+(P-CONN て)
+
+(PU 、)
+
+(N 大空)
+
+(P-ROLE に)
+
+(VB 映し出し)
+
+(AXD た)
+
+(N 様)
+
+(AX な)
+
+(N もの)
+
+(AX で)
+
+(VB2 あっ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 21_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *T*)
+
+(ADJN 遙か)
+
+(AX な)
+
+(NPR 能登半島)
+
+(P-ROLE の)
+
+(N 森林)
+
+(P-ROLE が)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(VB 喰違っ)
+
+(AX た)
+
+(N 大気)
+
+(P-ROLE の)
+
+(N 変形レンズ)
+
+(P-ROLE を通して)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADV すぐ)
+
+(N 目)
+
+(P-ROLE の)
+
+(N 前)
+
+(AX の)
+
+(N 大空)
+
+(P-ROLE に)
+
+(PU 、)
+
+(NP *T*)
+
+(P-ROLE *の*)
+
+(N 焦点)
+
+(P-ROLE の)
+
+(ADJI よく)
+
+(VB 合わ)
+
+(NEG ぬ)
+
+(N 顕微鏡)
+
+(P-ROLE の)
+
+(N 下)
+
+(P-ROLE の)
+
+(NP-SBJ *T*)
+
+(ADJI 黒い)
+
+(N 虫)
+
+(AX *)
+
+(AX みたい)
+
+(AX に)
+
+(PU 、)
+
+(ADJN 曖昧)
+
+(AX に)
+
+(PU 、)
+
+(CONJ しかも)
+
+(ADJI 馬鹿馬鹿しく)
+
+(VB 拡大)
+
+(VB0 さ)
+
+(PASS れ)
+
+(P-CONN て)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(NP-OB1 *pro*)
+
+(VB 見る)
+
+(N 者)
+
+(P-ROLE の)
+
+(N 頭上)
+
+(P-ROLE に)
+
+(VB おしかぶさっ)
+
+(P-CONN て)
+
+(VB2 来る)
+
+(FN の)
+
+(AX で)
+
+(VB2 あっ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 22_aozora_Edogawa-1929;JP)
+
+(PRO それ)
+
+(P-OPTR は)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(NP-SBJ *T*)
+
+(ADJN 妙)
+
+(AX な)
+
+(N 形)
+
+(AX の)
+
+(N 黒雲)
+
+(P-ROLE と)
+
+(VB 似)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AXD た)
+
+(P-CONN けれど)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(NP-SBJ *pro*)
+
+(N 黒雲)
+
+(AX なれ)
+
+(P-CONN ば)
+
+(D その)
+
+(N 所在)
+
+(P-ROLE が)
+
+(ADV ハッキリ)
+
+(VB 分っ)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(P-ROLE に反し)
+
+(PU 、)
+
+(N 蜃気楼)
+
+(P-OPTR は)
+
+(PU 、)
+
+(ADJN 不思議)
+
+(AX に)
+
+(P-OPTR も)
+
+(PU 、)
+
+(PRO それ)
+
+(P-CONN と)
+
+(NP-SBJ *T*)
+
+(NP-OB1 *pro*)
+
+(VB 見る)
+
+(N 者)
+
+(P-CONN と)
+
+(P-ROLE の)
+
+(N 距離)
+
+(P-ROLE が)
+
+(ADJN 非常)
+
+(AX に)
+
+(ADJN 曖昧)
+
+(AX な)
+
+(FN の)
+
+(AX だ)
+
+(PU 。)
+
+(ID 23_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *speaker*)
+
+(NP-OB1 *pro*)
+
+(NP-SBJ *pro*)
+
+(NP-SBJ *T*)
+
+(NP-SBJ *T*)
+
+(N 遠く)
+
+(AX の)
+
+(N 海上)
+
+(P-ROLE に)
+
+(VB 漂う)
+
+(N 大入道)
+
+(P-ROLE の)
+
+(N 様)
+
+(AX で)
+
+(P-OPTR も)
+
+(VB2 あり)
+
+(PU 、)
+
+(CONJ ともすれば)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(NP-SBJ *T*)
+
+(N 眼前)
+
+(NUM 一)
+
+(CL 尺)
+
+(P-ROLE に)
+
+(VB 迫る)
+
+(N 異形)
+
+(P-ROLE の)
+
+(N 靄)
+
+(AX *)
+
+(P-FINAL か)
+
+(P-COMP と)
+
+(VB 見え)
+
+(PU 、)
+
+(CONJ はては)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(NP-SBJ *T*)
+
+(NP-OB1 *pro*)
+
+(VB 見る)
+
+(N 者)
+
+(P-ROLE の)
+
+(N 角膜)
+
+(P-ROLE の)
+
+(N 表面)
+
+(P-ROLE に)
+
+(PU 、)
+
+(ADV ポッツリ)
+
+(P-ROLE と)
+
+(VB 浮ん)
+
+(AX だ)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(NUM 一)
+
+(CL 点)
+
+(AX の)
+
+(N 曇り)
+
+(P-ROLE の)
+
+(N 様)
+
+(AX に)
+
+(P-OPTR さえ)
+
+(VB 感じ)
+
+(VB2 られ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 24_aozora_Edogawa-1929;JP)
+
+(D この)
+
+(N 距離)
+
+(P-ROLE の)
+
+(N 曖昧さ)
+
+(P-ROLE が)
+
+(PU 、)
+
+(N 蜃気楼)
+
+(P-ROLE に)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(N 想像以上)
+
+(AX の)
+
+(NP-SBJ *T*)
+
+(ADJN 不気味)
+
+(AX な)
+
+(NP-SBJ *T*)
+
+(VB 気違いめい)
+
+(AX た)
+
+(N 感じ)
+
+(P-ROLE を)
+
+(VB 与える)
+
+(FN の)
+
+(AX だ)
+
+(PU 。)
+
+(ID 25_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *T*)
+
+(NP-SBJ *T*)
+
+(ADJN 曖昧)
+
+(AX な)
+
+(N 形)
+
+(AX の)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJN 真黒)
+
+(AX な)
+
+(NP-SBJ *T*)
+
+(ADJN 巨大)
+
+(AX な)
+
+(N 三角形)
+
+(P-ROLE が)
+
+(PU 、)
+
+(N 塔)
+
+(P-ROLE の)
+
+(N 様)
+
+(AX に)
+
+(VB 積重なっ)
+
+(P-CONN て)
+
+(VB2 行っ)
+
+(P-CONN たり)
+
+(PU 、)
+
+(NP-SBJ *exp*)
+
+(VB またたく)
+
+(N 間)
+
+(P-ROLE に)
+
+(VB くずれ)
+
+(P-CONN たり)
+
+(PU 、)
+
+(N 横)
+
+(P-ROLE に)
+
+(VB 延び)
+
+(P-CONN て)
+
+(NP-SBJ *T*)
+
+(ADJI 長い)
+
+(N 汽車)
+
+(P-ROLE の)
+
+(N 様)
+
+(AX に)
+
+(VB 走っ)
+
+(P-CONN たり)
+
+(PU 、)
+
+(PRO それ)
+
+(P-ROLE が)
+
+(WNUM 幾)
+
+(CL つ)
+
+(P-OPTR か)
+
+(P-ROLE に)
+
+(VB くずれ)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(VB 立並ぶ)
+
+(N 檜)
+
+(P-ROLE の)
+
+(N 梢)
+
+(P-ROLE と)
+
+(VB 見え)
+
+(P-CONN たり)
+
+(PU 、)
+
+(ADV じっと)
+
+(VB 動か)
+
+(NEG ぬ)
+
+(N 様)
+
+(AX で)
+
+(VB2 い)
+
+(P-CONN ながら)
+
+(PU 、)
+
+(ADJI いつとはなく)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADV 全く)
+
+(VB 違っ)
+
+(AX た)
+
+(N 形)
+
+(P-ROLE に)
+
+(VB 化け)
+
+(P-CONN て)
+
+(VB2 行っ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 26_aozora_Edogawa-1929;JP)
+
+(N 蜃気楼)
+
+(P-ROLE の)
+
+(N 魔力)
+
+(P-ROLE が)
+
+(PU 、)
+
+(N 人間)
+
+(P-ROLE を)
+
+(N 気違い)
+
+(AX に)
+
+(VB する)
+
+(N もの)
+
+(AX で)
+
+(VB2 あっ)
+
+(AXD た)
+
+(P-OPTR なら)
+
+(PU 、)
+
+(ADV 恐らく)
+
+(PRO 私)
+
+(P-OPTR は)
+
+(PU 、)
+
+(ADV 少くとも)
+
+(N 帰り途)
+
+(P-ROLE の)
+
+(N 汽車)
+
+(P-ROLE の)
+
+(N 中)
+
+(P-ROLE まで)
+
+(P-OPTR は)
+
+(PU 、)
+
+(D その)
+
+(N 魔力)
+
+(P-ROLE を)
+
+(VB 逃れる)
+
+(N こと)
+
+(P-ROLE が)
+
+(VB 出来)
+
+(NEG なかっ)
+
+(AXD た)
+
+(FN の)
+
+(AX で)
+
+(VB2 あろ)
+
+(INFR う)
+
+(PU 。)
+
+(ID 27_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *T*)
+
+(NP-SBJ *T*)
+
+(NUM 二)
+
+(CL 時間)
+
+(AX の)
+
+(N 余)
+
+(P-OPTR も)
+
+(VB 立ち尽し)
+
+(P-CONN て)
+
+(PU 、)
+
+(N 大空)
+
+(P-ROLE の)
+
+(N 妖異)
+
+(P-ROLE を)
+
+(VB 眺め)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AXD た)
+
+(PRO 私)
+
+(P-OPTR は)
+
+(PU 、)
+
+(D その)
+
+(N 夕方)
+
+(NPR 魚津)
+
+(P-ROLE を)
+
+(VB 立っ)
+
+(P-CONN て)
+
+(PU 、)
+
+(N 汽車)
+
+(P-ROLE の)
+
+(N 中)
+
+(P-ROLE に)
+
+(N 一夜)
+
+(P-ROLE を)
+
+(VB 過ごす)
+
+(P-CONN まで)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADV 全く)
+
+(N 日常)
+
+(P-ROLE と)
+
+(VB 異っ)
+
+(AX た)
+
+(N 気持)
+
+(AX で)
+
+(VB2 い)
+
+(AXD た)
+
+(N こと)
+
+(P-OPTR は)
+
+(ADJN 確)
+
+(AX で)
+
+(VB2 ある)
+
+(PU 。)
+
+(ID 28_aozora_Edogawa-1929;JP)
+
+(ADV 若しかしたら)
+
+(PU 、)
+
+(PRO それ)
+
+(P-OPTR は)
+
+(NP-SBJ *T*)
+
+(NP-SBJ *pro*)
+
+(N 通り魔)
+
+(P-ROLE の)
+
+(N 様)
+
+(AX に)
+
+(PU 、)
+
+(N 人間)
+
+(P-ROLE の)
+
+(N 心)
+
+(P-ROLE を)
+
+(VB かすめ冒す)
+
+(N 所)
+
+(AX の)
+
+(PU 、)
+
+(N 一時的狂気)
+
+(P-ROLE の)
+
+(N 類)
+
+(AX で)
+
+(P-OPTR でも)
+
+(VB2 あっ)
+
+(AXD た)
+
+(AX で)
+
+(VB2 あろう)
+
+(P-FINAL か)
+
+(PU 。)
+
+(ID 29_aozora_Edogawa-1929;JP)
+
+(NP-TMP *T*)
+
+(NP-SBJ *speaker*)
+
+(NPR 魚津)
+
+(P-ROLE の)
+
+(N 駅)
+
+(P-ROLE から)
+
+(NPR 上野)
+
+(P-ROLE へ)
+
+(P-ROLE の)
+
+(N 汽車)
+
+(P-ROLE に)
+
+(VB 乗っ)
+
+(AXD た)
+
+(N の)
+
+(P-OPTR は)
+
+(PU 、)
+
+(N 夕方)
+
+(P-ROLE の)
+
+(NUM 六)
+
+(CL 時)
+
+(N 頃)
+
+(AX で)
+
+(VB2 あっ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 30_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *pro*)
+
+(NP-SBJ *T*)
+
+(ADJN 不思議)
+
+(AX な)
+
+(N 偶然)
+
+(AX で)
+
+(VB2 あろ)
+
+(INFR う)
+
+(P-FINAL か)
+
+(PU 、)
+
+(D あの)
+
+(N 辺)
+
+(P-ROLE の)
+
+(N 汽車)
+
+(P-OPTR は)
+
+(WPRO いつ)
+
+(P-OPTR でも)
+
+(ADV そう)
+
+(AX な)
+
+(FN の)
+
+(P-FINAL か)
+
+(PU 、)
+
+(NP *T*)
+
+(P-ROLE *に*)
+
+(PRO 私)
+
+(P-ROLE の)
+
+(VB 乗っ)
+
+(AXD た)
+
+(NUM 二)
+
+(CL 等車)
+
+(P-OPTR は)
+
+(PU 、)
+
+(N 教会堂)
+
+(P-ROLE の)
+
+(N 様)
+
+(AX に)
+
+(ADV ガランと)
+
+(VB し)
+
+(P-CONN て)
+
+(VB2 い)
+
+(P-CONN て)
+
+(PU 、)
+
+(PRO 私)
+
+(P-ROLE の)
+
+(N 外)
+
+(P-ROLE に)
+
+(NP-SBJ *T*)
+
+(ADV たった)
+
+(NUM 一人)
+
+(AX の)
+
+(N 先客)
+
+(P-ROLE が)
+
+(PU 、)
+
+(N 向う)
+
+(P-ROLE の)
+
+(N 隅)
+
+(P-ROLE の)
+
+(N クッション)
+
+(P-ROLE に)
+
+(VB 蹲っ)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(P-OPTR ばかり)
+
+(AX で)
+
+(VB2 あっ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 31_aozora_Edogawa-1929;JP)
+
+(N 汽車)
+
+(P-OPTR は)
+
+(NP-SBJ *T*)
+
+(ADJI 淋しい)
+
+(N 海岸)
+
+(P-ROLE の)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJI けわしい)
+
+(N 崕)
+
+(P-CONN や)
+
+(N 砂浜)
+
+(P-ROLE の)
+
+(N 上)
+
+(P-ROLE を)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJN 単調)
+
+(AX な)
+
+(N 機械)
+
+(P-ROLE の)
+
+(N 音)
+
+(P-ROLE を)
+
+(VB 響か)
+
+(VB2 せ)
+
+(P-CONN て)
+
+(PU 、)
+
+(ADJI 際しもなく)
+
+(VB 走っ)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(PU 。)
+
+(ID 32_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *speaker*)
+
+(NP-SBJ *T*)
+
+(N 沼)
+
+(P-ROLE の)
+
+(N 様)
+
+(AX な)
+
+(N 海上)
+
+(P-ROLE の)
+
+(PU 、)
+
+(N 靄)
+
+(P-ROLE の)
+
+(N 奥)
+
+(N 深く)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(N 黒血)
+
+(P-ROLE の)
+
+(N 色)
+
+(AX の)
+
+(N 夕焼)
+
+(P-ROLE が)
+
+(PU 、)
+
+(ADV ボンヤリ)
+
+(P-ROLE と)
+
+(VB 感じ)
+
+(VB2 られ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 33_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *T*)
+
+(ADJN 異様)
+
+(AX に)
+
+(ADJI 大きく)
+
+(VB 見える)
+
+(N 白帆)
+
+(P-ROLE が)
+
+(PU 、)
+
+(D その)
+
+(N 中)
+
+(P-ROLE を)
+
+(PU 、)
+
+(N 夢)
+
+(P-ROLE の)
+
+(N 様)
+
+(AX に)
+
+(VB 滑っ)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AXD た)
+
+(PU 。)
+
+(ID 34_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *pro*)
+
+(ADV 少し)
+
+(P-OPTR も)
+
+(N 風)
+
+(P-ROLE の)
+
+(ADJI ない)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADV むしむし)
+
+(VB する)
+
+(N 日)
+
+(AX で)
+
+(VB2 あっ)
+
+(AXD た)
+
+(P-CONN から)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(NP-SBJ *T*)
+
+(ADV 所々)
+
+(VB 開か)
+
+(PASS れ)
+
+(AX た)
+
+(N 汽車)
+
+(P-ROLE の)
+
+(N 窓)
+
+(P-ROLE から)
+
+(PU 、)
+
+(N 進行)
+
+(P-ROLE につれて)
+
+(VB 忍び込む)
+
+(N そよ風)
+
+(P-OPTR も)
+
+(PU 、)
+
+(N 幽霊)
+
+(P-ROLE の)
+
+(N 様)
+
+(P-ROLE に)
+
+(N 尻切れとんぼ)
+
+(AX で)
+
+(VB2 あっ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 35_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *T*)
+
+(Q 沢山)
+
+(AX の)
+
+(NP-SBJ *T*)
+
+(ADJI 短い)
+
+(N トンネル)
+
+(P-CONN と)
+
+(N 雪除け)
+
+(P-ROLE の)
+
+(N 柱)
+
+(P-ROLE の)
+
+(N 列)
+
+(P-ROLE が)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJN 広漠)
+
+(AX たる)
+
+(NP-SBJ *T*)
+
+(N 灰色)
+
+(AX の)
+
+(N 空)
+
+(P-CONN と)
+
+(N 海)
+
+(P-CONN と)
+
+(P-ROLE を)
+
+(PU 、)
+
+(N 縞目)
+
+(P-ROLE に)
+
+(VB 区切っ)
+
+(P-CONN て)
+
+(VB 通り過ぎ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 36_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *speaker*)
+
+(NPR 親不知)
+
+(P-ROLE の)
+
+(N 断崖)
+
+(P-ROLE を)
+
+(VB 通過)
+
+(VB0 する)
+
+(N 頃)
+
+(PU 、)
+
+(NP-SBJ *speaker*)
+
+(N 車内)
+
+(P-ROLE の)
+
+(N 電燈)
+
+(P-CONN と)
+
+(N 空)
+
+(P-ROLE の)
+
+(N 明るさ)
+
+(P-CONN と)
+
+(P-ROLE が)
+
+(ADJN 同じ)
+
+(AX に)
+
+(VB 感じ)
+
+(VB2 られ)
+
+(AXD た)
+
+(P-OPTR 程)
+
+(PU 、)
+
+(N 夕闇)
+
+(P-ROLE が)
+
+(VB 迫っ)
+
+(P-CONN て)
+
+(VB2 来)
+
+(AXD た)
+
+(PU 。)
+
+(ID 37_aozora_Edogawa-1929;JP)
+
+(ADV 丁度)
+
+(D その)
+
+(N 時分)
+
+(N 向う)
+
+(P-ROLE の)
+
+(N 隅)
+
+(P-ROLE の)
+
+(NP-SBJ *T*)
+
+(ADV たった)
+
+(NUM 一人)
+
+(AX の)
+
+(N 同乗者)
+
+(P-ROLE が)
+
+(PU 、)
+
+(ADV 突然)
+
+(VB 立上っ)
+
+(P-CONN て)
+
+(PU 、)
+
+(N クッション)
+
+(P-ROLE の)
+
+(N 上)
+
+(P-ROLE に)
+
+(NP-SBJ *T*)
+
+(PNL 大きな)
+
+(N 黒繻子)
+
+(AX の)
+
+(N 風呂敷)
+
+(P-ROLE を)
+
+(VB 広げ)
+
+(PU 、)
+
+(NP-OB1 *T*)
+
+(NP-SBJ *exp*)
+
+(N 窓)
+
+(P-ROLE に)
+
+(VB 立てかけ)
+
+(P-CONN て)
+
+(VB2 あっ)
+
+(AXD た)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(NUM 二)
+
+(CL 尺)
+
+(P-ROLE に)
+
+(NUM 三)
+
+(CL 尺)
+
+(P-OPTR 程)
+
+(AX の)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJN 扁平)
+
+(AX な)
+
+(N 荷物)
+
+(P-ROLE を)
+
+(PU 、)
+
+(D その)
+
+(N 中)
+
+(P-ROLE へ)
+
+(VB 包み)
+
+(VB2 始め)
+
+(AXD た)
+
+(PU 。)
+
+(ID 38_aozora_Edogawa-1929;JP)
+
+(PRO それ)
+
+(P-ROLE が)
+
+(PRO 私)
+
+(P-ROLE に)
+
+(ADV 何とやら)
+
+(NP-SBJ *T*)
+
+(ADJN 奇妙)
+
+(AX な)
+
+(N 感じ)
+
+(P-ROLE を)
+
+(VB 与え)
+
+(AXD た)
+
+(FN の)
+
+(AX で)
+
+(VB2 ある)
+
+(PU 。)
+
+(ID 39_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *pro*)
+
+(D その)
+
+(NP-SBJ *T*)
+
+(ADJN 扁平)
+
+(AX な)
+
+(N もの)
+
+(P-OPTR は)
+
+(PU 、)
+
+(ADV 多分)
+
+(N 額)
+
+(AX *)
+
+(P-ROLE に)
+
+(N 相違)
+
+(ADJI ない)
+
+(FN の)
+
+(AX だ)
+
+(P-CONN が)
+
+(PU 、)
+
+(PRO それ)
+
+(P-ROLE の)
+
+(N 表側)
+
+(P-ROLE の)
+
+(N 方)
+
+(P-ROLE を)
+
+(PU 、)
+
+(WPRO 何)
+
+(P-OPTR か)
+
+(NP-SBJ *T*)
+
+(ADJN 特別)
+
+(AX の)
+
+(N 意味)
+
+(P-OPTR でも)
+
+(VB ある)
+
+(AX らしく)
+
+(PU 、)
+
+(NP-OB1;{OUTSIDE} *pro*)
+
+(N 窓ガラス)
+
+(P-ROLE に)
+
+(VB 向け)
+
+(P-CONN て)
+
+(VB 立てかけ)
+
+(P-CONN て)
+
+(VB2 あっ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 40_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *speaker*)
+
+(NP-SBJ *pro*)
+
+(NP-OB1 *T*)
+
+(NP-SBJ *pro*)
+
+(NUM 一)
+
+(CL 度)
+
+(N 風呂敷)
+
+(P-ROLE に)
+
+(VB 包ん)
+
+(P-CONN で)
+
+(VB2 あっ)
+
+(AXD た)
+
+(N もの)
+
+(P-ROLE を)
+
+(PU 、)
+
+(ADV 態々)
+
+(VB 取出し)
+
+(P-CONN て)
+
+(PU 、)
+
+(D そんな)
+
+(N 風)
+
+(P-ROLE に)
+
+(NP-OB1;{PACKAGE} *pro*)
+
+(N 外)
+
+(P-ROLE に)
+
+(VB 向け)
+
+(P-CONN て)
+
+(VB 立てかけ)
+
+(AXD た)
+
+(FN もの)
+
+(AX *)
+
+(P-COMP と)
+
+(P-OPTR しか)
+
+(VB 考え)
+
+(VB2 られ)
+
+(NEG なかっ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 41_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *speaker*)
+
+(PRO それ)
+
+(P-ROLE に)
+
+(PU 、)
+
+(NP-SBJ *speaker*)
+
+(NP-OB1 *pro*)
+
+(NP-OB1 *pro*)
+
+(PRO 彼)
+
+(P-ROLE が)
+
+(ADV 再び)
+
+(VB 包む)
+
+(N 時)
+
+(P-ROLE に)
+
+(ADV チラと)
+
+(VB 見た)
+
+(N 所)
+
+(P-ROLE によると)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(N 額)
+
+(P-ROLE の)
+
+(N 表面)
+
+(P-ROLE に)
+
+(VB 描か)
+
+(PASS れ)
+
+(AX た)
+
+(NP-SBJ *T*)
+
+(N 極彩色)
+
+(AX の)
+
+(N 絵)
+
+(P-ROLE が)
+
+(PU 、)
+
+(ADJN 妙)
+
+(AX に)
+
+(ADJI 生々しく)
+
+(PU 、)
+
+(ADV 何となく)
+
+(N 世)
+
+(P-ROLE の)
+
+(N 常)
+
+(AX なら)
+
+(NEG ず)
+
+(VB 見え)
+
+(AXD た)
+
+(FN こと)
+
+(AX で)
+
+(VB2 あっ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 42_aozora_Edogawa-1929;JP)
+
+(PRO 私)
+
+(P-OPTR は)
+
+(ADV 更めて)
+
+(PU 、)
+
+(D この)
+
+(NP-SBJ *T*)
+
+(ADJN 変てこ)
+
+(AX な)
+
+(N 荷物)
+
+(P-ROLE の)
+
+(N 持主)
+
+(P-ROLE を)
+
+(VB 観察)
+
+(VB0 し)
+
+(AXD た)
+
+(PU 。)
+
+(ID 43_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *speaker*)
+
+(CONJ そして)
+
+(PU 、)
+
+(N 持主)
+
+(D その)
+
+(N 人)
+
+(P-ROLE が)
+
+(PU 、)
+
+(N 荷物)
+
+(P-ROLE の)
+
+(N 異様さ)
+
+(P-ROLE に)
+
+(P-OPTR も)
+
+(VB まし)
+
+(P-CONN て)
+
+(PU 、)
+
+(ADV 一段)
+
+(P-ROLE と)
+
+(ADJN 異様)
+
+(AX で)
+
+(VB2 あっ)
+
+(AXD た)
+
+(N こと)
+
+(P-ROLE に)
+
+(VB 驚かさ)
+
+(PASS れ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 44_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *speaker*)
+
+(PRO 彼)
+
+(P-OPTR は)
+
+(NP-SBJ *T*)
+
+(ADJN 非常)
+
+(AX に)
+
+(ADJN 古風)
+
+(AX な)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(NP-SBJ *arb*)
+
+(NP-OB1 *pro*)
+
+(PRO 我々)
+
+(P-ROLE の)
+
+(N 父親)
+
+(P-ROLE の)
+
+(ADJI 若い)
+
+(N 時分)
+
+(P-ROLE の)
+
+(NP-SBJ *T*)
+
+(VB 色あせ)
+
+(AX た)
+
+(N 写真)
+
+(P-ROLE で)
+
+(P-OPTR しか)
+
+(VB 見る)
+
+(N こと)
+
+(P-ROLE の)
+
+(VB 出来)
+
+(NEG ない)
+
+(N 様)
+
+(AX な)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(N 襟)
+
+(P-ROLE の)
+
+(ADJI 狭い)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(N 肩)
+
+(P-ROLE の)
+
+(VB すぼけ)
+
+(AX た)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(N 黒)
+
+(AX の)
+
+(N 背広服)
+
+(P-ROLE を)
+
+(VB 着)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AXD た)
+
+(P-CONN が)
+
+(PU 、)
+
+(CONJ 併し)
+
+(PRO それ)
+
+(P-ROLE が)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(N 背)
+
+(P-ROLE が)
+
+(ADJI 高く)
+
+(P-CONN て)
+
+(PU 、)
+
+(N 足)
+
+(P-ROLE の)
+
+(ADJI 長い)
+
+(PRO 彼)
+
+(P-ROLE に)
+
+(PU 、)
+
+(ADJN 妙)
+
+(AX に)
+
+(ADV シックリ)
+
+(P-ROLE と)
+
+(VB 合っ)
+
+(P-CONN て)
+
+(PU 、)
+
+(ADV 甚だ)
+
+(ADJN 意気)
+
+(AX に)
+
+(P-OPTR さえ)
+
+(VB 見え)
+
+(AXD た)
+
+(FN の)
+
+(AX で)
+
+(VB2 ある)
+
+(PU 。)
+
+(ID 45_aozora_Edogawa-1929;JP)
+
+(N 顔)
+
+(P-OPTR は)
+
+(N 細面)
+
+(AX で)
+
+(PU 、)
+
+(Q 両眼)
+
+(P-ROLE が)
+
+(ADV 少し)
+
+(ADV ギラギラ)
+
+(VB し)
+
+(VB2 過ぎ)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AXD た)
+
+(N 外)
+
+(P-OPTR は)
+
+(PU 、)
+
+(N 一体)
+
+(P-ROLE に)
+
+(ADJI よく)
+
+(VB 整っ)
+
+(P-CONN て)
+
+(VB2 い)
+
+(P-CONN て)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJN スマート)
+
+(AX な)
+
+(N 感じ)
+
+(AX で)
+
+(VB2 あっ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 46_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *pro*)
+
+(CONJ そして)
+
+(PU 、)
+
+(NP-OB1 *T*)
+
+(NP-SBJ *pro*)
+
+(ADJN 綺麗)
+
+(AX に)
+
+(VB 分け)
+
+(AXD た)
+
+(N 頭髪)
+
+(P-ROLE が)
+
+(PU 、)
+
+(ADJN 豊)
+
+(AX に)
+
+(ADV 黒々)
+
+(P-ROLE と)
+
+(VB 光っ)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(P-CONN ので)
+
+(PU 、)
+
+(ADV 一見)
+
+(NUM 四十)
+
+(N 前後)
+
+(AX で)
+
+(VB2 あっ)
+
+(AXD た)
+
+(P-CONN が)
+
+(PU 、)
+
+(NP-SBJ *speaker*)
+
+(ADJI よく)
+
+(VB 注意)
+
+(VB0 し)
+
+(P-CONN て)
+
+(NP-OB1 *pro*)
+
+(VB 見る)
+
+(P-CONN と)
+
+(PU 、)
+
+(NP-SBJ *speaker*)
+
+(NP-OB1 *pro*)
+
+(N 顔中)
+
+(P-ROLE に)
+
+(NP-SBJ *T*)
+
+(ADJI 夥しい)
+
+(N 皺)
+
+(P-ROLE が)
+
+(VB あっ)
+
+(P-CONN て)
+
+(PU 、)
+
+(N 一飛び)
+
+(P-ROLE に)
+
+(NUM 六十)
+
+(P-OPTR 位)
+
+(AX に)
+
+(P-OPTR も)
+
+(VB 見え)
+
+(NEG ぬ)
+
+(N こと)
+
+(P-OPTR は)
+
+(ADJI なかっ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 47_aozora_Edogawa-1929;JP)
+
+(D この)
+
+(NP-SBJ *T*)
+
+(ADV 黒々)
+
+(P-ROLE と)
+
+(VB し)
+
+(AX た)
+
+(N 頭髪)
+
+(P-CONN と)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(NP-SBJ *T*)
+
+(ADJN 色白)
+
+(AX の)
+
+(N 顔面)
+
+(P-ROLE を)
+
+(N 縦横)
+
+(P-ROLE に)
+
+(VB きざん)
+
+(AX だ)
+
+(N 皺)
+
+(P-CONN と)
+
+(P-ROLE の)
+
+(N 対照)
+
+(P-ROLE が)
+
+(PU 、)
+
+(NP-SBJ *speaker*)
+
+(ADV 初めて)
+
+(PRO それ)
+
+(P-ROLE に)
+
+(VB 附気い)
+
+(AXD た)
+
+(N 時)
+
+(PU 、)
+
+(PRO 私)
+
+(P-ROLE を)
+
+(ADV ハッと)
+
+(VB さ)
+
+(VB2 せ)
+
+(AXD た)
+
+(P-OPTR 程)
+
+(P-OPTR も)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJN 非常)
+
+(AX に)
+
+(ADJN 不気味)
+
+(AX な)
+
+(N 感じ)
+
+(P-ROLE を)
+
+(VB 与え)
+
+(AXD た)
+
+(PU 。)
+
+(ID 48_aozora_Edogawa-1929;JP)
+
+(PRO 彼)
+
+(P-OPTR は)
+
+(ADJN 叮嚀)
+
+(AX に)
+
+(N 荷物)
+
+(P-ROLE を)
+
+(VB 包み)
+
+(VB2 終る)
+
+(P-CONN と)
+
+(PU 、)
+
+(ADV ひょいと)
+
+(PRO 私)
+
+(P-ROLE の)
+
+(N 方)
+
+(P-ROLE に)
+
+(N 顔)
+
+(P-ROLE を)
+
+(VB 向け)
+
+(AXD た)
+
+(P-CONN が)
+
+(PU 、)
+
+(NP-SBJ *exp*)
+
+(ADV 丁度)
+
+(PRO 私)
+
+(P-ROLE の)
+
+(N 方)
+
+(P-OPTR でも)
+
+(ADJN 熱心)
+
+(AX に)
+
+(N 相手)
+
+(P-ROLE の)
+
+(N 動作)
+
+(P-ROLE を)
+
+(VB 眺め)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AXD た)
+
+(N 時)
+
+(AX で)
+
+(VB2 あっ)
+
+(AXD た)
+
+(P-CONN から)
+
+(PU 、)
+
+(NUM 二人)
+
+(P-ROLE の)
+
+(N 視線)
+
+(P-ROLE が)
+
+(ADV ガッチリ)
+
+(P-ROLE と)
+
+(VB ぶっつかっ)
+
+(P-CONN て)
+
+(VB2 しまっ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 49_aozora_Edogawa-1929;JP)
+
+(CONJ すると)
+
+(PU 、)
+
+(PRO 彼)
+
+(P-OPTR は)
+
+(WPRO 何)
+
+(P-OPTR か)
+
+(ADJI 恥かし)
+
+(AX 相)
+
+(AX に)
+
+(N 唇)
+
+(P-ROLE の)
+
+(N 隅)
+
+(P-ROLE を)
+
+(VB 曲げ)
+
+(P-CONN て)
+
+(PU 、)
+
+(ADJN 幽か)
+
+(AX に)
+
+(VB 笑っ)
+
+(P-CONN て)
+
+(VB2 見せる)
+
+(FN の)
+
+(AX で)
+
+(VB2 あっ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 50_aozora_Edogawa-1929;JP)
+
+(PRO 私)
+
+(P-OPTR も)
+
+(VB 思わ)
+
+(NEG ず)
+
+(N 首)
+
+(P-ROLE を)
+
+(VB 動かし)
+
+(P-CONN て)
+
+(N 挨拶)
+
+(P-ROLE を)
+
+(VB 返し)
+
+(AXD た)
+
+(PU 。)
+
+(ID 51_aozora_Edogawa-1929;JP)
+
+(CONJ それから)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(N 小駅)
+
+(P-ROLE を)
+
+(NUM 二)
+
+(NUM 三)
+
+(VB 通過)
+
+(VB0 する)
+
+(N 間)
+
+(PU 、)
+
+(PRO 私達)
+
+(P-OPTR は)
+
+(N お互)
+
+(P-ROLE の)
+
+(N 隅)
+
+(P-ROLE に)
+
+(VB 坐っ)
+
+(AXD た)
+
+(N まま)
+
+(PU 、)
+
+(N 遠く)
+
+(P-ROLE から)
+
+(PU 、)
+
+(ADV 時々)
+
+(N 視線)
+
+(P-ROLE を)
+
+(VB まじえ)
+
+(P-CONN て)
+
+(P-OPTR は)
+
+(PU 、)
+
+(ADJI 気まずく)
+
+(N 外方)
+
+(P-ROLE を)
+
+(VB 向く)
+
+(N こと)
+
+(P-ROLE を)
+
+(PU 、)
+
+(VB 繰返し)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AXD た)
+
+(PU 。)
+
+(ID 52_aozora_Edogawa-1929;JP)
+
+(N 外)
+
+(P-OPTR は)
+
+(ADV 全く)
+
+(N 暗闇)
+
+(AX に)
+
+(VB なっ)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AXD た)
+
+(PU 。)
+
+(ID 53_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *pro*)
+
+(NP-SBJ *speaker*)
+
+(NP-OB1 *pro*)
+
+(N 窓ガラス)
+
+(P-ROLE に)
+
+(N 顔)
+
+(P-ROLE を)
+
+(VB 押しつけ)
+
+(P-CONN て)
+
+(VB 覗い)
+
+(P-CONN て)
+
+(VB2 見)
+
+(P-CONN て)
+
+(P-OPTR も)
+
+(PU 、)
+
+(ADV 時たま)
+
+(N 沖)
+
+(P-ROLE の)
+
+(N 漁船)
+
+(P-ROLE の)
+
+(N 舷燈)
+
+(P-ROLE が)
+
+(ADJI 遠く)
+
+(ADJI 遠く)
+
+(ADV ポッツリ)
+
+(P-ROLE と)
+
+(VB 浮ん)
+
+(P-CONN で)
+
+(VB2 いる)
+
+(N 外)
+
+(P-ROLE に)
+
+(P-OPTR は)
+
+(PU 、)
+
+(ADV 全く)
+
+(WPRO 何)
+
+(P-ROLE の)
+
+(N 光り)
+
+(P-OPTR も)
+
+(ADJI なかっ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 54_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *T*)
+
+(N 際涯)
+
+(P-ROLE の)
+
+(ADJI ない)
+
+(N 暗闇)
+
+(P-ROLE の)
+
+(N 中)
+
+(P-ROLE に)
+
+(PU 、)
+
+(PRO 私達)
+
+(P-ROLE の)
+
+(NP-SBJ *T*)
+
+(ADJI 細長い)
+
+(N 車室)
+
+(P-OPTR 丈け)
+
+(P-ROLE が)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADV たった)
+
+(NUM 一)
+
+(CL つ)
+
+(AX の)
+
+(N 世界)
+
+(P-ROLE の)
+
+(N 様)
+
+(AX に)
+
+(PU 、)
+
+(WPRO いつ)
+
+(P-ROLE まで)
+
+(P-CONN も)
+
+(WPRO いつ)
+
+(P-ROLE まで)
+
+(P-CONN も)
+
+(PU 、)
+
+(ADV ガタンガタン)
+
+(P-ROLE と)
+
+(VB 動い)
+
+(P-CONN て)
+
+(VB2 行っ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 55_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *pro*)
+
+(D その)
+
+(NP-SBJ *T*)
+
+(ADJI ほの暗い)
+
+(N 車室)
+
+(P-ROLE の)
+
+(N 中)
+
+(P-ROLE に)
+
+(PU 、)
+
+(PRO 私達)
+
+(NUM 二)
+
+(CL 人)
+
+(P-OPTR 丈け)
+
+(P-ROLE を)
+
+(VB 取り残し)
+
+(P-CONN て)
+
+(PU 、)
+
+(Q 全世界)
+
+(P-ROLE が)
+
+(PU 、)
+
+(D あらゆる)
+
+(N 生き物)
+
+(P-ROLE が)
+
+(PU 、)
+
+(N 跡方)
+
+(P-OPTR も)
+
+(ADJI なく)
+
+(VB 消え失せ)
+
+(P-CONN て)
+
+(VB2 しまっ)
+
+(AXD た)
+
+(N 感じ)
+
+(AX で)
+
+(VB2 あっ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 56_aozora_Edogawa-1929;JP)
+
+(PRO 私達)
+
+(P-ROLE の)
+
+(NUM 二)
+
+(CL 等車)
+
+(P-ROLE に)
+
+(P-OPTR は)
+
+(PU 、)
+
+(WD どの)
+
+(N 駅)
+
+(P-ROLE から)
+
+(P-OPTR も)
+
+(NP-SBJ *T*)
+
+(NUM 一人)
+
+(AX の)
+
+(N 乗客)
+
+(P-OPTR も)
+
+(ADJI なかっ)
+
+(AXD た)
+
+(P-CONN し)
+
+(PU 、)
+
+(N 列車ボーイ)
+
+(P-CONN や)
+
+(N 車掌)
+
+(P-OPTR も)
+
+(NUM 一)
+
+(CL 度)
+
+(P-OPTR も)
+
+(N 姿)
+
+(P-ROLE を)
+
+(VB 見せ)
+
+(NEG なかっ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 57_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *speaker*)
+
+(D そういう)
+
+(N 事)
+
+(P-OPTR も)
+
+(NP-SBJ *speaker*)
+
+(NP-OB1 *pro*)
+
+(NP-SBJ *exp*)
+
+(N 今)
+
+(AX に)
+
+(VB なっ)
+
+(P-CONN て)
+
+(VB 考え)
+
+(P-CONN て)
+
+(VB2 見る)
+
+(P-CONN と)
+
+(PU 、)
+
+(ADV 甚だ)
+
+(ADJN 奇怪)
+
+(AX に)
+
+(VB 感じ)
+
+(VB2 られる)
+
+(FN の)
+
+(AX で)
+
+(VB2 ある)
+
+(PU 。)
+
+(ID 58_aozora_Edogawa-1929;JP)
+
+(PRO 私)
+
+(P-OPTR は)
+
+(PU 、)
+
+(NP-OB1 *T*)
+
+(NP-SBJ *speaker*)
+
+(NP-SBJ *pro*)
+
+(NUM 四十)
+
+(CL 歳)
+
+(AX に)
+
+(P-OPTR も)
+
+(NUM 六十)
+
+(CL 歳)
+
+(AX に)
+
+(P-OPTR も)
+
+(VB 見える)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(N 西洋)
+
+(P-ROLE の)
+
+(N 魔術師)
+
+(P-ROLE の)
+
+(N 様)
+
+(AX な)
+
+(N 風采)
+
+(AX の)
+
+(D その)
+
+(N 男)
+
+(P-ROLE が)
+
+(PU 、)
+
+(ADV 段々)
+
+(ADJI 怖く)
+
+(VB なっ)
+
+(P-CONN て)
+
+(VB2 来)
+
+(AXD た)
+
+(PU 。)
+
+(ID 59_aozora_Edogawa-1929;JP)
+
+(N 怖さ)
+
+(P-ROLE という)
+
+(N もの)
+
+(P-OPTR は)
+
+(PU 、)
+
+(N 外)
+
+(P-ROLE に)
+
+(NP-SBJ *pro*)
+
+(VB まぎれる)
+
+(N 事柄)
+
+(P-ROLE の)
+
+(ADJI ない)
+
+(N 場合)
+
+(P-ROLE に)
+
+(P-OPTR は)
+
+(PU 、)
+
+(ADJN 無限)
+
+(AX に)
+
+(ADJI 大きく)
+
+(PU 、)
+
+(ADV 身体中)
+
+(Q 一杯)
+
+(P-ROLE に)
+
+(VB 拡がっ)
+
+(P-CONN て)
+
+(VB2 行く)
+
+(N もの)
+
+(AX で)
+
+(VB2 ある)
+
+(PU 。)
+
+(ID 60_aozora_Edogawa-1929;JP)
+
+(PRO 私)
+
+(P-OPTR は)
+
+(ADV 遂に)
+
+(P-OPTR は)
+
+(PU 、)
+
+(N 産毛)
+
+(P-ROLE の)
+
+(N 先)
+
+(P-ROLE まで)
+
+(P-OPTR も)
+
+(N 怖さ)
+
+(P-ROLE が)
+
+(VB 満ち)
+
+(P-CONN て)
+
+(PU 、)
+
+(VB たまら)
+
+(NEG なく)
+
+(VB2 なっ)
+
+(P-CONN て)
+
+(PU 、)
+
+(ADV 突然)
+
+(VB 立上る)
+
+(P-CONN と)
+
+(PU 、)
+
+(N 向う)
+
+(P-ROLE の)
+
+(N 隅)
+
+(P-ROLE の)
+
+(D その)
+
+(N 男)
+
+(P-ROLE の)
+
+(N 方)
+
+(P-ROLE へ)
+
+(ADV ツカツカ)
+
+(P-ROLE と)
+
+(VB 歩い)
+
+(P-CONN て)
+
+(VB2 行っ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 61_aozora_Edogawa-1929;JP)
+
+(D その)
+
+(N 男)
+
+(P-ROLE が)
+
+(ADJI いとわしく)
+
+(PU 、)
+
+(ADJI 恐ろしけれ)
+
+(P-CONN ば)
+
+(P-OPTR こそ)
+
+(PU 、)
+
+(PRO 私)
+
+(P-OPTR は)
+
+(D その)
+
+(N 男)
+
+(P-ROLE に)
+
+(VB 近づい)
+
+(P-CONN て)
+
+(VB2 行っ)
+
+(AXD た)
+
+(FN の)
+
+(AX で)
+
+(VB2 あっ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 62_aozora_Edogawa-1929;JP)
+
+(PRO 私)
+
+(P-OPTR は)
+
+(NP-SBJ *T*)
+
+(PRO 彼)
+
+(P-ROLE と)
+
+(VB 向き合っ)
+
+(AX た)
+
+(N クッション)
+
+(P-ROLE へ)
+
+(PU 、)
+
+(ADV そっと)
+
+(N 腰)
+
+(P-ROLE を)
+
+(VB おろし)
+
+(PU 、)
+
+(NP-OB1 *T*)
+
+(NP-SBJ *speaker*)
+
+(NP-SBJ *speaker*)
+
+(VB 近寄れ)
+
+(P-CONN ば)
+
+(ADV 一層)
+
+(ADJN 異様)
+
+(AX に)
+
+(VB 見える)
+
+(PRO 彼)
+
+(P-ROLE の)
+
+(NP-SBJ *T*)
+
+(N 皺だらけ)
+
+(AX の)
+
+(NP-SBJ *T*)
+
+(ADJI 白い)
+
+(N 顔)
+
+(P-ROLE を)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(PRO 私)
+
+(PRO 自身)
+
+(P-ROLE が)
+
+(N 妖怪)
+
+(AX で)
+
+(P-OPTR でも)
+
+(VB2 ある)
+
+(N 様)
+
+(AX な)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADV 一種)
+
+(ADJN 不可思議)
+
+(AX な)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(VB 顛倒)
+
+(VB0 し)
+
+(AX た)
+
+(N 気持)
+
+(P-ROLE で)
+
+(PU 、)
+
+(N 目)
+
+(P-ROLE を)
+
+(ADJI 細く)
+
+(N 息)
+
+(P-ROLE を)
+
+(VB 殺し)
+
+(P-CONN て)
+
+(ADV じっと)
+
+(VB 覗き込ん)
+
+(AXD だ)
+
+(FN もの)
+
+(AX で)
+
+(VB2 ある)
+
+(PU 。)
+
+(ID 63_aozora_Edogawa-1929;JP)
+
+(N 男)
+
+(P-OPTR は)
+
+(PU 、)
+
+(PRO 私)
+
+(P-ROLE が)
+
+(PRO 自分)
+
+(P-ROLE の)
+
+(N 席)
+
+(P-ROLE を)
+
+(VB 立っ)
+
+(AXD た)
+
+(N 時)
+
+(P-ROLE から)
+
+(PU 、)
+
+(ADV ずっと)
+
+(N 目)
+
+(P-ROLE で)
+
+(PRO 私)
+
+(P-ROLE を)
+
+(VB 迎える)
+
+(N 様)
+
+(AX に)
+
+(VB し)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AXD た)
+
+(P-CONN が)
+
+(PU 、)
+
+(CONJ そうして)
+
+(PRO 私)
+
+(P-ROLE が)
+
+(PRO 彼)
+
+(P-ROLE の)
+
+(N 顔)
+
+(P-ROLE を)
+
+(VB 覗き込む)
+
+(P-CONN と)
+
+(PU 、)
+
+(VB 待ち受け)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AXD た)
+
+(N 様)
+
+(AX に)
+
+(PU 、)
+
+(N 顎)
+
+(P-ROLE で)
+
+(N 傍ら)
+
+(P-ROLE の)
+
+(D 例の)
+
+(NP-SBJ *T*)
+
+(ADJN 扁平)
+
+(AX な)
+
+(N 荷物)
+
+(P-ROLE を)
+
+(VB 指し示し)
+
+(PU 、)
+
+(WPRO 何)
+
+(P-ROLE の)
+
+(N 前置き)
+
+(P-OPTR も)
+
+(ADJI なく)
+
+(PU 、)
+
+(ADV さも)
+
+(PRO それ)
+
+(P-ROLE が)
+
+(NP-SBJ *T*)
+
+(ADJN 当然)
+
+(AX の)
+
+(N 挨拶)
+
+(AX で)
+
+(P-OPTR でも)
+
+(VB2 ある)
+
+(N 様)
+
+(AX に)
+
+(PU 、)
+
+(-LRB- 「)
+
+(NP-SBJ *pro*)
+
+(PRO これ)
+
+(AX で)
+
+(VB2 ござい)
+
+(AX ます)
+
+(P-FINAL か)
+
+(-RRB- 」)
+
+(P-COMP と)
+
+(VB 云っ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 64_aozora_Edogawa-1929;JP)
+
+(D その)
+
+(N 口調)
+
+(P-ROLE が)
+
+(PU 、)
+
+(ADV 余り)
+
+(ADJN 当り前)
+
+(AX で)
+
+(VB2 あっ)
+
+(AXD た)
+
+(P-CONN ので)
+
+(PU 、)
+
+(PRO 私)
+
+(P-OPTR は)
+
+(ADV 却て)
+
+(PU 、)
+
+(ADV ギョッと)
+
+(VB し)
+
+(AXD た)
+
+(P-OPTR 程)
+
+(AX で)
+
+(VB2 あっ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 65_aozora_Edogawa-1929;JP)
+
+(-LRB- 「)
+
+(NP-SBJ *hearer*)
+
+(PRO これ)
+
+(P-ROLE が)
+
+(VB 御覧になり)
+
+(AX たい)
+
+(FN の)
+
+(AX で)
+
+(VB2 ござい)
+
+(AX ましょ)
+
+(INFR う)
+
+(-RRB- 」)
+
+(ID 66_aozora_Edogawa-1929;JP)
+
+(PRO 私)
+
+(P-ROLE が)
+
+(VB 黙っ)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(P-CONN ので)
+
+(PU 、)
+
+(PRO 彼)
+
+(P-OPTR は)
+
+(ADV もう)
+
+(NUM 一)
+
+(CL 度)
+
+(NP-SBJ *T*)
+
+(ADJN 同じ)
+
+(AX *)
+
+(N こと)
+
+(P-ROLE を)
+
+(VB 繰返し)
+
+(AXD た)
+
+(PU 。)
+
+(ID 67_aozora_Edogawa-1929;JP)
+
+(-LRB- 「)
+
+(NP-SBJ *hearer*)
+
+(NP-OB1 *pro*)
+
+(VB 見せ)
+
+(P-CONN て)
+
+(VB2 下さい)
+
+(AX ます)
+
+(P-FINAL か)
+
+(-RRB- 」)
+
+(ID 68_aozora_Edogawa-1929;JP)
+
+(PRO 私)
+
+(P-OPTR は)
+
+(N 相手)
+
+(P-ROLE の)
+
+(N 調子)
+
+(P-ROLE に)
+
+(VB 引込ま)
+
+(PASS れ)
+
+(P-CONN て)
+
+(PU 、)
+
+(ADV つい)
+
+(NP-SBJ *T*)
+
+(ADJN 変)
+
+(AX な)
+
+(N こと)
+
+(P-ROLE を)
+
+(VB 云っ)
+
+(P-CONN て)
+
+(VB2 しまっ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 69_aozora_Edogawa-1929;JP)
+
+(PRO 私)
+
+(P-OPTR は)
+
+(ADV 決して)
+
+(D その)
+
+(N 荷物)
+
+(P-ROLE を)
+
+(VB 見)
+
+(AX たい)
+
+(N 為)
+
+(P-ROLE に)
+
+(N 席)
+
+(P-ROLE を)
+
+(VB 立っ)
+
+(AXD た)
+
+(FN 訳)
+
+(AX で)
+
+(P-OPTR は)
+
+(NEG なかっ)
+
+(AXD た)
+
+(FN の)
+
+(AX だ)
+
+(P-CONN けれど)
+
+(PU 。)
+
+(ID 70_aozora_Edogawa-1929;JP)
+
+(-LRB- 「)
+
+(NP-SBJ *speaker*)
+
+(NP-OB1 *pro*)
+
+(NP-OB1 *pro*)
+
+(VB 喜ん)
+
+(P-CONN で)
+
+(VB 御見せ)
+
+(VB0 致し)
+
+(AX ます)
+
+(P-FINAL よ)
+
+(PU 。)
+
+(ID 71_aozora_Edogawa-1929;JP)
+
+(NP-OB1 *pro*)
+
+(PRO わたくし)
+
+(P-OPTR は)
+
+(PU 、)
+
+(N さっき)
+
+(P-ROLE から)
+
+(VB 考え)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AXD た)
+
+(FN の)
+
+(AX で)
+
+(VB2 ござい)
+
+(AX ます)
+
+(P-FINAL よ)
+
+(PU 。)
+
+(ID 72_aozora_Edogawa-1929;JP)
+
+(PRO あなた)
+
+(P-OPTR は)
+
+(ADV きっと)
+
+(PRO これ)
+
+(P-ROLE を)
+
+(VB 見)
+
+(P-ROLE に)
+
+(VB お出で)
+
+(VB0 なさる)
+
+(AX だろう)
+
+(P-COMP と)
+
+(P-FINAL ね)
+
+(-RRB- 」)
+
+(ID 73_aozora_Edogawa-1929;JP)
+
+(N 男)
+
+(P-OPTR は)
+
+(PU ――)
+
+(ADV 寧ろ)
+
+(NP-SBJ *arb*)
+
+(N 老人)
+
+(P-ROLE と)
+
+(VB 云っ)
+
+(AXD た)
+
+(N 方)
+
+(P-ROLE が)
+
+(ADJI ふさわしい)
+
+(FN の)
+
+(AX だ)
+
+(P-CONN が)
+
+(PU ――)
+
+(ADV そう)
+
+(VB 云い)
+
+(P-CONN ながら)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJI 長い)
+
+(N 指)
+
+(P-ROLE で)
+
+(PU 、)
+
+(ADJN 器用)
+
+(AX に)
+
+(N 大風呂敷)
+
+(P-ROLE を)
+
+(VB ほどい)
+
+(P-CONN て)
+
+(PU 、)
+
+(D その)
+
+(NP-SBJ *T*)
+
+(N 額)
+
+(AX みたい)
+
+(AX な)
+
+(N もの)
+
+(P-ROLE を)
+
+(PU 、)
+
+(N 今度)
+
+(P-OPTR は)
+
+(N 表)
+
+(P-ROLE を)
+
+(VB 向け)
+
+(P-CONN て)
+
+(PU 、)
+
+(N 窓)
+
+(P-ROLE の)
+
+(N 所)
+
+(P-ROLE へ)
+
+(VB 立てかけ)
+
+(AXD た)
+
+(FN の)
+
+(AX で)
+
+(VB2 ある)
+
+(PU 。)
+
+(ID 74_aozora_Edogawa-1929;JP)
+
+(PRO 私)
+
+(P-OPTR は)
+
+(ADV 一目)
+
+(ADV チラッと)
+
+(PU 、)
+
+(D その)
+
+(N 表面)
+
+(P-ROLE を)
+
+(VB 見る)
+
+(P-CONN と)
+
+(PU 、)
+
+(VB 思わ)
+
+(NEG ず)
+
+(N 目)
+
+(P-ROLE を)
+
+(VB とじ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 75_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *speaker*)
+
+(NP-SBJ *pro*)
+
+(WADV 何故)
+
+(AX で)
+
+(VB2 あっ)
+
+(AXD た)
+
+(P-FINAL か)
+
+(PU 、)
+
+(D その)
+
+(N 理由)
+
+(PRN *ICH*-1)
+
+(P-OPTR は)
+
+(N 今)
+
+(P-OPTR でも)
+
+(VB 分ら)
+
+(NEG ない)
+
+(FN の)
+
+(AX だ)
+
+(P-CONN が)
+
+(PU 、)
+
+(ADV 何となく)
+
+(ADV そう)
+
+(VB し)
+
+(NEG なけれ)
+
+(P-CONN ば)
+
+(VB なら)
+
+(NEG ぬ)
+
+(N 感じ)
+
+(P-ROLE が)
+
+(VB し)
+
+(P-CONN て)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(NUM 数)
+
+(CL 秒)
+
+(AX の)
+
+(N 間)
+
+(N 目)
+
+(P-ROLE を)
+
+(VB ふさい)
+
+(P-CONN で)
+
+(VB2 い)
+
+(AXD た)
+
+(PU 。)
+
+(ID 76_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *speaker*)
+
+(ADV 再び)
+
+(N 目)
+
+(P-ROLE を)
+
+(VB 開い)
+
+(AXD た)
+
+(N 時)
+
+(PU 、)
+
+(PRO 私)
+
+(P-ROLE の)
+
+(N 前)
+
+(P-ROLE に)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(NP-SBJ *speaker*)
+
+(NP-OB1 *pro*)
+
+(ADV 嘗て)
+
+(VB 見)
+
+(AXD た)
+
+(N こと)
+
+(P-ROLE の)
+
+(ADJI ない)
+
+(N 様)
+
+(AX な)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJN 奇妙)
+
+(AX な)
+
+(N もの)
+
+(P-ROLE が)
+
+(VB あっ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 77_aozora_Edogawa-1929;JP)
+
+(CONJ と云って)
+
+(PU 、)
+
+(PRO 私)
+
+(P-OPTR は)
+
+(NP-SBJ *T*)
+
+(D その)
+
+(NP-SBJ *T*)
+
+(-LRB- 「)
+
+(ADJN 奇妙)
+
+(-RRB- 」)
+
+(AX な)
+
+(N 点)
+
+(P-ROLE を)
+
+(ADV ハッキリ)
+
+(P-ROLE と)
+
+(VB 説明)
+
+(VB0 する)
+
+(N 言葉)
+
+(P-ROLE を)
+
+(VB 持た)
+
+(NEG ぬ)
+
+(FN の)
+
+(AX だ)
+
+(P-CONN が)
+
+(PU 。)
+
+(ID 78_aozora_Edogawa-1929;JP)
+
+(N 額)
+
+(P-ROLE に)
+
+(P-OPTR は)
+
+(NP-SBJ *T*)
+
+(NP-SBJ *pro*)
+
+(N 歌舞伎芝居)
+
+(P-ROLE の)
+
+(N 御殿)
+
+(P-ROLE の)
+
+(N 背景)
+
+(AX *)
+
+(AX みたい)
+
+(AX に)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(WNUM 幾)
+
+(CL つ)
+
+(P-OPTR も)
+
+(AX の)
+
+(N 部屋)
+
+(P-ROLE を)
+
+(VB 打抜い)
+
+(P-CONN て)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJN 極度)
+
+(AX の)
+
+(N 遠近法)
+
+(P-ROLE で)
+
+(PU 、)
+
+(N 青畳)
+
+(P-CONN と)
+
+(N 格子天井)
+
+(P-ROLE が)
+
+(ADV 遙か)
+
+(N 向う)
+
+(P-ROLE の)
+
+(N 方)
+
+(P-ROLE まで)
+
+(VB 続い)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(N 様)
+
+(AX な)
+
+(N 光景)
+
+(P-ROLE が)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(N 藍)
+
+(P-ROLE を)
+
+(N 主)
+
+(AX と)
+
+(VB し)
+
+(AX た)
+
+(N 泥絵具)
+
+(P-ROLE で)
+
+(ADJI 毒々しく)
+
+(VB 塗りつけ)
+
+(P-CONN て)
+
+(PASS *)
+
+(VB2 あっ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 79_aozora_Edogawa-1929;JP)
+
+(N 左手)
+
+(P-ROLE の)
+
+(N 前方)
+
+(P-ROLE に)
+
+(P-OPTR は)
+
+(PU 、)
+
+(ADV 墨黒々)
+
+(P-ROLE と)
+
+(NP-SBJ *T*)
+
+(ADJN 不細工)
+
+(AX な)
+
+(NP-SBJ *T*)
+
+(ADJN 書院風)
+
+(AX の)
+
+(N 窓)
+
+(P-ROLE が)
+
+(VB 描か)
+
+(PASS れ)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJN 同じ)
+
+(AX *)
+
+(N 色)
+
+(P-ROLE の)
+
+(N 文机)
+
+(P-ROLE が)
+
+(PU 、)
+
+(D その)
+
+(N 傍)
+
+(P-ROLE に)
+
+(NP-SBJ *T*)
+
+(N 角度)
+
+(P-ROLE を)
+
+(VB 無視)
+
+(VB0 し)
+
+(AX た)
+
+(N 描き方)
+
+(P-ROLE で)
+
+(PU 、)
+
+(VB 据え)
+
+(P-CONN て)
+
+(PASS *)
+
+(VB2 あっ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 80_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *hearer*)
+
+(PRO それら)
+
+(P-ROLE の)
+
+(N 背景)
+
+(P-OPTR は)
+
+(PU 、)
+
+(NP-SBJ *speaker*)
+
+(NP-SBJ *pro*)
+
+(D あの)
+
+(N 絵馬札)
+
+(P-ROLE の)
+
+(N 絵)
+
+(P-ROLE の)
+
+(NP-SBJ *T*)
+
+(ADJN 独特)
+
+(AX な)
+
+(N 画風)
+
+(P-ROLE に)
+
+(VB 似)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AXD た)
+
+(P-COMP と)
+
+(VB 云え)
+
+(P-CONN ば)
+
+(PU 、)
+
+(ADV 一番)
+
+(ADJI よく)
+
+(VB 分る)
+
+(AX で)
+
+(VB2 あろう)
+
+(P-FINAL か)
+
+(PU 。)
+
+(ID 81_aozora_Edogawa-1929;JP)
+
+(D その)
+
+(N 背景)
+
+(P-ROLE の)
+
+(N 中)
+
+(P-ROLE に)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(NP-SBJ *T*)
+
+(NUM 一)
+
+(CL 尺)
+
+(P-OPTR 位)
+
+(AX の)
+
+(N 丈)
+
+(AX の)
+
+(NP-SBJ *T*)
+
+(NUM 二人)
+
+(AX の)
+
+(N 人物)
+
+(P-ROLE が)
+
+(VB 浮き出し)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AXD た)
+
+(PU 。)
+
+(ID 82_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *speaker*)
+
+(NP-SBJ *pro*)
+
+(VB 浮き出し)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AXD た)
+
+(P-COMP と)
+
+(VB 云う)
+
+(N の)
+
+(P-OPTR は)
+
+(PU 、)
+
+(D その)
+
+(N 人物)
+
+(P-OPTR 丈け)
+
+(P-ROLE が)
+
+(PU 、)
+
+(N 押絵細工)
+
+(P-ROLE で)
+
+(VB 出来)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AXD た)
+
+(P-CONN から)
+
+(AX で)
+
+(VB2 ある)
+
+(PU 。)
+
+(ID 83_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *pro*)
+
+(NP-SBJ *T*)
+
+(NP-SBJ *T*)
+
+(N 黒天鵞絨)
+
+(AX の)
+
+(NP-SBJ *T*)
+
+(ADJN 古風)
+
+(AX な)
+
+(N 洋服)
+
+(P-ROLE を)
+
+(VB 着)
+
+(AX た)
+
+(NP-SBJ *pro*)
+
+(N 白髪)
+
+(AX の)
+
+(N 老人)
+
+(P-ROLE が)
+
+(PU 、)
+
+(ADJN 窮屈)
+
+(AX そう)
+
+(AX に)
+
+(VB 坐っ)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(P-CONN と)
+
+(PU 、)
+
+(-LRB- （)
+
+(NP-SBJ *pro*)
+
+(NP-SBJ *T*)
+
+(ADJN 不思議)
+
+(AX な)
+
+(N こと)
+
+(P-ROLE に)
+
+(P-OPTR は)
+
+(PU 、)
+
+(D その)
+
+(N 容貌)
+
+(P-ROLE が)
+
+(PU 、)
+
+(NP-SBJ *arb*)
+
+(N 髪)
+
+(P-ROLE の)
+
+(N 色)
+
+(P-ROLE を)
+
+(VB 除く)
+
+(P-CONN と)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(N 額)
+
+(P-ROLE の)
+
+(N 持主)
+
+(AX の)
+
+(N 老人)
+
+(P-ROLE に)
+
+(D その)
+
+(N まま)
+
+(AX な)
+
+(P-CONN ばかりか)
+
+(PU 、)
+
+(NP-OB1 *T*)
+
+(NP-SBJ *pro*)
+
+(VB 着)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(N 洋服)
+
+(P-ROLE の)
+
+(N 仕立方)
+
+(P-ROLE まで)
+
+(ADJN そっくり)
+
+(AX で)
+
+(VB2 あっ)
+
+(AXD た)
+
+(-RRB- ）)
+
+(NP-SBJ *T*)
+
+(NP-SBJ *T*)
+
+(N 緋鹿の子)
+
+(AX の)
+
+(N 振袖)
+
+(P-ROLE に)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(N 黒繻子)
+
+(AX の)
+
+(N 帯)
+
+(AX の)
+
+(NP-SBJ *T*)
+
+(N 映り)
+
+(P-ROLE の)
+
+(ADJI よい)
+
+(NP-SBJ *T*)
+
+(NUM 十七八)
+
+(AX の)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(N 水)
+
+(P-ROLE の)
+
+(VB たれる)
+
+(N 様)
+
+(AX な)
+
+(NP-SBJ *pro*)
+
+(N 結綿)
+
+(AX の)
+
+(N 美少女)
+
+(P-ROLE が)
+
+(PU 、)
+
+(NP-SBJ *speaker*)
+
+(WPRO 何)
+
+(P-ROLE と)
+
+(P-OPTR も)
+
+(VB 云え)
+
+(NEG ぬ)
+
+(N 嬌羞)
+
+(P-ROLE を)
+
+(VB 含ん)
+
+(P-CONN で)
+
+(PU 、)
+
+(D その)
+
+(N 老人)
+
+(P-ROLE の)
+
+(N 洋服)
+
+(P-ROLE の)
+
+(N 膝)
+
+(P-ROLE に)
+
+(VB しなだれかかっ)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADV 謂わば)
+
+(N 芝居)
+
+(P-ROLE の)
+
+(N 濡れ場)
+
+(P-ROLE に)
+
+(VB 類する)
+
+(N 画面)
+
+(AX で)
+
+(VB2 あっ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 84_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *speaker*)
+
+(N 洋服)
+
+(P-ROLE の)
+
+(N 老人)
+
+(P-CONN と)
+
+(N 色娘)
+
+(P-ROLE の)
+
+(N 対照)
+
+(P-CONN と)
+
+(PU 、)
+
+(ADV 甚だ)
+
+(ADJN 異様)
+
+(AX で)
+
+(VB2 あっ)
+
+(AXD た)
+
+(N こと)
+
+(P-OPTR は)
+
+(VB 云う)
+
+(P-OPTR まで)
+
+(P-OPTR も)
+
+(ADJI ない)
+
+(P-CONN が)
+
+(PU 、)
+
+(CONJ だが)
+
+(NP-OB1 *pro*)
+
+(PRO 私)
+
+(P-ROLE が)
+
+(-LRB- 「)
+
+(ADJN 奇妙)
+
+(-RRB- 」)
+
+(AX に)
+
+(VB 感じ)
+
+(AXD た)
+
+(P-COMP という)
+
+(N の)
+
+(P-OPTR は)
+
+(D その)
+
+(N こと)
+
+(AX で)
+
+(P-OPTR は)
+
+(NEG ない)
+
+(PU 。)
+
+(ID 85_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *speaker*)
+
+(NP-SBJ *pro*)
+
+(N 背景)
+
+(P-ROLE の)
+
+(N 粗雑)
+
+(P-ROLE に)
+
+(VB 引かえ)
+
+(P-CONN て)
+
+(PU 、)
+
+(N 押絵)
+
+(P-ROLE の)
+
+(N 細工)
+
+(P-ROLE の)
+
+(ADJN 精巧)
+
+(AX な)
+
+(N こと)
+
+(P-OPTR は)
+
+(VB 驚く)
+
+(P-OPTR ばかり)
+
+(AX で)
+
+(VB2 あっ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 86_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *pro*)
+
+(N 顔)
+
+(P-ROLE の)
+
+(N 部分)
+
+(P-OPTR は)
+
+(PU 、)
+
+(N 白絹)
+
+(P-OPTR は)
+
+(N 凹凸)
+
+(P-ROLE を)
+
+(VB 作っ)
+
+(P-CONN て)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJI 細い)
+
+(N 皺)
+
+(P-ROLE まで)
+
+(NUM 一)
+
+(CL つ)
+
+(NUM 一)
+
+(CL つ)
+
+(VB 現わし)
+
+(P-CONN て)
+
+(VB2 あっ)
+
+(AXD た)
+
+(P-CONN し)
+
+(PU 、)
+
+(N 娘)
+
+(P-ROLE の)
+
+(N 髪)
+
+(P-OPTR は)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(N 本当)
+
+(AX の)
+
+(N 毛髪)
+
+(P-ROLE を)
+
+(NUM 一)
+
+(CL 本)
+
+(NUM 一)
+
+(CL 本)
+
+(VB 植えつけ)
+
+(P-CONN て)
+
+(PU 、)
+
+(NP-SBJ *arb*)
+
+(N 人間)
+
+(P-ROLE の)
+
+(N 髪)
+
+(P-ROLE を)
+
+(VB 結う)
+
+(N 様)
+
+(AX に)
+
+(VB 結っ)
+
+(P-CONN て)
+
+(VB2 あり)
+
+(PU 、)
+
+(N 老人)
+
+(P-ROLE の)
+
+(N 頭)
+
+(P-OPTR は)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(PRO これ)
+
+(P-OPTR も)
+
+(ADV 多分)
+
+(N 本物)
+
+(P-ROLE の)
+
+(N 白髪)
+
+(P-ROLE を)
+
+(PU 、)
+
+(ADJN 丹念)
+
+(AX に)
+
+(VB 植え)
+
+(AXD た)
+
+(N もの)
+
+(AX *)
+
+(P-ROLE に)
+
+(N 相違)
+
+(ADJI なかっ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 87_aozora_Edogawa-1929;JP)
+
+(N 洋服)
+
+(P-ROLE に)
+
+(P-OPTR は)
+
+(NP-SBJ *T*)
+
+(ADJI 正しい)
+
+(N 縫い目)
+
+(P-ROLE が)
+
+(VB あり)
+
+(PU 、)
+
+(NP-SBJ *exp*)
+
+(NP-SBJ *T*)
+
+(ADJN 適当)
+
+(AX な)
+
+(N 場所)
+
+(P-ROLE に)
+
+(NP-SBJ *T*)
+
+(N 粟粒)
+
+(P-OPTR 程)
+
+(AX の)
+
+(N 釦)
+
+(P-ROLE まで)
+
+(VB つけ)
+
+(P-CONN て)
+
+(VB2 ある)
+
+(P-CONN し)
+
+(PU 、)
+
+(N 娘)
+
+(P-ROLE の)
+
+(N 乳)
+
+(P-ROLE の)
+
+(N ふくらみ)
+
+(P-OPTR と云い)
+
+(PU 、)
+
+(N 腿)
+
+(P-ROLE の)
+
+(N あたり)
+
+(P-ROLE の)
+
+(VB 艶めい)
+
+(AX た)
+
+(N 曲線)
+
+(P-OPTR と云い)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(VB こぼれ)
+
+(AX た)
+
+(N 緋縮緬)
+
+(PU 、)
+
+(NP-OB1 *T*)
+
+(NP-SBJ *arb*)
+
+(ADV チラと)
+
+(VB 見える)
+
+(N 肌)
+
+(P-ROLE の)
+
+(N 色)
+
+(PU 、)
+
+(N 指)
+
+(P-ROLE に)
+
+(P-OPTR は)
+
+(NP-SBJ *T*)
+
+(N 貝殻)
+
+(P-ROLE の)
+
+(N 様)
+
+(AX な)
+
+(N 爪)
+
+(P-ROLE が)
+
+(VB 生え)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AXD た)
+
+(PU 。)
+
+(ID 88_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *speaker*)
+
+(NP-SBJ *exp*)
+
+(NP-SBJ *speaker*)
+
+(N 虫眼鏡)
+
+(P-ROLE で)
+
+(VB 覗い)
+
+(P-CONN て)
+
+(VB2 見)
+
+(P-CONN たら)
+
+(PU 、)
+
+(N 毛穴)
+
+(P-CONN や)
+
+(N 産毛)
+
+(P-ROLE まで)
+
+(PU 、)
+
+(ADV ちゃんと)
+
+(VB 拵え)
+
+(P-CONN て)
+
+(VB2 ある)
+
+(FN の)
+
+(AX で)
+
+(P-OPTR は)
+
+(NEG ない)
+
+(P-FINAL か)
+
+(P-COMP と)
+
+(VB 思わ)
+
+(VB2 れ)
+
+(AXD た)
+
+(P-OPTR 程)
+
+(AX で)
+
+(VB2 ある)
+
+(PU 。)
+
+(ID 89_aozora_Edogawa-1929;JP)
+
+(PRO 私)
+
+(P-OPTR は)
+
+(NP-SBJ *arb*)
+
+(N 押絵)
+
+(P-ROLE と)
+
+(VB 云え)
+
+(P-CONN ば)
+
+(PU 、)
+
+(N 羽子板)
+
+(P-ROLE の)
+
+(N 役者)
+
+(P-ROLE の)
+
+(N 似顔)
+
+(P-ROLE の)
+
+(N 細工)
+
+(P-OPTR しか)
+
+(VB 見)
+
+(AXD た)
+
+(N こと)
+
+(P-ROLE が)
+
+(ADJI なかっ)
+
+(AXD た)
+
+(P-CONN が)
+
+(PU 、)
+
+(CONJ そして)
+
+(PU 、)
+
+(N 羽子板)
+
+(P-ROLE の)
+
+(N 細工)
+
+(P-ROLE に)
+
+(P-OPTR も)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADV 随分)
+
+(ADJN 精巧)
+
+(AX な)
+
+(N もの)
+
+(P-OPTR も)
+
+(VB ある)
+
+(FN の)
+
+(AX だ)
+
+(P-CONN けれど)
+
+(PU 、)
+
+(D この)
+
+(N 押絵)
+
+(P-OPTR は)
+
+(PU 、)
+
+(D そんな)
+
+(N もの)
+
+(P-ROLE と)
+
+(P-OPTR は)
+
+(PU 、)
+
+(ADV まるで)
+
+(N 比較)
+
+(P-ROLE に)
+
+(P-OPTR も)
+
+(VB なら)
+
+(NEG ぬ)
+
+(P-OPTR 程)
+
+(PU 、)
+
+(N 巧緻)
+
+(P-ROLE を)
+
+(VB 極め)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AXD た)
+
+(FN の)
+
+(AX で)
+
+(VB2 ある)
+
+(PU 。)
+
+(ID 90_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *pro*)
+
+(ADV 恐らく)
+
+(NP-SBJ *T*)
+
+(D その)
+
+(N 道)
+
+(P-ROLE の)
+
+(N 名人)
+
+(P-ROLE の)
+
+(N 手)
+
+(P-ROLE に)
+
+(VB 成っ)
+
+(AXD た)
+
+(N もの)
+
+(AX で)
+
+(VB2 あろ)
+
+(INFR う)
+
+(P-FINAL か)
+
+(PU 。)
+
+(ID 91_aozora_Edogawa-1929;JP)
+
+(CONJ だが)
+
+(PU 、)
+
+(PRO それ)
+
+(P-ROLE が)
+
+(PRO 私)
+
+(P-ROLE の)
+
+(D 所謂)
+
+(NP-SBJ *T*)
+
+(-LRB- 「)
+
+(ADJN 奇妙)
+
+(-RRB- 」)
+
+(AX な)
+
+(N 点)
+
+(AX で)
+
+(P-OPTR は)
+
+(NEG なかっ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 92_aozora_Edogawa-1929;JP)
+
+(N 額)
+
+(Q 全体)
+
+(P-ROLE が)
+
+(NP-SBJ *T*)
+
+(ADV 余程)
+
+(ADJI 古い)
+
+(N もの)
+
+(AX *)
+
+(AX らしく)
+
+(PU 、)
+
+(N 背景)
+
+(P-ROLE の)
+
+(N 泥絵具)
+
+(P-OPTR は)
+
+(ADV 所々)
+
+(VB はげ落)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AXD た)
+
+(P-CONN し)
+
+(PU 、)
+
+(N 娘)
+
+(P-ROLE の)
+
+(N 緋鹿の子)
+
+(P-CONN も)
+
+(PU 、)
+
+(N 老人)
+
+(P-ROLE の)
+
+(N 天鵞絨)
+
+(P-CONN も)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(VB 見る)
+
+(N 影)
+
+(P-OPTR も)
+
+(ADJI なく)
+
+(VB 色あせ)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AXD た)
+
+(P-CONN けれど)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(VB はげ落ち)
+
+(VB 色あせ)
+
+(AXD た)
+
+(N なり)
+
+(P-ROLE に)
+
+(PU 、)
+
+(NP-OB1 *T*)
+
+(NP-SBJ *pro*)
+
+(VB 名状し)
+
+(VB2 難き)
+
+(N 毒々しさ)
+
+(P-ROLE を)
+
+(VB 保ち)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADV ギラギラ)
+
+(P-ROLE と)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(NP-OB1 *pro*)
+
+(VB 見る)
+
+(N 者)
+
+(P-ROLE の)
+
+(N 眼底)
+
+(P-ROLE に)
+
+(VB 焼つく)
+
+(N 様)
+
+(AX な)
+
+(N 生気)
+
+(P-ROLE を)
+
+(VB 持っ)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AXD た)
+
+(N こと)
+
+(P-OPTR も)
+
+(PU 、)
+
+(NP-SBJ *arb*)
+
+(NP-OB1 *pro*)
+
+(N 不思議)
+
+(P-ROLE と)
+
+(VB 云え)
+
+(P-CONN ば)
+
+(ADJN 不思議)
+
+(AX で)
+
+(VB2 あっ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 93_aozora_Edogawa-1929;JP)
+
+(CONJ だが)
+
+(PU 、)
+
+(PRO 私)
+
+(P-ROLE の)
+
+(-LRB- 「)
+
+(N 奇妙)
+
+(-RRB- 」)
+
+(P-ROLE という)
+
+(N 意味)
+
+(P-OPTR は)
+
+(N それ)
+
+(AX で)
+
+(P-OPTR も)
+
+(NEG ない)
+
+(PU 。)
+
+(ID 94_aozora_Edogawa-1929;JP)
+
+(PRO それ)
+
+(P-OPTR は)
+
+(PU 、)
+
+(NP-SBJ *speaker*)
+
+(ADV 若し)
+
+(ADV 強て)
+
+(VB 云う)
+
+(P-CONN ならば)
+
+(PU 、)
+
+(N 押絵)
+
+(P-ROLE の)
+
+(N 人物)
+
+(P-ROLE が)
+
+(NUM 二)
+
+(CL つ)
+
+(Q とも)
+
+(PU 、)
+
+(VB 生き)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AXD た)
+
+(N こと)
+
+(AX で)
+
+(VB2 ある)
+
+(PU 。)
+
+(ID 95_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *speaker*)
+
+(N 文楽)
+
+(P-ROLE の)
+
+(N 人形芝居)
+
+(P-ROLE で)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(NUM 一)
+
+(CL 日)
+
+(AX の)
+
+(N 演技)
+
+(P-ROLE の)
+
+(N 内)
+
+(P-ROLE に)
+
+(PU 、)
+
+(ADV たった)
+
+(NUM 一)
+
+(CL 度)
+
+(P-CONN か)
+
+(NUM 二)
+
+(CL 度)
+
+(PU 、)
+
+(PRO それ)
+
+(P-OPTR も)
+
+(NP-SBJ *T*)
+
+(ADJN ほんの)
+
+(AX *)
+
+(N 一瞬間)
+
+(PU 、)
+
+(NP-OB1 *T*)
+
+(N 名人)
+
+(P-ROLE の)
+
+(VB 使っ)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(N 人形)
+
+(P-ROLE が)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(ADV ふと)
+
+(N 神)
+
+(P-ROLE の)
+
+(N 息吹)
+
+(P-ROLE を)
+
+(VB かけ)
+
+(PASS られ)
+
+(P-OPTR でも)
+
+(VB2 し)
+
+(AXD た)
+
+(N 様)
+
+(AX に)
+
+(PU 、)
+
+(ADJN 本当)
+
+(AX に)
+
+(VB 生き)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(N こと)
+
+(P-ROLE が)
+
+(VB ある)
+
+(FN もの)
+
+(AX だ)
+
+(P-CONN が)
+
+(PU 、)
+
+(D この)
+
+(N 押絵)
+
+(P-ROLE の)
+
+(N 人物)
+
+(P-OPTR は)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(NP-SBJ *pro*)
+
+(D その)
+
+(NP-SBJ *pro*)
+
+(VB 生き)
+
+(AX た)
+
+(N 瞬間)
+
+(P-ROLE の)
+
+(N 人形)
+
+(P-ROLE を)
+
+(PU 、)
+
+(NP-OB2 *pro*)
+
+(NP-OB1 *pro*)
+
+(N 命)
+
+(P-ROLE の)
+
+(VB 逃げ出す)
+
+(N 隙)
+
+(P-ROLE を)
+
+(VB 与え)
+
+(NEG ず)
+
+(PU 、)
+
+(N 咄嗟)
+
+(P-ROLE の)
+
+(N 間)
+
+(P-ROLE に)
+
+(PU 、)
+
+(ADV そのまま)
+
+(N 板)
+
+(P-ROLE に)
+
+(VB はりつけ)
+
+(AXD た)
+
+(P-COMP という)
+
+(N 感じ)
+
+(AX で)
+
+(PU 、)
+
+(ADJN 永遠)
+
+(AX に)
+
+(VB 生きながらえ)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(P-FINAL か)
+
+(P-COMP と)
+
+(VB 見え)
+
+(AXD た)
+
+(FN の)
+
+(AX で)
+
+(VB2 ある)
+
+(PU 。)
+
+(ID 96_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *pro*)
+
+(NP-SBJ *pro*)
+
+(PRO 私)
+
+(P-ROLE の)
+
+(N 表情)
+
+(P-ROLE に)
+
+(N 驚き)
+
+(P-ROLE の)
+
+(N 色)
+
+(P-ROLE を)
+
+(VB 見)
+
+(P-CONN て)
+
+(VB2 取っ)
+
+(AXD た)
+
+(P-CONN から)
+
+(AX *)
+
+(P-FINAL か)
+
+(PU 、)
+
+(N 老人)
+
+(P-OPTR は)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADV いと)
+
+(ADJN たのもしげ)
+
+(AX な)
+
+(N 口調)
+
+(P-ROLE で)
+
+(PU 、)
+
+(ADV 殆ど)
+
+(VB 叫ぶ)
+
+(N 様)
+
+(AX に)
+
+(PU 、)
+
+(-LRB- 「)
+
+(NP-OB1 *pro*)
+
+(ADV アア)
+
+(PU 、)
+
+(PRO あなた)
+
+(P-OPTR は)
+
+(VB 分っ)
+
+(P-CONN て)
+
+(VB2 下さる)
+
+(P-OPTR かも)
+
+(VB 知れ)
+
+(AX ませ)
+
+(NEG ん)
+
+(-RRB- 」)
+
+(P-COMP と)
+
+(VB 云い)
+
+(P-CONN ながら)
+
+(PU 、)
+
+(NP-OB1 *T*)
+
+(NP-SBJ *pro*)
+
+(N 肩)
+
+(P-ROLE から)
+
+(VB 下げ)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AXD た)
+
+(PU 、)
+
+(N 黒革)
+
+(P-ROLE の)
+
+(N ケース)
+
+(P-ROLE を)
+
+(PU 、)
+
+(ADJN 叮嚀)
+
+(AX に)
+
+(N 鍵)
+
+(P-ROLE で)
+
+(VB 開い)
+
+(P-CONN て)
+
+(PU 、)
+
+(D その)
+
+(N 中)
+
+(P-ROLE から)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADV いとも)
+
+(ADJN 古風)
+
+(AX な)
+
+(N 双眼鏡)
+
+(P-ROLE を)
+
+(VB 取り出し)
+
+(P-CONN て)
+
+(PRO それ)
+
+(P-ROLE を)
+
+(PRO 私)
+
+(P-ROLE の)
+
+(N 方)
+
+(P-ROLE へ)
+
+(VB 差出す)
+
+(FN の)
+
+(AX で)
+
+(VB2 あっ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 97_aozora_Edogawa-1929;JP)
+
+(-LRB- 「)
+
+(NP-SBJ *hearer*)
+
+(N コレ)
+
+(PU 、)
+
+(D この)
+
+(N 遠眼鏡)
+
+(P-ROLE で)
+
+(NUM 一)
+
+(CL 度)
+
+(VB 御覧)
+
+(VB2 下さい)
+
+(AX ませ)
+
+(PU 。)
+
+(ID 98_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *pro*)
+
+(INTJ イエ)
+
+(PU 、)
+
+(PRO そこ)
+
+(P-ROLE から)
+
+(AX で)
+
+(P-OPTR は)
+
+(ADJI 近)
+
+(VB2 すぎ)
+
+(AX ます)
+
+(PU 。)
+
+(ID 99_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *hearer*)
+
+(NP-OB1 *pro*)
+
+(NP-SBJ *pro*)
+
+(ADJN 失礼)
+
+(AX です)
+
+(P-CONN が)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADV もう)
+
+(ADV 少し)
+
+(PRO あちら)
+
+(AX の)
+
+(N 方)
+
+(P-ROLE から)
+
+(PU 。)
+
+(ID 100_aozora_Edogawa-1929;JP)
+
+(INTJ 左様)
+
+(ADV 丁度)
+
+(D その)
+
+(N 辺)
+
+(P-ROLE が)
+
+(ADJI よう)
+
+(VB ござい)
+
+(AX ましょ)
+
+(INFR う)
+
+(-RRB- 」)
+
+(ID 101_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *pro*)
+
+(NP-SBJ *T*)
+
+(ADJN 誠)
+
+(AX に)
+
+(ADJN 異様)
+
+(AX な)
+
+(N 頼み)
+
+(AX で)
+
+(P-OPTR は)
+
+(VB2 あっ)
+
+(AXD た)
+
+(P-CONN けれど)
+
+(PU 、)
+
+(PRO 私)
+
+(P-OPTR は)
+
+(PNL 限りなき)
+
+(N 好奇心)
+
+(P-ROLE の)
+
+(N とりこ)
+
+(AX と)
+
+(VB なっ)
+
+(P-CONN て)
+
+(PU 、)
+
+(N 老人)
+
+(P-ROLE の)
+
+(VB 云う)
+
+(P-COMP が)
+
+(N まま)
+
+(P-ROLE に)
+
+(PU 、)
+
+(N 席)
+
+(P-ROLE を)
+
+(VB 立っ)
+
+(P-CONN て)
+
+(N 額)
+
+(P-ROLE から)
+
+(NUM 五六)
+
+(CL 歩)
+
+(VB 遠ざかっ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 102_aozora_Edogawa-1929;JP)
+
+(N 老人)
+
+(P-OPTR は)
+
+(NP-OB1 *pro*)
+
+(PRO 私)
+
+(P-ROLE の)
+
+(VB 見)
+
+(AX 易い)
+
+(N 様)
+
+(P-ROLE に)
+
+(PU 、)
+
+(Q 両手)
+
+(P-ROLE で)
+
+(N 額)
+
+(P-ROLE を)
+
+(VB 持っ)
+
+(P-CONN て)
+
+(PU 、)
+
+(N 電燈)
+
+(P-ROLE に)
+
+(VB かざし)
+
+(P-CONN て)
+
+(VB2 くれ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 103_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *pro*)
+
+(NP-SBJ *speaker*)
+
+(NP-OB1 *pro*)
+
+(N 今)
+
+(P-ROLE から)
+
+(VB 思う)
+
+(P-CONN と)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADV 実に)
+
+(ADJN 変てこ)
+
+(AX な)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(VB 気違いめい)
+
+(AX た)
+
+(N 光景)
+
+(AX で)
+
+(VB2 あっ)
+
+(AXD た)
+
+(P-ROLE に)
+
+(N 相違)
+
+(ADJI ない)
+
+(FN の)
+
+(AX で)
+
+(VB2 ある)
+
+(PU 。)
+
+(ID 104_aozora_Edogawa-1929;JP)
+
+(N 遠眼鏡)
+
+(P-ROLE と云う)
+
+(N の)
+
+(P-OPTR は)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(ADV 恐らく)
+
+(NUM 二三十)
+
+(CL 年)
+
+(P-OPTR も)
+
+(N 以前)
+
+(P-ROLE の)
+
+(N 舶来品)
+
+(AX で)
+
+(VB2 あろ)
+
+(INFR う)
+
+(P-FINAL か)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(NP-OB1 *pro*)
+
+(PRO 私達)
+
+(P-ROLE が)
+
+(N 子供)
+
+(P-ROLE の)
+
+(N 時分)
+
+(PU 、)
+
+(ADV よく)
+
+(N 眼鏡屋)
+
+(P-ROLE の)
+
+(N 看板)
+
+(P-ROLE で)
+
+(VB 見かけ)
+
+(AXD た)
+
+(N 様)
+
+(AX な)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(NP-SBJ *T*)
+
+(ADJN 異様)
+
+(AX な)
+
+(N 形)
+
+(AX の)
+
+(N プリズム双眼鏡)
+
+(AX で)
+
+(VB2 あっ)
+
+(AXD た)
+
+(P-CONN が)
+
+(PU 、)
+
+(PRO それ)
+
+(P-ROLE が)
+
+(N 手摺れ)
+
+(P-ROLE の)
+
+(N 為)
+
+(P-ROLE に)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJI 黒い)
+
+(N 覆皮)
+
+(P-ROLE が)
+
+(VB はげ)
+
+(P-CONN て)
+
+(PU 、)
+
+(ADV 所々)
+
+(N 真鍮)
+
+(P-ROLE の)
+
+(N 生地)
+
+(P-ROLE が)
+
+(VB 現われ)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(P-COMP という)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(N 持主)
+
+(P-ROLE の)
+
+(N 洋服)
+
+(P-ROLE と)
+
+(ADJN 同様)
+
+(AX に)
+
+(PU 、)
+
+(WADV 如何に)
+
+(P-OPTR も)
+
+(ADJN 古風)
+
+(AX な)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJI 物懐かしい)
+
+(N 品物)
+
+(AX で)
+
+(VB2 あっ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 105_aozora_Edogawa-1929;JP)
+
+(PRO 私)
+
+(P-OPTR は)
+
+(N 珍らしさ)
+
+(P-ROLE に)
+
+(PU 、)
+
+(ADV 暫く)
+
+(D その)
+
+(N 双眼鏡)
+
+(P-ROLE を)
+
+(VB ひねくり廻し)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AXD た)
+
+(P-CONN が)
+
+(PU 、)
+
+(NP-SBJ *exp*)
+
+(ADV やがて)
+
+(PU 、)
+
+(NP-SBJ *speaker*)
+
+(PRO それ)
+
+(P-ROLE を)
+
+(NP-SBJ *speaker*)
+
+(NP-OB1 *pro*)
+
+(VB 覗く)
+
+(N 為)
+
+(P-ROLE に)
+
+(PU 、)
+
+(Q 両手)
+
+(P-ROLE で)
+
+(N 眼)
+
+(P-ROLE の)
+
+(N 前)
+
+(P-ROLE に)
+
+(VB 持っ)
+
+(P-CONN て)
+
+(VB2 行っ)
+
+(AXD た)
+
+(N 時)
+
+(AX で)
+
+(VB2 ある)
+
+(PU 。)
+
+(ID 106_aozora_Edogawa-1929;JP)
+
+(ADV 突然)
+
+(PU 、)
+
+(ADV 実に)
+
+(ADV 突然)
+
+(PU 、)
+
+(N 老人)
+
+(P-ROLE が)
+
+(NP-SBJ *T*)
+
+(N 悲鳴)
+
+(P-ROLE に)
+
+(ADJI 近い)
+
+(N 叫声)
+
+(P-ROLE を)
+
+(VB 立て)
+
+(AXD た)
+
+(P-CONN ので)
+
+(PU 、)
+
+(PRO 私)
+
+(P-OPTR は)
+
+(PU 、)
+
+(ADJI 危く)
+
+(N 眼鏡)
+
+(P-ROLE を)
+
+(VB 取落す)
+
+(N 所)
+
+(AX で)
+
+(VB2 あっ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 107_aozora_Edogawa-1929;JP)
+
+(-LRB- 「)
+
+(NP-SBJ *pro*)
+
+(VB いけ)
+
+(AX ませ)
+
+(NEG ん)
+
+(PU 。)
+
+(ID 108_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *pro*)
+
+(VB いけ)
+
+(AX ませ)
+
+(NEG ん)
+
+(PU 。)
+
+(ID 109_aozora_Edogawa-1929;JP)
+
+(PRO それ)
+
+(P-OPTR は)
+
+(ADJN さかさ)
+
+(AX です)
+
+(P-FINAL よ)
+
+(PU 。)
+
+(ID 110_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *speaker*)
+
+(NP-OB1 *pro*)
+
+(ADJN さかさ)
+
+(AX に)
+
+(VB 覗い)
+
+(P-CONN て)
+
+(P-OPTR は)
+
+(VB いけ)
+
+(AX ませ)
+
+(NEG ん)
+
+(PU 。)
+
+(ID 111_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *pro*)
+
+(VB いけ)
+
+(AX ませ)
+
+(NEG ん)
+
+(-RRB- 」)
+
+(ID 112_aozora_Edogawa-1929;JP)
+
+(N 老人)
+
+(P-OPTR は)
+
+(PU 、)
+
+(ADJN 真青)
+
+(AX に)
+
+(VB なっ)
+
+(P-CONN て)
+
+(PU 、)
+
+(N 目)
+
+(P-ROLE を)
+
+(ADJN まんまる)
+
+(AX に)
+
+(VB 見開い)
+
+(P-CONN て)
+
+(PU 、)
+
+(ADV しきりと)
+
+(N 手)
+
+(P-ROLE を)
+
+(VB 振っ)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AXD た)
+
+(PU 。)
+
+(ID 113_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *arb*)
+
+(N 双眼鏡)
+
+(P-ROLE を)
+
+(ADJN 逆)
+
+(AX に)
+
+(VB 覗く)
+
+(N こと)
+
+(P-ROLE が)
+
+(PU 、)
+
+(WADV 何ぜ)
+
+(PRO それ)
+
+(P-OPTR 程)
+
+(ADJN 大変)
+
+(AX な)
+
+(FN の)
+
+(P-FINAL か)
+
+(PU 、)
+
+(PRO 私)
+
+(P-OPTR は)
+
+(N 老人)
+
+(P-ROLE の)
+
+(NP-SBJ *T*)
+
+(ADJN 異様)
+
+(AX な)
+
+(N 挙動)
+
+(P-ROLE を)
+
+(VB 理解)
+
+(VB0 する)
+
+(N こと)
+
+(P-ROLE が)
+
+(VB 出来)
+
+(NEG なかっ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 114_aozora_Edogawa-1929;JP)
+
+(-LRB- 「)
+
+(NP-SBJ *pro*)
+
+(ADV 成程)
+
+(PU 、)
+
+(ADV 成程)
+
+(PU 、)
+
+(ADJN さかさ)
+
+(AX でし)
+
+(AXD た)
+
+(P-FINAL っけ)
+
+(-RRB- 」)
+
+(ID 115_aozora_Edogawa-1929;JP)
+
+(PRO 私)
+
+(P-OPTR は)
+
+(N 双眼鏡)
+
+(P-ROLE を)
+
+(VB 覗く)
+
+(N こと)
+
+(P-ROLE に)
+
+(N 気)
+
+(P-ROLE を)
+
+(VB 取ら)
+
+(PASS2 れ)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AXD た)
+
+(P-CONN ので)
+
+(PU 、)
+
+(D この)
+
+(N 老人)
+
+(P-ROLE の)
+
+(NP-SBJ *T*)
+
+(ADJN 不審)
+
+(AX な)
+
+(N 表情)
+
+(P-ROLE を)
+
+(PU 、)
+
+(ADV さして)
+
+(N 気)
+
+(P-ROLE に)
+
+(P-OPTR も)
+
+(VB とめ)
+
+(NEG ず)
+
+(PU 、)
+
+(N 眼鏡)
+
+(P-ROLE を)
+
+(NP-SBJ *T*)
+
+(ADJI 正しい)
+
+(N 方向)
+
+(P-ROLE に)
+
+(VB 持ち直す)
+
+(P-CONN と)
+
+(PU 、)
+
+(VB 急い)
+
+(P-CONN で)
+
+(PRO それ)
+
+(P-ROLE を)
+
+(N 目)
+
+(P-ROLE に)
+
+(VB 当て)
+
+(P-CONN て)
+
+(N 押絵)
+
+(P-ROLE の)
+
+(N 人物)
+
+(P-ROLE を)
+
+(VB 覗い)
+
+(AXD た)
+
+(FN の)
+
+(AX で)
+
+(VB2 ある)
+
+(PU 。)
+
+(ID 116_aozora_Edogawa-1929;JP)
+
+(N 焦点)
+
+(P-ROLE が)
+
+(VB 合っ)
+
+(P-CONN て)
+
+(VB2 行く)
+
+(P-CONN に従って)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(NUM 二)
+
+(CL つ)
+
+(AX の)
+
+(NP-SBJ *T*)
+
+(N 円形)
+
+(AX の)
+
+(N 視野)
+
+(P-ROLE が)
+
+(PU 、)
+
+(ADJN 徐々)
+
+(AX に)
+
+(NUM 一)
+
+(CL つ)
+
+(P-ROLE に)
+
+(VB 重なり)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADV ボンヤリ)
+
+(AX と)
+
+(VB し)
+
+(AX た)
+
+(NP-SBJ *T*)
+
+(N 虹)
+
+(P-ROLE の)
+
+(N 様)
+
+(AX な)
+
+(N もの)
+
+(P-ROLE が)
+
+(PU 、)
+
+(ADV 段々)
+
+(ADV ハッキリ)
+
+(VB し)
+
+(P-CONN て)
+
+(VB2 来る)
+
+(P-CONN と)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(NP-SBJ *speaker*)
+
+(ADV びっくり)
+
+(VB する)
+
+(P-OPTR 程)
+
+(PNL 大きな)
+
+(N 娘)
+
+(P-ROLE の)
+
+(N 胸)
+
+(P-ROLE から)
+
+(N 上)
+
+(P-ROLE が)
+
+(PU 、)
+
+(PRO それ)
+
+(P-ROLE が)
+
+(Q 全世界)
+
+(AX で)
+
+(P-OPTR でも)
+
+(VB2 ある)
+
+(N 様)
+
+(AX に)
+
+(PU 、)
+
+(PRO 私)
+
+(P-ROLE の)
+
+(N 眼界)
+
+(Q 一杯)
+
+(P-ROLE に)
+
+(VB 拡がっ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 117_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *speaker*)
+
+(NP-OB1 *pro*)
+
+(NP-SBJ *T*)
+
+(D あんな)
+
+(N 風)
+
+(AX な)
+
+(N 物)
+
+(P-ROLE の)
+
+(N 現われ方)
+
+(P-ROLE を)
+
+(PU 、)
+
+(PRO 私)
+
+(P-OPTR は)
+
+(PP-OB1 *ICH*-1)
+
+(N あと)
+
+(P-ROLE に)
+
+(P-CONN も)
+
+(N 先)
+
+(P-ROLE に)
+
+(P-CONN も)
+
+(VB 見)
+
+(AXD た)
+
+(N こと)
+
+(P-ROLE が)
+
+(ADJI ない)
+
+(P-CONN ので)
+
+(PU 、)
+
+(NP-SBJ *speaker*)
+
+(NP-SBJ *T*)
+
+(NP-OB1 *pro*)
+
+(VB 読む)
+
+(N 人)
+
+(P-ROLE に)
+
+(NP-OB1 *pro*)
+
+(VB 分ら)
+
+(VB2 せる)
+
+(N の)
+
+(P-ROLE が)
+
+(ADJN 難儀)
+
+(AX な)
+
+(FN の)
+
+(AX だ)
+
+(P-CONN が)
+
+(PU 、)
+
+(NP-SBJ *speaker*)
+
+(NP-SBJ *T*)
+
+(PRO それ)
+
+(P-ROLE に)
+
+(ADJI 近い)
+
+(N 感じ)
+
+(P-ROLE を)
+
+(VB 思い出し)
+
+(P-CONN て)
+
+(VB2 見る)
+
+(P-CONN と)
+
+(PU 、)
+
+(ADV 例えば)
+
+(PU 、)
+
+(NP-SBJ;{SCENE} *pro*)
+
+(NP-SBJ *T*)
+
+(N 舟)
+
+(P-ROLE の)
+
+(N 上)
+
+(P-ROLE から)
+
+(PU 、)
+
+(N 海)
+
+(P-ROLE に)
+
+(VB もぐっ)
+
+(AXD た)
+
+(N 蜑)
+
+(P-ROLE の)
+
+(PU 、)
+
+(D ある)
+
+(N 瞬間)
+
+(P-ROLE の)
+
+(N 姿)
+
+(P-ROLE に)
+
+(VB 似)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AXD た)
+
+(P-COMP と)
+
+(P-OPTR でも)
+
+(VB 形容)
+
+(VB0 す)
+
+(AX べき)
+
+(AX で)
+
+(VB2 あろう)
+
+(P-FINAL か)
+
+(PU 。)
+
+(ID 118_aozora_Edogawa-1929;JP)
+
+(N 蜑)
+
+(P-ROLE の)
+
+(N 裸身)
+
+(P-ROLE が)
+
+(PU 、)
+
+(N 底)
+
+(P-ROLE の)
+
+(N 方)
+
+(P-ROLE に)
+
+(VB ある)
+
+(N 時)
+
+(P-OPTR は)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJI 青い)
+
+(N 水)
+
+(P-ROLE の)
+
+(N 層)
+
+(P-ROLE の)
+
+(NP-SBJ *T*)
+
+(ADJN 複雑)
+
+(AX な)
+
+(N 動揺)
+
+(P-ROLE の)
+
+(N 為)
+
+(P-ROLE に)
+
+(PU 、)
+
+(D その)
+
+(N 身体)
+
+(P-ROLE が)
+
+(PU 、)
+
+(ADV まるで)
+
+(NPR 海草)
+
+(P-ROLE の)
+
+(N 様)
+
+(AX に)
+
+(PU 、)
+
+(ADJN 不自然)
+
+(AX に)
+
+(ADV クネクネ)
+
+(P-ROLE と)
+
+(VB 曲り)
+
+(PU 、)
+
+(N 輪廓)
+
+(P-OPTR も)
+
+(VB ぼやけ)
+
+(P-CONN て)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJI 白っぽい)
+
+(N お化)
+
+(AX *)
+
+(AX みたい)
+
+(AX に)
+
+(VB 見え)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(P-CONN が)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(PRO それ)
+
+(P-ROLE が)
+
+(PU 、)
+
+(ADV つうッと)
+
+(VB 浮上っ)
+
+(P-CONN て)
+
+(VB2 来る)
+
+(P-CONN に従って)
+
+(PU 、)
+
+(N 水)
+
+(P-ROLE の)
+
+(N 層)
+
+(P-ROLE の)
+
+(N 青さ)
+
+(P-ROLE が)
+
+(ADV 段々)
+
+(ADJI 薄く)
+
+(VB なり)
+
+(PU 、)
+
+(N 形)
+
+(P-ROLE が)
+
+(VB ハッキリ)
+
+(VB0 し)
+
+(P-CONN て)
+
+(VB2 来)
+
+(P-CONN て)
+
+(PU 、)
+
+(ADV ポッカリ)
+
+(P-ROLE と)
+
+(N 水上)
+
+(P-ROLE に)
+
+(N 首)
+
+(P-ROLE を)
+
+(VB 出す)
+
+(P-CONN と)
+
+(PU 、)
+
+(D その)
+
+(N 瞬間)
+
+(PU 、)
+
+(ADV ハッと)
+
+(N 目)
+
+(P-ROLE が)
+
+(VB 覚め)
+
+(AXD た)
+
+(N 様)
+
+(AX に)
+
+(PU 、)
+
+(N 水中)
+
+(P-ROLE の)
+
+(NP-SBJ *T*)
+
+(ADJI 白い)
+
+(N お化)
+
+(P-ROLE が)
+
+(PU 、)
+
+(ADV 忽ち)
+
+(N 人間)
+
+(P-ROLE の)
+
+(N 正体)
+
+(P-ROLE を)
+
+(VB 現わす)
+
+(FN の)
+
+(AX で)
+
+(VB2 ある)
+
+(PU 。)
+
+(ID 119_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *pro*)
+
+(NP-SBJ *T*)
+
+(ADV 丁度)
+
+(PRO それ)
+
+(P-ROLE と)
+
+(ADJN 同じ)
+
+(AX *)
+
+(N 感じ)
+
+(AX で)
+
+(PU 、)
+
+(N 押絵)
+
+(P-ROLE の)
+
+(N 娘)
+
+(P-OPTR は)
+
+(PU 、)
+
+(N 双眼鏡)
+
+(P-ROLE の)
+
+(N 中)
+
+(P-ROLE で)
+
+(PU 、)
+
+(PRO 私)
+
+(P-ROLE の)
+
+(N 前)
+
+(P-ROLE に)
+
+(N 姿)
+
+(P-ROLE を)
+
+(VB 現わし)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(N 実物大)
+
+(AX の)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(NUM 一人)
+
+(AX の)
+
+(NP-SBJ *T*)
+
+(VB 生き)
+
+(AX た)
+
+(N 娘)
+
+(P-ROLE として)
+
+(PU 、)
+
+(VB 蠢き)
+
+(VB2 始め)
+
+(AXD た)
+
+(FN の)
+
+(AX で)
+
+(VB2 ある)
+
+(PU 。)
+
+(ID 120_aozora_Edogawa-1929;JP)
+
+(NUM 十九)
+
+(CL 世紀)
+
+(P-ROLE の)
+
+(NP-SBJ *T*)
+
+(ADJN 古風)
+
+(AX な)
+
+(N プリズム双眼鏡)
+
+(P-ROLE の)
+
+(N 玉)
+
+(P-ROLE の)
+
+(N 向う側)
+
+(P-ROLE に)
+
+(P-OPTR は)
+
+(PU 、)
+
+(NP-OB1 *T*)
+
+(ADV 全く)
+
+(PRO 私達)
+
+(P-ROLE の)
+
+(VB 思い)
+
+(P-OPTR も)
+
+(VB2 及ば)
+
+(NEG ぬ)
+
+(N 別世界)
+
+(P-ROLE が)
+
+(VB あっ)
+
+(P-CONN て)
+
+(PU 、)
+
+(PRO そこ)
+
+(P-ROLE に)
+
+(NP-SBJ *pro*)
+
+(N 結綿)
+
+(AX の)
+
+(N 色娘)
+
+(P-CONN と)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(NP-SBJ *T*)
+
+(ADJN 古風)
+
+(AX な)
+
+(N 洋服)
+
+(AX の)
+
+(N 白髪男)
+
+(P-CONN と)
+
+(P-ROLE が)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJN 奇怪)
+
+(AX な)
+
+(N 生活)
+
+(P-ROLE を)
+
+(VB 営ん)
+
+(P-CONN で)
+
+(VB2 いる)
+
+(PU 。)
+
+(ID 121_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *exp*)
+
+(NP-OB1 *T*)
+
+(NP-SBJ *arb*)
+
+(VB 覗い)
+
+(P-CONN て)
+
+(P-OPTR は)
+
+(ADJI 悪い)
+
+(N もの)
+
+(P-ROLE を)
+
+(PU 、)
+
+(PRO 私)
+
+(P-OPTR は)
+
+(N 今)
+
+(N 魔法使)
+
+(P-ROLE に)
+
+(NP-SBJ *speaker*)
+
+(PP-OB1 *ICH*-1)
+
+(VB 覗か)
+
+(VB さ)
+
+(PASS れ)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(FN の)
+
+(AX だ)
+
+(PU 。)
+
+(ID 122_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *T*)
+
+(P-COMP といった)
+
+(N 様)
+
+(AX な)
+
+(NP-SBJ *speaker*)
+
+(NP *T*)
+
+(P-ROLE *の*)
+
+(N 形容)
+
+(P-ROLE の)
+
+(VB 出来)
+
+(NEG ない)
+
+(NP-SBJ *T*)
+
+(ADJN 変てこ)
+
+(AX な)
+
+(N 気持)
+
+(AX で)
+
+(PU 、)
+
+(CONJ 併し)
+
+(PRO 私)
+
+(P-OPTR は)
+
+(NP-SBJ *pro*)
+
+(VB 憑か)
+
+(PASS れ)
+
+(AX た)
+
+(N 様)
+
+(AX に)
+
+(D その)
+
+(NP-SBJ *T*)
+
+(ADJN 不可思議)
+
+(AX な)
+
+(N 世界)
+
+(P-ROLE に)
+
+(VB 見入っ)
+
+(P-CONN て)
+
+(VB2 しまっ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 123_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *speaker*)
+
+(N 娘)
+
+(P-OPTR は)
+
+(VB 動い)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AXD た)
+
+(FN 訳)
+
+(AX で)
+
+(P-OPTR は)
+
+(NEG ない)
+
+(P-CONN が)
+
+(PU 、)
+
+(D その)
+
+(N 全身)
+
+(P-ROLE の)
+
+(N 感じ)
+
+(P-ROLE が)
+
+(PU 、)
+
+(NP-SBJ *speaker*)
+
+(NP-OB1 *pro*)
+
+(N 肉眼)
+
+(P-ROLE で)
+
+(VB 見)
+
+(AXD た)
+
+(N 時)
+
+(P-ROLE と)
+
+(P-OPTR は)
+
+(PU 、)
+
+(N ガラリ)
+
+(P-ROLE と)
+
+(VB 変っ)
+
+(P-CONN て)
+
+(PU 、)
+
+(N 生気)
+
+(P-ROLE に)
+
+(VB 満ち)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJI 青白い)
+
+(N 顔)
+
+(P-ROLE が)
+
+(ADV やや)
+
+(N 桃色)
+
+(P-ROLE に)
+
+(VB 上気)
+
+(VB0 し)
+
+(PU 、)
+
+(N 胸)
+
+(P-OPTR は)
+
+(VB 脈打ち)
+
+(-LRB- （)
+
+(ADV 実際)
+
+(PRO 私)
+
+(P-OPTR は)
+
+(N 心臓)
+
+(P-ROLE の)
+
+(N 鼓動)
+
+(P-ROLE を)
+
+(P-OPTR さえ)
+
+(VB 聞い)
+
+(AXD た)
+
+(-RRB- ）)
+
+(N 肉体)
+
+(P-ROLE から)
+
+(P-OPTR は)
+
+(NP-SBJ *T*)
+
+(N 縮緬)
+
+(AX の)
+
+(N 衣裳)
+
+(P-ROLE を通して)
+
+(PU 、)
+
+(ADV むしむし)
+
+(P-ROLE と)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJI 若い)
+
+(N 女)
+
+(P-ROLE の)
+
+(N 生気)
+
+(P-ROLE が)
+
+(VB 蒸発)
+
+(VB0 し)
+
+(P-CONN て)
+
+(VB2 居る)
+
+(N 様)
+
+(AX に)
+
+(VB 思わ)
+
+(VB2 れ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 124_aozora_Edogawa-1929;JP)
+
+(PRO 私)
+
+(P-OPTR は)
+
+(N 一渡り)
+
+(PU 、)
+
+(N 女)
+
+(P-ROLE の)
+
+(N 全身)
+
+(P-ROLE を)
+
+(PU 、)
+
+(N 双眼鏡)
+
+(P-ROLE の)
+
+(N 先)
+
+(P-ROLE で)
+
+(PU 、)
+
+(VB 嘗め廻し)
+
+(P-CONN て)
+
+(P-CONN から)
+
+(PU 、)
+
+(PU 、)
+
+(NP *T*)
+
+(P-ROLE *に*)
+
+(D その)
+
+(N 娘)
+
+(P-ROLE が)
+
+(VB しなだれ掛っ)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(NP-SBJ *T*)
+
+(ADJN 仕合せ)
+
+(AX な)
+
+(N 白髪男)
+
+(P-ROLE の)
+
+(N 方)
+
+(P-ROLE へ)
+
+(N 眼鏡)
+
+(P-ROLE を)
+
+(VB 転じ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 125_aozora_Edogawa-1929;JP)
+
+(N 老人)
+
+(P-OPTR も)
+
+(PU 、)
+
+(N 双眼鏡)
+
+(P-ROLE の)
+
+(N 世界)
+
+(P-ROLE で)
+
+(PU 、)
+
+(VB 生き)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AXD た)
+
+(N こと)
+
+(P-OPTR は)
+
+(ADJN 同じ)
+
+(AX で)
+
+(VB2 あっ)
+
+(AXD た)
+
+(P-CONN が)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(NP-SBJ *speaker*)
+
+(NP-OB1 *pro*)
+
+(VB 見)
+
+(AXD た)
+
+(N 所)
+
+(NP-SBJ *T*)
+
+(NUM 四十)
+
+(P-OPTR 程)
+
+(P-OPTR も)
+
+(N 年)
+
+(P-ROLE の)
+
+(VB 違う)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJI 若い)
+
+(N 女)
+
+(P-ROLE の)
+
+(N 肩)
+
+(P-ROLE に)
+
+(N 手)
+
+(P-ROLE を)
+
+(VB 廻し)
+
+(P-CONN て)
+
+(PU 、)
+
+(ADV さも)
+
+(ADJN 幸福)
+
+(AX そう)
+
+(AX な)
+
+(N 形)
+
+(AX で)
+
+(VB2 あり)
+
+(P-CONN ながら)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJN 妙)
+
+(AX な)
+
+(N こと)
+
+(P-ROLE に)
+
+(P-OPTR は)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(NP-SBJ *T*)
+
+(N レンズ)
+
+(Q 一杯)
+
+(AX の)
+
+(N 大きさ)
+
+(AX に)
+
+(VB 写っ)
+
+(AX た)
+
+(PU 、)
+
+(PRO 彼)
+
+(P-ROLE の)
+
+(NP-SBJ *T*)
+
+(N 皺)
+
+(P-ROLE の)
+
+(ADJI 多い)
+
+(N 顔)
+
+(P-ROLE が)
+
+(PU 、)
+
+(D その)
+
+(NP-SBJ *T*)
+
+(WNUM 何百)
+
+(CL 本)
+
+(AX の)
+
+(N 皺)
+
+(P-ROLE の)
+
+(N 底)
+
+(P-ROLE で)
+
+(PU 、)
+
+(ADJI いぶかしく)
+
+(N 苦悶)
+
+(P-ROLE の)
+
+(N 相)
+
+(P-ROLE を)
+
+(VB 現わし)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(FN の)
+
+(AX で)
+
+(VB2 ある)
+
+(PU 。)
+
+(ID 126_aozora_Edogawa-1929;JP)
+
+(PRO それ)
+
+(P-OPTR は)
+
+(PU 、)
+
+(N 老人)
+
+(P-ROLE の)
+
+(N 顔)
+
+(P-ROLE が)
+
+(N レンズ)
+
+(P-ROLE の)
+
+(N 為)
+
+(P-ROLE に)
+
+(NP-SBJ *T*)
+
+(N 眼前)
+
+(NUM 一)
+
+(CL 尺)
+
+(AX の)
+
+(N 近さ)
+
+(P-ROLE に)
+
+(PU 、)
+
+(ADJN 異様)
+
+(AX に)
+
+(ADJI 大きく)
+
+(VB 迫っ)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AXD た)
+
+(P-CONN から)
+
+(AX で)
+
+(P-OPTR も)
+
+(VB2 あっ)
+
+(AXD た)
+
+(AX で)
+
+(VB2 あろう)
+
+(P-CONN が)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(NP-SBJ *pro*)
+
+(NP-OB1 *pro*)
+
+(VB 見つめ)
+
+(P-CONN て)
+
+(VB2 いれ)
+
+(P-CONN ば)
+
+(VB いる)
+
+(P-OPTR 程)
+
+(PU 、)
+
+(ADV ゾッと)
+
+(ADJI 怖く)
+
+(VB なる)
+
+(N 様)
+
+(AX な)
+
+(PU 、)
+
+(N 悲痛)
+
+(P-CONN と)
+
+(N 恐怖)
+
+(P-CONN と)
+
+(P-ROLE の)
+
+(VB 混り合っ)
+
+(AX た)
+
+(NP-SBJ *T*)
+
+(ADV 一種)
+
+(ADJN 異様)
+
+(AX の)
+
+(N 表情)
+
+(AX で)
+
+(VB2 あっ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 127_aozora_Edogawa-1929;JP)
+
+(PRO それ)
+
+(P-ROLE を)
+
+(VB 見る)
+
+(P-CONN と)
+
+(PU 、)
+
+(PRO 私)
+
+(P-OPTR は)
+
+(NP-SBJ *speaker*)
+
+(VB うなされ)
+
+(AXD た)
+
+(N 様)
+
+(AX な)
+
+(N 気分)
+
+(AX に)
+
+(VB なっ)
+
+(P-CONN て)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(N 双眼鏡)
+
+(P-ROLE を)
+
+(VB 覗い)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(N こと)
+
+(P-ROLE が)
+
+(PU 、)
+
+(VB 耐え)
+
+(AX 難く)
+
+(VB 感じ)
+
+(VB2 られ)
+
+(AXD た)
+
+(P-CONN ので)
+
+(PU 、)
+
+(VB 思わ)
+
+(NEG ず)
+
+(PU 、)
+
+(N 目)
+
+(P-ROLE を)
+
+(VB 離し)
+
+(P-CONN て)
+
+(PU 、)
+
+(ADV キョロキョロ)
+
+(P-ROLE と)
+
+(N あたり)
+
+(P-ROLE を)
+
+(VB 見廻し)
+
+(AXD た)
+
+(PU 。)
+
+(ID 128_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *speaker*)
+
+(CONJ すると)
+
+(PU 、)
+
+(PRO それ)
+
+(P-OPTR は)
+
+(ADV やっぱり)
+
+(NP-SBJ *T*)
+
+(ADJI 淋しい)
+
+(N 夜)
+
+(P-ROLE の)
+
+(N 汽車)
+
+(P-ROLE の)
+
+(N 中)
+
+(AX で)
+
+(VB2 あっ)
+
+(P-CONN て)
+
+(PU 、)
+
+(N 押絵)
+
+(P-ROLE の)
+
+(N 額)
+
+(P-CONN も)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(PRO それ)
+
+(P-ROLE を)
+
+(VB ささげ)
+
+(AX た)
+
+(N 老人)
+
+(P-ROLE の)
+
+(N 姿)
+
+(P-CONN も)
+
+(PU 、)
+
+(N 元)
+
+(P-ROLE の)
+
+(N まま)
+
+(AX で)
+
+(PU 、)
+
+(N 窓)
+
+(P-ROLE の)
+
+(N 外)
+
+(P-OPTR は)
+
+(ADJN 真暗)
+
+(AX だ)
+
+(P-CONN し)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJN 単調)
+
+(AX な)
+
+(N 車輪)
+
+(P-ROLE の)
+
+(N 響)
+
+(P-OPTR も)
+
+(PU 、)
+
+(N 変り)
+
+(ADJI なく)
+
+(VB 聞え)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AXD た)
+
+(PU 。)
+
+(ID 129_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *speaker*)
+
+(N 悪夢)
+
+(P-ROLE から)
+
+(VB 醒め)
+
+(AXD た)
+
+(N 気持)
+
+(AX で)
+
+(VB2 あっ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 130_aozora_Edogawa-1929;JP)
+
+(-LRB- 「)
+
+(N あなた様)
+
+(P-OPTR は)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJN 不思議)
+
+(AX 相)
+
+(AX な)
+
+(N 顔)
+
+(P-ROLE を)
+
+(VB し)
+
+(P-CONN て)
+
+(VB2 おいで)
+
+(VB2 なさい)
+
+(AX ます)
+
+(P-FINAL ね)
+
+(-RRB- 」)
+
+(ID 131_aozora_Edogawa-1929;JP)
+
+(N 老人)
+
+(P-OPTR は)
+
+(N 額)
+
+(P-ROLE を)
+
+(PU 、)
+
+(N 元)
+
+(P-ROLE の)
+
+(N 窓)
+
+(P-ROLE の)
+
+(N 所)
+
+(P-ROLE へ)
+
+(VB 立てかけ)
+
+(P-CONN て)
+
+(PU 、)
+
+(N 席)
+
+(P-ROLE に)
+
+(VB つく)
+
+(P-CONN と)
+
+(PU 、)
+
+(PRO 私)
+
+(P-ROLE に)
+
+(P-OPTR も)
+
+(D その)
+
+(N 向う側)
+
+(P-ROLE へ)
+
+(VB 坐る)
+
+(N 様)
+
+(P-ROLE に)
+
+(PU 、)
+
+(N 手真似)
+
+(P-ROLE を)
+
+(VB し)
+
+(P-CONN ながら)
+
+(PU 、)
+
+(PRO 私)
+
+(P-ROLE の)
+
+(N 顔)
+
+(P-ROLE を)
+
+(VB 見つめ)
+
+(P-CONN て)
+
+(PU 、)
+
+(D こんな)
+
+(N こと)
+
+(P-ROLE を)
+
+(VB 云っ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 132_aozora_Edogawa-1929;JP)
+
+(-LRB- 「)
+
+(PRO 私)
+
+(P-ROLE の)
+
+(N 頭)
+
+(P-ROLE が)
+
+(PU 、)
+
+(WADV どう)
+
+(P-OPTR か)
+
+(VB し)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(N 様)
+
+(AX です)
+
+(PU 。)
+
+(ID 133_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *exp*)
+
+(ADJN いやに)
+
+(VB 蒸し)
+
+(AX ます)
+
+(P-FINAL ね)
+
+(-RRB- 」)
+
+(ID 134_aozora_Edogawa-1929;JP)
+
+(PRO 私)
+
+(P-OPTR は)
+
+(NP-SBJ *T*)
+
+(N てれ隠し)
+
+(AX みたい)
+
+(AX な)
+
+(N 挨拶)
+
+(P-ROLE を)
+
+(VB し)
+
+(AXD た)
+
+(PU 。)
+
+(ID 135_aozora_Edogawa-1929;JP)
+
+(CONJ すると)
+
+(N 老人)
+
+(P-OPTR は)
+
+(PU 、)
+
+(N 猫背)
+
+(AX に)
+
+(VB なっ)
+
+(P-CONN て)
+
+(PU 、)
+
+(N 顔)
+
+(P-ROLE を)
+
+(ADV ぐっと)
+
+(PRO 私)
+
+(P-ROLE の)
+
+(N 方)
+
+(P-ROLE へ)
+
+(VB 近寄せ)
+
+(PU 、)
+
+(N 膝)
+
+(P-ROLE の)
+
+(N 上)
+
+(P-ROLE で)
+
+(NP-SBJ *T*)
+
+(ADJI 細長い)
+
+(N 指)
+
+(P-ROLE を)
+
+(N 合図)
+
+(P-OPTR でも)
+
+(VB する)
+
+(N 様)
+
+(AX に)
+
+(PU 、)
+
+(ADV ヘラヘラ)
+
+(P-ROLE と)
+
+(VB 動かし)
+
+(P-CONN ながら)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJI 低い)
+
+(NP-SBJ *T*)
+
+(ADJI 低い)
+
+(N 囁き声)
+
+(AX に)
+
+(VB なっ)
+
+(P-CONN て)
+
+(PU 、)
+
+(-LRB- 「)
+
+(N あれら)
+
+(P-OPTR は)
+
+(PU 、)
+
+(VB 生き)
+
+(P-CONN て)
+
+(VB2 居り)
+
+(AX まし)
+
+(AXD たろ)
+
+(INFR う)
+
+(-RRB- 」)
+
+(P-COMP と)
+
+(VB 云っ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 136_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *pro*)
+
+(CONJ そして)
+
+(PU 、)
+
+(ADV さも)
+
+(NP-SBJ *pro*)
+
+(N 一大事)
+
+(P-ROLE を)
+
+(VB 打開ける)
+
+(P-COMP といった)
+
+(N 調子)
+
+(AX で)
+
+(PU 、)
+
+(ADV 一層)
+
+(N 猫背)
+
+(AX に)
+
+(VB なっ)
+
+(P-CONN て)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADV ギラギラ)
+
+(VB し)
+
+(AXD た)
+
+(N 目)
+
+(P-ROLE を)
+
+(ADJN まん丸)
+
+(AX に)
+
+(VB 見開い)
+
+(P-CONN て)
+
+(PU 、)
+
+(PRO 私)
+
+(P-ROLE の)
+
+(N 顔)
+
+(P-ROLE を)
+
+(N 穴)
+
+(P-ROLE の)
+
+(VB あく)
+
+(P-OPTR 程)
+
+(VB 見つめ)
+
+(P-CONN ながら)
+
+(PU 、)
+
+(D こんな)
+
+(N こと)
+
+(P-ROLE を)
+
+(VB 囁く)
+
+(FN の)
+
+(AX で)
+
+(VB2 あっ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 137_aozora_Edogawa-1929;JP)
+
+(-LRB- 「)
+
+(PRO あなた)
+
+(P-OPTR は)
+
+(PU 、)
+
+(NP-SBJ;{YOU} *pro*)
+
+(N あれら)
+
+(P-ROLE の)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(N 本当)
+
+(AX の)
+
+(N 身の上話)
+
+(P-ROLE を)
+
+(VB 聞き)
+
+(AX 度い)
+
+(P-COMP と)
+
+(P-OPTR は)
+
+(VB おぼしめし)
+
+(AX ませ)
+
+(NEG ん)
+
+(P-FINAL かね)
+
+(-RRB- 」)
+
+(ID 138_aozora_Edogawa-1929;JP)
+
+(PRO 私)
+
+(P-OPTR は)
+
+(NP-SBJ *pro*)
+
+(N 汽車)
+
+(P-ROLE の)
+
+(N 動揺)
+
+(P-CONN と)
+
+(PU 、)
+
+(N 車輪)
+
+(P-ROLE の)
+
+(N 響)
+
+(P-ROLE の)
+
+(N 為)
+
+(P-ROLE に)
+
+(PU 、)
+
+(N 老人)
+
+(P-ROLE の)
+
+(NP-SBJ *T*)
+
+(ADJI 低い)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(NP-SBJ *pro*)
+
+(VB 呟く)
+
+(N 様)
+
+(AX な)
+
+(N 声)
+
+(P-ROLE を)
+
+(PU 、)
+
+(VB 聞き)
+
+(VB2 間違え)
+
+(AXD た)
+
+(FN の)
+
+(AX で)
+
+(P-OPTR は)
+
+(NEG ない)
+
+(P-FINAL か)
+
+(P-COMP と)
+
+(VB 思っ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 139_aozora_Edogawa-1929;JP)
+
+(-LRB- 「)
+
+(NP-SBJ *hearer*)
+
+(N 身の上話)
+
+(AX *)
+
+(P-COMP と)
+
+(VB おっしゃい)
+
+(AX まし)
+
+(AXD た)
+
+(P-FINAL か)
+
+(-RRB- 」)
+
+(ID 140_aozora_Edogawa-1929;JP)
+
+(-LRB- 「)
+
+(NP-SBJ *pro*)
+
+(N 身の上話)
+
+(AX で)
+
+(VB2 ござい)
+
+(AX ます)
+
+(P-FINAL よ)
+
+(-RRB- 」)
+
+(ID 141_aozora_Edogawa-1929;JP)
+
+(N 老人)
+
+(P-OPTR は)
+
+(ADV やっぱり)
+
+(NP-SBJ *T*)
+
+(ADJI 低い)
+
+(N 声)
+
+(P-ROLE で)
+
+(VB 答え)
+
+(AXD た)
+
+(PU 。)
+
+(ID 142_aozora_Edogawa-1929;JP)
+
+(-LRB- 「)
+
+(NP-SBJ *pro*)
+
+(ADV 殊に)
+
+(PU 、)
+
+(N 一方)
+
+(P-ROLE の)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(N 白髪)
+
+(AX の)
+
+(N 老人)
+
+(P-ROLE の)
+
+(N 身の上話)
+
+(P-ROLE を)
+
+(AX で)
+
+(VB2 ござい)
+
+(AX ます)
+
+(P-FINAL よ)
+
+(-RRB- 」)
+
+(ID 143_aozora_Edogawa-1929;JP)
+
+(-LRB- 「)
+
+(NP-SBJ *pro*)
+
+(NP-SBJ *pro*)
+
+(ADJI 若い)
+
+(N 時分)
+
+(P-ROLE から)
+
+(N の)
+
+(AX です)
+
+(P-FINAL か)
+
+(-RRB- 」)
+
+(ID 144_aozora_Edogawa-1929;JP)
+
+(PRO 私)
+
+(P-OPTR も)
+
+(PU 、)
+
+(D その)
+
+(N 晩)
+
+(P-OPTR は)
+
+(PU 、)
+
+(WADV 何故)
+
+(P-OPTR か)
+
+(NP-SBJ *T*)
+
+(ADJN 妙)
+
+(AX に)
+
+(ADJN 調子はずれ)
+
+(AX な)
+
+(N 物)
+
+(P-ROLE の)
+
+(N 云い方)
+
+(P-ROLE を)
+
+(VB し)
+
+(AXD た)
+
+(PU 。)
+
+(ID 145_aozora_Edogawa-1929;JP)
+
+(-LRB- 「)
+
+(NP-SBJ *pro*)
+
+(INTJ ハイ)
+
+(PU 、)
+
+(PRO あれ)
+
+(P-ROLE が)
+
+(NUM 二十五)
+
+(CL 歳)
+
+(AX の)
+
+(N 時)
+
+(P-ROLE の)
+
+(N お話)
+
+(AX で)
+
+(VB2 ござい)
+
+(AX ます)
+
+(P-FINAL よ)
+
+(-RRB- 」)
+
+(ID 146_aozora_Edogawa-1929;JP)
+
+(-LRB- 「)
+
+(NP-SBJ *speaker*)
+
+(NP-OB1 *pro*)
+
+(ADV 是非)
+
+(VB うかがい)
+
+(AX たい)
+
+(FN もの)
+
+(AX です)
+
+(P-FINAL ね)
+
+(-RRB- 」)
+
+(ID 147_aozora_Edogawa-1929;JP)
+
+(PRO 私)
+
+(P-OPTR は)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(N 普通)
+
+(AX の)
+
+(NP-SBJ *T*)
+
+(VB 生き)
+
+(AX た)
+
+(N 人間)
+
+(P-ROLE の)
+
+(N 身の上話)
+
+(P-ROLE を)
+
+(P-OPTR でも)
+
+(VB 催促)
+
+(VB0 する)
+
+(N 様)
+
+(AX に)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADV ごく)
+
+(ADJI 何でもない)
+
+(N こと)
+
+(P-ROLE の)
+
+(N 様)
+
+(AX に)
+
+(PU 、)
+
+(N 老人)
+
+(P-ROLE を)
+
+(VB うながし)
+
+(AXD た)
+
+(FN の)
+
+(AX で)
+
+(VB2 ある)
+
+(PU 。)
+
+(ID 148_aozora_Edogawa-1929;JP)
+
+(CONJ すると)
+
+(PU 、)
+
+(N 老人)
+
+(P-OPTR は)
+
+(N 顔)
+
+(P-ROLE の)
+
+(N 皺)
+
+(P-ROLE を)
+
+(PU 、)
+
+(ADV さも)
+
+(ADJI 嬉し)
+
+(AX そう)
+
+(AX に)
+
+(VB ゆがめ)
+
+(P-CONN て)
+
+(PU 、)
+
+(-LRB- 「)
+
+(NP-OB1 *pro*)
+
+(INTJ アア)
+
+(PU 、)
+
+(PRO あなた)
+
+(P-OPTR は)
+
+(PU 、)
+
+(ADV やっぱり)
+
+(VB 聞い)
+
+(P-CONN て)
+
+(VB2 下さい)
+
+(AX ます)
+
+(P-FINAL ね)
+
+(-RRB- 」)
+
+(P-COMP と)
+
+(VB 云い)
+
+(P-CONN ながら)
+
+(PU 、)
+
+(INTJ さて)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(N 次)
+
+(P-ROLE の)
+
+(N 様)
+
+(AX な)
+
+(NP-SBJ *T*)
+
+(N 世)
+
+(P-ROLE に)
+
+(P-OPTR も)
+
+(ADJN 不思議)
+
+(AX な)
+
+(N 物語)
+
+(P-ROLE を)
+
+(VB 始め)
+
+(AXD た)
+
+(FN の)
+
+(AX で)
+
+(VB2 あっ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 149_aozora_Edogawa-1929;JP)
+
+(-LRB- 「)
+
+(NP-SBJ *speaker*)
+
+(NP-OB1 *pro*)
+
+(PRO それ)
+
+(P-OPTR は)
+
+(ADV もう)
+
+(PU 、)
+
+(N 一生涯)
+
+(P-ROLE の)
+
+(N 大事件)
+
+(AX です)
+
+(P-CONN から)
+
+(PU 、)
+
+(ADJI よく)
+
+(VB 記憶)
+
+(VB0 し)
+
+(P-CONN て)
+
+(VB2 居り)
+
+(AX ます)
+
+(P-CONN が)
+
+(PU 、)
+
+(NPR 明治)
+
+(NUM 二十八)
+
+(CL 年)
+
+(P-ROLE の)
+
+(NUM 四)
+
+(CL 月)
+
+(P-ROLE の)
+
+(PU 、)
+
+(N 兄)
+
+(P-ROLE が)
+
+(PRO あんな)
+
+(P-ROLE に)
+
+(-LRB- （)
+
+(P-COMP と)
+
+(VB 云っ)
+
+(P-CONN て)
+
+(PRO 彼)
+
+(P-OPTR は)
+
+(N 押絵)
+
+(P-ROLE の)
+
+(N 老人)
+
+(P-ROLE を)
+
+(VB 指さし)
+
+(AXD た)
+
+(-RRB- ）)
+
+(VB なり)
+
+(AX まし)
+
+(AXD た)
+
+(N の)
+
+(P-ROLE が)
+
+(PU 、)
+
+(PP *ICH*-1)
+
+(NUM 二十七)
+
+(CL 日)
+
+(P-ROLE の)
+
+(N 夕方)
+
+(P-ROLE の)
+
+(N こと)
+
+(AX で)
+
+(VB2 ござり)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 150_aozora_Edogawa-1929;JP)
+
+(N 当時)
+
+(PU 、)
+
+(PRO 私)
+
+(P-CONN も)
+
+(N 兄)
+
+(P-CONN も)
+
+(PU 、)
+
+(ADV まだ)
+
+(N 部屋住み)
+
+(AX で)
+
+(PU 、)
+
+(N 住居)
+
+(P-OPTR は)
+
+(NPR 日本橋通)
+
+(NUM 三)
+
+(CL 丁目)
+
+(AX でし)
+
+(P-CONN て)
+
+(PU 、)
+
+(N 親爺)
+
+(P-ROLE が)
+
+(N 呉服商)
+
+(P-ROLE を)
+
+(VB 営ん)
+
+(P-CONN で)
+
+(VB2 居り)
+
+(AX まし)
+
+(AXD た)
+
+(P-CONN が)
+
+(P-FINAL ね)
+
+(PU 。)
+
+(ID 151_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *pro*)
+
+(ADV 何でも)
+
+(NPR 浅草)
+
+(P-ROLE の)
+
+(NPR 十二階)
+
+(P-ROLE が)
+
+(VB 出来)
+
+(P-CONN て)
+
+(PU 、)
+
+(N 間)
+
+(P-OPTR も)
+
+(ADJI なく)
+
+(P-ROLE の)
+
+(N こと)
+
+(AX で)
+
+(VB2 ござい)
+
+(AX まし)
+
+(AXD た)
+
+(P-FINAL よ)
+
+(PU 。)
+
+(ID 152_aozora_Edogawa-1929;JP)
+
+(CONJ だもんですから)
+
+(PU 、)
+
+(N 兄)
+
+(P-OPTR なんぞ)
+
+(P-OPTR は)
+
+(PU 、)
+
+(NP-SBJ *exp*)
+
+(Q 毎日)
+
+(P-ROLE の)
+
+(N 様)
+
+(AX に)
+
+(D あの)
+
+(NPR 凌雲閣)
+
+(P-ROLE へ)
+
+(VB 昇っ)
+
+(P-CONN て)
+
+(VB 喜ん)
+
+(P-CONN で)
+
+(VB2 い)
+
+(AXD た)
+
+(FN もの)
+
+(AX です)
+
+(PU 。)
+
+(ID 153_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *speaker*)
+
+(P-COMP と)
+
+(VB 申し)
+
+(AX ます)
+
+(FN の)
+
+(P-CONN が)
+
+(PU 、)
+
+(N 兄)
+
+(P-OPTR は)
+
+(ADJN 妙)
+
+(AX に)
+
+(N 異国物)
+
+(P-ROLE が)
+
+(ADJN 好き)
+
+(AX で)
+
+(PU 、)
+
+(N 新しがり屋)
+
+(AX で)
+
+(VB2 ござんし)
+
+(AXD た)
+
+(P-CONN から)
+
+(P-FINAL ね)
+
+(PU 。)
+
+(ID 154_aozora_Edogawa-1929;JP)
+
+(D この)
+
+(N 遠眼鏡)
+
+(P-OPTR にしろ)
+
+(PU 、)
+
+(ADV やっぱり)
+
+(PRO それ)
+
+(AX で)
+
+(PU 、)
+
+(N 兄)
+
+(P-ROLE が)
+
+(NP-SBJ *pro*)
+
+(N 外国船)
+
+(P-ROLE の)
+
+(N 船長)
+
+(P-ROLE の)
+
+(N 持物)
+
+(AX だっ)
+
+(AXD た)
+
+(P-COMP という)
+
+(N 奴)
+
+(P-ROLE を)
+
+(PU 、)
+
+(NPR 横浜)
+
+(P-ROLE の)
+
+(N 支那人町)
+
+(P-ROLE の)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJN 変てこ)
+
+(AX な)
+
+(N 道具屋)
+
+(P-ROLE の)
+
+(N 店先)
+
+(P-ROLE で)
+
+(PU 、)
+
+(VB めっけ)
+
+(P-CONN て)
+
+(VB2 来)
+
+(AX まし)
+
+(P-CONN て)
+
+(P-FINAL ね)
+
+(PU 。)
+
+(ID 155_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *pro*)
+
+(N 当時)
+
+(P-ROLE にしちゃあ)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(NP-SBJ *T*)
+
+(ADV 随分)
+
+(ADJI 高い)
+
+(N お金)
+
+(P-ROLE を)
+
+(VB 払っ)
+
+(AXD た)
+
+(P-COMP と)
+
+(VB 申し)
+
+(P-CONN て)
+
+(VB2 居り)
+
+(AX まし)
+
+(AXD た)
+
+(P-FINAL っけ)
+
+(-RRB- 」)
+
+(ID 156_aozora_Edogawa-1929;JP)
+
+(N 老人)
+
+(P-OPTR は)
+
+(-LRB- 「)
+
+(N 兄)
+
+(P-ROLE が)
+
+(-RRB- 」)
+
+(P-COMP と)
+
+(VB 云う)
+
+(N たび)
+
+(P-ROLE に)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(ADV まるで)
+
+(PRO そこ)
+
+(P-ROLE に)
+
+(D その)
+
+(N 人)
+
+(P-ROLE が)
+
+(VB 坐っ)
+
+(P-CONN て)
+
+(P-OPTR でも)
+
+(VB2 いる)
+
+(N 様)
+
+(AX に)
+
+(PU 、)
+
+(N 押絵)
+
+(P-ROLE の)
+
+(N 老人)
+
+(P-ROLE の)
+
+(N 方)
+
+(P-ROLE に)
+
+(N 目)
+
+(P-ROLE を)
+
+(VB やっ)
+
+(P-CONN たり)
+
+(PU 、)
+
+(VB 指さし)
+
+(P-CONN たり)
+
+(VB2 し)
+
+(AXD た)
+
+(PU 。)
+
+(ID 157_aozora_Edogawa-1929;JP)
+
+(N 老人)
+
+(P-OPTR は)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(PRO 彼)
+
+(P-ROLE の)
+
+(N 記憶)
+
+(P-ROLE に)
+
+(VB ある)
+
+(NP-SBJ *T*)
+
+(N 本当)
+
+(AX の)
+
+(N 兄)
+
+(P-CONN と)
+
+(PU 、)
+
+(D その)
+
+(N 押絵)
+
+(P-ROLE の)
+
+(NP-SBJ *pro*)
+
+(N 白髪)
+
+(AX の)
+
+(N 老人)
+
+(P-CONN と)
+
+(P-ROLE を)
+
+(VB 混同)
+
+(VB0 し)
+
+(P-CONN て)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(N 押絵)
+
+(P-ROLE が)
+
+(VB 生き)
+
+(P-CONN て)
+
+(PRO 彼)
+
+(P-ROLE の)
+
+(N 話)
+
+(P-ROLE を)
+
+(VB 聞い)
+
+(P-CONN て)
+
+(P-OPTR でも)
+
+(VB2 いる)
+
+(N 様)
+
+(AX な)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(NP-SBJ *pro*)
+
+(ADV すぐ)
+
+(N 側)
+
+(P-ROLE に)
+
+(NUM 第三)
+
+(CL 者)
+
+(P-ROLE を)
+
+(VB 意識)
+
+(VB0 し)
+
+(AXD た)
+
+(N 様)
+
+(AX な)
+
+(N 話し方)
+
+(P-ROLE を)
+
+(VB し)
+
+(AXD た)
+
+(PU 。)
+
+(ID 158_aozora_Edogawa-1929;JP)
+
+(CONJ だが)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJN 不思議)
+
+(AX な)
+
+(N こと)
+
+(P-ROLE に)
+
+(PU 、)
+
+(PRO 私)
+
+(P-OPTR は)
+
+(PRO それ)
+
+(P-ROLE を)
+
+(ADV 少し)
+
+(P-OPTR も)
+
+(NP-SBJ *pro*)
+
+(ADJI おかしい)
+
+(P-COMP と)
+
+(P-OPTR は)
+
+(VB 感じ)
+
+(NEG なかっ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 159_aozora_Edogawa-1929;JP)
+
+(PRO 私達)
+
+(P-OPTR は)
+
+(D その)
+
+(N 瞬間)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(N 自然)
+
+(P-ROLE の)
+
+(N 法則)
+
+(P-ROLE を)
+
+(VB 超越)
+
+(VB0 し)
+
+(AX た)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(NP-SBJ *T*)
+
+(PRO 我々)
+
+(P-ROLE の)
+
+(N 世界)
+
+(P-ROLE と)
+
+(WPRO どこ)
+
+(P-OPTR か)
+
+(P-ROLE で)
+
+(VB 喰違っ)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(N 処)
+
+(AX の)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJN 別)
+
+(AX の)
+
+(N 世界)
+
+(P-ROLE に)
+
+(VB 住ん)
+
+(P-CONN で)
+
+(VB2 い)
+
+(AXD た)
+
+(AX らしい)
+
+(FN の)
+
+(AX で)
+
+(VB2 ある)
+
+(PU 。)
+
+(ID 160_aozora_Edogawa-1929;JP)
+
+(-LRB- 「)
+
+(PRO あなた)
+
+(P-OPTR は)
+
+(PU 、)
+
+(NPR 十二階)
+
+(P-ROLE へ)
+
+(VB 御昇り)
+
+(VB2 なすっ)
+
+(AXD た)
+
+(N こと)
+
+(P-ROLE が)
+
+(VB おあり)
+
+(AX です)
+
+(P-FINAL か)
+
+(PU 。)
+
+(ID 161_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *hearer*)
+
+(NP-OB1 *pro*)
+
+(INTJ アア)
+
+(PU 、)
+
+(VB おあり)
+
+(VB0 なさら)
+
+(NEG ない)
+
+(PU 。)
+
+(ID 162_aozora_Edogawa-1929;JP)
+
+(PRO それ)
+
+(P-OPTR は)
+
+(ADJN 残念)
+
+(AX です)
+
+(P-FINAL ね)
+
+(PU 。)
+
+(ID 163_aozora_Edogawa-1929;JP)
+
+(PRO あれ)
+
+(P-OPTR は)
+
+(NP-OB1 *pro*)
+
+(ADV 一体)
+
+(WPRO どこ)
+
+(P-ROLE の)
+
+(N 魔法使)
+
+(P-ROLE が)
+
+(VB 建て)
+
+(AX まし)
+
+(AXD た)
+
+(FN もの)
+
+(AX *)
+
+(P-FINAL か)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADV 実に)
+
+(N 途方)
+
+(P-OPTR も)
+
+(ADJI ない)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJN 変てこれん)
+
+(AX な)
+
+(N 代物)
+
+(AX で)
+
+(VB2 ござい)
+
+(AX まし)
+
+(AXD た)
+
+(P-FINAL よ)
+
+(PU 。)
+
+(ID 164_aozora_Edogawa-1929;JP)
+
+(N 表面)
+
+(P-OPTR は)
+
+(NP-SBJ *T*)
+
+(NPR 伊太利)
+
+(P-ROLE の)
+
+(N 技師)
+
+(AX の)
+
+(NP-SBJ *T*)
+
+(N バルトン)
+
+(P-ROLE と)
+
+(VB 申す)
+
+(N もの)
+
+(P-ROLE が)
+
+(VB 設計)
+
+(VB0 し)
+
+(AXD た)
+
+(N こと)
+
+(P-ROLE に)
+
+(VB なっ)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AX まし)
+
+(AXD た)
+
+(P-CONN が)
+
+(P-FINAL ね)
+
+(PU 。)
+
+(ID 165_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *hearer*)
+
+(NP-OB1 *pro*)
+
+(ADV まあ)
+
+(VB 考え)
+
+(P-CONN て)
+
+(VB2 御覧)
+
+(VB2 なさい)
+
+(PU 。)
+
+(ID 166_aozora_Edogawa-1929;JP)
+
+(D その)
+
+(N 頃)
+
+(P-ROLE の)
+
+(NPR 浅草公園)
+
+(P-OPTR と云えば)
+
+(PU 、)
+
+(N 名物)
+
+(P-ROLE が)
+
+(ADV 先ず)
+
+(N 蜘蛛男)
+
+(P-ROLE の)
+
+(N 見世物)
+
+(PU 、)
+
+(N 娘剣舞)
+
+(P-CONN に)
+
+(PU 、)
+
+(N 玉乗り)
+
+(PU 、)
+
+(NPR 源水)
+
+(P-ROLE の)
+
+(N 独楽廻し)
+
+(P-CONN に)
+
+(PU 、)
+
+(N 覗きからくり)
+
+(P-OPTR など)
+
+(AX で)
+
+(PU 、)
+
+(ADV せいぜい)
+
+(NP-SBJ *T*)
+
+(VB 変っ)
+
+(AX た)
+
+(N 所)
+
+(P-ROLE が)
+
+(PU 、)
+
+(NPR お富士さま)
+
+(P-ROLE の)
+
+(N 作り物)
+
+(P-CONN に)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(NP-SBJ *arb*)
+
+(NP-OB1 *pro*)
+
+(N メーズ)
+
+(P-ROLE と)
+
+(VB 云って)
+
+(PU 、)
+
+(NPR 八陣隠れ杉)
+
+(AX の)
+
+(N 見世物)
+
+(P-OPTR 位)
+
+(AX で)
+
+(VB2 ござい)
+
+(AX まし)
+
+(AXD た)
+
+(P-CONN から)
+
+(P-FINAL ね)
+
+(PU 。)
+
+(ID 167_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *speaker*)
+
+(PRO そこ)
+
+(P-ROLE へ)
+
+(N あなた)
+
+(PU 、)
+
+(ADV ニョキニョキ)
+
+(P-ROLE と)
+
+(PU 、)
+
+(INTJ まあ)
+
+(NP-SBJ *T*)
+
+(ADJI 飛んでもない)
+
+(NP-SBJ *T*)
+
+(ADJI 高い)
+
+(NP-SBJ *T*)
+
+(N 煉瓦造り)
+
+(AX の)
+
+(N 塔)
+
+(P-ROLE が)
+
+(VB 出来)
+
+(AX ちまっ)
+
+(AXD た)
+
+(FN ん)
+
+(AX です)
+
+(P-CONN から)
+
+(PU 、)
+
+(VB 驚く)
+
+(AX じゃ)
+
+(VB2 ござんせ)
+
+(NEG ん)
+
+(P-FINAL か)
+
+(PU 。)
+
+(ID 168_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *arb*)
+
+(NP-SBJ *pro*)
+
+(NP-SBJ *arb*)
+
+(N 高さ)
+
+(P-ROLE が)
+
+(NUM 四十六)
+
+(CL 間)
+
+(AX *)
+
+(P-COMP と)
+
+(VB 申し)
+
+(AX ます)
+
+(P-CONN から)
+
+(PU 、)
+
+(N 半丁)
+
+(P-ROLE の)
+
+(N 余)
+
+(AX で)
+
+(PU 、)
+
+(N 八角型)
+
+(P-ROLE の)
+
+(N 頂上)
+
+(P-ROLE が)
+
+(PU 、)
+
+(N 唐人)
+
+(P-ROLE の)
+
+(N 帽子)
+
+(AX みたい)
+
+(AX に)
+
+(PU 、)
+
+(VB とんがっ)
+
+(P-CONN て)
+
+(VB2 い)
+
+(P-CONN て)
+
+(PU 、)
+
+(ADV ちょっと)
+
+(N 高台)
+
+(P-ROLE へ)
+
+(VB 昇り)
+
+(P-OPTR さえ)
+
+(VB2 すれ)
+
+(P-CONN ば)
+
+(PU 、)
+
+(N 東京中)
+
+(WPRO どこ)
+
+(P-ROLE から)
+
+(P-OPTR でも)
+
+(PU 、)
+
+(D その)
+
+(NP-SBJ *T*)
+
+(ADJI 赤い)
+
+(N お化)
+
+(P-ROLE が)
+
+(VB 見)
+
+(VB2 られ)
+
+(AXD た)
+
+(FN もの)
+
+(AX です)
+
+(PU 。)
+
+(ID 169_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *speaker*)
+
+(N 今)
+
+(P-OPTR も)
+
+(VB 申す)
+
+(N 通り)
+
+(PU 、)
+
+(NP-SBJ *exp*)
+
+(NPR 明治)
+
+(NUM 二十八)
+
+(CL 年)
+
+(P-ROLE の)
+
+(N 春)
+
+(PU 、)
+
+(N 兄)
+
+(P-ROLE が)
+
+(D この)
+
+(N 遠眼鏡)
+
+(P-ROLE を)
+
+(N 手)
+
+(P-ROLE に)
+
+(VB 入れ)
+
+(P-CONN て)
+
+(N 間)
+
+(P-OPTR も)
+
+(ADJI ない)
+
+(N 頃)
+
+(AX でし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 170_aozora_Edogawa-1929;JP)
+
+(N 兄)
+
+(P-ROLE の)
+
+(N 身)
+
+(P-ROLE に)
+
+(NP-SBJ *T*)
+
+(ADJN 妙)
+
+(AX な)
+
+(N こと)
+
+(P-ROLE が)
+
+(VB 起っ)
+
+(P-CONN て)
+
+(VB2 参り)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 171_aozora_Edogawa-1929;JP)
+
+(N 親爺)
+
+(P-OPTR なんぞ)
+
+(PU 、)
+
+(N 兄め)
+
+(N 気)
+
+(P-OPTR でも)
+
+(VB 違う)
+
+(FN の)
+
+(AX じゃ)
+
+(NEG ない)
+
+(P-FINAL か)
+
+(P-COMP って)
+
+(PU 、)
+
+(ADJI ひどく)
+
+(VB 心配)
+
+(VB0 し)
+
+(P-CONN て)
+
+(VB2 居り)
+
+(AX まし)
+
+(AXD た)
+
+(P-CONN が)
+
+(PU 、)
+
+(PRO 私)
+
+(P-OPTR も)
+
+(P-INTJ ね)
+
+(PU 、)
+
+(NP-SBJ *hearer*)
+
+(NP-OB1 *pro*)
+
+(VB お察し)
+
+(AX でしょう)
+
+(P-CONN が)
+
+(PU 、)
+
+(ADJN 馬鹿)
+
+(AX に)
+
+(N 兄思い)
+
+(AX でし)
+
+(P-CONN て)
+
+(P-INTJ ね)
+
+(PU 、)
+
+(N 兄)
+
+(P-ROLE の)
+
+(NP-SBJ *T*)
+
+(ADJN 変てこれん)
+
+(AX な)
+
+(N そぶり)
+
+(P-ROLE が)
+
+(PU 、)
+
+(ADJN 心配)
+
+(AX で)
+
+(ADJN 心配)
+
+(AX で)
+
+(VB たまら)
+
+(NEG なかっ)
+
+(AXD た)
+
+(FN もの)
+
+(AX です)
+
+(PU 。)
+
+(ID 172_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *speaker*)
+
+(NP-SBJ *pro*)
+
+(WD どんな)
+
+(N 風)
+
+(AX *)
+
+(P-FINAL か)
+
+(P-COMP と)
+
+(VB 申し)
+
+(AX ます)
+
+(P-CONN と)
+
+(PU 、)
+
+(N 兄)
+
+(P-OPTR は)
+
+(N ご飯)
+
+(P-OPTR も)
+
+(ADV ろくろく)
+
+(VB たべ)
+
+(NEG ない)
+
+(P-CONN で)
+
+(PU 、)
+
+(N 家内)
+
+(P-ROLE の)
+
+(N 者)
+
+(P-ROLE と)
+
+(P-OPTR も)
+
+(N 口)
+
+(P-ROLE を)
+
+(VB 利か)
+
+(NEG ず)
+
+(PU 、)
+
+(N 家)
+
+(P-ROLE に)
+
+(VB いる)
+
+(N 時)
+
+(P-OPTR は)
+
+(NUM 一)
+
+(CL 間)
+
+(P-ROLE に)
+
+(VB とじ籠っ)
+
+(P-CONN て)
+
+(N 考え事)
+
+(P-OPTR ばかり)
+
+(VB し)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(PU 。)
+
+(ID 173_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *pro*)
+
+(N 身体)
+
+(P-OPTR は)
+
+(VB 痩せ)
+
+(P-CONN て)
+
+(VB2 しまい)
+
+(PU 、)
+
+(N 顔)
+
+(P-OPTR は)
+
+(N 肺病やみ)
+
+(P-ROLE の)
+
+(N 様)
+
+(AX に)
+
+(N 土気色)
+
+(AX で)
+
+(PU 、)
+
+(N 目)
+
+(P-OPTR ばかり)
+
+(ADV ギョロギョロ)
+
+(VB さ)
+
+(VB2 せ)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(PU 。)
+
+(ID 174_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *pro*)
+
+(CONJ 尤も)
+
+(N 平常)
+
+(P-ROLE から)
+
+(NP-SBJ *T*)
+
+(N 顔色)
+
+(P-ROLE の)
+
+(ADJI いい)
+
+(N 方)
+
+(AX じゃあ)
+
+(VB2 ござんせ)
+
+(NEG ん)
+
+(AX でし)
+
+(AXD た)
+
+(P-CONN が)
+
+(P-FINAL ね)
+
+(PU 。)
+
+(ID 175_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *pro*)
+
+(PRO それ)
+
+(P-ROLE が)
+
+(ADV 一倍)
+
+(VB 青ざめ)
+
+(P-CONN て)
+
+(PU 、)
+
+(VB 沈ん)
+
+(P-CONN で)
+
+(VB2 いる)
+
+(FN の)
+
+(AX です)
+
+(P-CONN から)
+
+(PU 、)
+
+(ADJN 本当)
+
+(AX に)
+
+(ADJN 気の毒)
+
+(AX な)
+
+(N 様)
+
+(AX でし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 176_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *pro*)
+
+(D その)
+
+(N 癖)
+
+(P-INTJ ね)
+
+(PU 、)
+
+(ADJN そんな)
+
+(AX で)
+
+(VB2 い)
+
+(P-CONN て)
+
+(PU 、)
+
+(NP-OB1 *pro*)
+
+(Q 毎日)
+
+(VB 欠かさ)
+
+(NEG ず)
+
+(PU 、)
+
+(ADV まるで)
+
+(N 勤め)
+
+(P-ROLE に)
+
+(P-OPTR でも)
+
+(VB 出る)
+
+(N 様)
+
+(AX に)
+
+(PU 、)
+
+(N おひる)
+
+(P-ROLE ッから)
+
+(PU 、)
+
+(N 日暮れ時分)
+
+(P-ROLE まで)
+
+(PU 、)
+
+(ADV フラフラ)
+
+(P-ROLE と)
+
+(WPRO どっ)
+
+(P-OPTR か)
+
+(P-ROLE へ)
+
+(VB 出掛ける)
+
+(FN ん)
+
+(AX です)
+
+(PU 。)
+
+(ID 177_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *pro*)
+
+(NP-OB1 *pro*)
+
+(NP-SBJ *speaker*)
+
+(NP-SBJ *pro*)
+
+(WPRO どこ)
+
+(P-ROLE へ)
+
+(VB 行く)
+
+(FN の)
+
+(P-FINAL か)
+
+(P-COMP って)
+
+(PU 、)
+
+(VB 聞い)
+
+(P-CONN て)
+
+(VB2 見)
+
+(P-CONN て)
+
+(P-OPTR も)
+
+(PU 、)
+
+(ADV ちっとも)
+
+(VB 云い)
+
+(AX ませ)
+
+(NEG ん)
+
+(PU 。)
+
+(ID 178_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *pro*)
+
+(NP-OB1 *pro*)
+
+(N 母親)
+
+(P-ROLE が)
+
+(NP-OB1 *pro*)
+
+(VB 心配)
+
+(VB0 し)
+
+(P-CONN て)
+
+(PU 、)
+
+(N 兄)
+
+(P-ROLE の)
+
+(VB ふさい)
+
+(P-CONN で)
+
+(VB2 いる)
+
+(N 訳)
+
+(P-ROLE を)
+
+(PU 、)
+
+(N 手)
+
+(P-ROLE を)
+
+(VB 変え)
+
+(N 品)
+
+(P-ROLE を)
+
+(VB 変え)
+
+(VB 尋ね)
+
+(P-CONN て)
+
+(P-OPTR も)
+
+(PU 、)
+
+(ADV 少し)
+
+(P-OPTR も)
+
+(VB 打開け)
+
+(AX ませ)
+
+(NEG ん)
+
+(PU 。)
+
+(ID 179_aozora_Edogawa-1929;JP)
+
+(D そんな)
+
+(N こと)
+
+(P-ROLE が)
+
+(NUM 一)
+
+(CL 月)
+
+(P-OPTR 程)
+
+(P-OPTR も)
+
+(VB 続い)
+
+(AXD た)
+
+(FN の)
+
+(AX です)
+
+(P-FINAL よ)
+
+(PU 。)
+
+(ID 180_aozora_Edogawa-1929;JP)
+
+(NP-OB1 *pro*)
+
+(ADV あんまり)
+
+(ADJN 心配)
+
+(AX だ)
+
+(FN もの)
+
+(AX だ)
+
+(P-CONN から)
+
+(PU 、)
+
+(PRO 私)
+
+(P-OPTR は)
+
+(D ある)
+
+(N 日)
+
+(PU 、)
+
+(N 兄)
+
+(P-ROLE が)
+
+(ADV 一体)
+
+(WPRO どこ)
+
+(P-ROLE へ)
+
+(VB 出掛る)
+
+(FN の)
+
+(P-FINAL か)
+
+(P-COMP と)
+
+(PU 、)
+
+(ADV ソッと)
+
+(N あと)
+
+(P-ROLE を)
+
+(VB つけ)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 181_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *speaker*)
+
+(ADV そう)
+
+(VB する)
+
+(N 様)
+
+(P-ROLE に)
+
+(PU 、)
+
+(N 母親)
+
+(P-ROLE が)
+
+(PRO 私)
+
+(P-ROLE に)
+
+(VB 頼む)
+
+(FN もん)
+
+(AX です)
+
+(P-CONN から)
+
+(P-FINAL ね)
+
+(PU 。)
+
+(ID 182_aozora_Edogawa-1929;JP)
+
+(N 兄)
+
+(P-OPTR は)
+
+(D その)
+
+(N 日)
+
+(P-OPTR も)
+
+(PU 、)
+
+(ADV 丁度)
+
+(NP-SBJ *T*)
+
+(N 今日)
+
+(P-ROLE の)
+
+(N 様)
+
+(AX な)
+
+(NP-SBJ *T*)
+
+(ADV どんより)
+
+(P-ROLE と)
+
+(VB し)
+
+(AX た)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJN いや)
+
+(AX な)
+
+(N 日)
+
+(AX で)
+
+(VB2 ござんし)
+
+(AXD た)
+
+(P-CONN が)
+
+(PU 、)
+
+(N おひる過)
+
+(P-ROLE から)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(NP-CZZ *pro*)
+
+(D その)
+
+(N 頃)
+
+(NP-OB1 *T*)
+
+(N 兄)
+
+(P-ROLE の)
+
+(N 工風)
+
+(P-ROLE で)
+
+(VB 仕立て)
+
+(VB2 させ)
+
+(AXD た)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(N 当時)
+
+(P-ROLE として)
+
+(P-OPTR は)
+
+(ADV 飛び切り)
+
+(ADJN ハイカラ)
+
+(AX な)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(N 黒天鵞絨)
+
+(AX の)
+
+(N 洋服)
+
+(P-ROLE を)
+
+(VB 着)
+
+(AX まし)
+
+(P-CONN て)
+
+(P-INTJ ね)
+
+(PU 、)
+
+(D この)
+
+(N 遠眼鏡)
+
+(P-ROLE を)
+
+(N 肩)
+
+(P-ROLE から)
+
+(VB 下げ)
+
+(PU 、)
+
+(ADV ヒョロヒョロ)
+
+(P-ROLE と)
+
+(PU 、)
+
+(NPR 日本橋通り)
+
+(P-ROLE の)
+
+(PU 、)
+
+(N 馬車鉄道)
+
+(P-ROLE の)
+
+(N 方)
+
+(P-ROLE へ)
+
+(VB 歩い)
+
+(P-CONN て)
+
+(VB2 行く)
+
+(FN の)
+
+(AX です)
+
+(PU 。)
+
+(ID 183_aozora_Edogawa-1929;JP)
+
+(PRO 私)
+
+(P-OPTR は)
+
+(N 兄)
+
+(P-ROLE に)
+
+(VB 気どら)
+
+(PASS れ)
+
+(NEG ぬ)
+
+(N 様)
+
+(P-ROLE に)
+
+(PU 、)
+
+(VB つい)
+
+(P-CONN て)
+
+(VB2 行っ)
+
+(AXD た)
+
+(FN 訳)
+
+(AX です)
+
+(P-FINAL よ)
+
+(PU 。)
+
+(ID 184_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *pro*)
+
+(ADJI よ)
+
+(VB2 ござんす)
+
+(P-FINAL か)
+
+(PU 。)
+
+(ID 185_aozora_Edogawa-1929;JP)
+
+(CONJ しますとね)
+
+(PU 、)
+
+(N 兄)
+
+(P-OPTR は)
+
+(N 上野行き)
+
+(P-ROLE の)
+
+(N 馬車鉄道)
+
+(P-ROLE を)
+
+(VB 待ち合わせ)
+
+(P-CONN て)
+
+(PU 、)
+
+(ADV ひょいと)
+
+(PRO それ)
+
+(P-ROLE に)
+
+(VB 乗り込ん)
+
+(P-CONN で)
+
+(VB2 しまっ)
+
+(AXD た)
+
+(FN の)
+
+(AX です)
+
+(PU 。)
+
+(ID 186_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *speaker*)
+
+(NP-SBJ *pro*)
+
+(N 当今)
+
+(P-ROLE の)
+
+(N 電車)
+
+(P-ROLE と)
+
+(VB 違っ)
+
+(P-CONN て)
+
+(PU 、)
+
+(NP-SBJ *speaker*)
+
+(N 次)
+
+(P-ROLE の)
+
+(N 車)
+
+(P-ROLE に)
+
+(VB 乗っ)
+
+(P-CONN て)
+
+(N あと)
+
+(P-ROLE を)
+
+(VB つける)
+
+(P-COMP という)
+
+(N 訳)
+
+(P-ROLE に)
+
+(P-OPTR は)
+
+(VB 行き)
+
+(AX ませ)
+
+(NEG ん)
+
+(PU 。)
+
+(ID 187_aozora_Edogawa-1929;JP)
+
+(ADV 何しろ)
+
+(N 車台)
+
+(P-ROLE が)
+
+(ADJI 少の)
+
+(VB2 ござんす)
+
+(P-CONN から)
+
+(P-FINAL ね)
+
+(PU 。)
+
+(ID 188_aozora_Edogawa-1929;JP)
+
+(PRO 私)
+
+(P-OPTR は)
+
+(N 仕方)
+
+(P-ROLE が)
+
+(ADJI ない)
+
+(P-CONN ので)
+
+(NP-OB1 *T*)
+
+(NP-SBJ *speaker*)
+
+(N 母親)
+
+(P-ROLE に)
+
+(VB 貰っ)
+
+(AXD た)
+
+(N お小遣い)
+
+(P-ROLE を)
+
+(VB ふんぱつ)
+
+(VB0 し)
+
+(P-CONN て)
+
+(PU 、)
+
+(N 人力車)
+
+(P-ROLE に)
+
+(VB 乗り)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 189_aozora_Edogawa-1929;JP)
+
+(N 人力車)
+
+(P-OPTR だって)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(NP-SBJ *T*)
+
+(ADV 少し)
+
+(N 威勢)
+
+(P-ROLE の)
+
+(ADJI いい)
+
+(N 挽子)
+
+(AX なれ)
+
+(P-CONN ば)
+
+(N 馬車鉄道)
+
+(P-ROLE を)
+
+(VB 見失わ)
+
+(NEG ない)
+
+(N 様)
+
+(P-ROLE に)
+
+(PU 、)
+
+(N あと)
+
+(P-ROLE を)
+
+(VB つける)
+
+(P-OPTR なんぞ)
+
+(PU 、)
+
+(ADJI 訳なかっ)
+
+(AXD た)
+
+(FN もの)
+
+(AX で)
+
+(VB2 ござい)
+
+(AX ます)
+
+(P-FINAL よ)
+
+(PU 。)
+
+(ID 190_aozora_Edogawa-1929;JP)
+
+(N 兄)
+
+(P-ROLE が)
+
+(N 馬車鉄道)
+
+(P-ROLE を)
+
+(VB 降りる)
+
+(P-CONN と)
+
+(PU 、)
+
+(PRO 私)
+
+(P-OPTR も)
+
+(N 人力車)
+
+(P-ROLE を)
+
+(VB 降り)
+
+(P-CONN て)
+
+(PU 、)
+
+(CONJ 又)
+
+(ADV テクテク)
+
+(P-ROLE と)
+
+(N 跡)
+
+(P-ROLE を)
+
+(VB つける)
+
+(PU 。)
+
+(ID 191_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *speaker+pro*)
+
+(CONJ そうして)
+
+(PU 、)
+
+(VB 行き)
+
+(VB2 つい)
+
+(AXD た)
+
+(N 所)
+
+(P-ROLE が)
+
+(PU 、)
+
+(WADV なんと)
+
+(NPR 浅草)
+
+(P-ROLE の)
+
+(NPR 観音様)
+
+(AX じゃ)
+
+(VB2 ござい)
+
+(AX ませ)
+
+(NEG ん)
+
+(P-FINAL か)
+
+(PU 。)
+
+(ID 192_aozora_Edogawa-1929;JP)
+
+(N 兄)
+
+(P-OPTR は)
+
+(N 仲店)
+
+(P-ROLE から)
+
+(PU 、)
+
+(N お堂)
+
+(P-ROLE の)
+
+(N 前)
+
+(P-ROLE を)
+
+(VB 素通り)
+
+(VB0 し)
+
+(P-CONN て)
+
+(PU 、)
+
+(N お堂裏)
+
+(P-ROLE の)
+
+(N 見世物小屋)
+
+(P-ROLE の)
+
+(N 間)
+
+(P-ROLE を)
+
+(PU 、)
+
+(N 人波)
+
+(P-ROLE を)
+
+(VB かき分ける)
+
+(N 様)
+
+(AX に)
+
+(VB し)
+
+(P-CONN て)
+
+(NP-OB1 *T*)
+
+(NP-SBJ *speaker*)
+
+(N さっき)
+
+(VB 申上げ)
+
+(AXD た)
+
+(NPR 十二階)
+
+(P-ROLE の)
+
+(N 前)
+
+(P-ROLE まで)
+
+(VB 来)
+
+(AX ます)
+
+(P-CONN と)
+
+(PU 、)
+
+(N 石)
+
+(P-ROLE の)
+
+(N 門)
+
+(P-ROLE を)
+
+(VB 這入っ)
+
+(P-CONN て)
+
+(PU 、)
+
+(N お金)
+
+(P-ROLE を)
+
+(VB 払っ)
+
+(P-CONN て)
+
+(-LRB- 「)
+
+(NPR 凌雲閣)
+
+(-RRB- 」)
+
+(P-ROLE という)
+
+(N 額)
+
+(P-ROLE の)
+
+(VB 上っ)
+
+(AX た)
+
+(N 入口)
+
+(P-ROLE から)
+
+(PU 、)
+
+(N 塔)
+
+(P-ROLE の)
+
+(N 中)
+
+(P-ROLE へ)
+
+(N 姿)
+
+(P-ROLE を)
+
+(VB 消し)
+
+(AXD た)
+
+(AX じゃあ)
+
+(VB2 ござい)
+
+(AX ませ)
+
+(NEG ん)
+
+(P-FINAL か)
+
+(PU 。)
+
+(ID 193_aozora_Edogawa-1929;JP)
+
+(ADV まさか)
+
+(N 兄)
+
+(P-ROLE が)
+
+(D こんな)
+
+(N 所)
+
+(P-ROLE へ)
+
+(PU 、)
+
+(Q 毎日毎日)
+
+(VB 通っ)
+
+(P-CONN て)
+
+(VB2 い)
+
+(FN よう)
+
+(P-COMP と)
+
+(P-OPTR は)
+
+(PU 、)
+
+(N 夢)
+
+(P-ROLE に)
+
+(P-OPTR も)
+
+(VB 存じ)
+
+(AX ませ)
+
+(NEG ん)
+
+(P-CONN ので)
+
+(PU 、)
+
+(PRO 私)
+
+(P-OPTR は)
+
+(VB あきれ)
+
+(P-CONN て)
+
+(VB2 しまい)
+
+(AX まし)
+
+(AXD た)
+
+(P-FINAL よ)
+
+(PU 。)
+
+(ID 194_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *speaker*)
+
+(N 子供心)
+
+(P-ROLE に)
+
+(P-INTJ ね)
+
+(PU 、)
+
+(PRO 私)
+
+(P-OPTR は)
+
+(D その)
+
+(N 時)
+
+(ADV まだ)
+
+(NUM 二十)
+
+(AX に)
+
+(P-OPTR も)
+
+(VB なっ)
+
+(P-CONN て)
+
+(VB2 *い*)
+
+(AX ませ)
+
+(NEG ん)
+
+(AX でし)
+
+(AXD た)
+
+(P-CONN ので)
+
+(PU 、)
+
+(N 兄)
+
+(P-OPTR は)
+
+(D この)
+
+(NPR 十二階)
+
+(P-ROLE の)
+
+(N 化物)
+
+(P-ROLE に)
+
+(VB 魅入ら)
+
+(PASS れ)
+
+(AXD た)
+
+(FN ん)
+
+(AX じゃ)
+
+(NEG ない)
+
+(P-FINAL か)
+
+(P-OPTR なんて)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJN 変)
+
+(AX な)
+
+(N こと)
+
+(PRN *ICH*-1)
+
+(P-ROLE を)
+
+(VB 考え)
+
+(AXD た)
+
+(FN もの)
+
+(AX です)
+
+(P-FINAL よ)
+
+(PU 。)
+
+(ID 195_aozora_Edogawa-1929;JP)
+
+(NP-OB1 *pro*)
+
+(PRO 私)
+
+(P-OPTR は)
+
+(NP-SBJ *speaker*)
+
+(NPR 十二階)
+
+(P-ROLE へ)
+
+(P-OPTR は)
+
+(PU 、)
+
+(N 父親)
+
+(P-ROLE に)
+
+(VB つれ)
+
+(PASS られ)
+
+(P-CONN て)
+
+(PU 、)
+
+(NUM 一)
+
+(CL 度)
+
+(VB 昇っ)
+
+(AXD た)
+
+(P-OPTR 切り)
+
+(AX で)
+
+(PU 、)
+
+(D その)
+
+(N 後)
+
+(VB 行っ)
+
+(AXD た)
+
+(N こと)
+
+(P-ROLE が)
+
+(VB あり)
+
+(AX ませ)
+
+(NEG ん)
+
+(P-CONN ので)
+
+(PU 、)
+
+(ADV 何だか)
+
+(N 気味)
+
+(P-ROLE が)
+
+(ADJI 悪い)
+
+(N 様)
+
+(AX に)
+
+(VB 思い)
+
+(AX まし)
+
+(AXD た)
+
+(P-CONN が)
+
+(PU 、)
+
+(N 兄)
+
+(P-ROLE が)
+
+(VB 昇っ)
+
+(P-CONN て)
+
+(VB2 行く)
+
+(FN もの)
+
+(AX です)
+
+(P-CONN から)
+
+(PU 、)
+
+(N 仕方)
+
+(P-ROLE が)
+
+(ADJI ない)
+
+(P-CONN ので)
+
+(PU 、)
+
+(PRO 私)
+
+(P-OPTR も)
+
+(PU 、)
+
+(NUM 一)
+
+(CL 階)
+
+(P-OPTR 位)
+
+(VB おくれ)
+
+(P-CONN て)
+
+(PU 、)
+
+(D あの)
+
+(NP-SBJ *T*)
+
+(ADJI 薄暗い)
+
+(N 石)
+
+(P-ROLE の)
+
+(N 段々)
+
+(P-ROLE を)
+
+(VB 昇っ)
+
+(P-CONN て)
+
+(VB2 行き)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 196_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *pro*)
+
+(N 窓)
+
+(P-OPTR も)
+
+(ADJI 大きく)
+
+(VB2 ござい)
+
+(AX ませ)
+
+(NEG ん)
+
+(P-CONN し)
+
+(PU 、)
+
+(N 煉瓦)
+
+(P-ROLE の)
+
+(N 壁)
+
+(P-ROLE が)
+
+(ADJI 厚う)
+
+(VB2 ござんす)
+
+(P-CONN ので)
+
+(PU 、)
+
+(N 穴蔵)
+
+(P-ROLE の)
+
+(N 様)
+
+(P-ROLE に)
+
+(ADV 冷々)
+
+(P-ROLE と)
+
+(VB 致し)
+
+(AX まし)
+
+(P-CONN て)
+
+(P-FINAL ね)
+
+(PU 。)
+
+(ID 197_aozora_Edogawa-1929;JP)
+
+(PRO それ)
+
+(P-ROLE に)
+
+(NP-SBJ *exp*)
+
+(NPR 日清戦争)
+
+(P-ROLE の)
+
+(N 当時)
+
+(AX です)
+
+(P-CONN から)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(D その)
+
+(N 頃)
+
+(P-OPTR は)
+
+(ADJI 珍らしかっ)
+
+(AXD た)
+
+(PU 、)
+
+(N 戦争)
+
+(P-ROLE の)
+
+(N 油絵)
+
+(P-ROLE が)
+
+(PU 、)
+
+(N 一方)
+
+(P-ROLE の)
+
+(N 壁)
+
+(P-ROLE に)
+
+(ADV ずっと)
+
+(VB 懸け並べ)
+
+(P-CONN て)
+
+(PASS *)
+
+(VB2 あり)
+
+(AX ます)
+
+(PU 。)
+
+(ID 198_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *T*)
+
+(NP-SBJ *T*)
+
+(ADV まるで)
+
+(N 狼)
+
+(AX みたい)
+
+(AX な)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJI おっそろしい)
+
+(N 顔)
+
+(P-ROLE を)
+
+(VB し)
+
+(P-CONN て)
+
+(PU 、)
+
+(VB 吠え)
+
+(P-CONN ながら)
+
+(PU 、)
+
+(VB 突貫)
+
+(VB0 し)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(N 日本兵)
+
+(P-CONN や)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(N 剣つき鉄砲)
+
+(P-ROLE に)
+
+(N 脇腹)
+
+(P-ROLE を)
+
+(VB えぐら)
+
+(PASS れ)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(VB ふき出す)
+
+(N 血のり)
+
+(P-ROLE を)
+
+(Q 両手)
+
+(P-ROLE で)
+
+(VB 押さえ)
+
+(P-CONN て)
+
+(PU 、)
+
+(N 顔)
+
+(P-CONN や)
+
+(N 唇)
+
+(P-ROLE を)
+
+(N 紫色)
+
+(AX に)
+
+(VB し)
+
+(P-CONN て)
+
+(VB もがい)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(N 支那兵)
+
+(P-CONN や)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(VB ちょんぎら)
+
+(PASS れ)
+
+(AX た)
+
+(NP-SBJ *T*)
+
+(N 辮髪)
+
+(AX の)
+
+(N 頭)
+
+(P-ROLE が)
+
+(PU 、)
+
+(N 風船玉)
+
+(P-ROLE の)
+
+(N 様)
+
+(AX に)
+
+(ADJI 空高く)
+
+(VB 飛上っ)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(N 所)
+
+(P-CONN や)
+
+(PU 、)
+
+(NP-SBJ *arb*)
+
+(WPRO 何)
+
+(P-ROLE と)
+
+(P-OPTR も)
+
+(VB 云え)
+
+(NEG ない)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJI 毒々しい)
+
+(NP-SBJ *T*)
+
+(ADJN 血みどろ)
+
+(AX の)
+
+(N 油絵)
+
+(P-ROLE が)
+
+(PU 、)
+
+(N 窓)
+
+(P-ROLE から)
+
+(P-ROLE の)
+
+(NP-SBJ *T*)
+
+(ADJI 薄暗い)
+
+(N 光線)
+
+(P-ROLE で)
+
+(PU 、)
+
+(ADV テラテラ)
+
+(P-ROLE と)
+
+(VB 光っ)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(FN の)
+
+(AX で)
+
+(VB2 ござい)
+
+(AX ます)
+
+(P-FINAL よ)
+
+(PU 。)
+
+(ID 199_aozora_Edogawa-1929;JP)
+
+(D その)
+
+(N 間)
+
+(P-ROLE を)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJN 陰気)
+
+(AX な)
+
+(N 石)
+
+(P-ROLE の)
+
+(N 段々)
+
+(P-ROLE が)
+
+(PU 、)
+
+(N 蝸牛)
+
+(P-ROLE の)
+
+(N 殻)
+
+(AX みたい)
+
+(AX に)
+
+(PU 、)
+
+(N 上)
+
+(P-ROLE へ)
+
+(N 上)
+
+(P-ROLE へ)
+
+(P-ROLE と)
+
+(N 際限)
+
+(P-OPTR も)
+
+(ADJI なく)
+
+(VB 続い)
+
+(P-CONN て)
+
+(VB2 居り)
+
+(AX ます)
+
+(PU 。)
+
+(ID 200_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *speaker*)
+
+(NP-SBJ *pro*)
+
+(ADJN 本当)
+
+(AX に)
+
+(ADJN 変てこれん)
+
+(AX な)
+
+(N 気持ち)
+
+(AX でし)
+
+(AXD た)
+
+(P-FINAL よ)
+
+(PU 。)
+
+(ID 201_aozora_Edogawa-1929;JP)
+
+(N 頂上)
+
+(P-OPTR は)
+
+(N 八角形)
+
+(P-ROLE の)
+
+(N 欄干)
+
+(P-OPTR 丈け)
+
+(AX で)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(N 壁)
+
+(P-ROLE の)
+
+(ADJI ない)
+
+(PU 、)
+
+(N 見晴らし)
+
+(P-ROLE の)
+
+(N 廊下)
+
+(AX に)
+
+(VB なっ)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AX まし)
+
+(P-CONN て)
+
+(P-INTJ ね)
+
+(PU 、)
+
+(NP-SBJ *exp*)
+
+(NP-SBJ *speaker*)
+
+(PRO そこ)
+
+(P-ROLE へ)
+
+(VB たどりつく)
+
+(P-CONN と)
+
+(PU 、)
+
+(ADJN 俄)
+
+(AX に)
+
+(ADV パッと)
+
+(ADJI 明るく)
+
+(VB なっ)
+
+(P-CONN て)
+
+(PU 、)
+
+(NP-SBJ *speaker*)
+
+(N 今)
+
+(P-ROLE まで)
+
+(P-ROLE の)
+
+(NP-SBJ *T*)
+
+(ADJI 薄暗い)
+
+(N 道中)
+
+(P-ROLE が)
+
+(ADJI 長う)
+
+(VB2 ござんし)
+
+(AXD た)
+
+(P-CONN だけに)
+
+(PU 、)
+
+(ADV びっくり)
+
+(VB し)
+
+(P-CONN て)
+
+(VB2 しまい)
+
+(AX ます)
+
+(PU 。)
+
+(ID 202_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *speaker*)
+
+(N 雲)
+
+(P-ROLE が)
+
+(NP *T*)
+
+(P-ROLE *に*)
+
+(N 手)
+
+(P-ROLE の)
+
+(VB 届き)
+
+(AX そう)
+
+(AX な)
+
+(NP-SBJ *T*)
+
+(ADJI 低い)
+
+(N 所)
+
+(P-ROLE に)
+
+(VB あっ)
+
+(P-CONN て)
+
+(PU 、)
+
+(VB 見渡す)
+
+(P-CONN と)
+
+(PU 、)
+
+(N 東京中)
+
+(P-ROLE の)
+
+(N 屋根)
+
+(P-ROLE が)
+
+(N ごみ)
+
+(AX みたい)
+
+(AX に)
+
+(PU 、)
+
+(ADV ゴチャゴチャ)
+
+(VB し)
+
+(P-CONN て)
+
+(VB2 い)
+
+(P-CONN て)
+
+(PU 、)
+
+(NPR 品川)
+
+(P-ROLE の)
+
+(N 御台場)
+
+(P-ROLE が)
+
+(PU 、)
+
+(N 盆石)
+
+(P-ROLE の)
+
+(N 様)
+
+(AX に)
+
+(VB 見え)
+
+(P-CONN て)
+
+(VB2 居り)
+
+(AX ます)
+
+(PU 。)
+
+(ID 203_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *speaker*)
+
+(NP-SBJ *speaker*)
+
+(N 目まい)
+
+(P-ROLE が)
+
+(VB し)
+
+(AX そう)
+
+(AX な)
+
+(N の)
+
+(P-ROLE を)
+
+(VB 我慢)
+
+(VB0 し)
+
+(P-CONN て)
+
+(PU 、)
+
+(N 下)
+
+(P-ROLE を)
+
+(VB 覗き)
+
+(AX ます)
+
+(P-CONN と)
+
+(PU 、)
+
+(NPR 観音様)
+
+(P-ROLE の)
+
+(N 御堂)
+
+(P-OPTR だって)
+
+(NP-SBJ *T*)
+
+(ADV ずっと)
+
+(ADJI 低い)
+
+(N 所)
+
+(P-ROLE に)
+
+(VB あり)
+
+(AX ます)
+
+(P-CONN し)
+
+(PU 、)
+
+(N 小屋掛け)
+
+(P-ROLE の)
+
+(N 見世物)
+
+(P-ROLE が)
+
+(PU 、)
+
+(N おもちゃ)
+
+(P-ROLE の)
+
+(N 様)
+
+(AX で)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(VB 歩い)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(N 人間)
+
+(P-ROLE が)
+
+(PU 、)
+
+(N 頭)
+
+(P-CONN と)
+
+(N 足)
+
+(P-OPTR ばかり)
+
+(AX に)
+
+(VB 見える)
+
+(FN の)
+
+(AX です)
+
+(PU 。)
+
+(ID 204_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *pro*)
+
+(N 頂上)
+
+(P-ROLE に)
+
+(P-OPTR は)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(NUM 十)
+
+(CL 人)
+
+(N 余り)
+
+(AX の)
+
+(N 見物)
+
+(P-ROLE が)
+
+(NUM 一)
+
+(CL かたまり)
+
+(AX に)
+
+(VB なっ)
+
+(P-CONN て)
+
+(NP-SBJ *T*)
+
+(ADJI おっかな)
+
+(AX 相)
+
+(AX な)
+
+(N 顔)
+
+(P-ROLE を)
+
+(VB し)
+
+(P-CONN て)
+
+(PU 、)
+
+(ADV ボソボソ)
+
+(N 小声)
+
+(P-ROLE で)
+
+(VB 囁き)
+
+(P-CONN ながら)
+
+(PU 、)
+
+(NPR 品川)
+
+(P-ROLE の)
+
+(N 海)
+
+(P-ROLE の)
+
+(N 方)
+
+(P-ROLE を)
+
+(VB 眺め)
+
+(P-CONN て)
+
+(VB2 居り)
+
+(AX まし)
+
+(AXD た)
+
+(P-CONN が)
+
+(PU 、)
+
+(NP-SBJ *speaker*)
+
+(N 兄)
+
+(P-OPTR は)
+
+(P-ROLE と)
+
+(VB 見る)
+
+(P-CONN と)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(PRO それ)
+
+(P-ROLE と)
+
+(P-OPTR は)
+
+(VB 離れ)
+
+(AX た)
+
+(N 場所)
+
+(P-ROLE に)
+
+(PU 、)
+
+(N 一人ぼっち)
+
+(AX で)
+
+(PU 、)
+
+(N 遠眼鏡)
+
+(P-ROLE を)
+
+(N 目)
+
+(P-ROLE に)
+
+(VB 当て)
+
+(P-CONN て)
+
+(PU 、)
+
+(ADV しきりと)
+
+(NPR 浅草)
+
+(P-ROLE の)
+
+(N 境内)
+
+(P-ROLE を)
+
+(VB 眺め廻し)
+
+(P-CONN て)
+
+(VB2 居り)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 205_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *speaker*)
+
+(PRO それ)
+
+(P-ROLE を)
+
+(N うしろ)
+
+(P-ROLE から)
+
+(VB 見)
+
+(AX ます)
+
+(P-CONN と)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJI 白っぽく)
+
+(ADV どんよりどんより)
+
+(P-ROLE と)
+
+(VB し)
+
+(AX た)
+
+(N 雲)
+
+(P-OPTR ばかり)
+
+(P-ROLE の)
+
+(N 中)
+
+(P-ROLE に)
+
+(PU 、)
+
+(N 兄)
+
+(P-ROLE の)
+
+(NP-SBJ *T*)
+
+(N 天鵞絨)
+
+(AX の)
+
+(N 洋服姿)
+
+(P-ROLE が)
+
+(PU 、)
+
+(ADV クッキリ)
+
+(P-ROLE と)
+
+(VB 浮上っ)
+
+(P-CONN て)
+
+(PU 、)
+
+(N 下)
+
+(P-ROLE の)
+
+(N 方)
+
+(P-ROLE の)
+
+(NP-SBJ *T*)
+
+(ADV ゴチャゴチャ)
+
+(VB し)
+
+(AX た)
+
+(N もの)
+
+(P-ROLE が)
+
+(WPRO 何)
+
+(P-OPTR も)
+
+(VB 見え)
+
+(NEG ぬ)
+
+(FN もの)
+
+(AX です)
+
+(P-CONN から)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(N 兄)
+
+(AX だ)
+
+(P-COMP という)
+
+(N こと)
+
+(P-OPTR は)
+
+(VB 分っ)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AX まし)
+
+(P-CONN て)
+
+(P-OPTR も)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(ADV 何だか)
+
+(N 西洋)
+
+(P-ROLE の)
+
+(N 油絵)
+
+(P-ROLE の)
+
+(N 中)
+
+(P-ROLE の)
+
+(N 人物)
+
+(AX みたい)
+
+(AX な)
+
+(N 気持)
+
+(P-ROLE が)
+
+(VB し)
+
+(P-CONN て)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(NP-SBJ *T*)
+
+(ADJI 神々しい)
+
+(N 様)
+
+(AX で)
+
+(PU 、)
+
+(N 言葉)
+
+(P-ROLE を)
+
+(VB かける)
+
+(N の)
+
+(P-OPTR も)
+
+(VB 憚ら)
+
+(VB2 れ)
+
+(AXD た)
+
+(P-OPTR 程)
+
+(AX で)
+
+(VB2 ござい)
+
+(AX まし)
+
+(AXD た)
+
+(P-FINAL っけ)
+
+(PU 。)
+
+(ID 206_aozora_Edogawa-1929;JP)
+
+(CONJ でも)
+
+(PU 、)
+
+(N 母)
+
+(P-ROLE の)
+
+(N 云いつけ)
+
+(P-ROLE を)
+
+(VB 思い出し)
+
+(AX ます)
+
+(P-CONN と)
+
+(PU 、)
+
+(ADV そう)
+
+(P-OPTR も)
+
+(VB し)
+
+(P-CONN て)
+
+(VB2 い)
+
+(VB2 られ)
+
+(AX ませ)
+
+(NEG ん)
+
+(P-CONN ので)
+
+(PU 、)
+
+(PRO 私)
+
+(P-OPTR は)
+
+(N 兄)
+
+(P-ROLE の)
+
+(N うしろ)
+
+(P-ROLE に)
+
+(VB 近づい)
+
+(P-CONN て)
+
+(-LRB- 『)
+
+(NP-SBJ *hearer*)
+
+(N 兄さん)
+
+(WPRO 何)
+
+(P-ROLE を)
+
+(VB 見)
+
+(P-CONN て)
+
+(VB2 いらっしゃい)
+
+(AX ます)
+
+(-RRB- 』)
+
+(P-COMP と)
+
+(N 声)
+
+(PRN *ICH*-1)
+
+(P-ROLE を)
+
+(VB かけ)
+
+(AXD た)
+
+(FN の)
+
+(AX で)
+
+(VB2 ござい)
+
+(AX ます)
+
+(PU 。)
+
+(ID 207_aozora_Edogawa-1929;JP)
+
+(N 兄)
+
+(P-OPTR は)
+
+(ADV ビクッと)
+
+(VB し)
+
+(P-CONN て)
+
+(PU 、)
+
+(VB 振向き)
+
+(AX まし)
+
+(AXD た)
+
+(P-CONN が)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJI 気拙い)
+
+(N 顔)
+
+(P-ROLE を)
+
+(VB し)
+
+(P-CONN て)
+
+(WPRO 何)
+
+(P-OPTR も)
+
+(VB 云い)
+
+(AX ませ)
+
+(NEG ん)
+
+(PU 。)
+
+(ID 208_aozora_Edogawa-1929;JP)
+
+(PRO 私)
+
+(P-OPTR は)
+
+(-LRB- 『)
+
+(N 兄さん)
+
+(P-ROLE の)
+
+(N 此頃)
+
+(P-ROLE の)
+
+(N 御様子)
+
+(P-ROLE に)
+
+(P-OPTR は)
+
+(PU 、)
+
+(N 御父さん)
+
+(P-CONN も)
+
+(N お母さん)
+
+(P-CONN も)
+
+(ADV 大変)
+
+(VB 心配)
+
+(VB0 し)
+
+(P-CONN て)
+
+(VB2 いらっしゃい)
+
+(AX ます)
+
+(PU 。)
+
+(Q 毎日毎日)
+
+(NP-SBJ *speaker*)
+
+(NP-SBJ *hearer*)
+
+(WPRO どこ)
+
+(P-ROLE へ)
+
+(VB 御出掛)
+
+(VB0 なさる)
+
+(FN の)
+
+(P-FINAL か)
+
+(P-COMP と)
+
+(ADJN 不思議)
+
+(AX に)
+
+(VB 思っ)
+
+(P-CONN て)
+
+(VB2 居り)
+
+(AX まし)
+
+(P-CONN たら)
+
+(PU 、)
+
+(N 兄さん)
+
+(P-OPTR は)
+
+(D こんな)
+
+(N 所)
+
+(P-ROLE へ)
+
+(VB 来)
+
+(P-CONN て)
+
+(VB2 いらしっ)
+
+(AXD た)
+
+(FN の)
+
+(AX で)
+
+(VB2 ござい)
+
+(AX ます)
+
+(P-FINAL ね)
+
+(PU 。)
+
+(NP-SBJ *hearer*)
+
+(ADV どうか)
+
+(D その)
+
+(N 訳)
+
+(P-ROLE を)
+
+(VB 云っ)
+
+(P-CONN て)
+
+(VB2 下さい)
+
+(AX まし)
+
+(PU 。)
+
+(NP-SBJ *hearer*)
+
+(NP-OB1 *pro*)
+
+(NP-SBJ *T*)
+
+(N 日頃)
+
+(N 仲よし)
+
+(AX の)
+
+(PRO 私)
+
+(P-ROLE に)
+
+(P-OPTR 丈け)
+
+(P-OPTR でも)
+
+(VB 打開け)
+
+(P-CONN て)
+
+(VB2 下さい)
+
+(AX まし)
+
+(-RRB- 』)
+
+(P-COMP と)
+
+(PU 、)
+
+(N 近く)
+
+(P-ROLE に)
+
+(N 人)
+
+(P-ROLE の)
+
+(VB い)
+
+(NEG ない)
+
+(N の)
+
+(P-ROLE を)
+
+(N 幸い)
+
+(AX に)
+
+(PU 、)
+
+(D その)
+
+(N 塔)
+
+(P-ROLE の)
+
+(N 上)
+
+(P-ROLE で)
+
+(PU 、)
+
+(N 兄)
+
+(P-ROLE を)
+
+(VB かき口説い)
+
+(AXD た)
+
+(FN もの)
+
+(AX です)
+
+(P-FINAL よ)
+
+(PU 。)
+
+(ID 209_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *pro*)
+
+(NP-OB1 *pro*)
+
+(ADV 仲々)
+
+(VB 打開け)
+
+(AX ませ)
+
+(NEG ん)
+
+(AX でし)
+
+(AXD た)
+
+(P-CONN が)
+
+(PU 、)
+
+(NP-OB1 *pro*)
+
+(PRO 私)
+
+(P-ROLE が)
+
+(VB 繰返し)
+
+(VB 繰返し)
+
+(VB 頼む)
+
+(FN もの)
+
+(AX です)
+
+(P-CONN から)
+
+(PU 、)
+
+(N 兄)
+
+(P-OPTR も)
+
+(NP-SBJ *speaker*)
+
+(NP-SBJ *pro*)
+
+(N 根負け)
+
+(P-ROLE を)
+
+(VB し)
+
+(AXD た)
+
+(P-COMP と)
+
+(VB 見え)
+
+(AX まし)
+
+(P-CONN て)
+
+(PU 、)
+
+(ADV とうとう)
+
+(NP-SBJ *T*)
+
+(NUM 一)
+
+(CL ヶ月来)
+
+(AX の)
+
+(N 胸)
+
+(P-ROLE の)
+
+(N 秘密)
+
+(P-ROLE を)
+
+(PRO 私)
+
+(P-ROLE に)
+
+(VB 話し)
+
+(P-CONN て)
+
+(VB2 くれ)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 210_aozora_Edogawa-1929;JP)
+
+(CONJ ところが)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(D その)
+
+(N 兄)
+
+(P-ROLE の)
+
+(N 煩悶)
+
+(P-ROLE の)
+
+(N 原因)
+
+(P-ROLE と)
+
+(VB 申す)
+
+(N もの)
+
+(P-ROLE が)
+
+(PU 、)
+
+(PRO これ)
+
+(P-ROLE が)
+
+(ADV 又)
+
+(NP-SBJ *T*)
+
+(ADJN 誠)
+
+(AX に)
+
+(ADJN 変てこれん)
+
+(AX な)
+
+(N 事柄)
+
+(AX だっ)
+
+(AXD た)
+
+(FN の)
+
+(AX で)
+
+(VB2 ござい)
+
+(AX ます)
+
+(P-FINAL よ)
+
+(PU 。)
+
+(ID 211_aozora_Edogawa-1929;JP)
+
+(N 兄)
+
+(P-ROLE が)
+
+(VB 申し)
+
+(AX ます)
+
+(P-CONN に)
+
+(P-OPTR は)
+
+(PU 、)
+
+(NUM 一)
+
+(CL 月)
+
+(P-OPTR ばかり)
+
+(N 前)
+
+(P-ROLE に)
+
+(PU 、)
+
+(NPR 十二階)
+
+(P-ROLE へ)
+
+(VB 昇り)
+
+(AX まし)
+
+(P-CONN て)
+
+(PU 、)
+
+(D この)
+
+(N 遠眼鏡)
+
+(P-ROLE で)
+
+(NPR 観音様)
+
+(P-ROLE の)
+
+(N 境内)
+
+(P-ROLE を)
+
+(VB 眺め)
+
+(P-CONN て)
+
+(VB2 居り)
+
+(AX まし)
+
+(AXD た)
+
+(N 時)
+
+(PU 、)
+
+(N 人込み)
+
+(P-ROLE の)
+
+(N 間)
+
+(P-ROLE に)
+
+(PU 、)
+
+(ADV チラッと)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(NUM 一人)
+
+(AX の)
+
+(N 娘)
+
+(P-ROLE の)
+
+(N 顔)
+
+(P-ROLE を)
+
+(VB 見)
+
+(AXD た)
+
+(FN の)
+
+(AX だ)
+
+(FN 相)
+
+(AX で)
+
+(VB2 ござい)
+
+(AX ます)
+
+(PU 。)
+
+(ID 212_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *pro*)
+
+(D その)
+
+(N 娘)
+
+(P-ROLE が)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(PRO それ)
+
+(P-OPTR は)
+
+(INTJ もう)
+
+(WPRO 何)
+
+(P-ROLE と)
+
+(P-OPTR も)
+
+(VB 云え)
+
+(NEG ない)
+
+(PU 、)
+
+(NP-OB1 *T*)
+
+(NP-SBJ *pro*)
+
+(N この世)
+
+(P-ROLE の)
+
+(N もの)
+
+(P-ROLE と)
+
+(P-OPTR も)
+
+(VB 思え)
+
+(NEG ない)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJI 美しい)
+
+(N 人)
+
+(AX で)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(N 日頃)
+
+(N 女)
+
+(P-ROLE に)
+
+(P-OPTR は)
+
+(ADV 一向)
+
+(ADJN 冷淡)
+
+(AX で)
+
+(VB2 あっ)
+
+(AXD た)
+
+(N 兄)
+
+(P-OPTR も)
+
+(PU 、)
+
+(D その)
+
+(N 遠眼鏡)
+
+(P-ROLE の)
+
+(N 中)
+
+(P-ROLE の)
+
+(N 娘)
+
+(P-OPTR 丈け)
+
+(P-ROLE に)
+
+(P-OPTR は)
+
+(PU 、)
+
+(ADV ゾッと)
+
+(N 寒気)
+
+(P-ROLE が)
+
+(VB し)
+
+(AXD た)
+
+(P-OPTR 程)
+
+(P-OPTR も)
+
+(PU 、)
+
+(ADV すっかり)
+
+(N 心)
+
+(P-ROLE を)
+
+(VB 乱さ)
+
+(PASS2 れ)
+
+(P-CONN て)
+
+(VB2 しまっ)
+
+(AXD た)
+
+(P-COMP と)
+
+(VB 申し)
+
+(AX ます)
+
+(P-FINAL よ)
+
+(PU 。)
+
+(ID 213_aozora_Edogawa-1929;JP)
+
+(D その)
+
+(N 時)
+
+(N 兄)
+
+(P-OPTR は)
+
+(PU 、)
+
+(NP-OB1 *pro*)
+
+(ADV 一目)
+
+(VB 見)
+
+(AXD た)
+
+(P-OPTR 丈け)
+
+(P-ROLE で)
+
+(PU 、)
+
+(ADV びっくり)
+
+(VB し)
+
+(P-CONN て)
+
+(PU 、)
+
+(N 遠眼鏡)
+
+(P-ROLE を)
+
+(VB はずし)
+
+(P-CONN て)
+
+(VB2 しまっ)
+
+(AXD た)
+
+(FN もの)
+
+(AX です)
+
+(P-CONN から)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(NP-OB1 *pro*)
+
+(ADV もう)
+
+(NUM 一)
+
+(CL 度)
+
+(VB 見)
+
+(INFR よう)
+
+(P-COMP と)
+
+(VB 思っ)
+
+(P-CONN て)
+
+(PU 、)
+
+(IP-ADV-SCON *ICH*-1)
+
+(NP-SBJ *T*)
+
+(ADJN 同じ)
+
+(AX *)
+
+(N 見当)
+
+(P-ROLE を)
+
+(ADJN 夢中)
+
+(AX に)
+
+(VB なっ)
+
+(P-CONN て)
+
+(VB 探し)
+
+(AXD た)
+
+(AX 相)
+
+(AX です)
+
+(P-CONN が)
+
+(PU 、)
+
+(N 眼鏡)
+
+(P-ROLE の)
+
+(N 先)
+
+(P-ROLE が)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(WADV どう)
+
+(VB し)
+
+(P-CONN て)
+
+(P-OPTR も)
+
+(D その)
+
+(N 娘)
+
+(P-ROLE の)
+
+(N 顔)
+
+(P-ROLE に)
+
+(VB ぶっつかり)
+
+(AX ませ)
+
+(NEG ん)
+
+(PU 。)
+
+(ID 214_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *pro*)
+
+(NP-SBJ *pro*)
+
+(NP-OB1 *pro*)
+
+(N 遠眼鏡)
+
+(P-ROLE で)
+
+(P-OPTR は)
+
+(N 近く)
+
+(AX に)
+
+(VB 見え)
+
+(P-CONN て)
+
+(P-OPTR も)
+
+(N 実際)
+
+(P-OPTR は)
+
+(N 遠方)
+
+(P-ROLE の)
+
+(N こと)
+
+(AX です)
+
+(P-CONN し)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(Q 沢山)
+
+(AX の)
+
+(N 人混み)
+
+(P-ROLE の)
+
+(N 中)
+
+(AX です)
+
+(P-CONN から)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(NP-OB1 *pro*)
+
+(NUM 一)
+
+(CL 度)
+
+(VB 見え)
+
+(AXD た)
+
+(P-CONN からと云って)
+
+(PU 、)
+
+(NUM 二)
+
+(CL 度目)
+
+(P-ROLE に)
+
+(VB 探し出せる)
+
+(P-COMP と)
+
+(VB 極まっ)
+
+(AXD た)
+
+(FN もの)
+
+(AX で)
+
+(P-OPTR は)
+
+(VB2 ござい)
+
+(AX ませ)
+
+(NEG ん)
+
+(P-CONN から)
+
+(P-FINAL ね)
+
+(PU 。)
+
+(ID 215_aozora_Edogawa-1929;JP)
+
+(CONJ それからと申すもの)
+
+(PU 、)
+
+(N 兄)
+
+(P-OPTR は)
+
+(D この)
+
+(N 眼鏡)
+
+(P-ROLE の)
+
+(N 中)
+
+(P-ROLE の)
+
+(NP-SBJ *T*)
+
+(ADJI 美しい)
+
+(N 娘)
+
+(P-ROLE が)
+
+(VB 忘れ)
+
+(VB2 られ)
+
+(NEG ず)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADV 極々)
+
+(ADJN 内気)
+
+(AX な)
+
+(N ひと)
+
+(AX でし)
+
+(AXD た)
+
+(P-CONN から)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJN 古風)
+
+(AX な)
+
+(N 恋わずらい)
+
+(P-ROLE を)
+
+(VB わずらい)
+
+(VB2 始め)
+
+(AXD た)
+
+(FN の)
+
+(AX で)
+
+(VB2 ござい)
+
+(AX ます)
+
+(PU 。)
+
+(ID 216_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *pro*)
+
+(N 今)
+
+(P-ROLE の)
+
+(N お人)
+
+(P-OPTR は)
+
+(VB お笑い)
+
+(VB0 なさる)
+
+(P-OPTR かも)
+
+(VB 知れ)
+
+(AX ませ)
+
+(NEG ん)
+
+(P-CONN が)
+
+(PU 、)
+
+(D その)
+
+(N 頃)
+
+(P-ROLE の)
+
+(N 人間)
+
+(P-OPTR は)
+
+(PU 、)
+
+(ADJN 誠)
+
+(AX に)
+
+(ADV おっとり)
+
+(VB し)
+
+(AXD た)
+
+(FN もの)
+
+(AX でし)
+
+(P-CONN て)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(NP-OB1 *T*)
+
+(NP-SBJ *pro*)
+
+(N 行きずり)
+
+(P-ROLE に)
+
+(ADV 一目)
+
+(VB 見)
+
+(AXD た)
+
+(N 女)
+
+(P-ROLE を)
+
+(VB 恋)
+
+(VB0 し)
+
+(P-CONN て)
+
+(PU 、)
+
+(VB わずらいつい)
+
+(AXD た)
+
+(N 男)
+
+(P-OPTR など)
+
+(P-OPTR も)
+
+(ADJI 多かっ)
+
+(AXD た)
+
+(N 時代)
+
+(AX で)
+
+(VB2 ござい)
+
+(AX ます)
+
+(P-CONN から)
+
+(P-FINAL ね)
+
+(PU 。)
+
+(ID 217_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *arb*)
+
+(VB 云う)
+
+(P-OPTR まで)
+
+(P-OPTR も)
+
+(ADJI なく)
+
+(PU 、)
+
+(N 兄)
+
+(P-OPTR は)
+
+(D そんな)
+
+(NP-SBJ *T*)
+
+(N ご飯)
+
+(P-OPTR も)
+
+(ADV ろくろく)
+
+(VB たべ)
+
+(VB2 られ)
+
+(NEG ない)
+
+(N 様)
+
+(AX な)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(VB 衰え)
+
+(AX た)
+
+(N 身体)
+
+(P-ROLE を)
+
+(VB 引きずっ)
+
+(P-CONN て)
+
+(PU 、)
+
+(CONJ 又)
+
+(D その)
+
+(N 娘)
+
+(P-ROLE が)
+
+(NPR 観音様)
+
+(P-ROLE の)
+
+(N 境内)
+
+(P-ROLE を)
+
+(VB 通りかかる)
+
+(N こと)
+
+(P-OPTR も)
+
+(VB あろ)
+
+(INFR う)
+
+(P-FINAL か)
+
+(P-COMP と)
+
+(NP-SBJ *T*)
+
+(ADJI 悲しい)
+
+(N 空頼み)
+
+(P-ROLE から)
+
+(PU 、)
+
+(Q 毎日毎日)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(N 勤め)
+
+(P-ROLE の)
+
+(N 様)
+
+(AX に)
+
+(PU 、)
+
+(NPR 十二階)
+
+(P-ROLE に)
+
+(VB 昇っ)
+
+(P-CONN て)
+
+(P-OPTR は)
+
+(PU 、)
+
+(N 眼鏡)
+
+(P-ROLE を)
+
+(VB 覗い)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AXD た)
+
+(FN 訳)
+
+(AX で)
+
+(VB2 ござい)
+
+(AX ます)
+
+(PU 。)
+
+(ID 218_aozora_Edogawa-1929;JP)
+
+(N 恋)
+
+(P-ROLE という)
+
+(N もの)
+
+(P-OPTR は)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJN 不思議)
+
+(AX な)
+
+(N もの)
+
+(AX で)
+
+(VB2 ござい)
+
+(AX ます)
+
+(P-FINAL ね)
+
+(PU 。)
+
+(ID 219_aozora_Edogawa-1929;JP)
+
+(N 兄)
+
+(P-OPTR は)
+
+(NP-OB1 *pro*)
+
+(PRO 私)
+
+(P-ROLE に)
+
+(VB 打開け)
+
+(P-CONN て)
+
+(VB2 しまう)
+
+(P-CONN と)
+
+(PU 、)
+
+(CONJ 又)
+
+(N 熱病やみ)
+
+(P-ROLE の)
+
+(N 様)
+
+(AX に)
+
+(N 眼鏡)
+
+(P-ROLE を)
+
+(VB 覗き)
+
+(VB2 始め)
+
+(AX まし)
+
+(AXD た)
+
+(P-CONN っけ)
+
+(P-CONN が)
+
+(PU 、)
+
+(PRO 私)
+
+(P-OPTR は)
+
+(N 兄)
+
+(P-ROLE の)
+
+(N 気持)
+
+(P-ROLE に)
+
+(ADV すっかり)
+
+(VB 同情)
+
+(VB0 致し)
+
+(AX まし)
+
+(P-CONN て)
+
+(P-INTJ ね)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(NP-SBJ *T*)
+
+(NUM 千)
+
+(P-ROLE に)
+
+(NUM 一)
+
+(CL つ)
+
+(P-OPTR も)
+
+(N 望み)
+
+(P-ROLE の)
+
+(ADJI ない)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJN 無駄)
+
+(AX な)
+
+(N 探し物)
+
+(AX です)
+
+(P-CONN けれど)
+
+(PU 、)
+
+(NP-SBJ *speaker*)
+
+(NP-SBJ *hearer*)
+
+(NP-OB1 *pro*)
+
+(VB お止し)
+
+(VB2 なさい)
+
+(P-COMP と)
+
+(VB 止めだて)
+
+(VB0 する)
+
+(N 気)
+
+(P-OPTR も)
+
+(VB 起ら)
+
+(NEG ず)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJN 余り)
+
+(AX の)
+
+(N こと)
+
+(P-ROLE に)
+
+(VB 涙ぐん)
+
+(P-CONN で)
+
+(PU 、)
+
+(N 兄)
+
+(P-ROLE の)
+
+(N うしろ姿)
+
+(P-ROLE を)
+
+(ADV じっと)
+
+(VB 眺め)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AXD た)
+
+(FN もの)
+
+(AX です)
+
+(P-FINAL よ)
+
+(PU 。)
+
+(ID 220_aozora_Edogawa-1929;JP)
+
+(CONJ すると)
+
+(D その)
+
+(N 時)
+
+(PU ……)
+
+(INTJ ア)
+
+(PU 、)
+
+(PRO 私)
+
+(P-OPTR は)
+
+(D あの)
+
+(NP-SBJ *T*)
+
+(ADJI 怪しく)
+
+(P-OPTR も)
+
+(ADJI 美しかっ)
+
+(AXD た)
+
+(N 光景)
+
+(P-ROLE を)
+
+(PU 、)
+
+(VB 忘れる)
+
+(N こと)
+
+(P-ROLE が)
+
+(VB 出来)
+
+(AX ませ)
+
+(NEG ん)
+
+(PU 。)
+
+(ID 221_aozora_Edogawa-1929;JP)
+
+(NUM 三十)
+
+(CL 年)
+
+(N 以上)
+
+(P-OPTR も)
+
+(N 昔)
+
+(P-ROLE の)
+
+(N こと)
+
+(AX です)
+
+(P-CONN けれど)
+
+(PU 、)
+
+(NP-SBJ *speaker*)
+
+(ADV こうして)
+
+(N 眼)
+
+(P-ROLE を)
+
+(VB ふさぎ)
+
+(AX ます)
+
+(P-CONN と)
+
+(PU 、)
+
+(D その)
+
+(NP-SBJ *T*)
+
+(N 夢)
+
+(P-ROLE の)
+
+(N 様)
+
+(AX な)
+
+(N 色どり)
+
+(P-ROLE が)
+
+(PU 、)
+
+(ADV まざまざ)
+
+(P-ROLE と)
+
+(VB 浮ん)
+
+(P-CONN で)
+
+(VB2 来る)
+
+(P-OPTR 程)
+
+(AX で)
+
+(VB2 ござい)
+
+(AX ます)
+
+(PU 。)
+
+(ID 222_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *speaker*)
+
+(ADV さっき)
+
+(P-OPTR も)
+
+(VB 申し)
+
+(AX まし)
+
+(AXD た)
+
+(N 通り)
+
+(PU 、)
+
+(N 兄)
+
+(P-ROLE の)
+
+(N うしろ)
+
+(P-ROLE に)
+
+(VB 立っ)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AX ます)
+
+(P-CONN と)
+
+(PU 、)
+
+(NP-OB1 *T*)
+
+(NP-SBJ *speaker*)
+
+(VB 見える)
+
+(N もの)
+
+(P-OPTR は)
+
+(PU 、)
+
+(N 空)
+
+(P-OPTR ばかり)
+
+(AX で)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADV モヤモヤ)
+
+(P-ROLE と)
+
+(VB し)
+
+(AX た)
+
+(PU 、)
+
+(N むら雲)
+
+(P-ROLE の)
+
+(N 中)
+
+(P-ROLE に)
+
+(PU 、)
+
+(NP *T*)
+
+(P-ROLE *.e*)
+
+(N 兄)
+
+(P-ROLE の)
+
+(NP-SBJ *T*)
+
+(ADV ほっそり)
+
+(P-ROLE と)
+
+(VB し)
+
+(AX た)
+
+(N 洋服姿)
+
+(P-ROLE が)
+
+(PU 、)
+
+(PP *ICH*-1)
+
+(N 絵)
+
+(P-ROLE の)
+
+(N 様)
+
+(AX に)
+
+(VB 浮上っ)
+
+(P-CONN て)
+
+(PU 、)
+
+(N むら雲)
+
+(P-ROLE の)
+
+(N 方)
+
+(P-ROLE で)
+
+(VB 動い)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(N の)
+
+(P-ROLE を)
+
+(PU 、)
+
+(N 兄)
+
+(P-ROLE の)
+
+(N 身体)
+
+(P-ROLE が)
+
+(N 宙)
+
+(P-ROLE に)
+
+(VB 漂う)
+
+(P-FINAL か)
+
+(P-COMP と)
+
+(VB 見誤る)
+
+(P-OPTR ばかり)
+
+(AX で)
+
+(VB2 ござい)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 223_aozora_Edogawa-1929;JP)
+
+(CONJ が)
+
+(PRO そこ)
+
+(P-ROLE へ)
+
+(PU 、)
+
+(ADV 突然)
+
+(PU 、)
+
+(NP-SBJ *arb*)
+
+(N 花火)
+
+(P-OPTR でも)
+
+(VB 打上げ)
+
+(AXD た)
+
+(N 様)
+
+(AX に)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJI 白っぽい)
+
+(N 大空)
+
+(P-ROLE の)
+
+(N 中)
+
+(P-ROLE を)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(N 赤)
+
+(P-CONN や)
+
+(N 青)
+
+(P-CONN や)
+
+(N 紫)
+
+(AX の)
+
+(NP-SBJ *T*)
+
+(Q 無数)
+
+(AX の)
+
+(N 玉)
+
+(P-ROLE が)
+
+(PU 、)
+
+(N 先)
+
+(P-ROLE を)
+
+(VB 争っ)
+
+(P-CONN て)
+
+(PU 、)
+
+(ADV フワリフワリ)
+
+(P-ROLE と)
+
+(VB 昇っ)
+
+(P-CONN て)
+
+(VB2 行っ)
+
+(AXD た)
+
+(FN の)
+
+(AX で)
+
+(VB2 ござい)
+
+(AX ます)
+
+(PU 。)
+
+(ID 224_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *hearer*)
+
+(NP-OB1 *pro*)
+
+(NP-SBJ *speaker*)
+
+(NP-OB1 *pro*)
+
+(VB お話)
+
+(VB0 し)
+
+(AXD た)
+
+(N の)
+
+(P-ROLE で)
+
+(P-OPTR は)
+
+(VB 分り)
+
+(AX ます)
+
+(NEG まい)
+
+(P-CONN が)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(ADJN 本当)
+
+(AX に)
+
+(N 絵)
+
+(P-ROLE の)
+
+(N 様)
+
+(AX で)
+
+(PU 、)
+
+(CONJ 又)
+
+(NP-SBJ *pro*)
+
+(WPRO 何)
+
+(P-OPTR か)
+
+(P-ROLE の)
+
+(N 前兆)
+
+(P-ROLE の)
+
+(N 様)
+
+(AX で)
+
+(PU 、)
+
+(PRO 私)
+
+(P-OPTR は)
+
+(NP-OB1 *T*)
+
+(NP-SBJ *speaker*)
+
+(WPRO 何)
+
+(P-ROLE と)
+
+(P-OPTR も)
+
+(VB 云え)
+
+(NEG ない)
+
+(NP-SBJ *T*)
+
+(ADJI 怪しい)
+
+(N 気持)
+
+(AX に)
+
+(VB なっ)
+
+(AXD た)
+
+(FN もの)
+
+(AX でし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 225_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *speaker*)
+
+(NP-SBJ *pro*)
+
+(WPRO 何)
+
+(AX で)
+
+(VB2 あろ)
+
+(INFR う)
+
+(P-COMP と)
+
+(PU 、)
+
+(VB 急い)
+
+(P-CONN で)
+
+(N 下)
+
+(P-ROLE を)
+
+(VB 覗い)
+
+(P-CONN て)
+
+(VB2 見)
+
+(AX ます)
+
+(P-CONN と)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(NP-SBJ *T*)
+
+(WADV どう)
+
+(P-OPTR か)
+
+(VB し)
+
+(AXD た)
+
+(N はずみ)
+
+(P-ROLE で)
+
+(PU 、)
+
+(N 風船屋)
+
+(P-ROLE が)
+
+(N 粗相)
+
+(P-ROLE を)
+
+(VB し)
+
+(P-CONN て)
+
+(PU 、)
+
+(N ゴム風船)
+
+(P-ROLE を)
+
+(PU 、)
+
+(NUM 一)
+
+(CL 度)
+
+(P-ROLE に)
+
+(N 空)
+
+(P-ROLE へ)
+
+(VB 飛ばし)
+
+(AXD た)
+
+(N もの)
+
+(AX *)
+
+(P-COMP と)
+
+(VB 分り)
+
+(AX まし)
+
+(AXD た)
+
+(P-CONN が)
+
+(PU 、)
+
+(D その)
+
+(N 時分)
+
+(P-OPTR は)
+
+(PU 、)
+
+(N ゴム風船)
+
+(D その)
+
+(N もの)
+
+(P-ROLE が)
+
+(PU 、)
+
+(N 今)
+
+(P-ROLE より)
+
+(P-OPTR は)
+
+(ADV ずっと)
+
+(ADJI 珍らしゅう)
+
+(VB2 ござんし)
+
+(AXD た)
+
+(P-CONN から)
+
+(N 正体)
+
+(P-ROLE が)
+
+(VB 分っ)
+
+(P-CONN て)
+
+(P-OPTR も)
+
+(PU 、)
+
+(PRO 私)
+
+(P-OPTR は)
+
+(ADV まだ)
+
+(NP-SBJ *pro*)
+
+(ADJN 妙)
+
+(AX な)
+
+(N 気持)
+
+(P-ROLE が)
+
+(VB し)
+
+(P-CONN て)
+
+(VB2 居り)
+
+(AX まし)
+
+(AXD た)
+
+(FN もの)
+
+(AX です)
+
+(P-FINAL よ)
+
+(PU 。)
+
+(ID 226_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *pro*)
+
+(NP-SBJ *T*)
+
+(ADJN 妙)
+
+(AX な)
+
+(N もの)
+
+(AX で)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(PRO それ)
+
+(P-ROLE が)
+
+(N きっかけ)
+
+(AX に)
+
+(VB なっ)
+
+(AXD た)
+
+(P-COMP という)
+
+(N 訳)
+
+(AX で)
+
+(P-OPTR も)
+
+(VB2 あり)
+
+(AX ます)
+
+(NEG まい)
+
+(P-CONN が)
+
+(PU 、)
+
+(ADV 丁度)
+
+(D その)
+
+(N 時)
+
+(PU 、)
+
+(N 兄)
+
+(P-OPTR は)
+
+(ADJN 非常)
+
+(AX に)
+
+(VB 興奮)
+
+(VB0 し)
+
+(AX た)
+
+(N 様子)
+
+(AX で)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJI 青白い)
+
+(N 顔)
+
+(P-ROLE を)
+
+(N ぽっ)
+
+(P-ROLE と)
+
+(VB 赤らめ)
+
+(N 息)
+
+(P-ROLE を)
+
+(VB はずま)
+
+(VB2 せ)
+
+(P-CONN て)
+
+(PU 、)
+
+(PRO 私)
+
+(P-ROLE の)
+
+(N 方)
+
+(P-ROLE へ)
+
+(VB やっ)
+
+(P-CONN て)
+
+(VB2 参り)
+
+(PU 、)
+
+(ADV いきなり)
+
+(PRO 私)
+
+(P-ROLE の)
+
+(N 手)
+
+(P-ROLE を)
+
+(VB とっ)
+
+(P-CONN て)
+
+(-LRB- 『)
+
+(NP-SBJ *speaker+hearer*)
+
+(INTJ さあ)
+
+(VB 行こ)
+
+(INFR う)
+
+(PU 。)
+
+(NP-SBJ *speaker+hearer*)
+
+(ADJI 早く)
+
+(VB 行か)
+
+(NEG ぬ)
+
+(P-CONN と)
+
+(VB 間に合わ)
+
+(NEG ぬ)
+
+(-RRB- 』)
+
+(P-COMP と)
+
+(VB 申し)
+
+(P-CONN て)
+
+(PU 、)
+
+(ADV グングン)
+
+(PRO 私)
+
+(P-ROLE を)
+
+(VB 引張る)
+
+(FN の)
+
+(AX で)
+
+(VB2 ござい)
+
+(AX ます)
+
+(PU 。)
+
+(ID 227_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *pro*)
+
+(NP-SBJ *speaker*)
+
+(VB 引張ら)
+
+(PASS れ)
+
+(P-CONN て)
+
+(PU 、)
+
+(N 塔)
+
+(P-ROLE の)
+
+(N 石段)
+
+(P-ROLE を)
+
+(VB かけ降り)
+
+(P-CONN ながら)
+
+(PU 、)
+
+(N 訳)
+
+(P-ROLE を)
+
+(VB 尋ね)
+
+(AX ます)
+
+(P-CONN と)
+
+(PU 、)
+
+(WPRO いつ)
+
+(P-OPTR か)
+
+(P-ROLE の)
+
+(N 娘さん)
+
+(P-ROLE が)
+
+(VB 見つかっ)
+
+(AXD た)
+
+(AX らしい)
+
+(P-CONN ので)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(NP-SBJ *T*)
+
+(N 青畳)
+
+(P-ROLE を)
+
+(VB 敷い)
+
+(AX た)
+
+(NP-SBJ *T*)
+
+(ADJI 広い)
+
+(N 座敷)
+
+(P-ROLE に)
+
+(VB 坐っ)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AXD た)
+
+(P-CONN から)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(PRO これ)
+
+(P-ROLE から)
+
+(VB 行っ)
+
+(P-CONN て)
+
+(P-OPTR も)
+
+(ADJN 大丈夫)
+
+(NP-SBJ *pro*)
+
+(N 元)
+
+(P-ROLE の)
+
+(N 所)
+
+(P-ROLE に)
+
+(VB いる)
+
+(P-COMP と)
+
+(VB 申す)
+
+(FN の)
+
+(AX で)
+
+(VB2 ござい)
+
+(AX ます)
+
+(PU 。)
+
+(ID 228_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *pro*)
+
+(NP *T*)
+
+(P-ROLE *に*)
+
+(N 兄)
+
+(P-ROLE が)
+
+(N 見当)
+
+(P-ROLE を)
+
+(VB つけ)
+
+(AXD た)
+
+(N 場所)
+
+(P-ROLE という)
+
+(N の)
+
+(P-OPTR は)
+
+(PU 、)
+
+(NPR 観音堂)
+
+(P-ROLE の)
+
+(N 裏手)
+
+(P-ROLE の)
+
+(PU 、)
+
+(PNL 大きな)
+
+(N 松)
+
+(P-ROLE の)
+
+(N 木)
+
+(P-ROLE が)
+
+(N 目印)
+
+(AX で)
+
+(PU 、)
+
+(PRO そこ)
+
+(P-ROLE に)
+
+(NP-SBJ *T*)
+
+(ADJI 広い)
+
+(N 座敷)
+
+(P-ROLE が)
+
+(VB あっ)
+
+(AXD た)
+
+(P-COMP と)
+
+(VB 申す)
+
+(FN の)
+
+(AX です)
+
+(P-CONN が)
+
+(PU 、)
+
+(CONJ さて)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(NUM 二人)
+
+(P-ROLE で)
+
+(PRO そこ)
+
+(P-ROLE へ)
+
+(VB 行っ)
+
+(P-CONN て)
+
+(PU 、)
+
+(VB 探し)
+
+(P-CONN て)
+
+(VB2 見)
+
+(AX まし)
+
+(P-CONN て)
+
+(P-OPTR も)
+
+(PU 、)
+
+(N 松)
+
+(P-ROLE の)
+
+(N 木)
+
+(P-OPTR は)
+
+(ADV ちゃんと)
+
+(VB あり)
+
+(AX ます)
+
+(P-CONN けれど)
+
+(PU 、)
+
+(D その)
+
+(N 近所)
+
+(P-ROLE に)
+
+(P-OPTR は)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJI 家らしい)
+
+(N 家)
+
+(P-OPTR も)
+
+(ADJI なく)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADV まるで)
+
+(NP-SBJ *pro*)
+
+(N 狐)
+
+(P-ROLE に)
+
+(VB つまま)
+
+(PASS れ)
+
+(AX た)
+
+(N 様)
+
+(AX な)
+
+(N 鹽梅)
+
+(AX な)
+
+(FN の)
+
+(AX です)
+
+(P-FINAL よ)
+
+(PU 。)
+
+(ID 229_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *speaker*)
+
+(NP-SBJ *pro*)
+
+(N 兄)
+
+(P-ROLE の)
+
+(N 気)
+
+(P-ROLE の)
+
+(N 迷い)
+
+(AX だ)
+
+(P-COMP と)
+
+(P-OPTR は)
+
+(VB 思い)
+
+(AX まし)
+
+(AXD た)
+
+(P-CONN が)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(VB しおれ返っ)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(N 様子)
+
+(P-ROLE が)
+
+(PU 、)
+
+(ADV 余り)
+
+(ADJN 気の毒)
+
+(AX だ)
+
+(FN もの)
+
+(AX です)
+
+(P-CONN から)
+
+(PU 、)
+
+(N 気休め)
+
+(P-ROLE に)
+
+(PU 、)
+
+(D その)
+
+(N 辺)
+
+(P-ROLE の)
+
+(N 掛茶屋)
+
+(P-OPTR など)
+
+(P-ROLE を)
+
+(VB 尋ね)
+
+(VB2 廻っ)
+
+(P-CONN て)
+
+(VB2 見)
+
+(AX まし)
+
+(AXD た)
+
+(P-CONN けれども)
+
+(PU 、)
+
+(D そんな)
+
+(N 娘さん)
+
+(P-ROLE の)
+
+(N 影)
+
+(P-CONN も)
+
+(N 形)
+
+(P-OPTR も)
+
+(VB あり)
+
+(AX ませ)
+
+(NEG ん)
+
+(PU 。)
+
+(ID 230_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *speaker*)
+
+(NP-OB1 *pro*)
+
+(VB 探し)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(N 間)
+
+(P-ROLE に)
+
+(PU 、)
+
+(N 兄)
+
+(P-ROLE と)
+
+(N 分れ分れ)
+
+(AX に)
+
+(VB なっ)
+
+(P-CONN て)
+
+(VB2 しまい)
+
+(AX まし)
+
+(AXD た)
+
+(P-CONN が)
+
+(PU 、)
+
+(N 掛茶屋)
+
+(P-ROLE を)
+
+(VB 一巡)
+
+(VB0 し)
+
+(P-CONN て)
+
+(PU 、)
+
+(NP-SBJ *exp*)
+
+(ADV 暫く)
+
+(VB たっ)
+
+(P-CONN て)
+
+(N 元)
+
+(P-ROLE の)
+
+(N 松)
+
+(P-ROLE の)
+
+(N 木)
+
+(P-ROLE の)
+
+(N 下)
+
+(P-ROLE へ)
+
+(VB 戻っ)
+
+(P-CONN て)
+
+(VB2 参り)
+
+(AX ます)
+
+(P-CONN と)
+
+(P-INTJ ね)
+
+(PU 、)
+
+(PRO そこ)
+
+(P-ROLE に)
+
+(P-OPTR は)
+
+(NP-SBJ *pro*)
+
+(NP-SBJ *T*)
+
+(ADJN 色々)
+
+(AX な)
+
+(N 露店)
+
+(P-ROLE に)
+
+(VB 並ん)
+
+(P-CONN で)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(NUM 一)
+
+(CL 軒)
+
+(AX の)
+
+(N 覗きからくり屋)
+
+(P-ROLE が)
+
+(PU 、)
+
+(ADV ピシャンピシャン)
+
+(P-ROLE と)
+
+(N 鞭)
+
+(P-ROLE の)
+
+(N 音)
+
+(P-ROLE を)
+
+(VB 立て)
+
+(P-CONN て)
+
+(PU 、)
+
+(N 商売)
+
+(P-ROLE を)
+
+(VB し)
+
+(P-CONN て)
+
+(VB2 居り)
+
+(AX まし)
+
+(AXD た)
+
+(P-CONN が)
+
+(PU 、)
+
+(NP-SBJ *speaker*)
+
+(NP-OB1 *pro*)
+
+(VB 見)
+
+(AX ます)
+
+(P-CONN と)
+
+(PU 、)
+
+(D その)
+
+(N 覗き)
+
+(P-ROLE の)
+
+(N 眼鏡)
+
+(P-ROLE を)
+
+(PU 、)
+
+(N 兄)
+
+(P-ROLE が)
+
+(N 中腰)
+
+(AX に)
+
+(VB なっ)
+
+(P-CONN て)
+
+(PU 、)
+
+(ADV 一生懸命)
+
+(VB 覗い)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AXD た)
+
+(AX じゃ)
+
+(VB2 ござい)
+
+(AX ませ)
+
+(NEG ん)
+
+(P-FINAL か)
+
+(PU 。)
+
+(ID 231_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *pro*)
+
+(NP-SBJ *speaker*)
+
+(-LRB- 『)
+
+(NP-SBJ *hearer*)
+
+(N 兄さん)
+
+(WPRO 何)
+
+(P-ROLE を)
+
+(VB し)
+
+(P-CONN て)
+
+(VB2 いらっしゃる)
+
+(-RRB- 』)
+
+(P-COMP と)
+
+(VB 云っ)
+
+(P-CONN て)
+
+(PU 、)
+
+(N 肩)
+
+(P-ROLE を)
+
+(VB 叩き)
+
+(AX ます)
+
+(P-CONN と)
+
+(PU 、)
+
+(VB ビックリ)
+
+(VB0 し)
+
+(P-CONN て)
+
+(VB 振向き)
+
+(AX まし)
+
+(AXD た)
+
+(P-CONN が)
+
+(PU 、)
+
+(D その)
+
+(N 時)
+
+(P-ROLE の)
+
+(N 兄)
+
+(P-ROLE の)
+
+(N 顔)
+
+(P-ROLE を)
+
+(PU 、)
+
+(PRO 私)
+
+(P-OPTR は)
+
+(N 今だ)
+
+(P-ROLE に)
+
+(NP-OB1 *ICH*-1)
+
+(VB 忘れる)
+
+(N こと)
+
+(P-ROLE が)
+
+(VB 出来)
+
+(AX ませ)
+
+(NEG ん)
+
+(P-FINAL よ)
+
+(PU 。)
+
+(ID 232_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *speaker*)
+
+(NP-SBJ *speaker*)
+
+(WPRO 何)
+
+(P-ROLE と)
+
+(VB 申せ)
+
+(P-CONN ば)
+
+(ADJI よろしい)
+
+(P-FINAL か)
+
+(PU 、)
+
+(NP-SBJ *speaker*)
+
+(NP-SBJ *pro*)
+
+(N 夢)
+
+(P-ROLE を)
+
+(VB 見)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(N 様)
+
+(AX な)
+
+(P-COMP と)
+
+(P-OPTR でも)
+
+(VB 申し)
+
+(AX ます)
+
+(P-FINAL か)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(N 顔)
+
+(P-ROLE の)
+
+(N 筋)
+
+(P-ROLE が)
+
+(VB たるん)
+
+(P-CONN で)
+
+(VB2 しまっ)
+
+(P-CONN て)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJI 遠い)
+
+(N 所)
+
+(P-ROLE を)
+
+(VB 見)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(N 目つき)
+
+(AX に)
+
+(VB なっ)
+
+(P-CONN て)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(PRO 私)
+
+(P-ROLE に)
+
+(VB 話す)
+
+(N 声)
+
+(P-OPTR さえ)
+
+(P-OPTR も)
+
+(PU 、)
+
+(ADJN 変)
+
+(AX に)
+
+(ADJN うつろ)
+
+(AX に)
+
+(VB 聞え)
+
+(AXD た)
+
+(FN の)
+
+(AX で)
+
+(VB2 ござい)
+
+(AX ます)
+
+(PU 。)
+
+(ID 233_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *pro*)
+
+(CONJ そして)
+
+(PU 、)
+
+(-LRB- 『)
+
+(PRO お前)
+
+(PU 、)
+
+(NP-OB1 *T*)
+
+(PRO 私達)
+
+(P-ROLE が)
+
+(VB 探し)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AXD た)
+
+(N 娘さん)
+
+(P-OPTR は)
+
+(D この)
+
+(N 中)
+
+(P-ROLE に)
+
+(VB いる)
+
+(P-FINAL よ)
+
+(-RRB- 』)
+
+(P-COMP と)
+
+(VB 申す)
+
+(FN の)
+
+(AX です)
+
+(PU 。)
+
+(ID 234_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *speaker*)
+
+(ADV そう)
+
+(VB 云わ)
+
+(PASS れ)
+
+(AXD た)
+
+(FN もの)
+
+(AX です)
+
+(P-CONN から)
+
+(PU 、)
+
+(PRO 私)
+
+(P-OPTR は)
+
+(VB 急い)
+
+(P-CONN で)
+
+(N おあし)
+
+(P-ROLE を)
+
+(VB 払っ)
+
+(P-CONN て)
+
+(PU 、)
+
+(N 覗き)
+
+(P-ROLE の)
+
+(N 眼鏡)
+
+(P-ROLE を)
+
+(VB 覗い)
+
+(P-CONN て)
+
+(VB2 見)
+
+(AX ます)
+
+(P-CONN と)
+
+(PU 、)
+
+(PRO それ)
+
+(P-OPTR は)
+
+(NPR 八百屋お七)
+
+(P-ROLE の)
+
+(N 覗きからくり)
+
+(AX でし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 235_aozora_Edogawa-1929;JP)
+
+(ADV 丁度)
+
+(NPR 吉祥寺)
+
+(P-ROLE の)
+
+(N 書院)
+
+(P-ROLE で)
+
+(PU 、)
+
+(NPR お七)
+
+(P-ROLE が)
+
+(NPR 吉三)
+
+(P-ROLE に)
+
+(VB しなだれかかっ)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(N 絵)
+
+(P-ROLE が)
+
+(VB 出)
+
+(P-CONN て)
+
+(VB2 居り)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 236_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *speaker*)
+
+(NP-OB1 *pro*)
+
+(VB 忘れ)
+
+(P-OPTR も)
+
+(VB2 し)
+
+(AX ませ)
+
+(NEG ん)
+
+(PU 。)
+
+(ID 237_aozora_Edogawa-1929;JP)
+
+(N からくり屋)
+
+(P-ROLE の)
+
+(N 夫婦者)
+
+(P-OPTR は)
+
+(PU 、)
+
+(N しわがれ声)
+
+(P-ROLE を)
+
+(VB 合せ)
+
+(P-CONN て)
+
+(PU 、)
+
+(N 鞭)
+
+(P-ROLE で)
+
+(N 拍子)
+
+(P-ROLE を)
+
+(VB 取り)
+
+(P-CONN ながら)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(-LRB- 『)
+
+(NP-SBJ *pro*)
+
+(N 膝)
+
+(P-ROLE で)
+
+(VB つっらつい)
+
+(P-CONN て)
+
+(PU 、)
+
+(N 目)
+
+(P-ROLE で)
+
+(VB 知らせ)
+
+(-RRB- 』)
+
+(P-COMP と)
+
+(VB 申す)
+
+(N 文句)
+
+(P-ROLE を)
+
+(VB 歌っ)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(N 所)
+
+(AX でし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 238_aozora_Edogawa-1929;JP)
+
+(INTJ アア)
+
+(PU 、)
+
+(D あの)
+
+(-LRB- 『)
+
+(NP-SBJ *pro*)
+
+(N 膝)
+
+(P-ROLE で)
+
+(VB つっらつい)
+
+(P-CONN て)
+
+(PU 、)
+
+(N 目)
+
+(P-ROLE で)
+
+(VB 知らせ)
+
+(-RRB- 』)
+
+(P-COMP という)
+
+(NP-SBJ *T*)
+
+(ADJN 変)
+
+(AX な)
+
+(N 節廻し)
+
+(P-ROLE が)
+
+(PU 、)
+
+(N 耳)
+
+(P-ROLE に)
+
+(VB つい)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(N 様)
+
+(AX で)
+
+(VB2 ござい)
+
+(AX ます)
+
+(PU 。)
+
+(ID 239_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *pro*)
+
+(N 覗き絵)
+
+(P-ROLE の)
+
+(N 人物)
+
+(P-OPTR は)
+
+(N 押絵)
+
+(AX に)
+
+(VB なっ)
+
+(P-CONN て)
+
+(VB2 居り)
+
+(AX まし)
+
+(AXD た)
+
+(P-CONN が)
+
+(PU 、)
+
+(D その)
+
+(N 道)
+
+(P-ROLE の)
+
+(N 名人)
+
+(P-ROLE の)
+
+(N 作)
+
+(AX で)
+
+(VB2 あっ)
+
+(AXD た)
+
+(FN の)
+
+(AX でしょ)
+
+(INFR う)
+
+(P-FINAL ね)
+
+(PU 。)
+
+(ID 240_aozora_Edogawa-1929;JP)
+
+(NPR お七)
+
+(P-ROLE の)
+
+(N 顔)
+
+(P-ROLE の)
+
+(ADV 生々)
+
+(P-ROLE と)
+
+(VB し)
+
+(P-CONN て)
+
+(ADJN 綺麗)
+
+(AX で)
+
+(VB2 あっ)
+
+(AXD た)
+
+(P-FINAL こと)
+
+(PU 。)
+
+(ID 241_aozora_Edogawa-1929;JP)
+
+(NP-OB1 *pro*)
+
+(PRO 私)
+
+(P-ROLE の)
+
+(N 目)
+
+(P-ROLE に)
+
+(P-OPTR さえ)
+
+(ADJN 本当)
+
+(AX に)
+
+(VB 生き)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(N 様)
+
+(AX に)
+
+(VB 見え)
+
+(AXD た)
+
+(FN の)
+
+(AX です)
+
+(P-CONN から)
+
+(PU 、)
+
+(N 兄)
+
+(P-ROLE が)
+
+(D あんな)
+
+(N こと)
+
+(P-ROLE を)
+
+(VB 申し)
+
+(AXD た)
+
+(N の)
+
+(P-OPTR も)
+
+(PU 、)
+
+(ADV 全く)
+
+(N 無理)
+
+(P-OPTR は)
+
+(VB あり)
+
+(AX ませ)
+
+(NEG ん)
+
+(PU 。)
+
+(ID 242_aozora_Edogawa-1929;JP)
+
+(N 兄)
+
+(P-ROLE が)
+
+(VB 申し)
+
+(AX ます)
+
+(P-CONN に)
+
+(P-OPTR は)
+
+(-LRB- 『)
+
+(ADV 仮令)
+
+(D この)
+
+(N 娘さん)
+
+(P-ROLE が)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(N 拵えもの)
+
+(AX の)
+
+(N 押絵)
+
+(AX だ)
+
+(P-COMP と)
+
+(VB 分っ)
+
+(P-CONN て)
+
+(P-OPTR も)
+
+(PU 、)
+
+(PRO 私)
+
+(P-OPTR は)
+
+(WADV どう)
+
+(P-OPTR も)
+
+(VB あきらめ)
+
+(VB2 られ)
+
+(NEG ない)
+
+(PU 。)
+
+(NP-SBJ *speaker*)
+
+(NP-SBJ *pro*)
+
+(NP-SBJ *T*)
+
+(ADJI 悲しい)
+
+(N こと)
+
+(AX だ)
+
+(P-CONN が)
+
+(VB あきらめ)
+
+(VB2 られ)
+
+(NEG ない)
+
+(PU 。)
+
+(NP-SBJ *pro*)
+
+(ADV たった)
+
+(NUM 一)
+
+(CL 度)
+
+(P-ROLE で)
+
+(ADJI いい)
+
+(PU 、)
+
+(PRO 私)
+
+(P-OPTR も)
+
+(D あの)
+
+(NP-SBJ *T*)
+
+(NPR 吉三)
+
+(P-ROLE の)
+
+(N 様)
+
+(AX な)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(N 押絵)
+
+(P-ROLE の)
+
+(N 中)
+
+(AX の)
+
+(N 男)
+
+(AX に)
+
+(VB なっ)
+
+(P-CONN て)
+
+(PU 、)
+
+(D この)
+
+(N 娘さん)
+
+(P-ROLE と)
+
+(N 話)
+
+(P-ROLE が)
+
+(VB し)
+
+(P-CONN て)
+
+(VB2 見)
+
+(AX たい)
+
+(-RRB- 』)
+
+(P-COMP と)
+
+(VB 云っ)
+
+(P-CONN て)
+
+(PU 、)
+
+(ADV ぼんやり)
+
+(P-ROLE と)
+
+(PU 、)
+
+(PRO そこ)
+
+(P-ROLE に)
+
+(VB 突っ立っ)
+
+(AXD た)
+
+(N まま)
+
+(PU 、)
+
+(VB 動こ)
+
+(INFR う)
+
+(P-COMP と)
+
+(P-OPTR も)
+
+(VB2 し)
+
+(NEG ない)
+
+(FN の)
+
+(AX で)
+
+(VB2 ござい)
+
+(AX ます)
+
+(PU 。)
+
+(ID 243_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *pro*)
+
+(NP-SBJ *speaker*)
+
+(VB 考え)
+
+(P-CONN て)
+
+(VB2 見)
+
+(AX ます)
+
+(P-CONN と)
+
+(D その)
+
+(N 覗きからくり)
+
+(P-ROLE の)
+
+(N 絵)
+
+(P-ROLE が)
+
+(PU 、)
+
+(N 光線)
+
+(P-ROLE を)
+
+(VB 取る)
+
+(N 為)
+
+(P-ROLE に)
+
+(N 上)
+
+(P-ROLE の)
+
+(N 方)
+
+(P-ROLE が)
+
+(VB 開け)
+
+(P-CONN て)
+
+(PASS *)
+
+(VB2 ある)
+
+(P-CONN ので)
+
+(PU 、)
+
+(PRO それ)
+
+(P-ROLE が)
+
+(N 斜め)
+
+(P-ROLE に)
+
+(NPR 十二階)
+
+(P-ROLE の)
+
+(N 頂上)
+
+(P-ROLE から)
+
+(P-OPTR も)
+
+(VB 見え)
+
+(AXD た)
+
+(FN もの)
+
+(AX に)
+
+(N 違い)
+
+(VB あり)
+
+(AX ませ)
+
+(NEG ん)
+
+(PU 。)
+
+(ID 244_aozora_Edogawa-1929;JP)
+
+(D その)
+
+(N 時分)
+
+(P-ROLE に)
+
+(P-OPTR は)
+
+(PU 、)
+
+(ADV もう)
+
+(N 日)
+
+(P-ROLE が)
+
+(VB 暮)
+
+(VB2 かけ)
+
+(P-CONN て)
+
+(PU 、)
+
+(N 人足)
+
+(P-OPTR も)
+
+(ADJN まばら)
+
+(AX に)
+
+(VB なり)
+
+(PU 、)
+
+(N 覗き)
+
+(P-ROLE の)
+
+(N 前)
+
+(P-ROLE に)
+
+(P-OPTR も)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(NUM 二三)
+
+(CL 人)
+
+(AX の)
+
+(NP-SBJ *pro*)
+
+(N おかっぱ)
+
+(AX の)
+
+(N 子供)
+
+(P-ROLE が)
+
+(PU 、)
+
+(ADJI 未練らしく)
+
+(VB 立去り)
+
+(VB2 兼ね)
+
+(P-CONN て)
+
+(PU 、)
+
+(ADV うろうろ)
+
+(VB し)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(P-OPTR ばかり)
+
+(AX でし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 245_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *exp*)
+
+(N 昼間)
+
+(P-ROLE から)
+
+(ADV どんより)
+
+(P-ROLE と)
+
+(VB 曇っ)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AXD た)
+
+(FN の)
+
+(P-CONN が)
+
+(PU 、)
+
+(N 日暮)
+
+(P-ROLE に)
+
+(P-OPTR は)
+
+(PU 、)
+
+(N 今)
+
+(P-ROLE に)
+
+(P-OPTR も)
+
+(N 一雨)
+
+(VB 来)
+
+(AX そう)
+
+(AX に)
+
+(PU 、)
+
+(N 雲)
+
+(P-ROLE が)
+
+(VB 下っ)
+
+(P-CONN て)
+
+(VB2 来)
+
+(P-CONN て)
+
+(PU 、)
+
+(NP-SBJ *exp*)
+
+(NP-SBJ *T*)
+
+(NP-SBJ *pro*)
+
+(ADV 一層)
+
+(VB 圧え)
+
+(VB2 つけ)
+
+(PASS られる)
+
+(N 様)
+
+(AX な)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(NP-SBJ *pro*)
+
+(N 気)
+
+(P-OPTR でも)
+
+(VB 狂う)
+
+(FN の)
+
+(AX じゃ)
+
+(NEG ない)
+
+(P-FINAL か)
+
+(P-COMP と)
+
+(VB 思う)
+
+(N 様)
+
+(AX な)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJN いや)
+
+(AX な)
+
+(N 天候)
+
+(AX に)
+
+(VB なっ)
+
+(P-CONN て)
+
+(VB2 居り)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 246_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *speaker*)
+
+(CONJ そして)
+
+(PU 、)
+
+(N 耳)
+
+(P-ROLE の)
+
+(N 底)
+
+(P-ROLE に)
+
+(NP-SBJ *T*)
+
+(ADJN ドロドロ)
+
+(AX と)
+
+(N 太鼓)
+
+(P-ROLE の)
+
+(VB 鳴っ)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(N 様)
+
+(AX な)
+
+(N 音)
+
+(P-ROLE が)
+
+(VB 聞え)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(FN の)
+
+(AX です)
+
+(P-FINAL よ)
+
+(PU 。)
+
+(ID 247_aozora_Edogawa-1929;JP)
+
+(D その)
+
+(N 中)
+
+(P-ROLE で)
+
+(PU 、)
+
+(N 兄)
+
+(P-OPTR は)
+
+(PU 、)
+
+(ADV じっと)
+
+(N 遠く)
+
+(P-ROLE の)
+
+(N 方)
+
+(P-ROLE を)
+
+(VB 見据え)
+
+(P-CONN て)
+
+(PU 、)
+
+(WPRO いつ)
+
+(P-ROLE まで)
+
+(P-CONN も)
+
+(WPRO いつ)
+
+(P-ROLE まで)
+
+(P-CONN も)
+
+(PU 、)
+
+(VB 立ちつくし)
+
+(P-CONN て)
+
+(VB2 居り)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 248_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *speaker*)
+
+(D その)
+
+(N 間)
+
+(P-ROLE が)
+
+(PU 、)
+
+(Q たっぷり)
+
+(NUM 一)
+
+(CL 時間)
+
+(P-OPTR は)
+
+(VB あっ)
+
+(AXD た)
+
+(N 様)
+
+(AX に)
+
+(VB 思わ)
+
+(VB2 れ)
+
+(AX ます)
+
+(PU 。)
+
+(ID 249_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *exp*)
+
+(ADV もう)
+
+(ADV すっかり)
+
+(VB 暮切っ)
+
+(P-CONN て)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(N 遠く)
+
+(AX の)
+
+(N 玉乗り)
+
+(P-ROLE の)
+
+(N 花瓦斯)
+
+(P-ROLE が)
+
+(PU 、)
+
+(N チロチロ)
+
+(P-ROLE と)
+
+(ADJI 美しく)
+
+(VB 輝き)
+
+(VB2 出し)
+
+(AXD た)
+
+(N 時分)
+
+(P-ROLE に)
+
+(PU 、)
+
+(N 兄)
+
+(P-OPTR は)
+
+(ADV ハッと)
+
+(N 目)
+
+(P-ROLE が)
+
+(VB 醒め)
+
+(AXD た)
+
+(N 様)
+
+(AX に)
+
+(PU 、)
+
+(ADV 突然)
+
+(PRO 私)
+
+(P-ROLE の)
+
+(N 腕)
+
+(P-ROLE を)
+
+(VB 掴ん)
+
+(P-CONN で)
+
+(-LRB- 『)
+
+(NP-SBJ *speaker*)
+
+(INTJ アア)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJI いい)
+
+(N こと)
+
+(P-ROLE を)
+
+(VB 思いつい)
+
+(AXD た)
+
+(PU 。)
+
+(NP-SBJ *hearer*)
+
+(PRO お前)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(N お頼み)
+
+(AX だ)
+
+(P-CONN から)
+
+(PU 、)
+
+(D この)
+
+(N 遠眼鏡)
+
+(P-ROLE を)
+
+(N さかさ)
+
+(AX に)
+
+(VB し)
+
+(P-CONN て)
+
+(PU 、)
+
+(PNL 大きな)
+
+(N ガラス玉)
+
+(P-ROLE の)
+
+(N 方)
+
+(P-ROLE を)
+
+(N 目)
+
+(P-ROLE に)
+
+(VB 当て)
+
+(P-CONN て)
+
+(PU 、)
+
+(PRO そこ)
+
+(P-ROLE から)
+
+(PRO 私)
+
+(P-ROLE を)
+
+(VB 見)
+
+(P-CONN て)
+
+(VB2 おくれ)
+
+(AX で)
+
+(NEG ない)
+
+(P-FINAL か)
+
+(-RRB- 』)
+
+(P-COMP と)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJN 変)
+
+(AX な)
+
+(N こと)
+
+(PRN *ICH*-1)
+
+(P-ROLE を)
+
+(VB 云い)
+
+(VB2 出し)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 250_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *pro*)
+
+(NP-SBJ *speaker*)
+
+(-LRB- 『)
+
+(NP-SBJ *pro*)
+
+(WADV 何故)
+
+(AX です)
+
+(-RRB- 』)
+
+(P-COMP って)
+
+(VB 尋ね)
+
+(P-CONN て)
+
+(P-OPTR も)
+
+(PU 、)
+
+(-LRB- 『)
+
+(NP-SBJ *hearer*)
+
+(NP-SBJ *pro*)
+
+(INTJ まあ)
+
+(ADJI いい)
+
+(P-CONN から)
+
+(PU 、)
+
+(ADV そう)
+
+(VB し)
+
+(P-CONN て)
+
+(VB2 お呉れ)
+
+(P-FINAL な)
+
+(-RRB- 』)
+
+(P-COMP と)
+
+(VB 申し)
+
+(P-CONN て)
+
+(VB 聞か)
+
+(NEG ない)
+
+(FN の)
+
+(AX で)
+
+(VB2 ござい)
+
+(AX ます)
+
+(PU 。)
+
+(ID 251_aozora_Edogawa-1929;JP)
+
+(ADV 一体)
+
+(PRO 私)
+
+(P-OPTR は)
+
+(N 生れつき)
+
+(N 眼鏡類)
+
+(P-ROLE を)
+
+(PU 、)
+
+(ADV 余り)
+
+(VB 好み)
+
+(AX ませ)
+
+(NEG ん)
+
+(P-CONN ので)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(N 遠眼鏡)
+
+(AX *)
+
+(P-OPTR にしろ)
+
+(PU 、)
+
+(N 顕微鏡)
+
+(AX *)
+
+(P-OPTR にしろ)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJI 遠い)
+
+(N 所)
+
+(P-ROLE の)
+
+(N 物)
+
+(P-ROLE が)
+
+(PU 、)
+
+(N 目)
+
+(P-ROLE の)
+
+(N 前)
+
+(P-ROLE へ)
+
+(VB 飛びつい)
+
+(P-CONN て)
+
+(VB2 来)
+
+(P-CONN たり)
+
+(PU 、)
+
+(PNL 小さな)
+
+(N 虫けら)
+
+(P-ROLE が)
+
+(PU 、)
+
+(N けだもの)
+
+(AX みたい)
+
+(AX に)
+
+(ADJI 大きく)
+
+(VB なる)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(VB お化じみ)
+
+(AX た)
+
+(N 作用)
+
+(P-ROLE が)
+
+(ADJI 薄気味悪い)
+
+(FN の)
+
+(AX です)
+
+(P-FINAL よ)
+
+(PU 。)
+
+(ID 252_aozora_Edogawa-1929;JP)
+
+(NP-SBJ;{SPEAKER} *speaker*)
+
+(CONJ で)
+
+(PU 、)
+
+(NP-SBJ;{SPEAKER} *pro*)
+
+(N 兄)
+
+(P-ROLE の)
+
+(NP-SBJ *T*)
+
+(N 秘蔵)
+
+(AX の)
+
+(N 遠眼鏡)
+
+(P-OPTR も)
+
+(PU 、)
+
+(ADV 余り)
+
+(VB 覗い)
+
+(AXD た)
+
+(N こと)
+
+(P-ROLE が)
+
+(ADJI なく)
+
+(PU 、)
+
+(NP-SBJ *speaker*)
+
+(VB 覗い)
+
+(AXD た)
+
+(N こと)
+
+(P-ROLE が)
+
+(ADJI 少い)
+
+(P-OPTR 丈け)
+
+(P-ROLE に)
+
+(PU 、)
+
+(ADV 余計)
+
+(PRO それ)
+
+(P-ROLE が)
+
+(NP-SBJ *T*)
+
+(N 魔性)
+
+(AX の)
+
+(N 器械)
+
+(AX に)
+
+(VB 思わ)
+
+(VB2 れ)
+
+(AXD た)
+
+(FN もの)
+
+(AX です)
+
+(PU 。)
+
+(ID 253_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *speaker*)
+
+(CONJ しかも)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(N 日)
+
+(P-ROLE が)
+
+(VB 暮)
+
+(P-CONN て)
+
+(N 人顔)
+
+(P-OPTR も)
+
+(ADJN さだか)
+
+(AX に)
+
+(VB 見え)
+
+(NEG ぬ)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJI うすら淋しい)
+
+(NPR 観音堂)
+
+(P-ROLE の)
+
+(N 裏)
+
+(P-ROLE で)
+
+(PU 、)
+
+(N 遠眼鏡)
+
+(P-ROLE を)
+
+(N さかさ)
+
+(AX に)
+
+(VB し)
+
+(P-CONN て)
+
+(PU 、)
+
+(N 兄)
+
+(P-ROLE を)
+
+(VB 覗く)
+
+(P-OPTR なんて)
+
+(PU 、)
+
+(VB 気違いじみ)
+
+(P-CONN て)
+
+(P-OPTR も)
+
+(VB2 い)
+
+(AX ますれ)
+
+(P-CONN ば)
+
+(PU 、)
+
+(ADJI 薄気味悪く)
+
+(P-OPTR も)
+
+(VB2 あり)
+
+(AX まし)
+
+(AXD た)
+
+(P-CONN が)
+
+(PU 、)
+
+(NP-OB1 *pro*)
+
+(N 兄)
+
+(P-ROLE が)
+
+(ADV たって)
+
+(VB 頼む)
+
+(FN もの)
+
+(AX です)
+
+(P-CONN から)
+
+(PU 、)
+
+(ADJI 仕方なく)
+
+(VB 云わ)
+
+(PASS れ)
+
+(AXD た)
+
+(N 通り)
+
+(AX に)
+
+(VB し)
+
+(P-CONN て)
+
+(NP-OB1 *pro*)
+
+(VB 覗い)
+
+(AXD た)
+
+(FN の)
+
+(AX です)
+
+(P-FINAL よ)
+
+(PU 。)
+
+(ID 254_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *speaker*)
+
+(NP-OB1 *pro*)
+
+(ADJN さかさ)
+
+(AX に)
+
+(VB 覗く)
+
+(FN の)
+
+(AX です)
+
+(P-CONN から)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(NUM 二三)
+
+(CL 間)
+
+(N 向う)
+
+(P-ROLE に)
+
+(VB 立っ)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(N 兄)
+
+(P-ROLE の)
+
+(N 姿)
+
+(P-ROLE が)
+
+(PU 、)
+
+(NUM 二)
+
+(CL 尺)
+
+(P-OPTR 位)
+
+(P-ROLE に)
+
+(ADJI 小さく)
+
+(VB なっ)
+
+(P-CONN て)
+
+(PU 、)
+
+(ADJI 小さい)
+
+(P-CONN 丈けに)
+
+(PU 、)
+
+(ADV ハッキリ)
+
+(P-ROLE と)
+
+(PU 、)
+
+(N 闇)
+
+(P-ROLE の)
+
+(N 中)
+
+(P-ROLE に)
+
+(VB 浮出し)
+
+(P-CONN て)
+
+(VB2 見える)
+
+(FN の)
+
+(AX です)
+
+(PU 。)
+
+(ID 255_aozora_Edogawa-1929;JP)
+
+(N 外)
+
+(P-ROLE の)
+
+(N 景色)
+
+(P-OPTR は)
+
+(WPRO 何)
+
+(P-OPTR も)
+
+(VB 映ら)
+
+(NEG ない)
+
+(P-CONN で)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJI 小さく)
+
+(VB なっ)
+
+(AX た)
+
+(N 兄)
+
+(P-ROLE の)
+
+(N 洋服姿)
+
+(P-OPTR 丈け)
+
+(P-ROLE が)
+
+(PU 、)
+
+(N 眼鏡)
+
+(P-ROLE の)
+
+(N 真中)
+
+(P-ROLE に)
+
+(PU 、)
+
+(ADV チンと)
+
+(VB 立っ)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(FN の)
+
+(AX です)
+
+(PU 。)
+
+(ID 256_aozora_Edogawa-1929;JP)
+
+(CONJ それが)
+
+(PU 、)
+
+(ADV 多分)
+
+(N 兄)
+
+(P-ROLE が)
+
+(N あとじさり)
+
+(P-ROLE に)
+
+(VB 歩い)
+
+(P-CONN て)
+
+(VB2 行っ)
+
+(AXD た)
+
+(FN の)
+
+(AX でしょ)
+
+(INFR う)
+
+(PU 。)
+
+(ID 257_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *pro*)
+
+(ADV 見る見る)
+
+(ADJI 小さく)
+
+(VB なっ)
+
+(P-CONN て)
+
+(PU 、)
+
+(ADV とうとう)
+
+(NP-SBJ *T*)
+
+(NUM 一)
+
+(CL 尺)
+
+(P-OPTR 位)
+
+(AX の)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(N 人形)
+
+(AX みたい)
+
+(AX な)
+
+(NP-SBJ *T*)
+
+(ADJI 可愛らしい)
+
+(N 姿)
+
+(AX に)
+
+(VB なっ)
+
+(P-CONN て)
+
+(VB2 しまい)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 258_aozora_Edogawa-1929;JP)
+
+(CONJ そして)
+
+(PU 、)
+
+(D その)
+
+(N 姿)
+
+(P-ROLE が)
+
+(PU 、)
+
+(NP-SBJ *speaker*)
+
+(NP-SBJ *pro*)
+
+(ADV ツーッと)
+
+(N 宙)
+
+(P-ROLE に)
+
+(VB 浮い)
+
+(AXD た)
+
+(P-FINAL か)
+
+(P-COMP と)
+
+(VB 見る)
+
+(P-CONN と)
+
+(PU 、)
+
+(NP-SBJ *speaker*)
+
+(INTJ アッ)
+
+(P-COMP と)
+
+(VB 思う)
+
+(N 間)
+
+(P-ROLE に)
+
+(PU 、)
+
+(N 闇)
+
+(P-ROLE の)
+
+(N 中)
+
+(P-ROLE へ)
+
+(VB 溶け込ん)
+
+(P-CONN で)
+
+(VB2 しまっ)
+
+(AXD た)
+
+(FN の)
+
+(AX で)
+
+(VB2 ござい)
+
+(AX ます)
+
+(PU 。)
+
+(ID 259_aozora_Edogawa-1929;JP)
+
+(PRO 私)
+
+(P-OPTR は)
+
+(ADJI 怖く)
+
+(VB なっ)
+
+(P-CONN て)
+
+(PU 、)
+
+(-LRB- （)
+
+(NP-SBJ *hearer*)
+
+(NP-SBJ *speaker*)
+
+(D こんな)
+
+(N こと)
+
+(P-ROLE を)
+
+(VB 申す)
+
+(P-CONN と)
+
+(PU 、)
+
+(N 年甲斐)
+
+(P-OPTR も)
+
+(ADJI ない)
+
+(P-COMP と)
+
+(VB 思召)
+
+(AX ましょ)
+
+(INFR う)
+
+(P-CONN が)
+
+(PU 、)
+
+(D その)
+
+(N 時)
+
+(P-OPTR は)
+
+(PU 、)
+
+(ADJN 本当)
+
+(AX に)
+
+(ADV ゾッと)
+
+(PU 、)
+
+(N 怖さ)
+
+(P-ROLE が)
+
+(N 身)
+
+(P-ROLE に)
+
+(VB しみ)
+
+(AXD た)
+
+(FN もの)
+
+(AX です)
+
+(P-FINAL よ)
+
+(-RRB- ）)
+
+(ADV いきなり)
+
+(N 眼鏡)
+
+(P-ROLE を)
+
+(VB 離し)
+
+(P-CONN て)
+
+(PU 、)
+
+(-LRB- 「)
+
+(N 兄さん)
+
+(-RRB- 」)
+
+(P-COMP と)
+
+(VB 呼ん)
+
+(P-CONN で)
+
+(PU 、)
+
+(N 兄)
+
+(P-ROLE の)
+
+(VB 見え)
+
+(NEG なく)
+
+(VB2 なっ)
+
+(AXD た)
+
+(N 方)
+
+(P-ROLE へ)
+
+(VB 走り)
+
+(VB2 出し)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 260_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *speaker*)
+
+(CONJ ですが)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(WADV どう)
+
+(VB し)
+
+(AXD た)
+
+(N 訳)
+
+(P-OPTR か)
+
+(PU 、)
+
+(NP-OB1 *pro*)
+
+(NP-SBJ *speaker*)
+
+(NP-OB1 *pro*)
+
+(WNUM いくら)
+
+(VB 探し)
+
+(P-CONN て)
+
+(P-OPTR も)
+
+(VB 探し)
+
+(P-CONN て)
+
+(P-OPTR も)
+
+(N 兄)
+
+(P-ROLE の)
+
+(N 姿)
+
+(P-ROLE が)
+
+(VB 見え)
+
+(AX ませ)
+
+(NEG ん)
+
+(PU 。)
+
+(ID 261_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *speaker*)
+
+(N 時間)
+
+(P-ROLE から)
+
+(VB 申し)
+
+(P-CONN て)
+
+(P-OPTR も)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(N 遠く)
+
+(P-ROLE へ)
+
+(VB 行っ)
+
+(AXD た)
+
+(N 筈)
+
+(P-OPTR は)
+
+(ADJI ない)
+
+(P-CONN のに)
+
+(PU 、)
+
+(WPRO どこ)
+
+(P-ROLE を)
+
+(VB 尋ね)
+
+(P-CONN て)
+
+(P-OPTR も)
+
+(VB 分り)
+
+(AX ませ)
+
+(NEG ん)
+
+(PU 。)
+
+(ID 262_aozora_Edogawa-1929;JP)
+
+(WADV なんと)
+
+(PU 、)
+
+(N あなた)
+
+(PU 、)
+
+(ADV こうして)
+
+(PRO 私)
+
+(P-ROLE の)
+
+(N 兄)
+
+(P-OPTR は)
+
+(PU 、)
+
+(PRO それ)
+
+(P-OPTR っきり)
+
+(PU 、)
+
+(N この世)
+
+(P-ROLE から)
+
+(N 姿)
+
+(P-ROLE を)
+
+(VB 消し)
+
+(P-CONN て)
+
+(VB2 しまっ)
+
+(AXD た)
+
+(FN の)
+
+(AX で)
+
+(VB2 ござい)
+
+(AX ます)
+
+(P-FINAL よ)
+
+(ID 263_aozora_Edogawa-1929;JP)
+
+(PU ……)
+
+(PRO それ)
+
+(N 以来)
+
+(P-ROLE という)
+
+(N もの)
+
+(PU 、)
+
+(PRO 私)
+
+(P-OPTR は)
+
+(ADV 一層)
+
+(N 遠眼鏡)
+
+(P-ROLE という)
+
+(N 魔性)
+
+(P-ROLE の)
+
+(N 器械)
+
+(P-ROLE を)
+
+(VB 恐れる)
+
+(N 様)
+
+(P-ROLE に)
+
+(VB なり)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 264_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *speaker*)
+
+(ADV 殊に)
+
+(P-OPTR も)
+
+(PU 、)
+
+(D この)
+
+(NP-SBJ *T*)
+
+(NP-SBJ *speaker*)
+
+(NP-SBJ *T*)
+
+(WPRO どこ)
+
+(P-ROLE の)
+
+(N 国)
+
+(P-ROLE の)
+
+(N 船長)
+
+(AX *)
+
+(P-COMP と)
+
+(P-OPTR も)
+
+(VB 分ら)
+
+(NEG ぬ)
+
+(PU 、)
+
+(N 異人)
+
+(P-ROLE の)
+
+(N 持物)
+
+(AX で)
+
+(VB2 あっ)
+
+(AXD た)
+
+(N 遠眼鏡)
+
+(P-ROLE が)
+
+(PU 、)
+
+(ADJN 特別)
+
+(ADJN いや)
+
+(AX でし)
+
+(P-CONN て)
+
+(PU 、)
+
+(NP-SBJ *arb*)
+
+(NP-SBJ *speaker*)
+
+(N 外)
+
+(P-ROLE の)
+
+(N 眼鏡)
+
+(P-OPTR は)
+
+(VB 知ら)
+
+(NEG ず)
+
+(PU 、)
+
+(D この)
+
+(N 眼鏡)
+
+(P-OPTR 丈け)
+
+(P-OPTR は)
+
+(PU 、)
+
+(WD どんな)
+
+(N こと)
+
+(P-ROLE が)
+
+(VB あっ)
+
+(P-CONN て)
+
+(P-OPTR も)
+
+(PU 、)
+
+(ADJN さかさ)
+
+(AX に)
+
+(VB 見)
+
+(P-CONN て)
+
+(P-OPTR は)
+
+(VB なら)
+
+(NEG ぬ)
+
+(NP-OB1 *pro*)
+
+(ADJN さかさ)
+
+(AX に)
+
+(VB 覗け)
+
+(P-CONN ば)
+
+(N 凶事)
+
+(P-ROLE が)
+
+(VB 起る)
+
+(P-COMP と)
+
+(PU 、)
+
+(ADJI 固く)
+
+(VB 信じ)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(FN の)
+
+(AX で)
+
+(VB2 ござい)
+
+(AX ます)
+
+(PU 。)
+
+(ID 265_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *hearer*)
+
+(NP-OB1 *pro*)
+
+(PRO あなた)
+
+(P-ROLE が)
+
+(ADV さっき)
+
+(PU 、)
+
+(PRO これ)
+
+(P-ROLE を)
+
+(ADJN さかさ)
+
+(AX に)
+
+(VB お持ち)
+
+(VB2 なすっ)
+
+(AXD た)
+
+(N 時)
+
+(PU 、)
+
+(PRO 私)
+
+(P-ROLE が)
+
+(VB 慌て)
+
+(P-CONN て)
+
+(VB お止め)
+
+(VB2 申し)
+
+(AXD た)
+
+(N 訳)
+
+(P-ROLE が)
+
+(VB お分り)
+
+(AX で)
+
+(VB2 ござい)
+
+(AX ましょ)
+
+(INFR う)
+
+(PU 。)
+
+(ID 266_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *pro*)
+
+(CONJ ところが)
+
+(PU 、)
+
+(NP-SBJ *speaker*)
+
+(NP-OB1 *pro*)
+
+(NP-SBJ *T*)
+
+(ADJI 長い)
+
+(N 間)
+
+(VB 探し疲れ)
+
+(P-CONN て)
+
+(PU 、)
+
+(N 元)
+
+(P-ROLE の)
+
+(N 覗き屋)
+
+(P-ROLE の)
+
+(N 前)
+
+(P-ROLE へ)
+
+(VB 戻っ)
+
+(P-CONN て)
+
+(VB2 参っ)
+
+(AXD た)
+
+(N 時)
+
+(AX でし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 267_aozora_Edogawa-1929;JP)
+
+(PRO 私)
+
+(P-OPTR は)
+
+(ADV ハタと)
+
+(D ある)
+
+(N 事)
+
+(P-ROLE に)
+
+(VB 気がつい)
+
+(AXD た)
+
+(FN の)
+
+(AX です)
+
+(PU 。)
+
+(ID 268_aozora_Edogawa-1929;JP)
+
+(NP-OB1 *T*)
+
+(NP-SBJ *speaker*)
+
+(P-COMP と)
+
+(VB 申す)
+
+(N の)
+
+(P-OPTR は)
+
+(PU 、)
+
+(N 兄)
+
+(P-OPTR は)
+
+(N 押絵)
+
+(P-ROLE の)
+
+(N 娘)
+
+(P-ROLE に)
+
+(VB 恋こがれ)
+
+(AXD た)
+
+(N 余り)
+
+(PU 、)
+
+(N 魔性)
+
+(P-ROLE の)
+
+(N 遠眼鏡)
+
+(P-ROLE の)
+
+(N 力)
+
+(P-ROLE を)
+
+(VB 借り)
+
+(P-CONN て)
+
+(PU 、)
+
+(PRO 自分)
+
+(P-ROLE の)
+
+(N 身体)
+
+(P-ROLE を)
+
+(NP-SBJ *T*)
+
+(N 押絵)
+
+(P-ROLE の)
+
+(N 娘)
+
+(P-ROLE と)
+
+(ADJN 同じ)
+
+(P-OPTR 位)
+
+(AX の)
+
+(N 大きさ)
+
+(P-ROLE に)
+
+(VB 縮め)
+
+(P-CONN て)
+
+(PU 、)
+
+(ADV ソッと)
+
+(N 押絵)
+
+(P-ROLE の)
+
+(N 世界)
+
+(P-ROLE へ)
+
+(VB 忍び込ん)
+
+(AXD だ)
+
+(FN の)
+
+(AX で)
+
+(P-OPTR は)
+
+(VB2 ある)
+
+(NEG まい)
+
+(P-FINAL か)
+
+(P-COMP という)
+
+(N こと)
+
+(AX でし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 269_aozora_Edogawa-1929;JP)
+
+(PRO そこ)
+
+(P-ROLE で)
+
+(PU 、)
+
+(PRO 私)
+
+(P-OPTR は)
+
+(NP-SBJ *T*)
+
+(ADV まだ)
+
+(N 店)
+
+(P-ROLE を)
+
+(VB かたづけ)
+
+(NEG ない)
+
+(P-CONN で)
+
+(VB2 い)
+
+(AXD た)
+
+(N 覗き屋)
+
+(P-ROLE に)
+
+(VB 頼み)
+
+(AX まし)
+
+(P-CONN て)
+
+(PU 、)
+
+(NPR 吉祥寺)
+
+(P-ROLE の)
+
+(N 場)
+
+(P-ROLE を)
+
+(VB 見せ)
+
+(P-CONN て)
+
+(VB2 貰い)
+
+(AX まし)
+
+(AXD た)
+
+(P-CONN が)
+
+(PU 、)
+
+(WADV なんと)
+
+(N あなた)
+
+(PU 、)
+
+(ADV 案の定)
+
+(PU 、)
+
+(N 兄)
+
+(P-OPTR は)
+
+(N 押絵)
+
+(AX に)
+
+(VB なっ)
+
+(P-CONN て)
+
+(PU 、)
+
+(N カンテラ)
+
+(P-ROLE の)
+
+(N 光り)
+
+(P-ROLE の)
+
+(N 中)
+
+(P-ROLE で)
+
+(PU 、)
+
+(NPR 吉三)
+
+(P-ROLE の)
+
+(N 代り)
+
+(AX に)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJI 嬉し)
+
+(AX 相)
+
+(AX な)
+
+(N 顔)
+
+(P-ROLE を)
+
+(VB し)
+
+(P-CONN て)
+
+(PU 、)
+
+(NPR お七)
+
+(P-ROLE を)
+
+(VB 抱きしめ)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AXD た)
+
+(AX で)
+
+(P-OPTR は)
+
+(VB2 あり)
+
+(AX ませ)
+
+(NEG ん)
+
+(P-FINAL か)
+
+(PU 。)
+
+(ID 270_aozora_Edogawa-1929;JP)
+
+(CONJ でもね)
+
+(PU 、)
+
+(PRO 私)
+
+(P-OPTR は)
+
+(NP-SBJ *pro*)
+
+(ADJI 悲しい)
+
+(P-COMP と)
+
+(P-OPTR は)
+
+(VB 思い)
+
+(AX ませ)
+
+(NEG ん)
+
+(P-CONN で)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(CONJ そうして)
+
+(N 本望)
+
+(P-ROLE を)
+
+(VB 達し)
+
+(AXD た)
+
+(PU 、)
+
+(N 兄)
+
+(P-ROLE の)
+
+(N 仕合せ)
+
+(P-ROLE が)
+
+(PU 、)
+
+(N 涙)
+
+(P-ROLE の)
+
+(VB 出る)
+
+(P-OPTR 程)
+
+(ADJI 嬉しかっ)
+
+(AXD た)
+
+(FN もの)
+
+(AX です)
+
+(P-FINAL よ)
+
+(PU 。)
+
+(ID 271_aozora_Edogawa-1929;JP)
+
+(PRO 私)
+
+(P-OPTR は)
+
+(NP-SBJ *hearer*)
+
+(D その)
+
+(N 絵)
+
+(P-ROLE を)
+
+(WADV どんな)
+
+(AX に)
+
+(ADJI 高く)
+
+(P-CONN て)
+
+(P-OPTR も)
+
+(ADJI よい)
+
+(P-CONN から)
+
+(PU 、)
+
+(ADV 必ず)
+
+(PRO 私)
+
+(P-ROLE に)
+
+(VB 譲っ)
+
+(P-CONN て)
+
+(VB2 くれ)
+
+(P-COMP と)
+
+(PU 、)
+
+(N 覗き屋)
+
+(P-ROLE に)
+
+(NP-SBJ *T*)
+
+(ADJI 固い)
+
+(N 約束)
+
+(P-ROLE を)
+
+(VB し)
+
+(P-CONN て)
+
+(PU 、)
+
+(-LRB- （)
+
+(NP-SBJ *T*)
+
+(ADJN 妙)
+
+(AX な)
+
+(N こと)
+
+(P-ROLE に)
+
+(PU 、)
+
+(N 小姓)
+
+(P-ROLE の)
+
+(NPR 吉三)
+
+(P-ROLE の)
+
+(N 代り)
+
+(AX に)
+
+(N 洋服姿)
+
+(P-ROLE の)
+
+(N 兄)
+
+(P-ROLE が)
+
+(VB 坐っ)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(N の)
+
+(P-ROLE を)
+
+(PU 、)
+
+(N 覗き屋)
+
+(P-OPTR は)
+
+(PP-OB1 *ICH*-1)
+
+(ADV 少し)
+
+(P-OPTR も)
+
+(VB 気がつか)
+
+(NEG ない)
+
+(N 様子)
+
+(AX でし)
+
+(AXD た)
+
+(-RRB- ）)
+
+(N 家)
+
+(P-ROLE へ)
+
+(VB 飛ん)
+
+(P-CONN で)
+
+(VB 帰っ)
+
+(P-CONN て)
+
+(PU 、)
+
+(N 一伍一什)
+
+(P-ROLE を)
+
+(N 母)
+
+(P-ROLE に)
+
+(VB 告げ)
+
+(AX まし)
+
+(AXD た)
+
+(N 所)
+
+(PU 、)
+
+(N 父)
+
+(P-CONN も)
+
+(N 母)
+
+(P-CONN も)
+
+(PU 、)
+
+(NP-SBJ *hearer*)
+
+(WPRO 何)
+
+(P-ROLE を)
+
+(VB 云う)
+
+(FN の)
+
+(AX だ)
+
+(PU 。)
+
+(PRO お前)
+
+(P-OPTR は)
+
+(N 気)
+
+(P-OPTR でも)
+
+(VB 違っ)
+
+(AXD た)
+
+(FN の)
+
+(AX じゃ)
+
+(NEG ない)
+
+(P-FINAL か)
+
+(P-COMP と)
+
+(VB 申し)
+
+(P-CONN て)
+
+(PU 、)
+
+(NP-SBJ *speaker*)
+
+(WPRO 何)
+
+(P-ROLE と)
+
+(VB 云っ)
+
+(P-CONN て)
+
+(P-OPTR も)
+
+(VB 取上げ)
+
+(P-CONN て)
+
+(VB2 くれ)
+
+(AX ませ)
+
+(NEG ん)
+
+(PU 。)
+
+(ID 272_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *pro*)
+
+(ADJI おかしい)
+
+(AX じゃ)
+
+(VB2 あり)
+
+(AX ませ)
+
+(NEG ん)
+
+(P-FINAL か)
+
+(PU 。)
+
+(ID 273_aozora_Edogawa-1929;JP)
+
+(INTJ ハハハハハハ)
+
+(-RRB- 」)
+
+(ID 274_aozora_Edogawa-1929;JP)
+
+(N 老人)
+
+(P-OPTR は)
+
+(PU 、)
+
+(PRO そこ)
+
+(P-ROLE で)
+
+(PU 、)
+
+(ADV さも)
+
+(ADV さも)
+
+(NP-SBJ *pro*)
+
+(ADJN 滑稽)
+
+(AX だ)
+
+(P-COMP と)
+
+(VB 云わ)
+
+(NEG ぬ)
+
+(P-OPTR ばかり)
+
+(AX に)
+
+(VB 笑い)
+
+(VB2 出し)
+
+(AXD た)
+
+(PU 。)
+
+(ID 275_aozora_Edogawa-1929;JP)
+
+(CONJ そして)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJN 変)
+
+(AX な)
+
+(N こと)
+
+(P-ROLE に)
+
+(P-OPTR は)
+
+(PU 、)
+
+(PRO 私)
+
+(P-OPTR も)
+
+(ADV 亦)
+
+(PU 、)
+
+(N 老人)
+
+(P-ROLE に)
+
+(VB 同感)
+
+(VB0 し)
+
+(P-CONN て)
+
+(PU 、)
+
+(N 一緒)
+
+(AX に)
+
+(VB なっ)
+
+(P-CONN て)
+
+(PU 、)
+
+(ADV ゲラゲラ)
+
+(P-ROLE と)
+
+(VB 笑っ)
+
+(AXD た)
+
+(FN の)
+
+(AX で)
+
+(VB2 ある)
+
+(PU 。)
+
+(ID 276_aozora_Edogawa-1929;JP)
+
+(-LRB- 「)
+
+(D あの)
+
+(N 人たち)
+
+(P-OPTR は)
+
+(PU 、)
+
+(N 人間)
+
+(P-OPTR は)
+
+(N 押絵)
+
+(P-OPTR なんぞ)
+
+(AX に)
+
+(VB なる)
+
+(N もの)
+
+(AX じゃ)
+
+(NEG ない)
+
+(P-COMP と)
+
+(VB 思い込ん)
+
+(P-CONN で)
+
+(VB2 い)
+
+(AXD た)
+
+(FN の)
+
+(AX です)
+
+(P-FINAL よ)
+
+(PU 。)
+
+(ID 277_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *arb*)
+
+(CONJ でも)
+
+(NP-SBJ *pro*)
+
+(N 押絵)
+
+(AX に)
+
+(VB なっ)
+
+(AXD た)
+
+(N 証拠)
+
+(P-ROLE に)
+
+(P-OPTR は)
+
+(PU 、)
+
+(D その)
+
+(N 後)
+
+(N 兄)
+
+(P-ROLE の)
+
+(N 姿)
+
+(P-ROLE が)
+
+(PU 、)
+
+(ADV ふっつり)
+
+(P-ROLE と)
+
+(PU 、)
+
+(N この世)
+
+(P-ROLE から)
+
+(VB 見え)
+
+(NEG なく)
+
+(VB2 なっ)
+
+(P-CONN て)
+
+(VB2 しまっ)
+
+(AXD た)
+
+(AX じゃ)
+
+(VB2 あり)
+
+(AX ませ)
+
+(NEG ん)
+
+(P-FINAL か)
+
+(PU 。)
+
+(ID 278_aozora_Edogawa-1929;JP)
+
+(PRO それ)
+
+(P-ROLE を)
+
+(P-OPTR も)
+
+(PU 、)
+
+(D あの)
+
+(N 人たち)
+
+(P-OPTR は)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(VB 家出)
+
+(VB0 し)
+
+(AXD た)
+
+(FN の)
+
+(AX だ)
+
+(P-OPTR なんぞ)
+
+(P-COMP と)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADV まるで)
+
+(N 見当違い)
+
+(AX な)
+
+(N 当て推量)
+
+(P-ROLE を)
+
+(VB し)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(FN の)
+
+(AX です)
+
+(P-FINAL よ)
+
+(PU 。)
+
+(ID 279_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *pro*)
+
+(ADJI おかしい)
+
+(AX です)
+
+(P-FINAL ね)
+
+(PU 。)
+
+(ID 280_aozora_Edogawa-1929;JP)
+
+(ADV 結局)
+
+(PU 、)
+
+(PRO 私)
+
+(P-OPTR は)
+
+(WPRO 何)
+
+(P-ROLE と)
+
+(VB 云わ)
+
+(PASS れ)
+
+(P-CONN て)
+
+(P-OPTR も)
+
+(VB 構わ)
+
+(NEG ず)
+
+(PU 、)
+
+(N 母)
+
+(P-ROLE に)
+
+(N お金)
+
+(P-ROLE を)
+
+(VB ねだっ)
+
+(P-CONN て)
+
+(PU 、)
+
+(ADV とうとう)
+
+(D その)
+
+(N 覗き絵)
+
+(P-ROLE を)
+
+(VB 手に入れ)
+
+(PU 、)
+
+(PRO それ)
+
+(P-ROLE を)
+
+(VB 持っ)
+
+(P-CONN て)
+
+(PU 、)
+
+(NPR 箱根)
+
+(P-ROLE から)
+
+(NPR 鎌倉)
+
+(P-ROLE の)
+
+(N 方)
+
+(P-ROLE へ)
+
+(N 旅)
+
+(P-ROLE を)
+
+(VB し)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 281_aozora_Edogawa-1929;JP)
+
+(PRO それ)
+
+(P-OPTR は)
+
+(P-FINAL ね)
+
+(PU 、)
+
+(NP-SBJ *speaker*)
+
+(N 兄)
+
+(P-ROLE に)
+
+(N 新婚旅行)
+
+(P-ROLE が)
+
+(VB さ)
+
+(VB2 せ)
+
+(P-CONN て)
+
+(VB2 やり)
+
+(AX たかっ)
+
+(AXD た)
+
+(P-CONN から)
+
+(AX です)
+
+(P-FINAL よ)
+
+(PU 。)
+
+(ID 282_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *speaker*)
+
+(ADV こうして)
+
+(N 汽車)
+
+(P-ROLE に)
+
+(VB 乗っ)
+
+(P-CONN て)
+
+(VB2 居り)
+
+(AX ます)
+
+(P-CONN と)
+
+(PU 、)
+
+(D その)
+
+(N 時)
+
+(P-ROLE の)
+
+(N こと)
+
+(P-ROLE を)
+
+(VB 思い出し)
+
+(P-CONN て)
+
+(VB2 なり)
+
+(AX ませ)
+
+(NEG ん)
+
+(PU 。)
+
+(ID 283_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *speaker*)
+
+(ADV やっぱり)
+
+(PU 、)
+
+(NP-SBJ *exp*)
+
+(N 今日)
+
+(P-ROLE の)
+
+(N 様)
+
+(AX に)
+
+(PU 、)
+
+(D この)
+
+(N 絵)
+
+(P-ROLE を)
+
+(N 窓)
+
+(P-ROLE に)
+
+(VB 立てかけ)
+
+(P-CONN て)
+
+(PU 、)
+
+(N 兄)
+
+(P-CONN や)
+
+(N 兄)
+
+(P-ROLE の)
+
+(N 恋人)
+
+(P-ROLE に)
+
+(PU 、)
+
+(N 外)
+
+(P-ROLE の)
+
+(N 景色)
+
+(P-ROLE を)
+
+(VB 見せ)
+
+(P-CONN て)
+
+(VB2 やっ)
+
+(AXD た)
+
+(FN の)
+
+(AX です)
+
+(P-CONN から)
+
+(P-FINAL ね)
+
+(PU 。)
+
+(ID 284_aozora_Edogawa-1929;JP)
+
+(N 兄)
+
+(P-OPTR は)
+
+(WADV どんな)
+
+(AX に)
+
+(P-OPTR か)
+
+(ADJN 仕合せ)
+
+(AX で)
+
+(VB2 ござい)
+
+(AX まし)
+
+(AXD たろ)
+
+(INFR う)
+
+(PU 。)
+
+(ID 285_aozora_Edogawa-1929;JP)
+
+(N 娘)
+
+(P-ROLE の)
+
+(N 方)
+
+(P-OPTR でも)
+
+(PU 、)
+
+(N 兄)
+
+(P-ROLE の)
+
+(NP-SBJ *T*)
+
+(PRO これ)
+
+(P-OPTR 程)
+
+(AX の)
+
+(N 真心)
+
+(P-ROLE を)
+
+(PU 、)
+
+(WADV どうして)
+
+(ADJN いや)
+
+(AX に)
+
+(VB 思い)
+
+(AX ましょ)
+
+(INFR う)
+
+(PU 。)
+
+(ID 286_aozora_Edogawa-1929;JP)
+
+(NUM 二人)
+
+(P-OPTR は)
+
+(NP-SBJ *T*)
+
+(N 本当)
+
+(AX の)
+
+(N 新婚者)
+
+(P-ROLE の)
+
+(N 様)
+
+(AX に)
+
+(PU 、)
+
+(ADJI 恥かし)
+
+(AX 相)
+
+(AX に)
+
+(N 顔)
+
+(P-ROLE を)
+
+(VB 赤らめ)
+
+(P-CONN ながら)
+
+(PU 、)
+
+(N お互)
+
+(P-ROLE の)
+
+(N 肌)
+
+(P-CONN と)
+
+(N 肌)
+
+(P-CONN と)
+
+(P-ROLE を)
+
+(VB 触れ合っ)
+
+(P-CONN て)
+
+(PU 、)
+
+(ADV さも)
+
+(ADJI むつまじく)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(VB 尽き)
+
+(NEG ぬ)
+
+(N 睦言)
+
+(P-ROLE を)
+
+(VB 語り合っ)
+
+(AXD た)
+
+(FN もの)
+
+(AX で)
+
+(VB2 ござい)
+
+(AX ます)
+
+(P-FINAL よ)
+
+(PU 。)
+
+(ID 287_aozora_Edogawa-1929;JP)
+
+(D その)
+
+(N 後)
+
+(PU 、)
+
+(N 父)
+
+(P-OPTR は)
+
+(NPR 東京)
+
+(P-ROLE の)
+
+(N 商売)
+
+(P-ROLE を)
+
+(VB たたみ)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(N 富山近く)
+
+(AX の)
+
+(N 故郷)
+
+(P-ROLE へ)
+
+(VB 引込み)
+
+(AX まし)
+
+(AXD た)
+
+(P-CONN ので)
+
+(PU 、)
+
+(PRO それ)
+
+(P-ROLE につれて)
+
+(PU 、)
+
+(PRO 私)
+
+(P-OPTR も)
+
+(ADV ずっと)
+
+(PRO そこ)
+
+(P-ROLE に)
+
+(VB 住ん)
+
+(P-CONN で)
+
+(VB2 居り)
+
+(AX ます)
+
+(P-CONN が)
+
+(PU 、)
+
+(NP-SBJ *speaker*)
+
+(NP-SBJ *exp*)
+
+(PRO あれ)
+
+(P-ROLE から)
+
+(ADV もう)
+
+(NUM 三十)
+
+(CL 年)
+
+(P-ROLE の)
+
+(N 余)
+
+(AX に)
+
+(VB なり)
+
+(AX ます)
+
+(P-CONN ので)
+
+(PU 、)
+
+(NP-SBJ *speaker*)
+
+(N 久々)
+
+(P-ROLE で)
+
+(N 兄)
+
+(P-ROLE に)
+
+(P-OPTR も)
+
+(NP-SBJ *T*)
+
+(VB 変っ)
+
+(AX た)
+
+(NPR 東京)
+
+(P-ROLE が)
+
+(VB 見せ)
+
+(P-CONN て)
+
+(VB2 やり)
+
+(AX 度い)
+
+(P-COMP と)
+
+(VB 思い)
+
+(AX まし)
+
+(P-CONN て)
+
+(P-INTJ ね)
+
+(PU 、)
+
+(ADV こうして)
+
+(N 兄)
+
+(P-ROLE と)
+
+(N 一緒)
+
+(P-ROLE に)
+
+(N 旅)
+
+(P-ROLE を)
+
+(VB し)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(FN 訳)
+
+(AX で)
+
+(VB2 ござい)
+
+(AX ます)
+
+(P-FINAL よ)
+
+(PU 。)
+
+(ID 288_aozora_Edogawa-1929;JP)
+
+(CONJ ところが)
+
+(PU 、)
+
+(PRO あなた)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJI 悲しい)
+
+(N こと)
+
+(P-ROLE に)
+
+(P-OPTR は)
+
+(PU 、)
+
+(N 娘)
+
+(P-ROLE の)
+
+(N 方)
+
+(P-OPTR は)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(WNUM いくら)
+
+(VB 生き)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(P-COMP と)
+
+(P-OPTR は)
+
+(VB 云え)
+
+(PU 、)
+
+(ADV 元々)
+
+(NP-OB1 *T*)
+
+(N 人)
+
+(P-ROLE の)
+
+(VB 拵え)
+
+(AXD た)
+
+(N もの)
+
+(AX です)
+
+(P-CONN から)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(N 年)
+
+(P-ROLE を)
+
+(VB とる)
+
+(P-COMP という)
+
+(N こと)
+
+(P-ROLE が)
+
+(VB あり)
+
+(AX ませ)
+
+(NEG ん)
+
+(P-CONN けれど)
+
+(PU 、)
+
+(N 兄)
+
+(P-ROLE の)
+
+(N 方)
+
+(P-OPTR は)
+
+(PU 、)
+
+(N 押絵)
+
+(AX に)
+
+(VB なっ)
+
+(P-CONN て)
+
+(P-OPTR も)
+
+(PU 、)
+
+(PRO それ)
+
+(P-OPTR は)
+
+(ADV 無理やり)
+
+(P-ROLE に)
+
+(N 形)
+
+(P-ROLE を)
+
+(VB 変え)
+
+(AXD た)
+
+(P-OPTR まで)
+
+(AX で)
+
+(PU 、)
+
+(N 根)
+
+(P-ROLE が)
+
+(NP-SBJ *T*)
+
+(N 寿命)
+
+(P-ROLE の)
+
+(VB ある)
+
+(N 人間)
+
+(P-ROLE の)
+
+(N こと)
+
+(AX です)
+
+(P-CONN から)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(PRO 私達)
+
+(P-ROLE と)
+
+(ADJN 同じ)
+
+(AX *)
+
+(N 様)
+
+(AX に)
+
+(N 年)
+
+(P-ROLE を)
+
+(VB とっ)
+
+(P-CONN て)
+
+(VB2 参り)
+
+(AX ます)
+
+(PU 。)
+
+(ID 289_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *hearer*)
+
+(NP-OB1 *pro*)
+
+(VB 御覧)
+
+(VB2 下さい)
+
+(AX まし)
+
+(PU 、)
+
+(ID 290_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *T*)
+
+(NP-SBJ *T*)
+
+(NUM 二十五)
+
+(CL 歳)
+
+(AX の)
+
+(N 美少年)
+
+(AX で)
+
+(VB2 あっ)
+
+(AXD た)
+
+(N 兄)
+
+(P-ROLE が)
+
+(PU 、)
+
+(ADV もう)
+
+(D あの)
+
+(N 様)
+
+(AX に)
+
+(N 白髪)
+
+(AX に)
+
+(VB なっ)
+
+(P-CONN て)
+
+(PU 、)
+
+(N 顔)
+
+(P-ROLE に)
+
+(P-OPTR は)
+
+(NP-SBJ *T*)
+
+(ADJI 醜い)
+
+(N 皺)
+
+(P-ROLE が)
+
+(VB 寄っ)
+
+(P-CONN て)
+
+(VB2 しまい)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 291_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *pro*)
+
+(N 兄)
+
+(P-ROLE の)
+
+(N 身)
+
+(P-ROLE にとって)
+
+(P-OPTR は)
+
+(PU 、)
+
+(WADV どんな)
+
+(AX に)
+
+(P-OPTR か)
+
+(NP-SBJ *T*)
+
+(ADJI 悲しい)
+
+(N こと)
+
+(AX で)
+
+(VB2 ござい)
+
+(AX ましょ)
+
+(INFR う)
+
+(PU 。)
+
+(ID 292_aozora_Edogawa-1929;JP)
+
+(N 相手)
+
+(P-ROLE の)
+
+(N 娘)
+
+(P-OPTR は)
+
+(WPRO いつ)
+
+(P-ROLE まで)
+
+(P-OPTR も)
+
+(ADJI 若く)
+
+(P-CONN て)
+
+(ADJI 美しい)
+
+(P-CONN のに)
+
+(PU 、)
+
+(PRO 自分)
+
+(P-OPTR ばかり)
+
+(P-ROLE が)
+
+(ADJI 汚く)
+
+(VB 老込ん)
+
+(P-CONN で)
+
+(VB2 行く)
+
+(FN の)
+
+(AX です)
+
+(P-FINAL もの)
+
+(PU 。)
+
+(ID 293_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *pro*)
+
+(NP-SBJ *T*)
+
+(ADJI 恐ろしい)
+
+(N こと)
+
+(AX です)
+
+(PU 。)
+
+(ID 294_aozora_Edogawa-1929;JP)
+
+(N 兄)
+
+(P-OPTR は)
+
+(NP-SBJ *T*)
+
+(ADJN 悲しげ)
+
+(AX な)
+
+(N 顔)
+
+(P-ROLE を)
+
+(VB し)
+
+(P-CONN て)
+
+(VB2 居り)
+
+(AX ます)
+
+(PU 。)
+
+(ID 295_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *pro*)
+
+(NUM 数)
+
+(CL 年)
+
+(N 以前)
+
+(P-ROLE から)
+
+(PU 、)
+
+(WPRO いつ)
+
+(P-OPTR も)
+
+(D あんな)
+
+(NP-SBJ *T*)
+
+(ADJI 苦し)
+
+(AX 相)
+
+(AX な)
+
+(N 顔)
+
+(P-ROLE を)
+
+(VB し)
+
+(P-CONN て)
+
+(VB2 居り)
+
+(AX ます)
+
+(PU 。)
+
+(ID 296_aozora_Edogawa-1929;JP)
+
+(PRO それ)
+
+(P-ROLE を)
+
+(VB 思う)
+
+(P-CONN と)
+
+(PU 、)
+
+(PRO 私)
+
+(P-OPTR は)
+
+(N 兄)
+
+(P-ROLE が)
+
+(ADJN 気の毒)
+
+(AX で)
+
+(ADJI 仕様がない)
+
+(FN の)
+
+(AX で)
+
+(VB2 ござい)
+
+(AX ます)
+
+(P-FINAL よ)
+
+(-RRB- 」)
+
+(ID 297_aozora_Edogawa-1929;JP)
+
+(N 老人)
+
+(P-OPTR は)
+
+(ADJN 暗然)
+
+(AX と)
+
+(VB し)
+
+(P-CONN て)
+
+(N 押絵)
+
+(P-ROLE の)
+
+(N 中)
+
+(P-ROLE の)
+
+(N 老人)
+
+(P-ROLE を)
+
+(VB 見やっ)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AXD た)
+
+(P-CONN が)
+
+(PU 、)
+
+(ADV やがて)
+
+(PU 、)
+
+(ADV ふと)
+
+(VB 気がつい)
+
+(AXD た)
+
+(N 様)
+
+(AX に)
+
+(PU 、)
+
+(-LRB- 「)
+
+(NP-SBJ *speaker*)
+
+(INTJ アア)
+
+(PU 、)
+
+(PNL 飛んだ)
+
+(N 長話)
+
+(P-ROLE を)
+
+(VB 致し)
+
+(AX まし)
+
+(AXD た)
+
+(PU 。)
+
+(NP-OB1 *pro*)
+
+(CONJ 併し)
+
+(PU 、)
+
+(PRO あなた)
+
+(P-OPTR は)
+
+(VB 分っ)
+
+(P-CONN て)
+
+(VB2 下さい)
+
+(AX まし)
+
+(AXD た)
+
+(AX でしょう)
+
+(P-FINAL ね)
+
+(PU 。)
+
+(NP-SBJ *hearer*)
+
+(N 外)
+
+(P-ROLE の)
+
+(N 人達)
+
+(P-ROLE の)
+
+(N 様)
+
+(AX に)
+
+(PU 、)
+
+(PRO 私)
+
+(P-ROLE を)
+
+(NP-SBJ *pro*)
+
+(N 気違い)
+
+(AX だ)
+
+(P-COMP と)
+
+(P-OPTR は)
+
+(VB おっしゃい)
+
+(AX ませ)
+
+(NEG ん)
+
+(AX でしょう)
+
+(P-FINAL ね)
+
+(PU 。)
+
+(INTJ アア)
+
+(PU 、)
+
+(PRO それ)
+
+(P-ROLE で)
+
+(PRO 私)
+
+(P-OPTR も)
+
+(N 話甲斐)
+
+(P-ROLE が)
+
+(VB あっ)
+
+(AXD た)
+
+(P-COMP と)
+
+(VB 申す)
+
+(FN もの)
+
+(AX です)
+
+(P-FINAL よ)
+
+(PU 。)
+
+(INTJ どれ)
+
+(PU 、)
+
+(N 兄さん達)
+
+(P-OPTR も)
+
+(VB くたびれ)
+
+(AXD た)
+
+(AX でしょう)
+
+(PU 。)
+
+(NP-SBJ *pro*)
+
+(NP-SBJ *speaker*)
+
+(PRO それ)
+
+(P-ROLE に)
+
+(PU 、)
+
+(PRO あなた方)
+
+(P-ROLE を)
+
+(N 前)
+
+(P-ROLE に)
+
+(VB 置い)
+
+(P-CONN て)
+
+(PU 、)
+
+(D あんな)
+
+(N 話)
+
+(P-ROLE を)
+
+(VB し)
+
+(AX まし)
+
+(AXD た)
+
+(P-CONN ので)
+
+(PU 、)
+
+(ADV さぞかし)
+
+(VB 恥かしがっ)
+
+(P-CONN て)
+
+(VB2 おいで)
+
+(AX でしょう)
+
+(PU 。)
+
+(NP-SBJ *speaker*)
+
+(NP-CZZ *pro*)
+
+(CONJ では)
+
+(PU 、)
+
+(N 今)
+
+(VB やすま)
+
+(VB2 せ)
+
+(P-CONN て)
+
+(VB2 上げ)
+
+(AX ます)
+
+(P-FINAL よ)
+
+(-RRB- 」)
+
+(P-COMP と)
+
+(VB 云い)
+
+(P-CONN ながら)
+
+(PU 、)
+
+(N 押絵)
+
+(P-ROLE の)
+
+(N 額)
+
+(P-ROLE を)
+
+(PU 、)
+
+(ADV ソッと)
+
+(NP-SBJ *T*)
+
+(ADJI 黒い)
+
+(N 風呂敷)
+
+(P-ROLE に)
+
+(VB 包む)
+
+(FN の)
+
+(AX で)
+
+(VB2 あっ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 298_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *speaker*)
+
+(D その)
+
+(N 刹那)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(PRO 私)
+
+(P-ROLE の)
+
+(N 気)
+
+(P-ROLE の)
+
+(N せい)
+
+(AX で)
+
+(VB2 あっ)
+
+(AXD た)
+
+(FN の)
+
+(P-FINAL か)
+
+(PU 、)
+
+(N 押絵)
+
+(P-ROLE の)
+
+(N 人形達)
+
+(P-ROLE の)
+
+(N 顔)
+
+(P-ROLE が)
+
+(PU 、)
+
+(ADV 少し)
+
+(VB くずれ)
+
+(P-CONN て)
+
+(PU 、)
+
+(ADV 一寸)
+
+(ADJI 恥かし)
+
+(AX 相)
+
+(AX に)
+
+(PU 、)
+
+(N 唇)
+
+(P-ROLE の)
+
+(N 隅)
+
+(P-ROLE で)
+
+(PU 、)
+
+(PRO 私)
+
+(P-ROLE に)
+
+(N 挨拶)
+
+(P-ROLE の)
+
+(N 微笑)
+
+(P-ROLE を)
+
+(VB 送っ)
+
+(AXD た)
+
+(N 様)
+
+(AX に)
+
+(VB 見え)
+
+(AXD た)
+
+(FN の)
+
+(AX で)
+
+(VB2 ある)
+
+(PU 。)
+
+(ID 299_aozora_Edogawa-1929;JP)
+
+(N 老人)
+
+(P-OPTR は)
+
+(PRO それ)
+
+(P-OPTR きり)
+
+(VB 黙り込ん)
+
+(P-CONN で)
+
+(VB2 しまっ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 300_aozora_Edogawa-1929;JP)
+
+(PRO 私)
+
+(P-OPTR も)
+
+(VB 黙っ)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AXD た)
+
+(PU 。)
+
+(ID 301_aozora_Edogawa-1929;JP)
+
+(N 汽車)
+
+(P-OPTR は)
+
+(ADJI 相も変らず)
+
+(PU 、)
+
+(ADV ゴトンゴトン)
+
+(P-ROLE と)
+
+(NP-SBJ *T*)
+
+(ADJI 鈍い)
+
+(N 音)
+
+(P-ROLE を)
+
+(VB 立て)
+
+(P-CONN て)
+
+(PU 、)
+
+(N 闇)
+
+(P-ROLE の)
+
+(N 中)
+
+(P-ROLE を)
+
+(VB 走っ)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AXD た)
+
+(PU 。)
+
+(ID 302_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *speaker+pro*)
+
+(NUM 十)
+
+(CL 分)
+
+(P-OPTR ばかり)
+
+(ADV そう)
+
+(VB し)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(P-CONN と)
+
+(PU 、)
+
+(N 車輪)
+
+(P-ROLE の)
+
+(N 音)
+
+(P-ROLE が)
+
+(ADJI のろく)
+
+(VB なっ)
+
+(P-CONN て)
+
+(PU 、)
+
+(NP-SBJ *speaker*)
+
+(N 窓)
+
+(P-ROLE の)
+
+(N 外)
+
+(P-ROLE に)
+
+(ADV チラチラ)
+
+(P-ROLE と)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(NUM 二)
+
+(CL つ)
+
+(NUM 三)
+
+(CL つ)
+
+(AX の)
+
+(N 燈火)
+
+(P-ROLE が)
+
+(VB 見え)
+
+(PU 、)
+
+(N 汽車)
+
+(P-OPTR は)
+
+(PU 、)
+
+(NP-OB1 *T*)
+
+(NP-SBJ *speaker*)
+
+(WPRO どこ)
+
+(P-ROLE と)
+
+(P-OPTR も)
+
+(VB 知れ)
+
+(NEG ぬ)
+
+(N 山間)
+
+(P-ROLE の)
+
+(N 小駅)
+
+(P-ROLE に)
+
+(VB 停車)
+
+(VB0 し)
+
+(AXD た)
+
+(PU 。)
+
+(ID 303_aozora_Edogawa-1929;JP)
+
+(NP-SBJ *speaker*)
+
+(NP *T*)
+
+(P-ROLE *.e*)
+
+(N 駅員)
+
+(P-ROLE が)
+
+(ADV たった)
+
+(NUM 一人)
+
+(PU 、)
+
+(ADV ぽっつり)
+
+(P-ROLE と)
+
+(PU 、)
+
+(N プラットフォーム)
+
+(P-ROLE に)
+
+(VB 立っ)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(N の)
+
+(P-ROLE が)
+
+(VB 見え)
+
+(AXD た)
+
+(PU 。)
+
+(ID 304_aozora_Edogawa-1929;JP)
+
+(-LRB- 「)
+
+(CONJ では)
+
+(N お先)
+
+(P-ROLE へ)
+
+(PU 、)
+
+(PRO 私)
+
+(P-OPTR は)
+
+(NUM 一)
+
+(CL 晩)
+
+(PRO ここ)
+
+(P-ROLE の)
+
+(N 親戚)
+
+(P-ROLE へ)
+
+(VB 泊り)
+
+(AX ます)
+
+(P-CONN ので)
+
+(-RRB- 」)
+
+(ID 305_aozora_Edogawa-1929;JP)
+
+(N 老人)
+
+(P-OPTR は)
+
+(N 額)
+
+(P-ROLE の)
+
+(N 包み)
+
+(P-ROLE を)
+
+(VB 抱)
+
+(P-CONN て)
+
+(ADV ヒョイと)
+
+(VB 立上り)
+
+(PU 、)
+
+(D そんな)
+
+(N 挨拶)
+
+(P-ROLE を)
+
+(VB 残し)
+
+(P-CONN て)
+
+(PU 、)
+
+(N 車)
+
+(P-ROLE の)
+
+(N 外)
+
+(P-ROLE へ)
+
+(VB 出)
+
+(P-CONN て)
+
+(VB2 行っ)
+
+(AXD た)
+
+(P-CONN が)
+
+(PU 、)
+
+(NP-SBJ *speaker*)
+
+(NP-OB1 *pro*)
+
+(N 窓)
+
+(P-ROLE から)
+
+(VB 見)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(P-CONN と)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJI 細長い)
+
+(N 老人)
+
+(P-ROLE の)
+
+(N 後姿)
+
+(P-OPTR は)
+
+(-LRB- （)
+
+(PRO それ)
+
+(P-ROLE が)
+
+(WADV 何と)
+
+(NP-SBJ *T*)
+
+(N 押絵)
+
+(P-ROLE の)
+
+(N 老人)
+
+(D その)
+
+(N まま)
+
+(AX の)
+
+(N 姿)
+
+(AX で)
+
+(VB あっ)
+
+(AXD た)
+
+(P-FINAL か)
+
+(-RRB- ）)
+
+(NP-SBJ *speaker*)
+
+(NP-SBJ *pro*)
+
+(NP-SBJ *T*)
+
+(ADJN 簡略)
+
+(AX な)
+
+(N 柵)
+
+(P-ROLE の)
+
+(N 所)
+
+(P-ROLE で)
+
+(PU 、)
+
+(N 駅員)
+
+(P-ROLE に)
+
+(N 切符)
+
+(P-ROLE を)
+
+(VB 渡し)
+
+(AXD た)
+
+(P-FINAL か)
+
+(P-COMP と)
+
+(VB 見る)
+
+(P-CONN と)
+
+(PU 、)
+
+(D その)
+
+(N まま)
+
+(PU 、)
+
+(N 背後)
+
+(P-ROLE の)
+
+(N 闇)
+
+(P-ROLE の)
+
+(N 中)
+
+(P-ROLE へ)
+
+(NP-SBJ *pro*)
+
+(VB 溶け込む)
+
+(N 様)
+
+(AX に)
+
+(VB 消え)
+
+(P-CONN て)
+
+(VB2 行っ)
+
+(AXD た)
+
+(FN の)
+
+(AX で)
+
+(VB2 ある)
+
+(PU 。)
+
+(ID 306_aozora_Edogawa-1929;JP)
+

@@ -1,0 +1,11540 @@
+(COMMENT
+  {file
+  checked
+  by
+  Kishiyama
+  2017/04/18
+  })
+
+(COMMENT
+  {file
+  checked
+  by
+  Kishiyama
+  2017/04/18
+  })
+
+(COMMENT
+  {file
+  checked
+  by
+  Kishiyama
+  2017/04/18
+  })
+
+(COMMENT
+  {file
+  checked
+  by
+  Kishiyama
+  2017/04/18
+  })
+
+(COMMENT
+  {file
+  checked
+  by
+  Kishiyama
+  2017/04/18
+  })
+
+(COMMENT
+  {file
+  checked
+  by
+  Kishiyama
+  2017/04/18
+  })
+
+(NPR 鼠坂)
+
+(ID 1_aozora_Mori-1912;JP)
+
+(NPR 森鴎外)
+
+(ID 2_aozora_Mori-1912;JP)
+
+(NPR 小日向)
+
+(P-ROLE から)
+
+(NPR 音羽)
+
+(P-ROLE へ)
+
+(VB 降りる)
+
+(NPR 鼠坂)
+
+(P-ROLE と云う)
+
+(N 坂)
+
+(P-ROLE が)
+
+(VB ある)
+
+(PU 。)
+
+(ID 3_aozora_Mori-1912;JP)
+
+(NP-SBJ *pro*)
+
+(NP-OB1 *T*)
+
+(NP-SBJ *pro*)
+
+(NP-SBJ *arb*)
+
+(N 鼠)
+
+(AX で)
+
+(NEG なくて)
+
+(P-OPTR は)
+
+(N 上がり降り)
+
+(P-ROLE が)
+
+(VB 出来)
+
+(NEG ない)
+
+(P-COMP と云う)
+
+(N 意味)
+
+(P-ROLE で)
+
+(VB 附け)
+
+(AXD た)
+
+(N 名)
+
+(AX だ)
+
+(FN そう)
+
+(AX だ)
+
+(PU 。)
+
+(ID 4_aozora_Mori-1912;JP)
+
+(NP-SBJ *pro*)
+
+(NPR 台町)
+
+(P-ROLE の)
+
+(N 方)
+
+(P-ROLE から)
+
+(N 坂)
+
+(P-ROLE の)
+
+(N 上)
+
+(P-ROLE まで)
+
+(P-OPTR は)
+
+(N 人力車)
+
+(P-ROLE が)
+
+(VB 通う)
+
+(P-CONN が)
+
+(PU 、)
+
+(NP-SBJ *arb*)
+
+(N 左側)
+
+(P-ROLE に)
+
+(NP-SBJ *pro*)
+
+(NP-OB1 *T*)
+
+(ADV 近頃)
+
+(VB 刈り込ん)
+
+(AXD だ)
+
+(N 事)
+
+(P-ROLE の)
+
+(ADJI なさ)
+
+(AX そう)
+
+(AX な)
+
+(N 生垣)
+
+(P-ROLE を)
+
+(VB 見)
+
+(P-CONN て)
+
+(N 右側)
+
+(P-ROLE に)
+
+(NP-SBJ *T*)
+
+(ADJI 広い)
+
+(N 邸跡)
+
+(P-ROLE を)
+
+(NP-SBJ *T*)
+
+(ADJI 大きい)
+
+(N 松)
+
+(P-ROLE が)
+
+(NUM 一)
+
+(CL 本)
+
+(N 我物顔)
+
+(P-ROLE に)
+
+(VB 占め)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(N 赤土)
+
+(P-ROLE の)
+
+(N 地盤)
+
+(P-ROLE を)
+
+(VB 見)
+
+(P-CONN ながら)
+
+(PU 、)
+
+(PRO ここ)
+
+(P-ROLE から)
+
+(P-ROLE が)
+
+(N 坂)
+
+(AX だ)
+
+(P-COMP と)
+
+(VB 思う)
+
+(N 辺)
+
+(P-ROLE まで)
+
+(VB 来る)
+
+(P-CONN と)
+
+(PU 、)
+
+(ADV 突然)
+
+(NP-SBJ *T*)
+
+(N 勾配)
+
+(P-ROLE の)
+
+(ADJI 強い)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJI 狭い)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(VB 曲りくねっ)
+
+(AX た)
+
+(N 小道)
+
+(AX に)
+
+(VB なる)
+
+(PU 。)
+
+(ID 5_aozora_Mori-1912;JP)
+
+(NP-SBJ *arb*)
+
+(N 人力車)
+
+(P-ROLE に)
+
+(VB 乗っ)
+
+(P-CONN て)
+
+(VB 降り)
+
+(VB2 られ)
+
+(NEG ない)
+
+(N の)
+
+(P-OPTR は)
+
+(ADV 勿論)
+
+(PU 、)
+
+(NP-OB1 *pro*)
+
+(N 空車)
+
+(AX に)
+
+(VB し)
+
+(P-CONN て)
+
+(NP-CZZ *pro*)
+
+(NP-OB1 *pro*)
+
+(VB 挽か)
+
+(VB2 せ)
+
+(P-CONN て)
+
+(VB 降りる)
+
+(N こと)
+
+(P-OPTR も)
+
+(VB 出来)
+
+(NEG ない)
+
+(PU 。)
+
+(ID 6_aozora_Mori-1912;JP)
+
+(NP-SBJ *arb*)
+
+(N 車)
+
+(P-ROLE を)
+
+(VB 降り)
+
+(P-CONN て)
+
+(N 徒歩)
+
+(P-ROLE で)
+
+(VB 降りる)
+
+(N こと)
+
+(P-OPTR さえ)
+
+(PU 、)
+
+(N 雨上がり)
+
+(P-OPTR なんぞ)
+
+(P-ROLE に)
+
+(P-OPTR は)
+
+(ADJI むずかしい)
+
+(PU 。)
+
+(ID 7_aozora_Mori-1912;JP)
+
+(NPR 鼠坂)
+
+(P-ROLE の)
+
+(N 名)
+
+(PU 、)
+
+(ADJN 真)
+
+(AX に)
+
+(ADJN 虚しからず)
+
+(AX で)
+
+(VB2 ある)
+
+(PU 。)
+
+(ID 8_aozora_Mori-1912;JP)
+
+(NP-LOC *T*)
+
+(D その)
+
+(N 松)
+
+(P-ROLE の)
+
+(N 木)
+
+(P-ROLE の)
+
+(VB 生え)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(N 明屋敷)
+
+(P-ROLE が)
+
+(ADJI 久しく)
+
+(N 子供)
+
+(P-ROLE の)
+
+(N 遊場)
+
+(AX に)
+
+(VB なっ)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AXD た)
+
+(FN ところ)
+
+(AX *)
+
+(P-CONN が)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(N 去年)
+
+(P-ROLE の)
+
+(N 暮)
+
+(P-ROLE から)
+
+(PRO そこ)
+
+(P-ROLE へ)
+
+(NP-SBJ *T*)
+
+(ADJI 大きい)
+
+(N 材木)
+
+(P-CONN や)
+
+(PU 、)
+
+(N 御蔭石)
+
+(P-ROLE を)
+
+(VB 運び)
+
+(VB2 はじめ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 9_aozora_Mori-1912;JP)
+
+(NP-SBJ *pro*)
+
+(NP-OB1 *pro*)
+
+(NPR 音羽)
+
+(P-ROLE の)
+
+(N 通)
+
+(P-ROLE まで)
+
+(N 牛車)
+
+(P-ROLE で)
+
+(VB 運ん)
+
+(P-CONN で)
+
+(VB2 来)
+
+(P-CONN て)
+
+(PU 、)
+
+(NPR 鼠坂)
+
+(P-ROLE の)
+
+(N 傍)
+
+(P-ROLE へ)
+
+(N 足場)
+
+(P-ROLE を)
+
+(VB 掛け)
+
+(P-CONN たり)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(NP-SBJ *exp*)
+
+(N 汽船)
+
+(P-ROLE に)
+
+(N 荷物)
+
+(P-ROLE を)
+
+(VB 載せる)
+
+(N Crane)
+
+(P-ROLE と云う)
+
+(N もの)
+
+(P-ROLE に)
+
+(VB 似)
+
+(AX た)
+
+(N 器械)
+
+(P-ROLE を)
+
+(VB 据え)
+
+(VB2 附け)
+
+(P-CONN たり)
+
+(VB2 し)
+
+(P-CONN て)
+
+(PU 、)
+
+(NP-OB1 *pro*)
+
+(VB 吊り上げる)
+
+(FN の)
+
+(AX で)
+
+(VB2 ある)
+
+(PU 。)
+
+(ID 10_aozora_Mori-1912;JP)
+
+(N 職人)
+
+(P-ROLE が)
+
+(Q 大勢)
+
+(VB 這入る)
+
+(PU 。)
+
+(ID 11_aozora_Mori-1912;JP)
+
+(N 大工)
+
+(P-OPTR は)
+
+(N 木)
+
+(P-ROLE を)
+
+(VB 削る)
+
+(PU 。)
+
+(ID 12_aozora_Mori-1912;JP)
+
+(N 石屋)
+
+(P-OPTR は)
+
+(N 石)
+
+(P-ROLE を)
+
+(VB 切る)
+
+(PU 。)
+
+(ID 13_aozora_Mori-1912;JP)
+
+(NP-SBJ *exp*)
+
+(NUM 二)
+
+(CL 箇月)
+
+(VB 立つ)
+
+(P-OPTR か)
+
+(VB 立た)
+
+(NEG ない)
+
+(N うち)
+
+(P-ROLE に)
+
+(PU 、)
+
+(NP-OB1 *T*)
+
+(NP-SBJ *pro*)
+
+(N 和洋折衷)
+
+(P-OPTR とか)
+
+(VB 云う)
+
+(FN よう)
+
+(AX な)
+
+(PU 、)
+
+(N 二階家)
+
+(P-ROLE が)
+
+(VB 建築)
+
+(VB0 せ)
+
+(PASS られる)
+
+(PU 。)
+
+(ID 14_aozora_Mori-1912;JP)
+
+(NP-SBJ *T*)
+
+(N 黒塗)
+
+(AX の)
+
+(N 高塀)
+
+(P-ROLE が)
+
+(VB 繞らさ)
+
+(PASS れる)
+
+(PU 。)
+
+(ID 15_aozora_Mori-1912;JP)
+
+(ADV とうとう)
+
+(NP-SBJ *T*)
+
+(ADJN 立派)
+
+(AX な)
+
+(N 邸宅)
+
+(P-ROLE が)
+
+(VB 出来上がっ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 16_aozora_Mori-1912;JP)
+
+(N 近所)
+
+(P-ROLE の)
+
+(N 人)
+
+(P-OPTR は)
+
+(VB 驚い)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(PU 。)
+
+(ID 17_aozora_Mori-1912;JP)
+
+(NP-SBJ *pro*)
+
+(NP-SBJ *pro*)
+
+(N 材木)
+
+(P-ROLE が)
+
+(VB 運び)
+
+(VB2 始め)
+
+(PASS られる)
+
+(N 頃)
+
+(P-ROLE から)
+
+(PU 、)
+
+(WPRO 誰)
+
+(P-ROLE が)
+
+(N 建築)
+
+(P-ROLE を)
+
+(VB する)
+
+(FN の)
+
+(AX だろ)
+
+(INFR う)
+
+(P-COMP と)
+
+(VB 云っ)
+
+(P-CONN て)
+
+(PU 、)
+
+(NP-OB1 *pro*)
+
+(ADJI ひどく)
+
+(VB 気にし)
+
+(P-CONN て)
+
+(NP-OB1 *pro*)
+
+(VB 問い合せる)
+
+(P-CONN と)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(NPR 深淵さん)
+
+(AX だ)
+
+(P-COMP と)
+
+(VB 云う)
+
+(PU 。)
+
+(ID 18_aozora_Mori-1912;JP)
+
+(NPR 深淵)
+
+(P-ROLE と云う)
+
+(N 人)
+
+(P-OPTR は)
+
+(NP-SBJ *T*)
+
+(ADJI 大きい)
+
+(N 官員)
+
+(P-ROLE に)
+
+(P-OPTR は)
+
+(ADJI ない)
+
+(PU 。)
+
+(ID 19_aozora_Mori-1912;JP)
+
+(NP-SBJ *pro*)
+
+(NP-OB1 *pro*)
+
+(N 実業家)
+
+(P-ROLE に)
+
+(P-OPTR も)
+
+(ADV まだ)
+
+(VB 聞か)
+
+(NEG ない)
+
+(PU 。)
+
+(ID 20_aozora_Mori-1912;JP)
+
+(NP-SBJ *pro*)
+
+(NP-SBJ *pro*)
+
+(WD どんな)
+
+(N 身の上)
+
+(P-ROLE の)
+
+(N 人)
+
+(AX だろ)
+
+(INFR う)
+
+(P-COMP と)
+
+(VB 疑っ)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(PU 。)
+
+(ID 21_aozora_Mori-1912;JP)
+
+(D その)
+
+(N うち)
+
+(WPRO 誰)
+
+(P-OPTR やら)
+
+(P-ROLE が)
+
+(NP-OB1 *pro*)
+
+(WPRO どこ)
+
+(P-ROLE から)
+
+(P-OPTR か)
+
+(VB 聞き出し)
+
+(P-CONN て)
+
+(VB2 来)
+
+(P-CONN て)
+
+(PU 、)
+
+(PRO あれ)
+
+(P-OPTR は)
+
+(NP-SBJ *T*)
+
+(N 戦争)
+
+(AX の)
+
+(N 時)
+
+(NPR 満洲)
+
+(P-ROLE で)
+
+(N 金)
+
+(P-ROLE を)
+
+(VB 儲け)
+
+(AXD た)
+
+(N 人)
+
+(AX だ)
+
+(FN そう)
+
+(AX だ)
+
+(P-COMP と)
+
+(VB 云う)
+
+(PU 。)
+
+(ID 22_aozora_Mori-1912;JP)
+
+(CONJ それで)
+
+(NP-SBJ *T*)
+
+(NP-OB1 *pro*)
+
+(VB 物珍らしがる)
+
+(N 人達)
+
+(P-ROLE が)
+
+(VB 安心)
+
+(VB0 し)
+
+(AXD た)
+
+(PU 。)
+
+(ID 23_aozora_Mori-1912;JP)
+
+(NP-SBJ *pro*)
+
+(N 建築)
+
+(P-ROLE の)
+
+(VB 出来上がっ)
+
+(AXD た)
+
+(N 時)
+
+(PU 、)
+
+(NP-OB1 *T*)
+
+(NP-SBJ *pro*)
+
+(NP-SBJ *T*)
+
+(N 高塀)
+
+(P-ROLE と)
+
+(ADJN 同じ)
+
+(AX *)
+
+(N 黒塗)
+
+(AX に)
+
+(VB し)
+
+(AX た)
+
+(N 門)
+
+(P-ROLE を)
+
+(VB 見る)
+
+(P-CONN と)
+
+(PU 、)
+
+(ADV なるほど)
+
+(NPR 深淵)
+
+(P-ROLE と云う)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(NP-OB1 *pro*)
+
+(NP-SBJ *T*)
+
+(ADJN 俗)
+
+(AX な)
+
+(N 隷書)
+
+(P-ROLE で)
+
+(VB 書い)
+
+(AX た)
+
+(N 陶器)
+
+(P-ROLE の)
+
+(N 札)
+
+(P-ROLE が)
+
+(PU 、)
+
+(N 電話番号)
+
+(P-ROLE の)
+
+(N 札)
+
+(P-ROLE と)
+
+(VB 並べ)
+
+(P-CONN て)
+
+(VB 掛け)
+
+(P-CONN て)
+
+(PASS *)
+
+(VB2 ある)
+
+(PU 。)
+
+(ID 24_aozora_Mori-1912;JP)
+
+(NP-SBJ *pro*)
+
+(WADV いかに)
+
+(P-OPTR も)
+
+(NP-SBJ *T*)
+
+(ADJN 立派)
+
+(AX な)
+
+(N 邸)
+
+(AX で)
+
+(P-OPTR は)
+
+(VB2 ある)
+
+(P-CONN が)
+
+(PU 、)
+
+(ADV なんとなく)
+
+(N 様式離れ)
+
+(P-ROLE の)
+
+(VB し)
+
+(AX た)
+
+(PU 、)
+
+(N 趣味)
+
+(P-ROLE の)
+
+(ADJI 無い)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(CONJ そして)
+
+(ADJN 陰気)
+
+(AX な)
+
+(N 構造)
+
+(P-ROLE の)
+
+(N よう)
+
+(AX に)
+
+(VB 感ぜ)
+
+(VB2 られる)
+
+(PU 。)
+
+(ID 25_aozora_Mori-1912;JP)
+
+(NP-SBJ *pro*)
+
+(NPR 番町)
+
+(P-ROLE の)
+
+(NP-OB1 *T*)
+
+(NP-SBJ *pro*)
+
+(NPR 阿久沢)
+
+(P-OPTR とか)
+
+(VB 云う)
+
+(N 家)
+
+(P-ROLE に)
+
+(VB 似)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(PU 。)
+
+(ID 26_aozora_Mori-1912;JP)
+
+(NP-OB1 *pro*)
+
+(NP-SBJ *pro*)
+
+(NUM 一)
+
+(CL 歩)
+
+(P-ROLE を)
+
+(VB 進め)
+
+(P-CONN て)
+
+(NP-OB1 *pro*)
+
+(VB 言え)
+
+(P-CONN ば)
+
+(PU 、)
+
+(NP-OB1 *pro*)
+
+(NP-SBJ *T*)
+
+(ADJN 古風)
+
+(AX な)
+
+(N 人)
+
+(P-ROLE に)
+
+(P-OPTR は)
+
+(PU 、)
+
+(NPR 西遊記)
+
+(P-ROLE の)
+
+(N 怪物)
+
+(P-ROLE の)
+
+(VB 住み)
+
+(AX そう)
+
+(AX な)
+
+(N 家)
+
+(P-ROLE と)
+
+(P-OPTR も)
+
+(VB 見え)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJN 現代的)
+
+(AX な)
+
+(N 人)
+
+(P-ROLE に)
+
+(P-OPTR は)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(NPR マアテルリンク)
+
+(P-ROLE の)
+
+(N 戯曲)
+
+(P-ROLE に)
+
+(VB あり)
+
+(AX そう)
+
+(AX な)
+
+(N 家)
+
+(P-ROLE と)
+
+(P-OPTR も)
+
+(VB 思わ)
+
+(VB2 れる)
+
+(AX だろう)
+
+(PU 。)
+
+(ID 27_aozora_Mori-1912;JP)
+
+(NP-SBJ *pro*)
+
+(NUM 二)
+
+(CL 月)
+
+(NUM 十七)
+
+(CL 日)
+
+(P-ROLE の)
+
+(N 晩)
+
+(AX で)
+
+(VB2 あっ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 28_aozora_Mori-1912;JP)
+
+(N 奥)
+
+(P-ROLE の)
+
+(NP-SBJ *T*)
+
+(NUM 八)
+
+(CL 畳)
+
+(AX の)
+
+(N 座敷)
+
+(P-ROLE に)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(NUM 二人)
+
+(AX の)
+
+(N 客)
+
+(P-ROLE が)
+
+(VB あっ)
+
+(P-CONN て)
+
+(PU 、)
+
+(N 酒酣)
+
+(AX に)
+
+(VB なっ)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(PU 。)
+
+(ID 29_aozora_Mori-1912;JP)
+
+(N 座敷)
+
+(P-OPTR は)
+
+(ADV 極めて)
+
+(ADJN 殺風景)
+
+(AX に)
+
+(VB 出来)
+
+(P-CONN て)
+
+(VB2 い)
+
+(P-CONN て)
+
+(PU 、)
+
+(N 床の間)
+
+(P-ROLE に)
+
+(P-OPTR は)
+
+(NP-SBJ *T*)
+
+(ADJI いかがわしい)
+
+(NPR 文晁)
+
+(P-ROLE の)
+
+(N 大幅)
+
+(P-ROLE が)
+
+(VB 掛け)
+
+(P-CONN て)
+
+(PASS *)
+
+(VB2 ある)
+
+(PU 。)
+
+(ID 30_aozora_Mori-1912;JP)
+
+(NP-SBJ *T*)
+
+(VB 肥満)
+
+(VB0 し)
+
+(AX た)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(N 赤ら顔)
+
+(AX の)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(N 八字髭)
+
+(P-ROLE の)
+
+(ADJI 濃い)
+
+(N 主人)
+
+(P-ROLE を)
+
+(N 始)
+
+(AX と)
+
+(VB し)
+
+(P-CONN て)
+
+(PU 、)
+
+(N 客)
+
+(P-ROLE の)
+
+(N 傍)
+
+(P-ROLE に)
+
+(P-OPTR も)
+
+(NP *T*)
+
+(P-ROLE *に*)
+
+(NP-SBJ *pro*)
+
+(NP-SBJ *T*)
+
+(NP-SBJ *T*)
+
+(ADV 一々)
+
+(ADJI 毒々しい)
+
+(N 緑色)
+
+(AX の)
+
+(N 切れ)
+
+(P-ROLE を)
+
+(VB 張っ)
+
+(AX た)
+
+(N 脇息)
+
+(P-ROLE が)
+
+(VB 置い)
+
+(P-CONN て)
+
+(PASS *)
+
+(VB2 ある)
+
+(PU 。)
+
+(ID 31_aozora_Mori-1912;JP)
+
+(NP-SBJ *T*)
+
+(N 杯盤)
+
+(P-ROLE の)
+
+(N 世話)
+
+(P-ROLE を)
+
+(VB 焼い)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(N の)
+
+(P-OPTR は)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(N 色)
+
+(P-ROLE の)
+
+(ADJI 蒼い)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(N 髪)
+
+(P-ROLE の)
+
+(ADJI 薄い)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(N 目)
+
+(P-ROLE が)
+
+(ADJI 好く)
+
+(VB 働い)
+
+(P-CONN て)
+
+(PU 、)
+
+(CONJ しかも)
+
+(ADJN 不愛相)
+
+(AX な)
+
+(N 年増)
+
+(AX で)
+
+(PU 、)
+
+(PRO これ)
+
+(P-ROLE が)
+
+(N 主人)
+
+(P-ROLE の)
+
+(N 女房)
+
+(AX *)
+
+(AX らしい)
+
+(PU 。)
+
+(ID 32_aozora_Mori-1912;JP)
+
+(NP-SBJ *pro*)
+
+(N 座敷)
+
+(P-ROLE から)
+
+(N 人物)
+
+(P-ROLE まで)
+
+(PU 、)
+
+(Q 総て)
+
+(NP-SBJ *T*)
+
+(NP-SBJ *arb*)
+
+(N 新開地)
+
+(P-ROLE の)
+
+(N 料理店)
+
+(P-ROLE で)
+
+(VB 見る)
+
+(N よう)
+
+(AX な)
+
+(N 光景)
+
+(P-ROLE を)
+
+(VB 呈し)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(PU 。)
+
+(ID 33_aozora_Mori-1912;JP)
+
+(-LRB- 「)
+
+(WPRO なん)
+
+(P-OPTR にしろ)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(Q 大勢)
+
+(VB 行っ)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AXD た)
+
+(FN の)
+
+(AX だ)
+
+(P-CONN が)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJN 本当)
+
+(AX に)
+
+(N 財産)
+
+(P-ROLE を)
+
+(VB 拵え)
+
+(AXD た)
+
+(N 人)
+
+(P-OPTR は)
+
+(PU 、)
+
+(N 晨星寥々)
+
+(P-FINAL さ)
+
+(PU 。)
+
+(ID 34_aozora_Mori-1912;JP)
+
+(NP-SBJ *exp*)
+
+(N 戦争)
+
+(P-ROLE が)
+
+(VB 始まっ)
+
+(P-CONN て)
+
+(P-CONN から)
+
+(P-OPTR は)
+
+(N 丸)
+
+(NUM 一)
+
+(CL 年)
+
+(AX に)
+
+(VB なる)
+
+(PU 。)
+
+(ID 35_aozora_Mori-1912;JP)
+
+(NP-SBJ *pro*)
+
+(NPR 旅順)
+
+(P-OPTR は)
+
+(VB 落ちる)
+
+(P-COMP と云う)
+
+(N 時期)
+
+(P-ROLE に)
+
+(PU 、)
+
+(N 身上)
+
+(P-ROLE の)
+
+(VB 有る)
+
+(P-OPTR だけ)
+
+(P-ROLE を)
+
+(N 酒)
+
+(P-ROLE に)
+
+(VB し)
+
+(P-CONN て)
+
+(PU 、)
+
+(NP-OB1 *pro*)
+
+(NP-SBJ *pro*)
+
+(N 漁師仲間)
+
+(P-ROLE を)
+
+(NPR 大連)
+
+(P-ROLE へ)
+
+(VB 送る)
+
+(N 舟)
+
+(P-ROLE の)
+
+(N 底積)
+
+(P-ROLE に)
+
+(VB し)
+
+(P-CONN て)
+
+(VB 乗り出す)
+
+(P-COMP と云う)
+
+(N の)
+
+(P-OPTR は)
+
+(PU 、)
+
+(N 着眼)
+
+(P-ROLE が)
+
+(ADJI 好かっ)
+
+(AXD た)
+
+(P-FINAL よ)
+
+(PU 。)
+
+(ID 36_aozora_Mori-1912;JP)
+
+(NP-SBJ *T*)
+
+(ADJN 肝心)
+
+(AX の)
+
+(N 漁師)
+
+(P-ROLE の)
+
+(N 宰領)
+
+(P-OPTR は)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(N 為事)
+
+(P-OPTR は)
+
+(VB 当っ)
+
+(AXD た)
+
+(P-CONN が)
+
+(PU 、)
+
+(N 金)
+
+(P-OPTR は)
+
+(ADV 大して)
+
+(VB 儲け)
+
+(NEG なかっ)
+
+(AXD た)
+
+(P-CONN のに)
+
+(PU 、)
+
+(NP-OB1 *pro*)
+
+(NP-SBJ *pro*)
+
+(N 内)
+
+(P-ROLE で)
+
+(P-OPTR は)
+
+(N 酒)
+
+(P-OPTR なら)
+
+(WPRO 幾ら)
+
+(P-OPTR でも)
+
+(VB 売れる)
+
+(P-COMP と云う)
+
+(N 所)
+
+(P-ROLE へ)
+
+(VB 持ち込ん)
+
+(AXD だ)
+
+(FN の)
+
+(AX だ)
+
+(P-CONN から)
+
+(PU 、)
+
+(ADJI 旨く)
+
+(VB 行っ)
+
+(AXD た)
+
+(FN の)
+
+(AX だ)
+
+(PU 。)
+
+(-RRB- 」)
+
+(ID 37_aozora_Mori-1912;JP)
+
+(NP-SBJ *T*)
+
+(ADV こう)
+
+(VB 云った)
+
+(NP-SBJ *T*)
+
+(NUM 一人)
+
+(AX の)
+
+(N 客)
+
+(P-OPTR は)
+
+(ADV 大ぶ)
+
+(N 酒)
+
+(P-ROLE が)
+
+(VB 利い)
+
+(P-CONN て)
+
+(PU 、)
+
+(N 話)
+
+(P-ROLE の)
+
+(N 途中)
+
+(P-ROLE で)
+
+(PU 、)
+
+(ADV 折々)
+
+(N 舌)
+
+(P-ROLE の)
+
+(N 運転)
+
+(P-ROLE が)
+
+(ADJI 悪く)
+
+(VB なっ)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(PU 。)
+
+(ID 38_aozora_Mori-1912;JP)
+
+(NP-SBJ *T*)
+
+(N 渋紙)
+
+(P-ROLE の)
+
+(N よう)
+
+(AX な)
+
+(N 顔)
+
+(P-ROLE に)
+
+(PU 、)
+
+(N 胡麻塩鬚)
+
+(P-ROLE が)
+
+(N 中伸び)
+
+(P-ROLE に)
+
+(VB 伸び)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(PU 。)
+
+(ID 39_aozora_Mori-1912;JP)
+
+(NP-SBJ *pro*)
+
+(NP-SBJ *T*)
+
+(N 支那語)
+
+(P-ROLE の)
+
+(N 通訳)
+
+(P-ROLE を)
+
+(VB し)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AXD た)
+
+(N 男)
+
+(AX で)
+
+(VB2 ある)
+
+(PU 。)
+
+(ID 40_aozora_Mori-1912;JP)
+
+(-LRB- 「)
+
+(NP-SBJ *pro*)
+
+(N 度胸)
+
+(AX だ)
+
+(P-FINAL ね)
+
+(-RRB- 」)
+
+(P-COMP と)
+
+(NP-SBJ *T*)
+
+(ADV 今)
+
+(NUM 一人)
+
+(AX の)
+
+(N 客)
+
+(P-ROLE が)
+
+(N 合槌)
+
+(PRN *ICH*-1)
+
+(P-ROLE を)
+
+(VB 打っ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 41_aozora_Mori-1912;JP)
+
+(-LRB- 「)
+
+(NP-SBJ *pro*)
+
+(NP-SBJ *T*)
+
+(NPR 鞍山站)
+
+(P-ROLE まで)
+
+(N 酒)
+
+(P-ROLE を)
+
+(VB 運ん)
+
+(AXD だ)
+
+(N ちゃん車)
+
+(P-ROLE の)
+
+(N 主)
+
+(P-ROLE を)
+
+(VB 縛り上げ)
+
+(P-CONN て)
+
+(PU 、)
+
+(NP-OB1 *T*)
+
+(NP-SBJ *pro*)
+
+(N 道)
+
+(P-ROLE で)
+
+(VB 拾っ)
+
+(AXD た)
+
+(N 針金)
+
+(P-ROLE を)
+
+(N 懐)
+
+(P-ROLE に)
+
+(VB 捩じ込ん)
+
+(P-CONN で)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(N 軍用電信)
+
+(P-ROLE を)
+
+(VB 切っ)
+
+(AXD た)
+
+(N 嫌疑者)
+
+(AX に)
+
+(VB し)
+
+(P-CONN て)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJN 正直)
+
+(AX な)
+
+(N 憲兵)
+
+(P-ROLE を)
+
+(VB 騙し)
+
+(P-CONN て)
+
+(VB 引き渡し)
+
+(P-CONN て)
+
+(VB2 しまう)
+
+(P-COMP なんと云う)
+
+(N 為組)
+
+(P-OPTR は)
+
+(PU 、)
+
+(N 外)
+
+(P-ROLE の)
+
+(N もの)
+
+(P-ROLE に)
+
+(P-OPTR は)
+
+(VB 出来)
+
+(NEG ない)
+
+(P-FINAL よ)
+
+(PU 。)
+
+(-RRB- 」)
+
+(ID 42_aozora_Mori-1912;JP)
+
+(NP-SBJ *T*)
+
+(ADV こう)
+
+(VB 云っ)
+
+(AXD た)
+
+(N の)
+
+(P-OPTR は)
+
+(NP-SBJ *T*)
+
+(NP-SBJ *T*)
+
+(N 濃紺)
+
+(AX の)
+
+(N ジャケツ)
+
+(P-ROLE の)
+
+(N 下)
+
+(P-ROLE に)
+
+(NP-SBJ *T*)
+
+(ADJN はで)
+
+(AX な)
+
+(N チョッキ)
+
+(P-ROLE を)
+
+(VB 着)
+
+(AX た)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(N 色)
+
+(P-ROLE の)
+
+(ADJI 白い)
+
+(N 新聞記者)
+
+(AX で)
+
+(VB2 ある)
+
+(PU 。)
+
+(ID 43_aozora_Mori-1912;JP)
+
+(D この)
+
+(N 時)
+
+(NP-SBJ *T*)
+
+(NP-SBJ *T*)
+
+(ADJN 小綺麗)
+
+(AX な)
+
+(N 顔)
+
+(P-ROLE を)
+
+(VB し)
+
+(AX た)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(N 田舎出)
+
+(AX *)
+
+(AX らしい)
+
+(N 女中)
+
+(P-ROLE が)
+
+(PU 、)
+
+(N 燗)
+
+(P-ROLE を)
+
+(VB 附け)
+
+(AX た)
+
+(N 銚子)
+
+(P-ROLE を)
+
+(VB 持っ)
+
+(P-CONN て)
+
+(VB2 来)
+
+(P-CONN て)
+
+(PU 、)
+
+(N 障子)
+
+(P-ROLE を)
+
+(VB 開け)
+
+(P-CONN て)
+
+(NP-OB1 *pro*)
+
+(VB 出す)
+
+(P-CONN と)
+
+(N 主人)
+
+(P-ROLE が)
+
+(N 女房)
+
+(P-ROLE に)
+
+(N 目食わせ)
+
+(P-ROLE を)
+
+(VB し)
+
+(AXD た)
+
+(PU 。)
+
+(ID 44_aozora_Mori-1912;JP)
+
+(N 女房)
+
+(P-OPTR は)
+
+(N 銚子)
+
+(P-ROLE を)
+
+(ADJN 忙しげ)
+
+(AX に)
+
+(VB 受け取っ)
+
+(P-CONN て)
+
+(PU 、)
+
+(N 女中)
+
+(P-ROLE に)
+
+(-LRB- 「)
+
+(NP-SBJ *speaker*)
+
+(N 用)
+
+(P-ROLE が)
+
+(VB あれ)
+
+(P-CONN ば)
+
+(N ベル)
+
+(P-ROLE を)
+
+(VB 鳴らす)
+
+(P-FINAL よ)
+
+(PU 、)
+
+(NP-SBJ *speaker*)
+
+(N ちりんちりん)
+
+(P-ROLE を)
+
+(VB 鳴らす)
+
+(P-FINAL よ)
+
+(PU 、)
+
+(NP-SBJ *hearer*)
+
+(PRO あっち)
+
+(P-ROLE へ)
+
+(VB 行っ)
+
+(P-CONN て)
+
+(VB2 お出)
+
+(-RRB- 」)
+
+(P-COMP と)
+
+(VB 云っ)
+
+(P-CONN て)
+
+(PU 、)
+
+(N 障子)
+
+(P-ROLE を)
+
+(VB 締め)
+
+(AXD た)
+
+(PU 。)
+
+(ID 45_aozora_Mori-1912;JP)
+
+(N 新聞記者)
+
+(P-OPTR は)
+
+(N 詞)
+
+(P-ROLE を)
+
+(VB 続い)
+
+(AXD だ)
+
+(PU 。)
+
+(ID 46_aozora_Mori-1912;JP)
+
+(-LRB- 「)
+
+(PRO それ)
+
+(P-OPTR は)
+
+(VB 好い)
+
+(P-CONN が)
+
+(PU 、)
+
+(N 先生)
+
+(PRO 自分)
+
+(P-ROLE で)
+
+(N 鞭)
+
+(P-ROLE を)
+
+(VB 持っ)
+
+(P-CONN て)
+
+(PU 、)
+
+(ADV ひゅあひゅあ)
+
+(ADV しょあしょあ)
+
+(P-OPTR とか)
+
+(WPRO なん)
+
+(P-OPTR とか)
+
+(VB 云っ)
+
+(P-CONN て)
+
+(PU 、)
+
+(N ぬかるみ道)
+
+(P-ROLE を)
+
+(VB 前進)
+
+(VB0 し)
+
+(INFR よう)
+
+(P-COMP と)
+
+(VB2 し)
+
+(AXD た)
+
+(P-CONN ところが)
+
+(PU 、)
+
+(N 騾馬)
+
+(P-CONN やら)
+
+(PU 、)
+
+(N 驢馬)
+
+(P-CONN やら)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJN ちっぽけ)
+
+(AX な)
+
+(N 牛)
+
+(P-CONN やら)
+
+(P-ROLE が)
+
+(PU 、)
+
+(ADV ちっとも)
+
+(NP-OB1 *T*)
+
+(NP-SBJ *hearer*)
+
+(VB 言う)
+
+(N こと)
+
+(P-ROLE を)
+
+(VB 聞か)
+
+(NEG ない)
+
+(P-CONN で)
+
+(PU 、)
+
+(N 綱)
+
+(P-ROLE が)
+
+(VB こんがらかっ)
+
+(P-CONN て)
+
+(PU 、)
+
+(N 高粱)
+
+(P-ROLE の)
+
+(N 切株)
+
+(N だらけ)
+
+(P-ROLE の)
+
+(N 畑中)
+
+(P-ROLE に)
+
+(N 立往生)
+
+(P-ROLE を)
+
+(VB し)
+
+(AXD た)
+
+(N の)
+
+(P-OPTR は)
+
+(PU 、)
+
+(ADJN 滑稽)
+
+(AX だっ)
+
+(AXD た)
+
+(P-FINAL ね)
+
+(PU 。)
+
+(-RRB- 」)
+
+(ID 47_aozora_Mori-1912;JP)
+
+(N 記者)
+
+(P-OPTR は)
+
+(N 主人)
+
+(P-ROLE の)
+
+(N 顔)
+
+(P-ROLE を)
+
+(ADV じろり)
+
+(P-ROLE と)
+
+(VB 見)
+
+(AXD た)
+
+(PU 。)
+
+(ID 48_aozora_Mori-1912;JP)
+
+(N 主人)
+
+(P-OPTR は)
+
+(N 苦笑)
+
+(P-ROLE を)
+
+(VB し)
+
+(P-CONN て)
+
+(PU 、)
+
+(N 酒)
+
+(P-ROLE を)
+
+(ADV ちびりちびり)
+
+(VB 飲ん)
+
+(P-CONN で)
+
+(VB2 いる)
+
+(PU 。)
+
+(ID 49_aozora_Mori-1912;JP)
+
+(NP-SBJ *T*)
+
+(N 通訳あがり)
+
+(AX の)
+
+(N 男)
+
+(P-OPTR は)
+
+(PU 、)
+
+(WPRO 何)
+
+(P-OPTR か)
+
+(VB 思い出し)
+
+(P-CONN て)
+
+(N 舌舐ずり)
+
+(P-ROLE を)
+
+(VB し)
+
+(AXD た)
+
+(PU 。)
+
+(ID 50_aozora_Mori-1912;JP)
+
+(-LRB- 「)
+
+(N お蔭)
+
+(P-ROLE で)
+
+(PRO 我々)
+
+(P-ROLE が)
+
+(N 久し振)
+
+(P-ROLE に)
+
+(N 大牢)
+
+(P-ROLE の)
+
+(N 味い)
+
+(P-ROLE に)
+
+(VB 有り附い)
+
+(AXD た)
+
+(FN の)
+
+(AX だ)
+
+(PU 。)
+
+(ID 51_aozora_Mori-1912;JP)
+
+(NP-SBJ *pro*)
+
+(NP-CZZ *speaker*)
+
+(N 酒)
+
+(P-OPTR は)
+
+(WPRO 幾ら)
+
+(P-OPTR でも)
+
+(VB 飲ま)
+
+(VB2 せ)
+
+(P-CONN て)
+
+(VB2 くれ)
+
+(AXD た)
+
+(P-CONN し)
+
+(PU 、)
+
+(D あの)
+
+(N 時)
+
+(P-OPTR 位)
+
+(PRO 僕)
+
+(P-OPTR は)
+
+(ADJN 愉快)
+
+(AX だっ)
+
+(AXD た)
+
+(N 事)
+
+(P-OPTR は)
+
+(ADJI 無い)
+
+(P-FINAL よ)
+
+(PU 。)
+
+(ID 52_aozora_Mori-1912;JP)
+
+(WPRO なん)
+
+(P-OPTR にしろ)
+
+(PU 、)
+
+(N 兵站)
+
+(P-ROLE に)
+
+(P-OPTR は)
+
+(ADV あんまり)
+
+(N 御馳走)
+
+(P-ROLE の)
+
+(VB あっ)
+
+(AXD た)
+
+(N こと)
+
+(P-OPTR は)
+
+(ADJI ない)
+
+(P-CONN から)
+
+(P-FINAL なあ)
+
+(PU 。)
+
+(-RRB- 」)
+
+(ID 53_aozora_Mori-1912;JP)
+
+(N 主人)
+
+(P-OPTR は)
+
+(NP-SBJ *T*)
+
+(ADJI 短い)
+
+(N 笑声)
+
+(P-ROLE を)
+
+(VB 漏らし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 54_aozora_Mori-1912;JP)
+
+(-LRB- 「)
+
+(PRO 君)
+
+(P-OPTR は)
+
+(N 酒)
+
+(P-CONN と)
+
+(N 肉)
+
+(P-OPTR さえ)
+
+(VB あれ)
+
+(P-CONN ば)
+
+(VB 満足)
+
+(VB0 し)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(FN の)
+
+(AX だ)
+
+(P-CONN から)
+
+(PU 、)
+
+(N 風流)
+
+(AX だ)
+
+(P-FINAL ね)
+
+(PU 。)
+
+(-RRB- 」)
+
+(ID 55_aozora_Mori-1912;JP)
+
+(-LRB- 「)
+
+(NP-SBJ *pro*)
+
+(ADV 無論)
+
+(P-FINAL さ)
+
+(PU 。)
+
+(ID 56_aozora_Mori-1912;JP)
+
+(NP-SBJ *speaker*)
+
+(N 大杯)
+
+(P-ROLE の)
+
+(N 酒)
+
+(P-CONN に)
+
+(N 大塊)
+
+(P-ROLE の)
+
+(N 肉)
+
+(P-ROLE が)
+
+(VB あれ)
+
+(P-CONN ば)
+
+(PU 、)
+
+(N 能事畢る)
+
+(P-FINAL ね)
+
+(PU 。)
+
+(ID 57_aozora_Mori-1912;JP)
+
+(NP-SBJ *speaker*)
+
+(PRO これ)
+
+(P-ROLE から)
+
+(ADV また)
+
+(NPR 遼陽)
+
+(P-ROLE へ)
+
+(VB 帰っ)
+
+(P-CONN て)
+
+(PU 、)
+
+(N 会社)
+
+(P-ROLE の)
+
+(N お役人)
+
+(P-ROLE を)
+
+(VB 遣ら)
+
+(NEG なくて)
+
+(P-OPTR は)
+
+(VB なら)
+
+(NEG ない)
+
+(PU 。)
+
+(ID 58_aozora_Mori-1912;JP)
+
+(NP-SBJ *speaker*)
+
+(ADV 実は)
+
+(D そんな)
+
+(N 事)
+
+(P-OPTR は)
+
+(VB よし)
+
+(P-CONN て)
+
+(NPR 南清)
+
+(P-ROLE の)
+
+(N 方)
+
+(P-ROLE へ)
+
+(VB 行き)
+
+(AX たい)
+
+(FN の)
+
+(AX だ)
+
+(P-CONN が)
+
+(PU 、)
+
+(N 人生)
+
+(N 意)
+
+(P-ROLE の)
+
+(AX 如く)
+
+(VB なら)
+
+(NEG ず)
+
+(AX だ)
+
+(PU 。)
+
+(-RRB- 」)
+
+(ID 59_aozora_Mori-1912;JP)
+
+(-LRB- 「)
+
+(PRO 君)
+
+(P-OPTR は)
+
+(ADJN 無邪気)
+
+(AX だ)
+
+(P-FINAL よ)
+
+(PU 。)
+
+(ID 60_aozora_Mori-1912;JP)
+
+(NP-SBJ *pro*)
+
+(NP-SBJ *pro*)
+
+(D あの)
+
+(N 驢馬)
+
+(P-ROLE を)
+
+(VB 貰っ)
+
+(AXD た)
+
+(N 時)
+
+(P-ROLE の)
+
+(PU 、)
+
+(PRO 君)
+
+(P-ROLE の)
+
+(N 喜びよう)
+
+(P-ROLE と)
+
+(VB 云っ)
+
+(P-CONN たら)
+
+(NEG なかっ)
+
+(AXD た)
+
+(P-FINAL ね)
+
+(PU 。)
+
+(ID 61_aozora_Mori-1912;JP)
+
+(PRO 僕)
+
+(P-OPTR は)
+
+(ADV そう)
+
+(VB 思っ)
+
+(AXD た)
+
+(P-FINAL よ)
+
+(PU 。)
+
+(ID 62_aozora_Mori-1912;JP)
+
+(NP-SBJ *speaker*)
+
+(PRO 君)
+
+(P-CONN だの)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(D あの)
+
+(N 騾馬)
+
+(P-ROLE を)
+
+(N 手)
+
+(P-ROLE に)
+
+(VB 入れ)
+
+(P-CONN て)
+
+(VB 喜ん)
+
+(AXD だ)
+
+(NP-SBJ *T*)
+
+(N 司令官)
+
+(AX の)
+
+(N 爺いさん)
+
+(P-OPTR なんぞ)
+
+(P-OPTR は)
+
+(PU 、)
+
+(N 仙人)
+
+(AX だ)
+
+(P-COMP と)
+
+(VB 思っ)
+
+(AXD た)
+
+(P-FINAL よ)
+
+(PU 。)
+
+(ID 63_aozora_Mori-1912;JP)
+
+(NP-SBJ *T*)
+
+(PRO 己)
+
+(P-OPTR は)
+
+(N 騎兵科)
+
+(AX で)
+
+(PU 、)
+
+(NP-SBJ *speaker*)
+
+(D こんな)
+
+(N 服)
+
+(P-ROLE を)
+
+(VB 着)
+
+(P-CONN て)
+
+(N 徒歩)
+
+(P-ROLE を)
+
+(VB する)
+
+(N の)
+
+(P-OPTR は)
+
+(ADJI つらかっ)
+
+(AXD た)
+
+(P-CONN が)
+
+(PU 、)
+
+(PRO これ)
+
+(P-ROLE が)
+
+(VB あれ)
+
+(P-CONN ば)
+
+(PU 、)
+
+(ADV もう)
+
+(N てくてく歩き)
+
+(P-OPTR は)
+
+(VB し)
+
+(NEG なくっ)
+
+(P-CONN て)
+
+(P-OPTR も)
+
+(ADJI 好い)
+
+(P-COMP と)
+
+(VB 云っ)
+
+(P-CONN て)
+
+(PU 、)
+
+(ADV ころころ)
+
+(VB し)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AXD た)
+
+(N 司令官)
+
+(P-OPTR も)
+
+(PU 、)
+
+(ADV 随分)
+
+(N 好人物)
+
+(AX だっ)
+
+(AXD た)
+
+(P-FINAL ね)
+
+(PU 。)
+
+(ID 64_aozora_Mori-1912;JP)
+
+(PRO あれ)
+
+(P-ROLE から)
+
+(PRO 君)
+
+(P-OPTR は)
+
+(N 驢馬)
+
+(P-ROLE を)
+
+(WADV どう)
+
+(VB し)
+
+(AXD た)
+
+(P-FINAL ね)
+
+(PU 。)
+
+(-RRB- 」)
+
+(ID 65_aozora_Mori-1912;JP)
+
+(NP-OB1 *pro*)
+
+(N 記者)
+
+(P-ROLE が)
+
+(N 通訳あがり)
+
+(P-ROLE に)
+
+(VB 問う)
+
+(AXD た)
+
+(FN の)
+
+(AX で)
+
+(VB2 ある)
+
+(PU 。)
+
+(ID 66_aozora_Mori-1912;JP)
+
+(-LRB- 「)
+
+(INTJ なに)
+
+(PU 。)
+
+(ID 67_aozora_Mori-1912;JP)
+
+(NP-SBJ *pro*)
+
+(NP-SBJ *speaker*)
+
+(NPR 十里河)
+
+(P-ROLE まで)
+
+(VB 行く)
+
+(P-CONN と)
+
+(PU 、)
+
+(N 兵站部)
+
+(P-ROLE で)
+
+(VB 取り上げ)
+
+(PASS られ)
+
+(P-CONN て)
+
+(VB2 しまっ)
+
+(AXD た)
+
+(PU 。)
+
+(-RRB- 」)
+
+(ID 68_aozora_Mori-1912;JP)
+
+(N 記者)
+
+(P-OPTR は)
+
+(N 主人)
+
+(P-ROLE の)
+
+(N 顔)
+
+(P-ROLE を)
+
+(ADV ちょいと)
+
+(VB 見)
+
+(P-CONN て)
+
+(PU 、)
+
+(ADJN 狡猾げ)
+
+(AX に)
+
+(VB 笑っ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 69_aozora_Mori-1912;JP)
+
+(N 主人)
+
+(P-OPTR は)
+
+(N 記者)
+
+(P-ROLE の)
+
+(N 顔)
+
+(P-ROLE を)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(NP-SBJ *T*)
+
+(ADJN 同じ)
+
+(AX *)
+
+(N よう)
+
+(AX な)
+
+(N 目附)
+
+(P-ROLE で)
+
+(VB 見返し)
+
+(AXD た)
+
+(PU 。)
+
+(ID 70_aozora_Mori-1912;JP)
+
+(-LRB- 「)
+
+(PRO そこ)
+
+(P-ROLE へ)
+
+(VB 行く)
+
+(P-CONN と)
+
+(PU 、)
+
+(PRO 君)
+
+(P-OPTR は)
+
+(N 罪)
+
+(P-ROLE が)
+
+(ADJI 深い)
+
+(PU 。)
+
+(ID 71_aozora_Mori-1912;JP)
+
+(NP-SBJ *hearer*)
+
+(N 酒)
+
+(P-CONN と)
+
+(N 肉)
+
+(P-ROLE で)
+
+(P-OPTR は)
+
+(VB 満足)
+
+(VB0 し)
+
+(NEG ない)
+
+(FN の)
+
+(AX だ)
+
+(P-CONN から)
+
+(PU 。)
+
+(-RRB- 」)
+
+(ID 72_aozora_Mori-1912;JP)
+
+(-LRB- 「)
+
+(INTJ うん)
+
+(PU 。)
+
+(ID 73_aozora_Mori-1912;JP)
+
+(PNL 大した)
+
+(N 違い)
+
+(P-OPTR は)
+
+(ADJI ない)
+
+(P-CONN が)
+
+(PU 、)
+
+(PRO 僕)
+
+(P-OPTR は)
+
+(N 今)
+
+(NP-SBJ *T*)
+
+(NUM 一)
+
+(CL つ)
+
+(AX の)
+
+(N 肉)
+
+(P-ROLE を)
+
+(VB 要求)
+
+(VB0 する)
+
+(PU 。)
+
+(ID 74_aozora_Mori-1912;JP)
+
+(NP-SBJ *pro*)
+
+(N 金)
+
+(P-OPTR も)
+
+(ADJI 悪く)
+
+(P-OPTR は)
+
+(NEG ない)
+
+(P-CONN が)
+
+(PU 、)
+
+(D その)
+
+(NP-SBJ *speaker*)
+
+(N 今)
+
+(NP-SBJ *T*)
+
+(NUM 一)
+
+(CL つ)
+
+(AX の)
+
+(N 肉)
+
+(P-ROLE を)
+
+(VB 得る)
+
+(N 手段)
+
+(P-ROLE に)
+
+(VB 過ぎ)
+
+(NEG ない)
+
+(PU 。)
+
+(ID 75_aozora_Mori-1912;JP)
+
+(NP-SBJ *speaker*)
+
+(NP-SBJ *T*)
+
+(N 金)
+
+(PRO その物)
+
+(P-ROLE に)
+
+(N 興味)
+
+(P-ROLE を)
+
+(VB 持っ)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(PRO 君)
+
+(P-ROLE と)
+
+(P-OPTR は)
+
+(VB 違う)
+
+(PU 。)
+
+(ID 76_aozora_Mori-1912;JP)
+
+(CONJ しかし)
+
+(N 友達)
+
+(P-ROLE に)
+
+(P-OPTR は)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(PRO 君)
+
+(P-ROLE の)
+
+(N よう)
+
+(AX な)
+
+(N 人)
+
+(P-ROLE が)
+
+(VB ある)
+
+(N の)
+
+(P-ROLE が)
+
+(ADJI 好い)
+
+(PU 。)
+
+(-RRB- 」)
+
+(ID 77_aozora_Mori-1912;JP)
+
+(N 主人)
+
+(P-OPTR は)
+
+(N 持前)
+
+(P-ROLE の)
+
+(N 苦笑)
+
+(P-ROLE を)
+
+(VB し)
+
+(AXD た)
+
+(PU 。)
+
+(ID 78_aozora_Mori-1912;JP)
+
+(-LRB- 「)
+
+(N 今)
+
+(NP-SBJ *T*)
+
+(NUM 一)
+
+(CL つ)
+
+(AX の)
+
+(N 肉)
+
+(P-OPTR は)
+
+(ADJI 好い)
+
+(P-CONN が)
+
+(PU 、)
+
+(NP-OB1 *T*)
+
+(NP-SBJ *pro*)
+
+(NPR 営口)
+
+(P-ROLE に)
+
+(VB 来)
+
+(P-CONN て)
+
+(VB 酔っ)
+
+(AXD た)
+
+(N 晩)
+
+(P-ROLE に)
+
+(VB 話し)
+
+(AXD た)
+
+(PU 、)
+
+(D あの)
+
+(N 事件)
+
+(P-OPTR は)
+
+(ADJI 凄い)
+
+(P-FINAL ぜ)
+
+(PU 。)
+
+(-RRB- 」)
+
+(ID 79_aozora_Mori-1912;JP)
+
+(NP-SBJ *pro*)
+
+(ADV こう)
+
+(VB 云っ)
+
+(P-CONN て)
+
+(PU 、)
+
+(N 女房)
+
+(P-ROLE の)
+
+(N 方)
+
+(P-ROLE を)
+
+(ADV ちょいと)
+
+(VB 見)
+
+(AXD た)
+
+(PU 。)
+
+(ID 80_aozora_Mori-1912;JP)
+
+(N 上さん)
+
+(P-OPTR は)
+
+(NP-SBJ *T*)
+
+(ADJI 薄い)
+
+(N 脣)
+
+(P-ROLE の)
+
+(N 間)
+
+(P-ROLE から)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(VB 黄ばん)
+
+(AX だ)
+
+(N 歯)
+
+(P-ROLE を)
+
+(VB 出し)
+
+(P-CONN て)
+
+(VB 微笑ん)
+
+(AXD だ)
+
+(PU 。)
+
+(ID 81_aozora_Mori-1912;JP)
+
+(-LRB- 「)
+
+(ADJN 本当)
+
+(AX に)
+
+(NPR 小川さん)
+
+(P-OPTR は)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJI 優しい)
+
+(N 顔)
+
+(P-OPTR は)
+
+(VB し)
+
+(P-CONN て)
+
+(VB2 い)
+
+(P-CONN て)
+
+(P-OPTR も)
+
+(N 悪党)
+
+(AX だ)
+
+(P-FINAL わ)
+
+(P-FINAL ねえ)
+
+(PU 。)
+
+(-RRB- 」)
+
+(ID 82_aozora_Mori-1912;JP)
+
+(NPR 小川)
+
+(P-ROLE と云う)
+
+(N の)
+
+(P-OPTR は)
+
+(N 記者)
+
+(P-ROLE の)
+
+(N 名)
+
+(AX で)
+
+(VB2 ある)
+
+(PU 。)
+
+(ID 83_aozora_Mori-1912;JP)
+
+(NPR 小川)
+
+(P-OPTR は)
+
+(NP-SBJ *T*)
+
+(NP-SBJ *pro*)
+
+(NP-SBJ *pro*)
+
+(NP-LGS *pro*)
+
+(N 急所)
+
+(P-ROLE を)
+
+(VB 突か)
+
+(PASS2 れ)
+
+(AXD た)
+
+(P-COMP と)
+
+(P-OPTR でも)
+
+(VB 云う)
+
+(N よう)
+
+(AX な)
+
+(N 様子)
+
+(P-ROLE で)
+
+(PU 、)
+
+(N 今)
+
+(P-ROLE まで)
+
+(N 元気)
+
+(P-ROLE の)
+
+(ADJI 好かっ)
+
+(AXD た)
+
+(N の)
+
+(P-ROLE に)
+
+(VB 似)
+
+(NEG ず)
+
+(PU 、)
+
+(VB しょげ返っ)
+
+(P-CONN て)
+
+(PU 、)
+
+(NP-SBJ *exp*)
+
+(NP-SBJ *pro*)
+
+(N 饌)
+
+(P-ROLE の)
+
+(N 上)
+
+(P-ROLE の)
+
+(N 杯)
+
+(P-ROLE を)
+
+(N 手)
+
+(P-ROLE に)
+
+(VB 取っ)
+
+(AXD た)
+
+(N の)
+
+(P-OPTR さえ)
+
+(PU 、)
+
+(N てれ隠し)
+
+(AX で)
+
+(P-OPTR は)
+
+(NEG ない)
+
+(P-FINAL か)
+
+(P-COMP と)
+
+(VB 思わ)
+
+(VB2 れ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 84_aozora_Mori-1912;JP)
+
+(-LRB- 「)
+
+(INTJ あら)
+
+(PU 。)
+
+(ID 85_aozora_Mori-1912;JP)
+
+(PRO それ)
+
+(P-OPTR は)
+
+(ADV もう)
+
+(VB 冷え)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(P-FINAL わ)
+
+(PU 。)
+
+(ID 86_aozora_Mori-1912;JP)
+
+(NP-SBJ *hearer*)
+
+(NP-OB1 *pro*)
+
+(NP-SBJ *T*)
+
+(ADJI 熱い)
+
+(N の)
+
+(AX に)
+
+(VB なさい)
+
+(P-FINAL よ)
+
+(PU 。)
+
+(-RRB- 」)
+
+(ID 87_aozora_Mori-1912;JP)
+
+(N 上さん)
+
+(P-OPTR は)
+
+(N 横)
+
+(P-ROLE から)
+
+(NPR 小川)
+
+(P-ROLE の)
+
+(N 顔)
+
+(P-ROLE を)
+
+(VB 覗く)
+
+(N よう)
+
+(P-ROLE に)
+
+(VB し)
+
+(P-CONN て)
+
+(ADV こう)
+
+(VB 云っ)
+
+(P-CONN て)
+
+(PU 、)
+
+(NP-OB1 *T*)
+
+(N 女中)
+
+(P-ROLE の)
+
+(VB 置い)
+
+(P-CONN て)
+
+(VB2 行っ)
+
+(AXD た)
+
+(N 銚子)
+
+(P-ROLE を)
+
+(VB 取り上げ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 88_aozora_Mori-1912;JP)
+
+(NPR 小川)
+
+(P-OPTR は)
+
+(NP-SBJ *T*)
+
+(VB 冷え)
+
+(AXD た)
+
+(N 酒)
+
+(P-ROLE を)
+
+(N 汁椀)
+
+(P-ROLE の)
+
+(N 中)
+
+(P-ROLE へ)
+
+(VB 明け)
+
+(P-CONN て)
+
+(PU 、)
+
+(NP-OB1 *T*)
+
+(N 上さん)
+
+(P-ROLE の)
+
+(VB 注ぐ)
+
+(N 酒)
+
+(P-ROLE を)
+
+(VB 受け)
+
+(AXD た)
+
+(PU 。)
+
+(ID 89_aozora_Mori-1912;JP)
+
+(N 酒)
+
+(P-ROLE を)
+
+(VB 注ぎ)
+
+(P-CONN ながら)
+
+(PU 、)
+
+(N 上さん)
+
+(P-OPTR は)
+
+(NP-OB1 *pro*)
+
+(NP-SBJ *T*)
+
+(ADJI 甘ったるい)
+
+(N 調子)
+
+(P-ROLE で)
+
+(VB 云っ)
+
+(AXD た)
+
+(PU 、)
+
+(ID 90_aozora_Mori-1912;JP)
+
+(-LRB- 「)
+
+(CONJ でも)
+
+(NP-OB1 *T*)
+
+(NP-SBJ *pro*)
+
+(NPR 営口)
+
+(P-ROLE で)
+
+(N 内)
+
+(P-ROLE に)
+
+(VB 置い)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AXD た)
+
+(PU 、)
+
+(D あの)
+
+(N 子)
+
+(P-ROLE に)
+
+(P-OPTR は)
+
+(PU 、)
+
+(NPR 小川さん)
+
+(P-OPTR も)
+
+(VB ※（「りっしんべん＋（匚＜夾）」、第3水準1-84-56）わ)
+
+(NEG なかっ)
+
+(AXD た)
+
+(P-FINAL わ)
+
+(P-FINAL ね)
+
+(PU 。)
+
+(-RRB- 」)
+
+(ID 91_aozora_Mori-1912;JP)
+
+(-LRB- 「)
+
+(N 名古屋もの)
+
+(P-ROLE に)
+
+(P-OPTR は)
+
+(NP-SBJ *T*)
+
+(NPR 小川君)
+
+(P-ROLE に)
+
+(P-OPTR も)
+
+(VB 負け)
+
+(NEG ない)
+
+(N 奴)
+
+(P-ROLE が)
+
+(VB いる)
+
+(P-FINAL よ)
+
+(PU 。)
+
+(-RRB- 」)
+
+(ID 92_aozora_Mori-1912;JP)
+
+(N 主人)
+
+(P-ROLE が)
+
+(N 傍)
+
+(P-ROLE から)
+
+(N 口)
+
+(P-ROLE を)
+
+(VB 挟ん)
+
+(AXD だ)
+
+(PU 。)
+
+(ID 93_aozora_Mori-1912;JP)
+
+(ADV やはり)
+
+(NPR 小川)
+
+(P-ROLE の)
+
+(N 顔)
+
+(P-ROLE を)
+
+(N 横)
+
+(P-ROLE から)
+
+(VB 覗く)
+
+(N よう)
+
+(P-ROLE に)
+
+(VB し)
+
+(P-CONN て)
+
+(PU 、)
+
+(N 上さん)
+
+(P-ROLE が)
+
+(NP-OB1 *pro*)
+
+(VB 云っ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 94_aozora_Mori-1912;JP)
+
+(-LRB- 「)
+
+(NP-SBJ *pro*)
+
+(ADV なかなか)
+
+(ADJN 別品)
+
+(AX だっ)
+
+(AXD た)
+
+(P-FINAL わ)
+
+(P-FINAL ねえ)
+
+(PU 。)
+
+(ID 95_aozora_Mori-1912;JP)
+
+(CONJ それに)
+
+(NP-SBJ *pro*)
+
+(N 肌)
+
+(P-ROLE が)
+
+(ADJI 好くっ)
+
+(P-CONN て)
+
+(PU 。)
+
+(-RRB- 」)
+
+(ID 96_aozora_Mori-1912;JP)
+
+(D この)
+
+(N 時)
+
+(N 通訳あがり)
+
+(P-ROLE が)
+
+(ADV 突然)
+
+(N 大声)
+
+(P-ROLE を)
+
+(VB し)
+
+(P-CONN て)
+
+(NP-OB1 *pro*)
+
+(VB 云っ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 97_aozora_Mori-1912;JP)
+
+(-LRB- 「)
+
+(D その)
+
+(NP-SBJ *T*)
+
+(ADJI 凄い)
+
+(N 話)
+
+(P-ROLE と云う)
+
+(N の)
+
+(P-ROLE を)
+
+(PU 、)
+
+(PRO 僕)
+
+(P-OPTR は)
+
+(VB 聞き)
+
+(AX たい)
+
+(P-FINAL なあ)
+
+(PU 。)
+
+(-RRB- 」)
+
+(ID 98_aozora_Mori-1912;JP)
+
+(-LRB- 「)
+
+(NP-SBJ *hearer*)
+
+(VB よせ)
+
+(-RRB- 」)
+
+(P-COMP と)
+
+(PU 、)
+
+(NPR 小川)
+
+(P-OPTR は)
+
+(ADJI 鋭く)
+
+(N 通訳あがり)
+
+(P-ROLE を)
+
+(VB 睨ん)
+
+(AXD だ)
+
+(PU 。)
+
+(ID 99_aozora_Mori-1912;JP)
+
+(N 主人)
+
+(P-OPTR は)
+
+(NP-SBJ *T*)
+
+(ADV どっしり)
+
+(VB し)
+
+(AX た)
+
+(N 体)
+
+(AX で)
+
+(PU 、)
+
+(N 胡坐)
+
+(P-ROLE を)
+
+(VB 掻い)
+
+(P-CONN て)
+
+(PU 、)
+
+(ADV ちびりちびり)
+
+(N 酒)
+
+(P-ROLE を)
+
+(VB 飲み)
+
+(P-CONN ながら)
+
+(PU 、)
+
+(NPR 小川)
+
+(P-ROLE の)
+
+(N 表情)
+
+(P-ROLE を)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(NP *T*)
+
+(P-ROLE *.e*)
+
+(N 睫毛)
+
+(P-ROLE の)
+
+(VB 動く)
+
+(N の)
+
+(P-ROLE を)
+
+(P-OPTR も)
+
+(VB 見遁がさ)
+
+(NEG ない)
+
+(N よう)
+
+(P-ROLE に)
+
+(VB 見)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(PU 。)
+
+(ID 100_aozora_Mori-1912;JP)
+
+(NP-SBJ *pro*)
+
+(ADV そのくせ)
+
+(N 顔)
+
+(P-OPTR は)
+
+(N 通訳あがり)
+
+(P-ROLE の)
+
+(N 方)
+
+(P-ROLE へ)
+
+(VB 向け)
+
+(P-CONN て)
+
+(VB2 い)
+
+(P-CONN て)
+
+(PU 、)
+
+(NP-OB1 *pro*)
+
+(NP-SBJ *T*)
+
+(N 笑談)
+
+(AX らしい)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJI 軽い)
+
+(N 調子)
+
+(P-ROLE で)
+
+(VB 話し)
+
+(VB2 出し)
+
+(AXD た)
+
+(PU 。)
+
+(ID 101_aozora_Mori-1912;JP)
+
+(-LRB- 「)
+
+(NPR 平山君)
+
+(P-OPTR は)
+
+(D あの)
+
+(N 話)
+
+(P-ROLE を)
+
+(ADV まだ)
+
+(VB しら)
+
+(NEG ない)
+
+(FN の)
+
+(P-FINAL かい)
+
+(PU 。)
+
+(ID 102_aozora_Mori-1912;JP)
+
+(NP-SBJ *speaker*)
+
+(INTJ まあ)
+
+(NP-SBJ *speaker*)
+
+(ADV どうせ)
+
+(NP-SBJ *speaker*)
+
+(VB 泊る)
+
+(P-COMP と)
+
+(VB 極め)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(N 以上)
+
+(P-OPTR は)
+
+(PU 、)
+
+(NP-OB1 *pro*)
+
+(ADV ゆっくり)
+
+(VB 話す)
+
+(P-COMP と)
+
+(VB し)
+
+(INFR よう)
+
+(PU 。)
+
+(ID 103_aozora_Mori-1912;JP)
+
+(NP-SBJ *pro*)
+
+(ADV なんでも)
+
+(NPR 黒溝台)
+
+(P-ROLE の)
+
+(N 戦争)
+
+(P-ROLE の)
+
+(VB 済ん)
+
+(AXD だ)
+
+(N 跡)
+
+(AX で)
+
+(PU 、)
+
+(N 奉天攻撃)
+
+(P-OPTR は)
+
+(ADV まだ)
+
+(VB 始まら)
+
+(NEG なかっ)
+
+(AXD た)
+
+(N 頃)
+
+(AX だっ)
+
+(AXD た)
+
+(FN そう)
+
+(AX だ)
+
+(PU 。)
+
+(ID 104_aozora_Mori-1912;JP)
+
+(ADV なんとか)
+
+(NPR 窩棚)
+
+(P-ROLE と云う)
+
+(N 村)
+
+(P-ROLE に)
+
+(PU 、)
+
+(NPR 小川君)
+
+(P-OPTR は)
+
+(N 宿舎)
+
+(P-ROLE を)
+
+(VB 割り当て)
+
+(PASS られ)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AXD た)
+
+(FN の)
+
+(AX だ)
+
+(PU 。)
+
+(ID 105_aozora_Mori-1912;JP)
+
+(NP-SBJ *pro*)
+
+(NP-SBJ *T*)
+
+(ADJI 小さい)
+
+(N 村)
+
+(AX で)
+
+(PU 、)
+
+(NP-LOC *T*)
+
+(N 人民)
+
+(P-OPTR は)
+
+(Q 大抵)
+
+(VB 避難)
+
+(VB0 し)
+
+(P-CONN て)
+
+(VB2 しまっ)
+
+(P-CONN て)
+
+(PU 、)
+
+(N 明家)
+
+(P-ROLE の)
+
+(Q 沢山)
+
+(VB 出来)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(N 所)
+
+(AX な)
+
+(FN の)
+
+(AX だ)
+
+(P-FINAL ね)
+
+(PU 。)
+
+(ID 106_aozora_Mori-1912;JP)
+
+(NPR 小川君)
+
+(P-OPTR は)
+
+(NP-SBJ *pro*)
+
+(N 隣)
+
+(P-ROLE の)
+
+(N 家)
+
+(P-OPTR も)
+
+(N 明家)
+
+(AX だ)
+
+(P-COMP と)
+
+(VB 思っ)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AXD た)
+
+(P-CONN ところが)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(D ある)
+
+(N 晩)
+
+(N 便所)
+
+(P-ROLE に)
+
+(VB 行っ)
+
+(P-CONN て)
+
+(N 用)
+
+(P-ROLE を)
+
+(VB 足し)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(N 時)
+
+(PU 、)
+
+(D その)
+
+(N 明家)
+
+(P-ROLE の)
+
+(N 中)
+
+(P-ROLE で)
+
+(WPRO 何)
+
+(P-OPTR か)
+
+(N 物音)
+
+(P-ROLE が)
+
+(VB する)
+
+(P-COMP と)
+
+(VB 云う)
+
+(FN の)
+
+(AX だ)
+
+(PU 。)
+
+(-RRB- 」)
+
+(ID 107_aozora_Mori-1912;JP)
+
+(N 通訳あがり)
+
+(P-OPTR は)
+
+(NPR 平山)
+
+(P-ROLE と云う)
+
+(N 男)
+
+(AX で)
+
+(VB2 ある)
+
+(PU 。)
+
+(ID 108_aozora_Mori-1912;JP)
+
+(NPR 小川)
+
+(P-OPTR は)
+
+(NP-SBJ *pro*)
+
+(NP-SBJ *pro*)
+
+(ADJN 迷惑)
+
+(AX だ)
+
+(P-CONN が)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(ADV もう)
+
+(ADV こう)
+
+(VB なれ)
+
+(P-CONN ば)
+
+(ADJI 為方がない)
+
+(P-CONN ので)
+
+(PU 、)
+
+(NP-OB1 *pro*)
+
+(VB 諦念め)
+
+(P-CONN て)
+
+(NP-CZZ *pro*)
+
+(NP-OB1 *pro*)
+
+(VB 話さ)
+
+(VB2 せる)
+
+(P-COMP と云う)
+
+(N 様子)
+
+(P-ROLE で)
+
+(PU 、)
+
+(NP-OB1 *T*)
+
+(N 上さん)
+
+(P-ROLE の)
+
+(VB 注ぐ)
+
+(N 酒)
+
+(P-ROLE を)
+
+(VB 飲ん)
+
+(P-CONN で)
+
+(VB2 いる)
+
+(PU 。)
+
+(ID 109_aozora_Mori-1912;JP)
+
+(NP-OB1 *pro*)
+
+(N 主人)
+
+(P-OPTR は)
+
+(VB 話し)
+
+(VB2 続け)
+
+(AXD た)
+
+(PU 。)
+
+(ID 110_aozora_Mori-1912;JP)
+
+(-LRB- 「)
+
+(N 便所)
+
+(P-OPTR は)
+
+(D 例の)
+
+(N 通り)
+
+(NP-SBJ *pro*)
+
+(NP-SBJ *T*)
+
+(VB 氷っ)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(N 土)
+
+(P-ROLE を)
+
+(Q 少し)
+
+(P-OPTR ばかり)
+
+(VB 掘り上げ)
+
+(P-CONN て)
+
+(PU 、)
+
+(N 板)
+
+(P-ROLE が)
+
+(VB 渡し)
+
+(P-CONN て)
+
+(PASS *)
+
+(VB2 ある)
+
+(FN の)
+
+(AX だ)
+
+(P-FINAL ね)
+
+(PU 。)
+
+(ID 111_aozora_Mori-1912;JP)
+
+(PRO そいつ)
+
+(P-ROLE に)
+
+(VB 跨がっ)
+
+(P-CONN て)
+
+(PU 、)
+
+(N 尻)
+
+(P-ROLE の)
+
+(ADJI 寒い)
+
+(N の)
+
+(P-ROLE を)
+
+(VB 我慢)
+
+(VB0 し)
+
+(P-CONN て)
+
+(PU 、)
+
+(N 用)
+
+(P-ROLE を)
+
+(VB 足し)
+
+(P-CONN ながら)
+
+(PU 、)
+
+(NPR 小川君)
+
+(P-ROLE が)
+
+(N 耳)
+
+(P-ROLE を)
+
+(VB 澄まし)
+
+(P-CONN て)
+
+(NP-OB1 *pro*)
+
+(VB 聞い)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(P-CONN と)
+
+(PU 、)
+
+(D その)
+
+(N 物音)
+
+(P-ROLE が)
+
+(ADJN 色々)
+
+(AX に)
+
+(VB 変化)
+
+(VB0 し)
+
+(P-CONN て)
+
+(VB 聞える)
+
+(PU 。)
+
+(ID 112_aozora_Mori-1912;JP)
+
+(NP-SBJ *pro*)
+
+(WADV どう)
+
+(P-OPTR も)
+
+(N 鼠)
+
+(P-CONN や)
+
+(WPRO なん)
+
+(P-OPTR ぞ)
+
+(AX で)
+
+(P-OPTR は)
+
+(NEG ない)
+
+(AX らしい)
+
+(PU 。)
+
+(ID 113_aozora_Mori-1912;JP)
+
+(NP-SBJ *pro*)
+
+(N 狗)
+
+(AX で)
+
+(P-OPTR も)
+
+(NEG ない)
+
+(AX らしい)
+
+(PU 。)
+
+(ID 114_aozora_Mori-1912;JP)
+
+(NPR 小川君)
+
+(P-OPTR は)
+
+(N 好奇心)
+
+(P-ROLE が)
+
+(VB 起っ)
+
+(P-CONN て)
+
+(VB 溜まら)
+
+(NEG なく)
+
+(VB2 なっ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 115_aozora_Mori-1912;JP)
+
+(D その)
+
+(N 家)
+
+(P-OPTR は)
+
+(N 表)
+
+(P-ROLE から)
+
+(P-OPTR は)
+
+(VB 開けひろげ)
+
+(AX た)
+
+(N よう)
+
+(P-ROLE に)
+
+(VB なっ)
+
+(P-CONN て)
+
+(VB 見え)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(PU 。)
+
+(ID 116_aozora_Mori-1912;JP)
+
+(NP-SBJ *T*)
+
+(N ※（「火＋亢」、第4水準2-79-62）)
+
+(P-ROLE の)
+
+(N 縁)
+
+(AX に)
+
+(VB し)
+
+(P-CONN て)
+
+(PASS *)
+
+(VB2 ある)
+
+(N 材木)
+
+(P-OPTR は)
+
+(WPRO どこ)
+
+(P-OPTR か)
+
+(P-ROLE へ)
+
+(VB 無くなっ)
+
+(P-CONN て)
+
+(PU 、)
+
+(NP-OB1 *T*)
+
+(NP-SBJ *pro*)
+
+(VB 築き上げ)
+
+(AXD た)
+
+(N 土)
+
+(P-ROLE が)
+
+(VB 暴露)
+
+(VB0 し)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(PU 。)
+
+(ID 117_aozora_Mori-1912;JP)
+
+(D その)
+
+(N 奥)
+
+(P-OPTR は)
+
+(NP-OB1 *T*)
+
+(NP-SBJ *exp*)
+
+(N 土地)
+
+(P-ROLE で)
+
+(N 磚)
+
+(P-ROLE と)
+
+(VB 云っ)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(NP-SBJ *T*)
+
+(N 煉瓦)
+
+(P-ROLE の)
+
+(N よう)
+
+(AX な)
+
+(N もの)
+
+(P-ROLE が)
+
+(Q 一ぱい)
+
+(VB 積み上げ)
+
+(P-CONN て)
+
+(PASS *)
+
+(VB2 ある)
+
+(PU 。)
+
+(ID 118_aozora_Mori-1912;JP)
+
+(NP-SBJ *pro*)
+
+(WADV どう)
+
+(VB し)
+
+(P-CONN て)
+
+(P-OPTR も)
+
+(NP-SBJ *pro*)
+
+(NP-OB1 *pro*)
+
+(N 奥)
+
+(P-ROLE の)
+
+(N 壁)
+
+(P-ROLE に)
+
+(VB 沿う)
+
+(P-CONN て)
+
+(VB 積み上げ)
+
+(P-CONN て)
+
+(VB2 ある)
+
+(P-COMP と)
+
+(P-OPTR しか)
+
+(VB 思わ)
+
+(VB2 れ)
+
+(NEG ない)
+
+(PU 。)
+
+(ID 119_aozora_Mori-1912;JP)
+
+(NPR 小川君)
+
+(P-OPTR は)
+
+(N 物音)
+
+(P-ROLE の)
+
+(N 性質)
+
+(P-ROLE を)
+
+(VB 聞き定め)
+
+(INFR よう)
+
+(P-COMP と)
+
+(VB2 する)
+
+(P-CONN と同時に)
+
+(PU 、)
+
+(D その)
+
+(N 場所)
+
+(P-ROLE を)
+
+(VB 聞き定め)
+
+(INFR よう)
+
+(P-COMP と)
+
+(VB2 し)
+
+(P-CONN て)
+
+(VB 努力)
+
+(VB0 し)
+
+(AXD た)
+
+(FN そう)
+
+(AX だ)
+
+(PU 。)
+
+(ID 120_aozora_Mori-1912;JP)
+
+(NP-LOC *T*)
+
+(PRO 自分)
+
+(P-ROLE の)
+
+(VB 跨がっ)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(N 坑)
+
+(P-ROLE の)
+
+(N 直前)
+
+(P-OPTR は)
+
+(N 背丈)
+
+(P-OPTR 位)
+
+(P-ROLE の)
+
+(N 石垣)
+
+(AX に)
+
+(VB なっ)
+
+(P-CONN て)
+
+(VB2 い)
+
+(P-CONN て)
+
+(PU 、)
+
+(N 隣)
+
+(P-ROLE の)
+
+(N 家)
+
+(P-ROLE の)
+
+(N 横側)
+
+(P-ROLE が)
+
+(D その)
+
+(N 石垣)
+
+(P-ROLE と)
+
+(VB 密接)
+
+(VB0 し)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(PU 。)
+
+(ID 121_aozora_Mori-1912;JP)
+
+(N 物音)
+
+(P-OPTR は)
+
+(D その)
+
+(ADV 一番)
+
+(N 奥)
+
+(P-ROLE の)
+
+(N 所)
+
+(P-ROLE で)
+
+(VB し)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(PU 。)
+
+(ID 122_aozora_Mori-1912;JP)
+
+(NP-SBJ *pro*)
+
+(N 表)
+
+(P-ROLE から)
+
+(NP-SBJ *pro*)
+
+(N 磚)
+
+(P-ROLE の)
+
+(VB 積ん)
+
+(AXD だ)
+
+(N の)
+
+(P-ROLE が)
+
+(VB 見え)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(N 辺)
+
+(AX で)
+
+(VB2 ある)
+
+(PU 。)
+
+(ID 123_aozora_Mori-1912;JP)
+
+(PRO これ)
+
+(P-OPTR だけ)
+
+(P-ROLE の)
+
+(N 事)
+
+(P-ROLE を)
+
+(VB 考え)
+
+(P-CONN て)
+
+(PU 、)
+
+(NPR 小川君)
+
+(P-OPTR は)
+
+(ADV とうとう)
+
+(N 探検)
+
+(P-ROLE に)
+
+(VB 出掛ける)
+
+(N 決心)
+
+(P-ROLE を)
+
+(VB し)
+
+(AXD た)
+
+(FN そう)
+
+(AX だ)
+
+(PU 。)
+
+(ID 124_aozora_Mori-1912;JP)
+
+(NP-SBJ *pro*)
+
+(ADV 無論)
+
+(N 便所)
+
+(P-ROLE に)
+
+(VB 行く)
+
+(P-CONN に)
+
+(P-OPTR だって)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(N 毛皮)
+
+(AX の)
+
+(N 大外套)
+
+(P-ROLE を)
+
+(VB 着)
+
+(AXD た)
+
+(N まま)
+
+(P-ROLE で)
+
+(VB 行く)
+
+(PU 。)
+
+(ID 125_aozora_Mori-1912;JP)
+
+(NP-SBJ *pro*)
+
+(NP-OB1 *T*)
+
+(NP-SBJ *pro*)
+
+(VB まくっ)
+
+(AXD た)
+
+(N 尻)
+
+(P-ROLE を)
+
+(VB 卸し)
+
+(P-CONN て)
+
+(VB2 しまえ)
+
+(P-CONN ば)
+
+(PU 、)
+
+(ADJI 寒く)
+
+(P-OPTR は)
+
+(NEG ない)
+
+(PU 。)
+
+(ID 126_aozora_Mori-1912;JP)
+
+(NP-SBJ *exp*)
+
+(ADV 丁度)
+
+(NP-SBJ *T*)
+
+(N 便所)
+
+(P-ROLE の)
+
+(N 坑)
+
+(P-ROLE の)
+
+(N 傍)
+
+(P-ROLE に)
+
+(PU 、)
+
+(N 実)
+
+(P-ROLE を)
+
+(VB むしり残し)
+
+(AX た)
+
+(N 向日葵)
+
+(P-ROLE の)
+
+(N 茎)
+
+(P-ROLE を)
+
+(NUM 二三)
+
+(CL 本)
+
+(VB 縛り寄せ)
+
+(AXD た)
+
+(N の)
+
+(P-ROLE を)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(NUM 一)
+
+(CL 本)
+
+(AX の)
+
+(N 棒)
+
+(P-ROLE に)
+
+(VB 結び)
+
+(VB2 附け)
+
+(P-CONN て)
+
+(VB2 ある)
+
+(PU 。)
+
+(ID 127_aozora_Mori-1912;JP)
+
+(D その)
+
+(N 棒)
+
+(P-ROLE が)
+
+(N 石垣)
+
+(P-ROLE に)
+
+(VB 倒れ掛かっ)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(PU 。)
+
+(ID 128_aozora_Mori-1912;JP)
+
+(PRO それ)
+
+(P-ROLE に)
+
+(N 手)
+
+(P-ROLE を)
+
+(VB 掛け)
+
+(P-CONN て)
+
+(PU 、)
+
+(NPR 小川君)
+
+(P-OPTR は)
+
+(NP-SBJ *T*)
+
+(ADJI 重い)
+
+(N 外套)
+
+(P-ROLE を)
+
+(VB 着)
+
+(AXD た)
+
+(N まま)
+
+(P-ROLE で)
+
+(PU 、)
+
+(ADJI 造做もなく)
+
+(N 石垣)
+
+(P-ROLE の)
+
+(N 上)
+
+(P-ROLE に)
+
+(VB 乗っ)
+
+(P-CONN て)
+
+(PU 、)
+
+(N 向側)
+
+(P-ROLE を)
+
+(VB 見卸し)
+
+(AXD た)
+
+(FN そう)
+
+(AX だ)
+
+(PU 。)
+
+(ID 129_aozora_Mori-1912;JP)
+
+(N 空)
+
+(P-OPTR は)
+
+(ADJI 青く)
+
+(VB 澄ん)
+
+(P-CONN で)
+
+(PU 、)
+
+(N 星)
+
+(P-ROLE が)
+
+(ADV きらきら)
+
+(VB し)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(PU 。)
+
+(ID 130_aozora_Mori-1912;JP)
+
+(NP-SBJ *pro*)
+
+(PRO そこら)
+
+(N 一面)
+
+(P-ROLE に)
+
+(N 雪)
+
+(P-ROLE が)
+
+(VB 積っ)
+
+(P-CONN て)
+
+(VB 氷っ)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(PU 。)
+
+(ID 131_aozora_Mori-1912;JP)
+
+(NP-SBJ *pro*)
+
+(NP-SBJ *pro*)
+
+(N 夜)
+
+(P-ROLE の)
+
+(NUM 二)
+
+(CL 時)
+
+(N 頃)
+
+(AX で)
+
+(P-OPTR も)
+
+(VB2 あろ)
+
+(INFR う)
+
+(P-CONN が)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJI 明るい)
+
+(N 事)
+
+(P-OPTR は)
+
+(ADJI 明るい)
+
+(FN の)
+
+(AX だ)
+
+(P-FINAL ね)
+
+(PU 。)
+
+(-RRB- 」)
+
+(ID 132_aozora_Mori-1912;JP)
+
+(NPR 小川)
+
+(P-OPTR は)
+
+(NP-OB1 *pro*)
+
+(VB つぶやく)
+
+(N よう)
+
+(P-ROLE に)
+
+(N 口)
+
+(P-ROLE を)
+
+(VB 挟ん)
+
+(AXD だ)
+
+(PU 。)
+
+(ID 133_aozora_Mori-1912;JP)
+
+(-LRB- 「)
+
+(NP-SBJ *hearer*)
+
+(N 人)
+
+(P-ROLE の)
+
+(N 出たらめ)
+
+(P-ROLE を)
+
+(VB 饒舌っ)
+
+(AXD た)
+
+(N の)
+
+(P-ROLE を)
+
+(PU 、)
+
+(ADJI 好く)
+
+(ADJN そんな)
+
+(AX に)
+
+(VB 覚え)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(FN もの)
+
+(AX だ)
+
+(PU 。)
+
+(-RRB- 」)
+
+(ID 134_aozora_Mori-1912;JP)
+
+(-LRB- 「)
+
+(NP-SBJ *hearer*)
+
+(NP-SBJ *exp*)
+
+(ADJI 好い)
+
+(P-CONN から)
+
+(VB 黙っ)
+
+(P-CONN て)
+
+(NP-OB1 *pro*)
+
+(VB 聞い)
+
+(P-CONN て)
+
+(VB2 い)
+
+(VB2 給え)
+
+(PU 。)
+
+(ID 135_aozora_Mori-1912;JP)
+
+(N 石垣)
+
+(P-ROLE の)
+
+(N 向側)
+
+(P-OPTR は)
+
+(ADV やはり)
+
+(N 磚)
+
+(P-ROLE が)
+
+(VB 積ん)
+
+(P-CONN で)
+
+(PASS *)
+
+(VB2 あっ)
+
+(P-CONN て)
+
+(NP-SBJ *pro*)
+
+(NP-OB1 *pro*)
+
+(VB 降りる)
+
+(P-ROLE に)
+
+(P-OPTR は)
+
+(N 足場)
+
+(P-ROLE が)
+
+(ADJI 好い)
+
+(PU 。)
+
+(ID 136_aozora_Mori-1912;JP)
+
+(NP-SBJ *pro*)
+
+(NP-OB1 *pro*)
+
+(VB 降り)
+
+(P-CONN て)
+
+(N 家)
+
+(P-ROLE の)
+
+(N 背後)
+
+(P-ROLE へ)
+
+(VB 廻っ)
+
+(P-CONN て)
+
+(VB2 見る)
+
+(P-CONN と)
+
+(PU 、)
+
+(PRO そこ)
+
+(P-OPTR は)
+
+(NP-SBJ *T*)
+
+(ADJN 当り前)
+
+(AX の)
+
+(N 壁)
+
+(AX で)
+
+(P-OPTR は)
+
+(NEG ない)
+
+(PU 。)
+
+(ID 137_aozora_Mori-1912;JP)
+
+(NP-SBJ *pro*)
+
+(NP-SBJ *pro*)
+
+(N 窓)
+
+(P-ROLE を)
+
+(VB 締め)
+
+(P-CONN て)
+
+(PU 、)
+
+(NP-OB1 *pro*)
+
+(N 外)
+
+(P-ROLE から)
+
+(N 磚)
+
+(P-ROLE で)
+
+(VB 塞い)
+
+(AXD だ)
+
+(N もの)
+
+(P-ROLE と)
+
+(VB 見える)
+
+(PU 。)
+
+(ID 138_aozora_Mori-1912;JP)
+
+(NP-SBJ *pro*)
+
+(ADV 暫く)
+
+(D その)
+
+(N 外)
+
+(P-ROLE に)
+
+(VB 立っ)
+
+(P-CONN て)
+
+(NP-OB1 *pro*)
+
+(VB 聞い)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(P-CONN と)
+
+(PU 、)
+
+(N 物音)
+
+(P-OPTR は)
+
+(ADV じき)
+
+(N 窓)
+
+(P-ROLE の)
+
+(N 内)
+
+(P-ROLE で)
+
+(VB し)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(PU 。)
+
+(ID 139_aozora_Mori-1912;JP)
+
+(NP-SBJ *pro*)
+
+(NP-SBJ *pro*)
+
+(NP-OB1 *pro*)
+
+(N 家)
+
+(P-ROLE の)
+
+(N 構造)
+
+(P-ROLE から)
+
+(VB 考え)
+
+(P-CONN て)
+
+(VB2 見る)
+
+(P-CONN と)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(WADV どう)
+
+(VB し)
+
+(P-CONN て)
+
+(P-OPTR も)
+
+(N ※（「火＋亢」、第4水準2-79-62）)
+
+(P-ROLE の)
+
+(N 上)
+
+(AX な)
+
+(FN の)
+
+(AX だ)
+
+(PU 。)
+
+(ID 140_aozora_Mori-1912;JP)
+
+(NP-SBJ *T*)
+
+(N 表)
+
+(P-ROLE から)
+
+(VB 見える)
+
+(PU 、)
+
+(N 土)
+
+(P-ROLE の)
+
+(VB 暴露)
+
+(VB0 し)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(N ※（「火＋亢」、第4水準2-79-62）)
+
+(P-OPTR は)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(N 鉤なり)
+
+(P-ROLE に)
+
+(VB 曲っ)
+
+(AX た)
+
+(N ※（「火＋亢」、第4水準2-79-62）)
+
+(P-ROLE の)
+
+(Q 半分)
+
+(AX で)
+
+(PU 、)
+
+(N 跡)
+
+(P-ROLE の)
+
+(Q 半分)
+
+(P-OPTR は)
+
+(NP-SBJ *pro*)
+
+(NP-OB1 *T*)
+
+(NP-SBJ *pro*)
+
+(VB 積み上げ)
+
+(AXD た)
+
+(N 磚)
+
+(P-ROLE で)
+
+(VB 隠れ)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(N もの)
+
+(P-ROLE と)
+
+(VB 思わ)
+
+(VB2 れる)
+
+(PU 。)
+
+(ID 141_aozora_Mori-1912;JP)
+
+(NP-LOC *T*)
+
+(N 物音)
+
+(P-ROLE の)
+
+(VB する)
+
+(N の)
+
+(P-OPTR は)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(WADV どう)
+
+(VB し)
+
+(P-CONN て)
+
+(P-OPTR も)
+
+(D その)
+
+(N 跡)
+
+(P-ROLE の)
+
+(Q 半分)
+
+(P-ROLE の)
+
+(N ※（「火＋亢」、第4水準2-79-62）)
+
+(P-ROLE の)
+
+(N 上)
+
+(AX な)
+
+(FN の)
+
+(AX だ)
+
+(PU 。)
+
+(ID 142_aozora_Mori-1912;JP)
+
+(ADV こう)
+
+(VB なる)
+
+(P-CONN と)
+
+(PU 、)
+
+(NPR 小川君)
+
+(P-OPTR は)
+
+(WADV どう)
+
+(P-OPTR も)
+
+(D この)
+
+(N 窓)
+
+(P-ROLE の)
+
+(N 内)
+
+(P-ROLE を)
+
+(VB 見)
+
+(NEG なくて)
+
+(P-OPTR は)
+
+(N 気)
+
+(P-ROLE が)
+
+(VB 済ま)
+
+(NEG ない)
+
+(PU 。)
+
+(ID 143_aozora_Mori-1912;JP)
+
+(NP-SBJ *pro*)
+
+(CONJ そこで)
+
+(N 磚)
+
+(P-ROLE を)
+
+(VB 除け)
+
+(P-CONN て)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(N 突き上げ)
+
+(AX に)
+
+(VB なっ)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(N 障子)
+
+(P-ROLE を)
+
+(N 内)
+
+(P-ROLE へ)
+
+(VB 押せ)
+
+(P-CONN ば)
+
+(ADJI 好い)
+
+(FN わけ)
+
+(AX だ)
+
+(PU 。)
+
+(ID 144_aozora_Mori-1912;JP)
+
+(CONJ ところが)
+
+(D その)
+
+(N 磚)
+
+(P-ROLE が)
+
+(ADJI ひどく)
+
+(ADJN ぞんざい)
+
+(AX に)
+
+(PU 、)
+
+(ADJN 疎)
+
+(AX に)
+
+(VB 積ん)
+
+(P-CONN で)
+
+(PASS *)
+
+(VB2 あっ)
+
+(P-CONN て)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(NP-OB1 *pro*)
+
+(NUM 十)
+
+(P-OPTR ばかり)
+
+(P-OPTR も)
+
+(VB 卸し)
+
+(P-CONN て)
+
+(VB2 しまえ)
+
+(P-CONN ば)
+
+(PU 、)
+
+(N 窓)
+
+(P-ROLE が)
+
+(VB 開き)
+
+(AX そう)
+
+(AX だ)
+
+(PU 。)
+
+(ID 145_aozora_Mori-1912;JP)
+
+(NPR 小川君)
+
+(P-OPTR は)
+
+(N 磚)
+
+(P-ROLE を)
+
+(VB 卸し)
+
+(VB2 始め)
+
+(AXD た)
+
+(PU 。)
+
+(ID 146_aozora_Mori-1912;JP)
+
+(D その)
+
+(N 時)
+
+(N 物音)
+
+(P-ROLE が)
+
+(ADV ぴったり)
+
+(P-ROLE と)
+
+(VB 息ん)
+
+(AXD だ)
+
+(FN そう)
+
+(AX だ)
+
+(PU 。)
+
+(-RRB- 」)
+
+(ID 147_aozora_Mori-1912;JP)
+
+(NPR 小川)
+
+(P-OPTR は)
+
+(NP-OB1 *pro*)
+
+(VB 諦念め)
+
+(P-CONN て)
+
+(NP-OB1 *pro*)
+
+(VB 飲ん)
+
+(P-CONN で)
+
+(VB2 いる)
+
+(PU 。)
+
+(ID 148_aozora_Mori-1912;JP)
+
+(NP-OB1 *pro*)
+
+(NPR 平山)
+
+(P-OPTR は)
+
+(N 次第)
+
+(P-ROLE に)
+
+(ADJN 熱心)
+
+(AX に)
+
+(VB 傾聴)
+
+(VB0 し)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(PU 。)
+
+(ID 149_aozora_Mori-1912;JP)
+
+(N 上さん)
+
+(P-OPTR は)
+
+(N 油断)
+
+(ADJI なく)
+
+(N 酒)
+
+(P-ROLE を)
+
+(NUM 三)
+
+(CL 人)
+
+(P-ROLE の)
+
+(N 杯)
+
+(P-ROLE に)
+
+(VB 注い)
+
+(P-CONN で)
+
+(VB2 廻る)
+
+(PU 。)
+
+(ID 150_aozora_Mori-1912;JP)
+
+(-LRB- 「)
+
+(NPR 小川君)
+
+(P-OPTR は)
+
+(NP-SBJ *pro*)
+
+(N 磚)
+
+(P-ROLE を)
+
+(NUM 一)
+
+(CL つ)
+
+(NUM 一)
+
+(CL つ)
+
+(VB 卸し)
+
+(P-CONN ながら)
+
+(NP-OB1 *pro*)
+
+(VB 考え)
+
+(AXD た)
+
+(P-COMP と)
+
+(VB 云う)
+
+(FN の)
+
+(AX だ)
+
+(P-FINAL ね)
+
+(PU 。)
+
+(ID 151_aozora_Mori-1912;JP)
+
+(WADV どう)
+
+(P-OPTR も)
+
+(PRO これ)
+
+(P-OPTR は)
+
+(NP-OB1 *T*)
+
+(NP-SBJ *pro*)
+
+(N 塞ぎ切)
+
+(P-ROLE に)
+
+(VB 塞い)
+
+(AXD だ)
+
+(N もの)
+
+(AX で)
+
+(P-OPTR は)
+
+(NEG ない)
+
+(PU 。)
+
+(ID 152_aozora_Mori-1912;JP)
+
+(NP-SBJ *pro*)
+
+(NP-OB1 *pro*)
+
+(N 出入口)
+
+(AX に)
+
+(VB し)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(AX らしい)
+
+(PU 。)
+
+(ID 153_aozora_Mori-1912;JP)
+
+(CONJ しかし)
+
+(N 中)
+
+(P-ROLE に)
+
+(N 人)
+
+(P-ROLE が)
+
+(VB 這入っ)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(P-COMP と)
+
+(VB する)
+
+(P-CONN と)
+
+(PU 、)
+
+(N 外)
+
+(P-ROLE から)
+
+(N 磚)
+
+(P-ROLE が)
+
+(VB 積ん)
+
+(P-CONN で)
+
+(PASS *)
+
+(VB2 ある)
+
+(N の)
+
+(P-ROLE が)
+
+(ADJN 不思議)
+
+(AX だ)
+
+(PU 。)
+
+(ID 154_aozora_Mori-1912;JP)
+
+(NP-SBJ *pro*)
+
+(NP-SBJ *pro*)
+
+(ADV 兎に角)
+
+(NP *T*)
+
+(P-ROLE *.e*)
+
+(N 拳銃)
+
+(P-ROLE が)
+
+(N 寝床)
+
+(P-ROLE に)
+
+(VB 置い)
+
+(P-CONN て)
+
+(PASS *)
+
+(VB2 あっ)
+
+(AXD た)
+
+(N の)
+
+(P-ROLE を)
+
+(PU 、)
+
+(VB 持っ)
+
+(P-CONN て)
+
+(VB2 来れ)
+
+(P-CONN ば)
+
+(ADJI 好かっ)
+
+(AXD た)
+
+(P-COMP と)
+
+(VB 思っ)
+
+(AXD た)
+
+(P-CONN が)
+
+(PU 、)
+
+(N 好奇心)
+
+(P-ROLE が)
+
+(NP-SBJ *pro*)
+
+(PRO それ)
+
+(P-ROLE を)
+
+(VB 取り)
+
+(P-ROLE に)
+
+(VB 帰る)
+
+(P-OPTR 程)
+
+(AX の)
+
+(N 余裕)
+
+(P-ROLE を)
+
+(VB 与え)
+
+(NEG ない)
+
+(P-CONN し)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(PRO それ)
+
+(P-ROLE を)
+
+(VB 取り)
+
+(P-ROLE に)
+
+(VB 帰っ)
+
+(P-CONN たら)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(N 一しょ)
+
+(P-ROLE に)
+
+(VB いる)
+
+(N 人)
+
+(P-ROLE が)
+
+(N 目)
+
+(P-ROLE を)
+
+(VB 醒ます)
+
+(AX だろう)
+
+(P-COMP と)
+
+(VB 思っ)
+
+(P-CONN て)
+
+(NP-OB1 *pro*)
+
+(VB 諦念め)
+
+(AXD た)
+
+(FN そう)
+
+(AX だ)
+
+(PU 。)
+
+(ID 155_aozora_Mori-1912;JP)
+
+(NP-SBJ *pro*)
+
+(N 磚)
+
+(P-OPTR は)
+
+(ADV 造做もなく)
+
+(VB 除け)
+
+(P-CONN て)
+
+(VB2 しまっ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 156_aozora_Mori-1912;JP)
+
+(NP-SBJ *pro*)
+
+(N 窓)
+
+(P-ROLE へ)
+
+(N 手)
+
+(P-ROLE を)
+
+(VB 掛け)
+
+(P-CONN て)
+
+(NP-OB1;{WINDOW} *pro*)
+
+(VB 押す)
+
+(P-CONN と)
+
+(WPRO なん)
+
+(P-ROLE の)
+
+(N 抗抵)
+
+(P-OPTR も)
+
+(ADJI なく)
+
+(NP-SBJ;{WINDOW} *pro*)
+
+(VB 開く)
+
+(PU 。)
+
+(ID 157_aozora_Mori-1912;JP)
+
+(D その)
+
+(N 時)
+
+(ADV がさがさ)
+
+(P-ROLE と云う)
+
+(N 音)
+
+(P-ROLE が)
+
+(VB し)
+
+(AXD た)
+
+(FN そう)
+
+(AX だ)
+
+(PU 。)
+
+(ID 158_aozora_Mori-1912;JP)
+
+(NPR 小川君)
+
+(P-ROLE が)
+
+(ADV そっと)
+
+(N 中)
+
+(P-ROLE を)
+
+(VB 覗い)
+
+(P-CONN て)
+
+(VB2 見る)
+
+(P-CONN と)
+
+(PU 、)
+
+(N 粟稈)
+
+(P-ROLE が)
+
+(Q 一ぱい)
+
+(P-ROLE に)
+
+(VB 散らばっ)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(PU 。)
+
+(ID 159_aozora_Mori-1912;JP)
+
+(NP-SBJ *pro*)
+
+(PRO それ)
+
+(P-ROLE が)
+
+(N 窓)
+
+(P-ROLE に)
+
+(VB 障っ)
+
+(P-CONN て)
+
+(PU 、)
+
+(ADV がさがさ)
+
+(VB 云っ)
+
+(AXD た)
+
+(FN の)
+
+(AX だ)
+
+(P-FINAL ね)
+
+(PU 。)
+
+(ID 160_aozora_Mori-1912;JP)
+
+(PRO それ)
+
+(P-OPTR は)
+
+(ADJI 好い)
+
+(P-CONN が)
+
+(PU 、)
+
+(NP-SBJ *exp*)
+
+(PRO そこら)
+
+(P-ROLE に)
+
+(NP-SBJ *T*)
+
+(N 甑)
+
+(P-ROLE の)
+
+(N よう)
+
+(AX な)
+
+(N 物)
+
+(P-CONN やら)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(N 籠)
+
+(P-ROLE の)
+
+(N よう)
+
+(AX な)
+
+(N 物)
+
+(P-CONN やら)
+
+(VB 置い)
+
+(P-CONN て)
+
+(VB2 あっ)
+
+(P-CONN て)
+
+(PU 、)
+
+(D その)
+
+(N 奥)
+
+(P-ROLE に)
+
+(N 粟稈)
+
+(P-ROLE に)
+
+(Q 半分)
+
+(VB 埋まっ)
+
+(P-CONN て)
+
+(PU 、)
+
+(N 人)
+
+(P-ROLE が)
+
+(VB いる)
+
+(PU 。)
+
+(ID 161_aozora_Mori-1912;JP)
+
+(NP-SBJ *pro*)
+
+(ADJN 慥か)
+
+(AX に)
+
+(N 人)
+
+(AX だ)
+
+(PU 。)
+
+(ID 162_aozora_Mori-1912;JP)
+
+(NP-SBJ *pro*)
+
+(NP-OB1 *T*)
+
+(N 土人)
+
+(P-ROLE の)
+
+(VB 着る)
+
+(NP-SBJ *T*)
+
+(N 浅葱色)
+
+(AX の)
+
+(NP-SBJ *T*)
+
+(N 外套)
+
+(P-ROLE の)
+
+(N よう)
+
+(AX な)
+
+(N 服)
+
+(AX で)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(NP *T*)
+
+(P-ROLE *.e*)
+
+(N 裾)
+
+(P-ROLE の)
+
+(N 所)
+
+(P-ROLE が)
+
+(VB ひっくり返っ)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(N の)
+
+(P-ROLE を)
+
+(VB 見る)
+
+(P-CONN と)
+
+(PU 、)
+
+(N 羊)
+
+(P-ROLE の)
+
+(N 毛皮)
+
+(P-ROLE が)
+
+(N 裏)
+
+(P-ROLE に)
+
+(VB 附け)
+
+(P-CONN て)
+
+(PASS *)
+
+(VB2 ある)
+
+(PU 。)
+
+(ID 163_aozora_Mori-1912;JP)
+
+(NP-SBJ *pro*)
+
+(NP-SBJ *pro*)
+
+(N 窓)
+
+(P-ROLE の)
+
+(N 方)
+
+(P-ROLE へ)
+
+(N 背中)
+
+(P-ROLE を)
+
+(VB 向け)
+
+(P-CONN て)
+
+(N 頭)
+
+(P-ROLE を)
+
+(N 粟稈)
+
+(P-ROLE に)
+
+(VB 埋める)
+
+(N よう)
+
+(P-ROLE に)
+
+(VB し)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(P-CONN が)
+
+(PU 、)
+
+(D その)
+
+(N 背中)
+
+(P-OPTR は)
+
+(ADV ぶるぶる)
+
+(VB 慄え)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(P-COMP と)
+
+(VB 云う)
+
+(FN の)
+
+(AX だ)
+
+(P-FINAL ね)
+
+(PU 。)
+
+(-RRB- 」)
+
+(ID 164_aozora_Mori-1912;JP)
+
+(NPR 小川)
+
+(P-OPTR は)
+
+(N 杯)
+
+(P-ROLE を)
+
+(VB 取り上げ)
+
+(P-CONN たり)
+
+(PU 、)
+
+(VB 置い)
+
+(P-CONN たり)
+
+(VB2 し)
+
+(P-CONN て)
+
+(NP-SBJ *T*)
+
+(ADJI 不安らしい)
+
+(N 様子)
+
+(P-ROLE を)
+
+(VB し)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(PU 。)
+
+(ID 165_aozora_Mori-1912;JP)
+
+(NP-OB1 *pro*)
+
+(NPR 平山)
+
+(P-OPTR は)
+
+(ADV ますます)
+
+(ADJN 熱心)
+
+(AX に)
+
+(VB 聞い)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(PU 。)
+
+(ID 166_aozora_Mori-1912;JP)
+
+(N 主人)
+
+(P-OPTR は)
+
+(ADV わざと)
+
+(N 間)
+
+(P-ROLE を)
+
+(VB 置い)
+
+(P-CONN て)
+
+(PU 、)
+
+(NUM 二人)
+
+(P-ROLE を)
+
+(N 等分)
+
+(P-ROLE に)
+
+(VB 見)
+
+(P-CONN て)
+
+(VB 話し)
+
+(VB2 続け)
+
+(AXD た)
+
+(PU 。)
+
+(ID 167_aozora_Mori-1912;JP)
+
+(-LRB- 「)
+
+(CONJ ところが)
+
+(D その)
+
+(N 人間)
+
+(P-ROLE の)
+
+(N 頭)
+
+(P-ROLE が)
+
+(N 辮子)
+
+(AX で)
+
+(NEG ない)
+
+(PU 。)
+
+(ID 168_aozora_Mori-1912;JP)
+
+(NP-SBJ *pro*)
+
+(N 女)
+
+(AX な)
+
+(FN の)
+
+(AX だ)
+
+(PU 。)
+
+(ID 169_aozora_Mori-1912;JP)
+
+(NP-SBJ *pro*)
+
+(PRO それ)
+
+(P-ROLE が)
+
+(VB 分かっ)
+
+(AXD た)
+
+(N 時)
+
+(PU 、)
+
+(NPR 小川君)
+
+(P-OPTR は)
+
+(NP-SBJ *T*)
+
+(PRO それ)
+
+(P-ROLE まで)
+
+(VB 交っ)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AXD た)
+
+(N 危険)
+
+(P-ROLE と云う)
+
+(N 念)
+
+(P-ROLE が)
+
+(ADV 全く)
+
+(VB 無くなっ)
+
+(P-CONN て)
+
+(PU 、)
+
+(N 好奇心)
+
+(P-ROLE が)
+
+(NP-SBJ *T*)
+
+(ADJN 純粋)
+
+(AX の)
+
+(N 好奇心)
+
+(AX に)
+
+(VB なっ)
+
+(AXD た)
+
+(FN そう)
+
+(AX だ)
+
+(PU 。)
+
+(ID 170_aozora_Mori-1912;JP)
+
+(PRO これ)
+
+(P-OPTR は)
+
+(NP-SBJ *T*)
+
+(ADV さも)
+
+(VB あり)
+
+(AX そう)
+
+(AX な)
+
+(N 事)
+
+(AX だ)
+
+(P-FINAL ね)
+
+(PU 。)
+
+(ID 171_aozora_Mori-1912;JP)
+
+(NP-SBJ *pro*)
+
+(NP-SBJ *pro*)
+
+(PRO ※（「にんべん＋爾」、第3水準1-14-45）)
+
+(P-COMP と)
+
+(N 声)
+
+(P-ROLE に)
+
+(N 力)
+
+(P-ROLE を)
+
+(VB 入れ)
+
+(P-CONN て)
+
+(VB 呼ん)
+
+(P-CONN で)
+
+(VB2 見)
+
+(AXD た)
+
+(P-CONN が)
+
+(PU 、)
+
+(ADV ただ)
+
+(VB 慄え)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(P-OPTR ばかり)
+
+(AX だ)
+
+(PU 。)
+
+(ID 172_aozora_Mori-1912;JP)
+
+(NPR 小川君)
+
+(P-OPTR は)
+
+(N ※（「火＋亢」、第4水準2-79-62）)
+
+(P-ROLE の)
+
+(N 上)
+
+(P-ROLE へ)
+
+(VB 飛び上がっ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 173_aozora_Mori-1912;JP)
+
+(NP-SBJ *exp*)
+
+(NP-SBJ *pro*)
+
+(N 女)
+
+(P-ROLE の)
+
+(N 肩)
+
+(P-ROLE に)
+
+(N 手)
+
+(P-ROLE を)
+
+(VB 掛け)
+
+(P-CONN て)
+
+(PU 、)
+
+(NP-OB1;{WOMAN} *pro*)
+
+(VB 引き起し)
+
+(P-CONN て)
+
+(PU 、)
+
+(NP-OB1;{WOMAN} *pro*)
+
+(N 窓)
+
+(P-ROLE の)
+
+(N 方)
+
+(P-ROLE へ)
+
+(VB 向け)
+
+(P-CONN て)
+
+(VB 見る)
+
+(P-CONN と)
+
+(PU 、)
+
+(NP-SBJ;{WOMAN} *pro*)
+
+(NP-SBJ *T*)
+
+(ADV まだ)
+
+(NUM 二十)
+
+(AX に)
+
+(VB なら)
+
+(NEG ない)
+
+(P-OPTR 位)
+
+(AX な)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJI すばらしい)
+
+(N 別品)
+
+(AX だっ)
+
+(AXD た)
+
+(P-COMP と)
+
+(VB 云う)
+
+(FN の)
+
+(AX だ)
+
+(PU 。)
+
+(-RRB- 」)
+
+(ID 174_aozora_Mori-1912;JP)
+
+(N 主人)
+
+(P-OPTR は)
+
+(ADV また)
+
+(N 間)
+
+(P-ROLE を)
+
+(VB 置い)
+
+(P-CONN て)
+
+(NUM 二人)
+
+(P-ROLE を)
+
+(VB 見較べ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 175_aozora_Mori-1912;JP)
+
+(NP-SBJ *pro*)
+
+(CONJ そして)
+
+(ADV ゆっくり)
+
+(N 酒)
+
+(P-ROLE を)
+
+(NUM 一)
+
+(CL 杯)
+
+(VB 飲ん)
+
+(AXD だ)
+
+(PU 。)
+
+(ID 176_aozora_Mori-1912;JP)
+
+(-LRB- 「)
+
+(NP-SBJ *speaker*)
+
+(PRO これ)
+
+(P-ROLE から)
+
+(N 先)
+
+(P-OPTR は)
+
+(NP-OB1 *pro*)
+
+(VB 端折っ)
+
+(P-CONN て)
+
+(NP-OB1 *pro*)
+
+(VB 話す)
+
+(P-FINAL よ)
+
+(PU 。)
+
+(ID 177_aozora_Mori-1912;JP)
+
+(NP-SBJ *pro*)
+
+(NP-SBJ *T*)
+
+(PRO これ)
+
+(P-ROLE まで)
+
+(P-ROLE の)
+
+(N よう)
+
+(AX な)
+
+(NP-SBJ *T*)
+
+(ADJI 珍らしい)
+
+(N 話)
+
+(P-ROLE と)
+
+(P-OPTR は)
+
+(VB 違っ)
+
+(P-CONN て)
+
+(PU 、)
+
+(NP-OB1 *pro*)
+
+(WPRO いつ)
+
+(WPRO 誰)
+
+(P-ROLE が)
+
+(WPRO どこ)
+
+(P-ROLE で)
+
+(VB 遣っ)
+
+(P-CONN て)
+
+(P-OPTR も)
+
+(NP-SBJ *T*)
+
+(ADJN 同じ)
+
+(AX *)
+
+(N 事)
+
+(AX だ)
+
+(P-CONN から)
+
+(P-FINAL ね)
+
+(PU 。)
+
+(ID 178_aozora_Mori-1912;JP)
+
+(ADV 一体)
+
+(N 支那人)
+
+(P-OPTR は)
+
+(ADV いざ)
+
+(P-ROLE と)
+
+(VB なる)
+
+(P-CONN と)
+
+(PU 、)
+
+(N 覚悟)
+
+(P-ROLE が)
+
+(ADJI 好い)
+
+(PU 。)
+
+(ID 179_aozora_Mori-1912;JP)
+
+(NP-SBJ *pro*)
+
+(NP-LGS *pro*)
+
+(N 首)
+
+(P-ROLE を)
+
+(VB 斬ら)
+
+(PASS2 れる)
+
+(N 時)
+
+(P-OPTR なぞ)
+
+(P-OPTR も)
+
+(PU 、)
+
+(ADJN 尋常)
+
+(AX に)
+
+(VB 斬ら)
+
+(PASS れる)
+
+(PU 。)
+
+(ID 180_aozora_Mori-1912;JP)
+
+(N 女)
+
+(P-OPTR は)
+
+(ADJN 尋常)
+
+(AX に)
+
+(VB 服従)
+
+(VB0 し)
+
+(AXD た)
+
+(FN そう)
+
+(AX だ)
+
+(PU 。)
+
+(ID 181_aozora_Mori-1912;JP)
+
+(ADV 無論)
+
+(NPR 小川君)
+
+(P-ROLE の)
+
+(NP-SBJ *T*)
+
+(ADJN 好嫖致)
+
+(AX な)
+
+(N 所)
+
+(P-OPTR も)
+
+(PU 、)
+
+(N 女)
+
+(P-ROLE の)
+
+(N 諦念)
+
+(P-ROLE を)
+
+(ADJN 容易)
+
+(AX なら)
+
+(VB しめ)
+
+(AXD た)
+
+(P-ROLE に)
+
+(P-OPTR は)
+
+(N 相違)
+
+(ADJI ない)
+
+(P-FINAL さ)
+
+(PU 。)
+
+(ID 182_aozora_Mori-1912;JP)
+
+(PRO そこ)
+
+(P-ROLE で)
+
+(N 女)
+
+(P-ROLE の)
+
+(VB 服従)
+
+(VB0 し)
+
+(AXD た)
+
+(N の)
+
+(P-OPTR は)
+
+(ADJI 好い)
+
+(P-CONN が)
+
+(PU 、)
+
+(NPR 小川君)
+
+(P-OPTR は)
+
+(NP-LGS *pro*)
+
+(PRO 自分)
+
+(P-ROLE の)
+
+(N 顔)
+
+(P-ROLE を)
+
+(VB 見覚え)
+
+(PASS2 られ)
+
+(AXD た)
+
+(N の)
+
+(P-ROLE が)
+
+(ADJI こわく)
+
+(VB なっ)
+
+(AXD た)
+
+(FN の)
+
+(AX だ)
+
+(P-FINAL ね)
+
+(PU 。)
+
+(-RRB- 」)
+
+(ID 183_aozora_Mori-1912;JP)
+
+(NP-SBJ *pro*)
+
+(NP-OB1 *pro*)
+
+(PRO ここ)
+
+(P-ROLE まで)
+
+(VB 話し)
+
+(P-CONN て)
+
+(PU 、)
+
+(N 主人)
+
+(P-OPTR は)
+
+(NPR 小川)
+
+(P-ROLE の)
+
+(N 顔)
+
+(P-ROLE を)
+
+(ADV ちょっと)
+
+(VB 見)
+
+(AXD た)
+
+(PU 。)
+
+(ID 184_aozora_Mori-1912;JP)
+
+(NP-SBJ *T*)
+
+(ADJI 赤かっ)
+
+(AXD た)
+
+(N 顔)
+
+(P-ROLE が)
+
+(ADJI 蒼く)
+
+(VB なっ)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(PU 。)
+
+(ID 185_aozora_Mori-1912;JP)
+
+(NP-SBJ *pro*)
+
+(-LRB- 「)
+
+(NP-SBJ *hearer*)
+
+(NP-OB1 *pro*)
+
+(ADV もう)
+
+(VB よし)
+
+(VB2 給え)
+
+(-RRB- 」)
+
+(P-COMP と)
+
+(VB 云っ)
+
+(AXD た)
+
+(NPR 小川)
+
+(P-ROLE の)
+
+(N 声)
+
+(P-OPTR は)
+
+(PU 、)
+
+(ADJI 小さく)
+
+(PU 、)
+
+(ADJN 異様)
+
+(AX に)
+
+(N 空洞)
+
+(P-ROLE に)
+
+(VB 響い)
+
+(AXD た)
+
+(PU 。)
+
+(ID 186_aozora_Mori-1912;JP)
+
+(-LRB- 「)
+
+(INTJ うん)
+
+(PU 。)
+
+(ID 187_aozora_Mori-1912;JP)
+
+(NP-SBJ *speaker*)
+
+(NP-OB1 *pro*)
+
+(VB よす)
+
+(P-FINAL よ)
+
+(ID 188_aozora_Mori-1912;JP)
+
+(NP-SBJ *speaker*)
+
+(NP-OB1 *pro*)
+
+(VB よす)
+
+(P-FINAL よ)
+
+(PU 。)
+
+(ID 189_aozora_Mori-1912;JP)
+
+(NP-SBJ *pro*)
+
+(ADV もう)
+
+(N おしまい)
+
+(AX に)
+
+(VB なっ)
+
+(AXD た)
+
+(AX じゃ)
+
+(NEG ない)
+
+(P-FINAL か)
+
+(PU 。)
+
+(ID 190_aozora_Mori-1912;JP)
+
+(ADV なんでも)
+
+(D その)
+
+(N 女)
+
+(P-ROLE に)
+
+(P-OPTR は)
+
+(ADV 折々)
+
+(N 土人)
+
+(P-ROLE が)
+
+(N 食物)
+
+(P-ROLE を)
+
+(ADV こっそり)
+
+(N 窓)
+
+(P-ROLE から)
+
+(VB 運ん)
+
+(P-CONN で)
+
+(VB2 い)
+
+(AXD た)
+
+(FN の)
+
+(AX だ)
+
+(PU 。)
+
+(ID 191_aozora_Mori-1912;JP)
+
+(N 女)
+
+(P-OPTR は)
+
+(PRO それ)
+
+(P-ROLE を)
+
+(N 夜なか)
+
+(P-ROLE に)
+
+(VB 食っ)
+
+(P-CONN たり)
+
+(PU 、)
+
+(N 甑)
+
+(P-ROLE の)
+
+(N 中)
+
+(P-ROLE へ)
+
+(N 便)
+
+(P-ROLE を)
+
+(VB 足し)
+
+(P-CONN たり)
+
+(VB2 する)
+
+(N こと)
+
+(P-ROLE に)
+
+(VB なっ)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AXD た)
+
+(N の)
+
+(P-ROLE を)
+
+(PU 、)
+
+(NPR 小川君)
+
+(P-ROLE が)
+
+(VB 聞き)
+
+(VB2 附け)
+
+(AXD た)
+
+(FN の)
+
+(AX だ)
+
+(P-FINAL ね)
+
+(PU 。)
+
+(ID 192_aozora_Mori-1912;JP)
+
+(NP-SBJ *pro*)
+
+(N 顔)
+
+(P-ROLE が)
+
+(ADJN 綺麗)
+
+(AX だ)
+
+(P-CONN から)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(NP-OB1 *pro*)
+
+(N 兵隊)
+
+(P-ROLE に)
+
+(VB 見せ)
+
+(NEG まい)
+
+(P-COMP と)
+
+(VB 思っ)
+
+(P-CONN て)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(NP-OB1 *pro*)
+
+(VB 隠し)
+
+(P-CONN て)
+
+(VB2 置い)
+
+(AXD た)
+
+(FN の)
+
+(AX だろ)
+
+(INFR う)
+
+(PU 。)
+
+(ID 193_aozora_Mori-1912;JP)
+
+(NP-SBJ *pro*)
+
+(N 羊)
+
+(P-ROLE の)
+
+(N 毛皮)
+
+(P-ROLE を)
+
+(NUM 二)
+
+(CL 枚)
+
+(VB 着)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AXD た)
+
+(FN そう)
+
+(AX だ)
+
+(P-CONN が)
+
+(PU 、)
+
+(PRO それ)
+
+(P-ROLE で)
+
+(N 粟稈)
+
+(P-ROLE の)
+
+(N 中)
+
+(P-ROLE に)
+
+(VB 潜っ)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AXD た)
+
+(P-OPTR にしても)
+
+(PU 、)
+
+(N ※（「火＋亢」、第4水準2-79-62）)
+
+(P-OPTR は)
+
+(VB 焚か)
+
+(VB2 れ)
+
+(NEG ない)
+
+(P-CONN から)
+
+(PU 、)
+
+(ADV 随分)
+
+(ADJI 寒かっ)
+
+(AXD た)
+
+(AX だろう)
+
+(P-FINAL ね)
+
+(PU 。)
+
+(ID 194_aozora_Mori-1912;JP)
+
+(N 支那人)
+
+(P-OPTR は)
+
+(ADJI 辛抱強い)
+
+(N こと)
+
+(P-OPTR は)
+
+(N 無類)
+
+(AX だ)
+
+(P-FINAL よ)
+
+(PU 。)
+
+(ID 195_aozora_Mori-1912;JP)
+
+(ADV 兎に角)
+
+(D その)
+
+(N 女)
+
+(P-OPTR は)
+
+(PRO それ)
+
+(P-OPTR きり)
+
+(N 粟稈)
+
+(P-ROLE の)
+
+(N 中)
+
+(P-ROLE から)
+
+(VB 起き)
+
+(NEG ずに)
+
+(VB しまっ)
+
+(AXD た)
+
+(FN そう)
+
+(AX だ)
+
+(PU 。)
+
+(-RRB- 」)
+
+(ID 196_aozora_Mori-1912;JP)
+
+(N 主人)
+
+(P-OPTR は)
+
+(N 最後)
+
+(P-ROLE の)
+
+(NUM 一)
+
+(CL 句)
+
+(P-ROLE を)
+
+(PU 、)
+
+(ADJN 特別)
+
+(AX に)
+
+(ADV ゆっくり)
+
+(VB 言っ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 197_aozora_Mori-1912;JP)
+
+(N 違棚)
+
+(P-ROLE の)
+
+(N 上)
+
+(P-ROLE で)
+
+(NP-SBJ *T*)
+
+(NP-SBJ *T*)
+
+(ADJI しつっこい)
+
+(NP-SBJ *T*)
+
+(N 金)
+
+(AX の)
+
+(N 装飾)
+
+(P-ROLE を)
+
+(VB し)
+
+(AX た)
+
+(N 置時計)
+
+(P-ROLE が)
+
+(ADV ちいんと)
+
+(NUM 一)
+
+(CL つ)
+
+(VB 鳴っ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 198_aozora_Mori-1912;JP)
+
+(-LRB- 「)
+
+(NP-SBJ *exp*)
+
+(ADV もう)
+
+(NUM 一)
+
+(CL 時)
+
+(AX だ)
+
+(PU 。)
+
+(ID 199_aozora_Mori-1912;JP)
+
+(NP-SBJ *speaker*)
+
+(VB 寝)
+
+(INFR よう)
+
+(P-FINAL かな)
+
+(PU 。)
+
+(-RRB- 」)
+
+(ID 200_aozora_Mori-1912;JP)
+
+(NP-SBJ *T*)
+
+(ADV こう)
+
+(VB 云っ)
+
+(AXD た)
+
+(N の)
+
+(P-OPTR は)
+
+(PU 、)
+
+(NPR 平山)
+
+(AX で)
+
+(VB2 あっ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 201_aozora_Mori-1912;JP)
+
+(N 主客)
+
+(P-OPTR は)
+
+(ADV 暫く)
+
+(ADV ぐずぐず)
+
+(VB し)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AXD た)
+
+(P-CONN が)
+
+(PU 、)
+
+(PRO それ)
+
+(P-ROLE から)
+
+(P-OPTR は)
+
+(NP-SBJ *exp*)
+
+(WADV どう)
+
+(VB し)
+
+(AXD た)
+
+(N 事)
+
+(P-OPTR か)
+
+(PU 、)
+
+(N 話)
+
+(P-ROLE が)
+
+(VB 栄え)
+
+(NEG ない)
+
+(PU 。)
+
+(ID 202_aozora_Mori-1912;JP)
+
+(ADV とうとう)
+
+(Q 一同)
+
+(NP-SBJ *pro*)
+
+(VB 寝る)
+
+(P-COMP と云う)
+
+(N こと)
+
+(P-ROLE に)
+
+(VB なっ)
+
+(P-CONN て)
+
+(PU 、)
+
+(NP-CZZ *pro*)
+
+(N 客)
+
+(P-ROLE を)
+
+(NUM 二)
+
+(CL 階)
+
+(P-ROLE へ)
+
+(VB 案内)
+
+(VB0 さ)
+
+(VB2 せる)
+
+(N ため)
+
+(P-ROLE に)
+
+(PU 、)
+
+(N 上さん)
+
+(P-ROLE が)
+
+(N 女中)
+
+(P-ROLE を)
+
+(VB 呼ん)
+
+(AXD だ)
+
+(PU 。)
+
+(ID 203_aozora_Mori-1912;JP)
+
+(Q 一同)
+
+(P-ROLE が)
+
+(VB 立ち上がる)
+
+(N 時)
+
+(PU 、)
+
+(NPR 小川)
+
+(P-ROLE の)
+
+(N 足元)
+
+(P-OPTR は)
+
+(ADV 大ぶ)
+
+(ADJI 怪しかっ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 204_aozora_Mori-1912;JP)
+
+(NP-OB1 *pro*)
+
+(N 主人)
+
+(P-ROLE が)
+
+(NPR 小川)
+
+(P-ROLE に)
+
+(VB 言っ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 205_aozora_Mori-1912;JP)
+
+(-LRB- 「)
+
+(N さっき)
+
+(P-ROLE の)
+
+(N 話)
+
+(P-OPTR は)
+
+(N 旧暦)
+
+(P-ROLE の)
+
+(N 除夜)
+
+(AX だっ)
+
+(AXD た)
+
+(P-COMP と)
+
+(PRO 君)
+
+(P-OPTR は)
+
+(VB 云っ)
+
+(AXD た)
+
+(P-CONN から)
+
+(PU 、)
+
+(ADV 丁度)
+
+(N 今日)
+
+(P-ROLE が)
+
+(NUM 七)
+
+(CL 回忌)
+
+(AX だ)
+
+(PU 。)
+
+(-RRB- 」)
+
+(ID 206_aozora_Mori-1912;JP)
+
+(NPR 小川)
+
+(P-OPTR は)
+
+(VB 黙っ)
+
+(P-CONN て)
+
+(N 主人)
+
+(P-ROLE の)
+
+(N 顔)
+
+(P-ROLE を)
+
+(VB 見)
+
+(AXD た)
+
+(PU 。)
+
+(ID 207_aozora_Mori-1912;JP)
+
+(NP-SBJ *pro*)
+
+(CONJ そして)
+
+(N 女中)
+
+(P-ROLE の)
+
+(N 跡)
+
+(P-ROLE に)
+
+(VB 附い)
+
+(P-CONN て)
+
+(PU 、)
+
+(NPR 平山)
+
+(P-ROLE と)
+
+(VB 並ん)
+
+(P-CONN で)
+
+(N 梯子)
+
+(P-ROLE を)
+
+(VB 登っ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 208_aozora_Mori-1912;JP)
+
+(NUM 二)
+
+(CL 階)
+
+(P-OPTR は)
+
+(NP-SBJ *T*)
+
+(N 西洋まがい)
+
+(AX の)
+
+(N 構造)
+
+(AX に)
+
+(VB なっ)
+
+(P-CONN て)
+
+(VB2 い)
+
+(P-CONN て)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJI 小さい)
+
+(N 部屋)
+
+(P-ROLE が)
+
+(WNUM 幾)
+
+(CL つ)
+
+(P-OPTR も)
+
+(VB 並ん)
+
+(P-CONN で)
+
+(VB2 いる)
+
+(PU 。)
+
+(ID 209_aozora_Mori-1912;JP)
+
+(NP-SBJ *pro*)
+
+(NP-OB1 *T*)
+
+(NP-SBJ *pro*)
+
+(NP-SBJ *T*)
+
+(Q 大勢)
+
+(AX の)
+
+(N 客)
+
+(P-ROLE を)
+
+(VB 留める)
+
+(N 計画)
+
+(P-ROLE を)
+
+(VB し)
+
+(P-CONN て)
+
+(VB 建て)
+
+(AXD た)
+
+(N 家)
+
+(P-ROLE と)
+
+(VB 見える)
+
+(PU 。)
+
+(ID 210_aozora_Mori-1912;JP)
+
+(N 廊下)
+
+(P-ROLE に)
+
+(P-OPTR は)
+
+(NP-SBJ *T*)
+
+(ADJI 暗い)
+
+(N 電燈)
+
+(P-ROLE が)
+
+(VB 附い)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(PU 。)
+
+(ID 211_aozora_Mori-1912;JP)
+
+(N 女中)
+
+(P-ROLE が)
+
+(NPR 平山)
+
+(P-ROLE に)
+
+(PU 、)
+
+(-LRB- 「)
+
+(PRO あなた)
+
+(P-OPTR は)
+
+(PRO こちら)
+
+(P-ROLE で)
+
+(-RRB- 」)
+
+(P-COMP と)
+
+(NP-SBJ *T*)
+
+(NUM 一)
+
+(CL つ)
+
+(AX の)
+
+(N 戸)
+
+(P-ROLE を)
+
+(VB 指さし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 212_aozora_Mori-1912;JP)
+
+(NP-SBJ *T*)
+
+(N 戸)
+
+(P-ROLE の)
+
+(N 撮み)
+
+(P-ROLE に)
+
+(N 手)
+
+(P-ROLE を)
+
+(VB 掛け)
+
+(P-CONN て)
+
+(PU 、)
+
+(-LRB- 「)
+
+(INTJ さようなら)
+
+(-RRB- 」)
+
+(P-COMP と)
+
+(VB 云っ)
+
+(AXD た)
+
+(NPR 平山)
+
+(P-ROLE の)
+
+(N 声)
+
+(P-ROLE が)
+
+(NPR 小川)
+
+(P-ROLE に)
+
+(P-OPTR は)
+
+(ADJI ひどく)
+
+(ADJN 不愛相)
+
+(AX に)
+
+(VB 聞え)
+
+(AXD た)
+
+(PU 。)
+
+(ID 213_aozora_Mori-1912;JP)
+
+(N 女中)
+
+(P-OPTR は)
+
+(ADV ずんずん)
+
+(N 先)
+
+(P-ROLE へ)
+
+(VB 立っ)
+
+(P-CONN て)
+
+(VB2 行く)
+
+(PU 。)
+
+(ID 214_aozora_Mori-1912;JP)
+
+(-LRB- 「)
+
+(NP-SBJ *pro*)
+
+(ADV まだ)
+
+(N 先)
+
+(P-FINAL かい)
+
+(-RRB- 」)
+
+(P-COMP と)
+
+(NPR 小川)
+
+(P-ROLE が)
+
+(VB 云っ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 215_aozora_Mori-1912;JP)
+
+(-LRB- 「)
+
+(INTJ ええ)
+
+(PU 。)
+
+(ID 216_aozora_Mori-1912;JP)
+
+(PRO あちら)
+
+(P-ROLE の)
+
+(N 方)
+
+(P-ROLE に)
+
+(N 煖炉)
+
+(P-ROLE が)
+
+(VB 焚い)
+
+(P-CONN て)
+
+(VB2 ござい)
+
+(AX ます)
+
+(PU 。)
+
+(-RRB- 」)
+
+(ID 217_aozora_Mori-1912;JP)
+
+(NP-SBJ *pro*)
+
+(ADV こう)
+
+(VB 云っ)
+
+(P-CONN て)
+
+(PU 、)
+
+(NP-OB1 *pro*)
+
+(N 女中)
+
+(P-OPTR は)
+
+(N 廊下)
+
+(P-ROLE の)
+
+(N 行き留まり)
+
+(P-ROLE の)
+
+(N 戸)
+
+(P-ROLE まで)
+
+(VB 連れ)
+
+(P-CONN て)
+
+(VB2 行っ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 218_aozora_Mori-1912;JP)
+
+(NPR 小川)
+
+(P-OPTR は)
+
+(N 戸)
+
+(P-ROLE を)
+
+(VB 開け)
+
+(P-CONN て)
+
+(VB 這入っ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 219_aozora_Mori-1912;JP)
+
+(N 瓦斯煖炉)
+
+(P-ROLE が)
+
+(VB 焚い)
+
+(P-CONN て)
+
+(PASS *)
+
+(PU 、)
+
+(N 電燈)
+
+(P-ROLE が)
+
+(VB 附け)
+
+(P-CONN て)
+
+(PASS *)
+
+(VB2 ある)
+
+(PU 。)
+
+(ID 220_aozora_Mori-1912;JP)
+
+(NP-SBJ *pro*)
+
+(NP-SBJ *T*)
+
+(N 本当)
+
+(AX の)
+
+(N 西洋間)
+
+(AX で)
+
+(P-OPTR は)
+
+(NEG ない)
+
+(PU 。)
+
+(ID 221_aozora_Mori-1912;JP)
+
+(NPR 小川)
+
+(P-OPTR は)
+
+(NP-SBJ *pro*)
+
+(NP-LOC *T*)
+
+(NP-SBJ *pro*)
+
+(N 国)
+
+(P-ROLE で)
+
+(VB 這入っ)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AXD た)
+
+(N 中学)
+
+(P-ROLE の)
+
+(N 寄宿舎)
+
+(P-ROLE の)
+
+(N よう)
+
+(AX だ)
+
+(P-COMP と)
+
+(VB 思っ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 222_aozora_Mori-1912;JP)
+
+(NP-SBJ *pro*)
+
+(N 壁)
+
+(P-ROLE に)
+
+(VB 沿う)
+
+(P-CONN て)
+
+(NP-SBJ *pro*)
+
+(N 棚)
+
+(P-ROLE を)
+
+(VB 吊っ)
+
+(AXD た)
+
+(N よう)
+
+(P-ROLE に)
+
+(N 寝床)
+
+(P-ROLE が)
+
+(VB 出来)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(PU 。)
+
+(ID 223_aozora_Mori-1912;JP)
+
+(D その)
+
+(N 下)
+
+(P-OPTR は)
+
+(N 押入れ)
+
+(AX に)
+
+(VB なっ)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(PU 。)
+
+(ID 224_aozora_Mori-1912;JP)
+
+(N 煖炉)
+
+(P-ROLE が)
+
+(VB ある)
+
+(P-CONN のに)
+
+(PU 、)
+
+(N 枕元)
+
+(P-ROLE に)
+
+(NP-SBJ *pro*)
+
+(N 真鍮)
+
+(P-ROLE の)
+
+(N 火鉢)
+
+(P-ROLE を)
+
+(VB 置い)
+
+(P-CONN て)
+
+(PU 、)
+
+(N 湯沸かし)
+
+(P-ROLE が)
+
+(VB 掛け)
+
+(P-CONN て)
+
+(PASS *)
+
+(VB2 ある)
+
+(PU 。)
+
+(ID 225_aozora_Mori-1912;JP)
+
+(D その)
+
+(N 傍)
+
+(P-ROLE に)
+
+(N 九谷焼)
+
+(P-ROLE の)
+
+(N 煎茶道具)
+
+(P-ROLE が)
+
+(VB 置い)
+
+(P-CONN て)
+
+(PASS *)
+
+(VB2 ある)
+
+(PU 。)
+
+(ID 226_aozora_Mori-1912;JP)
+
+(NPR 小川)
+
+(P-OPTR は)
+
+(N 吭)
+
+(P-ROLE が)
+
+(VB 乾く)
+
+(P-CONN ので)
+
+(PU 、)
+
+(N 急須)
+
+(P-ROLE に)
+
+(NUM 一)
+
+(CL ぱい)
+
+(N 湯)
+
+(P-ROLE を)
+
+(VB さし)
+
+(P-CONN て)
+
+(PU 、)
+
+(N 茶)
+
+(P-OPTR は)
+
+(VB 出)
+
+(P-CONN て)
+
+(P-OPTR も)
+
+(VB 出)
+
+(NEG なくて)
+
+(P-OPTR も)
+
+(ADJI 好い)
+
+(P-COMP と)
+
+(VB 思っ)
+
+(P-CONN て)
+
+(PU 、)
+
+(NP-OB1;{HOT_WATER} *pro*)
+
+(ADV 直ぐ)
+
+(P-ROLE に)
+
+(N 茶碗)
+
+(P-ROLE に)
+
+(VB 注い)
+
+(P-CONN で)
+
+(PU 、)
+
+(NP-OB1;{HOT_WATER} *pro*)
+
+(NUM 一)
+
+(CL 口)
+
+(P-ROLE に)
+
+(ADV ぐっと)
+
+(VB 呑ん)
+
+(AXD だ)
+
+(PU 。)
+
+(ID 227_aozora_Mori-1912;JP)
+
+(NP-SBJ *pro*)
+
+(CONJ そして)
+
+(NP-OB1 *T*)
+
+(NP-SBJ *pro*)
+
+(VB 着)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AXD た)
+
+(N ジャケツ)
+
+(P-OPTR も)
+
+(VB 脱が)
+
+(NEG ずに)
+
+(PU 、)
+
+(ADV 行きなり)
+
+(N 布団)
+
+(P-ROLE の)
+
+(N 中)
+
+(P-ROLE に)
+
+(VB 這入っ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 228_aozora_Mori-1912;JP)
+
+(NP-SBJ *pro*)
+
+(N 横)
+
+(P-ROLE に)
+
+(VB なっ)
+
+(P-CONN て)
+
+(P-CONN から)
+
+(PU 、)
+
+(N 頭)
+
+(P-ROLE の)
+
+(N 心)
+
+(P-ROLE が)
+
+(VB 痛む)
+
+(N の)
+
+(P-ROLE に)
+
+(VB 気が附い)
+
+(AXD た)
+
+(PU 。)
+
+(ID 229_aozora_Mori-1912;JP)
+
+(-LRB- 「)
+
+(INTJ ああ)
+
+(PU 、)
+
+(N 酒)
+
+(P-ROLE が)
+
+(ADJN 変)
+
+(AX に)
+
+(VB 利い)
+
+(AXD た)
+
+(PU 。)
+
+(ID 230_aozora_Mori-1912;JP)
+
+(NP-SBJ *pro*)
+
+(WPRO 誰)
+
+(AX だっ)
+
+(AXD た)
+
+(P-FINAL か)
+
+(PU 、)
+
+(ID 231_aozora_Mori-1912;JP)
+
+(NP-SBJ *pro*)
+
+(NP-SBJ *pro*)
+
+(ADJI 丸く)
+
+(VB 酔わ)
+
+(NEG ない)
+
+(P-CONN で)
+
+(ADJN 三角)
+
+(AX に)
+
+(VB 酔う)
+
+(P-COMP と)
+
+(VB 云っ)
+
+(AXD た)
+
+(P-CONN が)
+
+(PU 、)
+
+(PRO 己)
+
+(P-OPTR は)
+
+(ADJN 三角)
+
+(AX に)
+
+(VB 酔っ)
+
+(AXD た)
+
+(FN よう)
+
+(AX だ)
+
+(PU 。)
+
+(ID 232_aozora_Mori-1912;JP)
+
+(NP-SBJ *speaker*)
+
+(CONJ それに)
+
+(NPR 深淵奴)
+
+(P-ROLE が)
+
+(D あんな)
+
+(N 話)
+
+(P-ROLE を)
+
+(VB し)
+
+(AX やがる)
+
+(FN もの)
+
+(AX だ)
+
+(P-CONN から)
+
+(PU 、)
+
+(ADJN 不愉快)
+
+(AX に)
+
+(VB なっ)
+
+(P-CONN て)
+
+(VB2 しまっ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 233_aozora_Mori-1912;JP)
+
+(PRO あいつ)
+
+(N 奴)
+
+(PU 、)
+
+(ID 234_aozora_Mori-1912;JP)
+
+(NP-SBJ *pro*)
+
+(NP-SBJ *T*)
+
+(ADJN 妙)
+
+(AX な)
+
+(N 客間)
+
+(P-ROLE を)
+
+(VB 拵え)
+
+(VB2 やがっ)
+
+(AXD た)
+
+(P-FINAL なあ)
+
+(PU 。)
+
+(ID 235_aozora_Mori-1912;JP)
+
+(NP-SBJ *pro*)
+
+(NP-SBJ *exp*)
+
+(PRO あいつ)
+
+(P-ROLE の)
+
+(N 事)
+
+(AX だ)
+
+(P-CONN から)
+
+(PU 、)
+
+(N 賭場)
+
+(P-OPTR でも)
+
+(VB 始める)
+
+(FN の)
+
+(AX じゃ)
+
+(VB2 ある)
+
+(NEG まい)
+
+(P-FINAL か)
+
+(PU 。)
+
+(ID 236_aozora_Mori-1912;JP)
+
+(N 畜生)
+
+(PU 。)
+
+(ID 237_aozora_Mori-1912;JP)
+
+(NP-SBJ *pro*)
+
+(N 布団)
+
+(P-OPTR は)
+
+(ADJN 軟か)
+
+(AX で)
+
+(ADJI 好い)
+
+(P-CONN が)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(ADJN 厭)
+
+(AX な)
+
+(N 寝床)
+
+(AX だ)
+
+(P-FINAL なあ)
+
+(PU 。)
+
+(ID 238_aozora_Mori-1912;JP)
+
+(NP-SBJ *pro*)
+
+(N ※（「火＋亢」、第4水準2-79-62）)
+
+(P-ROLE の)
+
+(N よう)
+
+(AX だ)
+
+(PU 。)
+
+(ID 239_aozora_Mori-1912;JP)
+
+(NP-SBJ *pro*)
+
+(ADV そう)
+
+(AX だ)
+
+(PU 。)
+
+(ID 240_aozora_Mori-1912;JP)
+
+(NP-SBJ *pro*)
+
+(ADV 丸で)
+
+(N ※（「火＋亢」、第4水準2-79-62）)
+
+(AX だ)
+
+(PU 。)
+
+(ID 241_aozora_Mori-1912;JP)
+
+(INTJ ああ)
+
+(PU 。)
+
+(ID 242_aozora_Mori-1912;JP)
+
+(NP-SBJ *pro*)
+
+(ADJN 厭)
+
+(AX だ)
+
+(PU 。)
+
+(-RRB- 」)
+
+(ID 243_aozora_Mori-1912;JP)
+
+(NP-SBJ *pro*)
+
+(D こんな)
+
+(N 事)
+
+(P-ROLE を)
+
+(VB 思っ)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(N うち)
+
+(P-ROLE に)
+
+(PU 、)
+
+(N 酔)
+
+(P-CONN と)
+
+(N 疲れ)
+
+(P-CONN と)
+
+(P-ROLE が)
+
+(N 次第)
+
+(P-ROLE に)
+
+(N 意識)
+
+(P-ROLE を)
+
+(VB 昏まし)
+
+(P-CONN て)
+
+(VB2 しまっ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 244_aozora_Mori-1912;JP)
+
+(NPR 小川)
+
+(P-OPTR は)
+
+(ADV ふい)
+
+(P-ROLE と)
+
+(N 目)
+
+(P-ROLE を)
+
+(VB 醒まし)
+
+(AXD た)
+
+(PU 。)
+
+(ID 245_aozora_Mori-1912;JP)
+
+(N 電燈)
+
+(P-ROLE が)
+
+(VB 消え)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(PU 。)
+
+(ID 246_aozora_Mori-1912;JP)
+
+(CONJ しかし)
+
+(N 部屋)
+
+(P-ROLE の)
+
+(N 中)
+
+(P-OPTR は)
+
+(N 薄明り)
+
+(P-ROLE が)
+
+(VB さし)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(PU 。)
+
+(ID 247_aozora_Mori-1912;JP)
+
+(NP-SBJ *pro*)
+
+(NP-SBJ *pro*)
+
+(N 窓)
+
+(P-ROLE から)
+
+(VB さし)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(P-FINAL か)
+
+(P-COMP と)
+
+(VB 思っ)
+
+(P-CONN て)
+
+(PU 、)
+
+(N 窓)
+
+(P-ROLE を)
+
+(VB 見れ)
+
+(P-CONN ば)
+
+(PU 、)
+
+(N 窓)
+
+(P-OPTR は)
+
+(ADJN 真っ暗)
+
+(AX だ)
+
+(PU 。)
+
+(ID 248_aozora_Mori-1912;JP)
+
+(NP-SBJ *pro*)
+
+(-LRB- 「)
+
+(NP-SBJ *pro*)
+
+(N 瓦斯煖炉)
+
+(P-ROLE の)
+
+(N 明り)
+
+(P-FINAL かな)
+
+(-RRB- 」)
+
+(P-COMP と)
+
+(VB 思っ)
+
+(P-CONN て)
+
+(NP-OB1 *pro*)
+
+(VB 見る)
+
+(P-CONN と)
+
+(PU 、)
+
+(ADV なるほど)
+
+(PU 、)
+
+(N 礬土)
+
+(P-ROLE の)
+
+(N 管)
+
+(P-ROLE が)
+
+(NUM 五)
+
+(CL 本)
+
+(VB 並ん)
+
+(P-CONN で)
+
+(PU 、)
+
+(N 下)
+
+(P-ROLE の)
+
+(N 端)
+
+(P-OPTR だけ)
+
+(N 樺色)
+
+(P-ROLE に)
+
+(VB 燃え)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(PU 。)
+
+(ID 249_aozora_Mori-1912;JP)
+
+(CONJ しかし)
+
+(D その)
+
+(N 火)
+
+(P-ROLE の)
+
+(N 光)
+
+(P-OPTR は)
+
+(N 煖炉)
+
+(P-ROLE の)
+
+(N 前)
+
+(P-ROLE の)
+
+(NP-SBJ *T*)
+
+(N 半畳敷)
+
+(P-OPTR 程)
+
+(AX の)
+
+(N 床)
+
+(P-ROLE を)
+
+(N 黄いろ)
+
+(P-ROLE に)
+
+(VB 照し)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(P-OPTR だけ)
+
+(AX で)
+
+(VB2 ある)
+
+(PU 。)
+
+(ID 250_aozora_Mori-1912;JP)
+
+(PRO それ)
+
+(P-CONN と)
+
+(N 室内)
+
+(P-ROLE の)
+
+(NP-SBJ *T*)
+
+(ADJI 青白い)
+
+(FN よう)
+
+(AX な)
+
+(N 薄明り)
+
+(P-CONN と)
+
+(P-OPTR は)
+
+(VB 違う)
+
+(AX らしい)
+
+(PU 。)
+
+(ID 251_aozora_Mori-1912;JP)
+
+(NPR 小川)
+
+(P-OPTR は)
+
+(NP-SBJ *pro*)
+
+(ADV 兎に角)
+
+(N 電燈)
+
+(P-ROLE を)
+
+(VB 附け)
+
+(INFR よう)
+
+(P-COMP と)
+
+(VB 思っ)
+
+(P-CONN て)
+
+(PU 、)
+
+(N 体)
+
+(P-ROLE を)
+
+(Q 半分)
+
+(VB 起し)
+
+(AXD た)
+
+(PU 。)
+
+(ID 252_aozora_Mori-1912;JP)
+
+(D その)
+
+(N 時)
+
+(N 正面)
+
+(P-ROLE の)
+
+(N 壁)
+
+(P-ROLE に)
+
+(NP-SBJ *T*)
+
+(ADJN 意外)
+
+(AX な)
+
+(N 物)
+
+(P-ROLE が)
+
+(ADV はっきり)
+
+(VB 見え)
+
+(AXD た)
+
+(PU 。)
+
+(ID 253_aozora_Mori-1912;JP)
+
+(PRO それ)
+
+(P-OPTR は)
+
+(NP-SBJ *T*)
+
+(ADJI こわい)
+
+(N 物)
+
+(AX で)
+
+(P-OPTR も)
+
+(WPRO なん)
+
+(AX で)
+
+(P-OPTR も)
+
+(NEG ない)
+
+(P-CONN が)
+
+(PU 、)
+
+(PRO それ)
+
+(P-ROLE が)
+
+(VB 見える)
+
+(P-CONN と同時に)
+
+(PU 、)
+
+(NPR 小川)
+
+(P-OPTR は)
+
+(N 全身)
+
+(P-ROLE に)
+
+(N 水)
+
+(P-ROLE を)
+
+(VB 浴せ)
+
+(PASS られ)
+
+(AXD た)
+
+(N よう)
+
+(P-ROLE に)
+
+(PU 、)
+
+(ADV ぞっと)
+
+(VB し)
+
+(AXD た)
+
+(PU 。)
+
+(ID 254_aozora_Mori-1912;JP)
+
+(NP-SBJ *exp*)
+
+(NP-OB1 *pro*)
+
+(NP-SBJ *T*)
+
+(VB 見え)
+
+(AXD た)
+
+(N の)
+
+(P-OPTR は)
+
+(N 紅唐紙)
+
+(AX で)
+
+(PU 、)
+
+(PRO それ)
+
+(P-ROLE に)
+
+(-LRB- 「)
+
+(NPR 立春大吉)
+
+(-RRB- 」)
+
+(P-ROLE と)
+
+(VB 書い)
+
+(P-CONN て)
+
+(VB2 ある)
+
+(PU 。)
+
+(ID 255_aozora_Mori-1912;JP)
+
+(D その)
+
+(N 吉)
+
+(P-ROLE の)
+
+(N 字)
+
+(P-ROLE が)
+
+(Q 半分)
+
+(VB 裂け)
+
+(P-CONN て)
+
+(PU 、)
+
+(ADV ぶらり)
+
+(P-ROLE と)
+
+(VB 下がっ)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(PU 。)
+
+(ID 256_aozora_Mori-1912;JP)
+
+(NP-SBJ *pro*)
+
+(PRO それ)
+
+(P-ROLE を)
+
+(VB 見)
+
+(P-CONN て)
+
+(P-CONN から)
+
+(P-OPTR は)
+
+(PU 、)
+
+(NPR 小川)
+
+(P-OPTR は)
+
+(N 暗示)
+
+(P-ROLE を)
+
+(VB 受け)
+
+(AXD た)
+
+(N よう)
+
+(P-ROLE に)
+
+(N 目)
+
+(P-ROLE を)
+
+(D その)
+
+(N 壁)
+
+(P-ROLE から)
+
+(VB 放す)
+
+(N こと)
+
+(P-ROLE が)
+
+(VB 出来)
+
+(NEG ない)
+
+(PU 。)
+
+(ID 257_aozora_Mori-1912;JP)
+
+(-LRB- 「)
+
+(INTJ や)
+
+(PU 。)
+
+(ID 258_aozora_Mori-1912;JP)
+
+(D あの)
+
+(NP-SBJ *T*)
+
+(VB 裂け)
+
+(AX た)
+
+(N 紅唐紙)
+
+(P-ROLE の)
+
+(N 切れ)
+
+(P-ROLE の)
+
+(VB ぶら下っ)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(N 下)
+
+(P-OPTR は)
+
+(PU 、)
+
+(N 一面)
+
+(P-ROLE の)
+
+(N 粟稈)
+
+(AX だ)
+
+(PU 。)
+
+(ID 259_aozora_Mori-1912;JP)
+
+(D その)
+
+(N 上)
+
+(P-ROLE に)
+
+(NP-SBJ *T*)
+
+(ADJI 長い)
+
+(N 髪)
+
+(P-ROLE を)
+
+(VB うねら)
+
+(VB2 せ)
+
+(P-CONN て)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(N 浅葱色)
+
+(AX の)
+
+(N 着物)
+
+(P-ROLE の)
+
+(N 前)
+
+(P-ROLE が)
+
+(VB 開い)
+
+(P-CONN て)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(N 鼠色)
+
+(P-ROLE に)
+
+(VB よごれ)
+
+(AX た)
+
+(N 肌着)
+
+(P-ROLE が)
+
+(ADJN 皺くちゃ)
+
+(AX に)
+
+(VB なっ)
+
+(P-CONN て)
+
+(PU 、)
+
+(PRO あいつ)
+
+(P-ROLE が)
+
+(N 仰向け)
+
+(P-ROLE に)
+
+(VB 寝)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AX やがる)
+
+(PU 。)
+
+(ID 260_aozora_Mori-1912;JP)
+
+(N 顋)
+
+(P-OPTR だけ)
+
+(VB 見え)
+
+(P-CONN て)
+
+(N 顔)
+
+(P-OPTR は)
+
+(VB 見え)
+
+(NEG ない)
+
+(PU 。)
+
+(ID 261_aozora_Mori-1912;JP)
+
+(NP-SBJ *speaker*)
+
+(WADV どう)
+
+(P-OPTR か)
+
+(VB し)
+
+(P-CONN て)
+
+(N 顔)
+
+(P-ROLE が)
+
+(VB 見)
+
+(AX たい)
+
+(FN もの)
+
+(AX だ)
+
+(PU 。)
+
+(ID 262_aozora_Mori-1912;JP)
+
+(INTJ あ)
+
+(PU 。)
+
+(ID 263_aozora_Mori-1912;JP)
+
+(N 下脣)
+
+(P-ROLE が)
+
+(VB 見える)
+
+(PU 。)
+
+(ID 264_aozora_Mori-1912;JP)
+
+(N 右)
+
+(P-ROLE の)
+
+(N 口角)
+
+(P-ROLE から)
+
+(N 血)
+
+(P-ROLE が)
+
+(N 糸)
+
+(P-ROLE の)
+
+(N よう)
+
+(P-ROLE に)
+
+(ADV 一筋)
+
+(VB 流れ)
+
+(P-CONN て)
+
+(VB2 いる)
+
+(PU 。)
+
+(-RRB- 」)
+
+(ID 265_aozora_Mori-1912;JP)
+
+(NPR 小川)
+
+(P-OPTR は)
+
+(INTJ きゃっ)
+
+(P-COMP と)
+
+(N 声)
+
+(P-ROLE を)
+
+(VB 立て)
+
+(P-CONN て)
+
+(PU 、)
+
+(NP-OB1 *T*)
+
+(NP-SBJ *pro*)
+
+(Q 半分)
+
+(VB 起し)
+
+(AXD た)
+
+(N 体)
+
+(P-ROLE を)
+
+(N 背後)
+
+(P-ROLE へ)
+
+(VB 倒し)
+
+(AXD た)
+
+(PU 。)
+
+(ID 266_aozora_Mori-1912;JP)
+
+(NP-SBJ *pro*)
+
+(N 翌朝)
+
+(NPR 深淵)
+
+(P-ROLE の)
+
+(N 家)
+
+(P-ROLE へ)
+
+(P-OPTR は)
+
+(N 医者)
+
+(P-ROLE が)
+
+(VB 来)
+
+(P-CONN たり)
+
+(PU 、)
+
+(N 警部)
+
+(P-CONN や)
+
+(N 巡査)
+
+(P-ROLE が)
+
+(VB 来)
+
+(P-CONN たり)
+
+(VB2 し)
+
+(P-CONN て)
+
+(PU 、)
+
+(ADJN 非常)
+
+(AX に)
+
+(VB 雑※（「二点しんにょう＋鰥のつくり」、第4水準2-89-93）)
+
+(VB0 し)
+
+(AXD た)
+
+(PU 。)
+
+(ID 267_aozora_Mori-1912;JP)
+
+(NP-SBJ *exp*)
+
+(N 夕方)
+
+(AX に)
+
+(VB なっ)
+
+(P-CONN て)
+
+(PU 、)
+
+(NP *T*)
+
+(P-ROLE *に*)
+
+(NP-SBJ *pro*)
+
+(N 布団)
+
+(P-ROLE を)
+
+(VB 被せ)
+
+(AXD た)
+
+(N 吊台)
+
+(P-ROLE が)
+
+(VB 舁き)
+
+(VB2 出さ)
+
+(PASS れ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 268_aozora_Mori-1912;JP)
+
+(N 近所)
+
+(P-ROLE の)
+
+(N 人)
+
+(P-ROLE が)
+
+(NP-SBJ *pro*)
+
+(WADV どう)
+
+(VB し)
+
+(AXD た)
+
+(FN の)
+
+(AX だろ)
+
+(INFR う)
+
+(P-COMP と)
+
+(VB 囁き合っ)
+
+(AXD た)
+
+(P-CONN が)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(N 吊台)
+
+(P-ROLE の)
+
+(N 中)
+
+(P-ROLE の)
+
+(N 人)
+
+(P-OPTR は)
+
+(WPRO 誰)
+
+(AX だ)
+
+(P-FINAL か)
+
+(VB 分から)
+
+(NEG なかっ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 269_aozora_Mori-1912;JP)
+
+(NP-SBJ *T*)
+
+(-LRB- 「)
+
+(ADV いずれ)
+
+(N 号外)
+
+(P-ROLE が)
+
+(VB 出)
+
+(AX ましょ)
+
+(INFR う)
+
+(-RRB- 」)
+
+(P-OPTR など)
+
+(P-COMP と)
+
+(VB 云う)
+
+(N もの)
+
+(P-OPTR も)
+
+(VB あっ)
+
+(AXD た)
+
+(P-CONN が)
+
+(PU 、)
+
+(N 号外)
+
+(P-OPTR は)
+
+(VB 出)
+
+(NEG なかっ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 270_aozora_Mori-1912;JP)
+
+(D その)
+
+(N 次)
+
+(P-ROLE の)
+
+(N 日)
+
+(P-ROLE の)
+
+(N 新聞)
+
+(P-ROLE を)
+
+(PU 、)
+
+(N 近所)
+
+(P-ROLE の)
+
+(N 人)
+
+(P-OPTR は)
+
+(VB 待ち)
+
+(VB2 兼ね)
+
+(P-CONN て)
+
+(VB 見)
+
+(AXD た)
+
+(PU 。)
+
+(ID 271_aozora_Mori-1912;JP)
+
+(N 記事)
+
+(P-OPTR は)
+
+(NP-SBJ *T*)
+
+(ADJN 同じ)
+
+(AX *)
+
+(N 文章)
+
+(P-ROLE で)
+
+(N 諸新聞)
+
+(P-ROLE に)
+
+(VB 出)
+
+(P-CONN て)
+
+(VB2 い)
+
+(AXD た)
+
+(PU 。)
+
+(ID 272_aozora_Mori-1912;JP)
+
+(NP-SBJ *pro*)
+
+(NP-OB1 *pro*)
+
+(ADV 多分)
+
+(WD どの)
+
+(N 通信社)
+
+(P-OPTR か)
+
+(P-ROLE の)
+
+(N 手)
+
+(P-ROLE で)
+
+(VB 廻し)
+
+(AXD た)
+
+(FN の)
+
+(AX だろ)
+
+(INFR う)
+
+(PU 。)
+
+(ID 273_aozora_Mori-1912;JP)
+
+(CONJ しかし)
+
+(NP-SBJ *pro*)
+
+(NP-SBJ *T*)
+
+(N 平凡)
+
+(VB 極まる)
+
+(N 記事)
+
+(AX な)
+
+(P-CONN ので)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(NP-OB1 *pro*)
+
+(VB 読ん)
+
+(P-CONN で)
+
+(VB 失望)
+
+(VB0 し)
+
+(NEG ない)
+
+(N もの)
+
+(P-OPTR は)
+
+(ADJI なかっ)
+
+(AXD た)
+
+(PU 。)
+
+(ID 274_aozora_Mori-1912;JP)
+
+(-LRB- 「)
+
+(NP-SBJ *pro*)
+
+(NP-SBJ *T*)
+
+(NPR 小石川区)
+
+(NPR 小日向台町)
+
+(WNUM 何)
+
+(CL 丁目)
+
+(WNUM 何)
+
+(CL 番地)
+
+(P-ROLE に)
+
+(N 新築)
+
+(VB 落成)
+
+(VB0 し)
+
+(P-CONN て)
+
+(NPR 横浜市)
+
+(P-ROLE より)
+
+(VB 引き移り)
+
+(VB0 し)
+
+(N 株式業)
+
+(NPR 深淵某氏)
+
+(N 宅)
+
+(P-ROLE にて)
+
+(P-OPTR は)
+
+(PU 、)
+
+(NP-SBJ *pro*)
+
+(NUM 二)
+
+(CL 月)
+
+(NUM 十七)
+
+(CL 日)
+
+(P-ROLE の)
+
+(N 晩)
+
+(P-ROLE に)
+
+(N 新宅祝)
+
+(P-ROLE として)
+
+(PU 、)
+
+(N 友人)
+
+(P-ROLE を)
+
+(VB 招き)
+
+(PU 、)
+
+(N 宴会)
+
+(P-ROLE を)
+
+(VB 催し)
+
+(PU 、)
+
+(N 深更)
+
+(P-ROLE に)
+
+(VB 及び)
+
+(VB0 し)
+
+(N 為め)
+
+(PU 、)
+
+(NUM 一二)
+
+(CL 名)
+
+(VB 宿泊)
+
+(VB0 する)
+
+(N こと)
+
+(P-ROLE と)
+
+(VB なり)
+
+(AXD たる)
+
+(P-CONN に)
+
+(PU 、)
+
+(NP-SBJ *T*)
+
+(D 其)
+
+(NUM 一)
+
+(CL 名)
+
+(P-ROLE にて)
+
+(N 主人)
+
+(P-ROLE の)
+
+(N 親友)
+
+(AX なる)
+
+(PU 、)
+
+(NPR 芝区)
+
+(NPR 南佐久間町)
+
+(WNUM 何)
+
+(CL 丁目)
+
+(WNUM 何)
+
+(CL 番地)
+
+(N 住)
+
+(N 何新聞記者)
+
+(NPR 小川某氏)
+
+(D 其)
+
+(N 夜)
+
+(N 脳溢血症)
+
+(P-ROLE にて)
+
+(VB 死亡)
+
+(VB0 せ)
+
+(AXD り)
+
+(P-COMP と)
+
+(VB 云ふ)
+
+(PU 。)
+
+(ID 275_aozora_Mori-1912;JP)
+
+(NP-SBJ *pro*)
+
+(NP-SBJ *T*)
+
+(NP-SBJ *T*)
+
+(N 新宅祝)
+
+(AX の)
+
+(N 宴会)
+
+(P-ROLE に)
+
+(N 死亡者)
+
+(P-ROLE を)
+
+(VB 出し)
+
+(AXD たる)
+
+(P-OPTR は)
+
+(PU 、)
+
+(NPR 深淵氏)
+
+(P-ROLE の)
+
+(N 為め)
+
+(PU 、)
+
+(ADJN 気の毒)
+
+(AX なり)
+
+(AX し)
+
+(P-COMP と)
+
+(PU 、)
+
+(N 近所)
+
+(P-ROLE にて)
+
+(VB 噂し合へ)
+
+(AXD り)
+
+(PU 。)
+
+(-RRB- 」)
+
+(ID 276_aozora_Mori-1912;JP)
+
+(-LRB- （)
+
+(NPR 明治)
+
+(NUM 四十五)
+
+(CL 年)
+
+(NUM 四)
+
+(CL 月)
+
+(-RRB- ）)
+
+(ID 277_aozora_Mori-1912;JP)
+
